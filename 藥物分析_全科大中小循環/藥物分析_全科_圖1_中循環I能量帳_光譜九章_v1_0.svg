@@ -1,0 +1,285 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="3384" viewBox="0 0 1900 3384" role="img" aria-labelledby="pa1-title pa1-desc" font-family="Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, WenQuanYi Zen Hei, Droid Sans Fallback, sans-serif">
+<title id="pa1-title">藥物分析全科｜中循環Ⅰ 能量帳：光譜九章</title>
+<desc id="pa1-desc">光譜 9 章的中循環：上方能量梯子說明每一階光子碰到哪一種能階，下方 9 張卡把全科四站 M01–M04 換成各章的探針、把柄與讀數，並列出該章小循環存檔點與高頻陷阱。深灰實線為能量方向或資訊流程。示意，不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3384" fill="#f8f6ee"/>
+<text x="50.0" y="62.0" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">PHARMACEUTICAL ANALYSIS / 全科 / 中循環Ⅰ 能量帳 / v1.0</text>
+<text x="50.0" y="120.0" font-size="40" font-weight="700" fill="#24343f" xml:space="preserve">中循環Ⅰ｜能量帳：光子 × 能階（光譜 9 章）</text>
+<text x="50.0" y="165.8" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">一句主幹：光子的能量要對上分子（或原子、核）的某一層能階差，才會被吸收、放出或散射；座標上的位置＝能量，大小＝有多少分子回應。</tspan>先認是哪一</text>
+<text x="50.0" y="202.0" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve">階，才知道這台儀器在量什麼。</text>
+<rect id="pa1-b1" x="50.0" y="240.5" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="262.2" y="280.5" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa1-b1" xml:space="preserve">M01 先定問題</text>
+<polyline class="arrow" points="477.5,271.5 505.5,271.5" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="505.5,271.5 495.2,277.6 495.2,265.4" fill="#61717a"/>
+<rect id="pa1-b2" x="508.5" y="240.5" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="720.8" y="280.5" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa1-b2" xml:space="preserve">M02 光與物質作用</text>
+<polyline class="arrow" points="936.0,271.5 964.0,271.5" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="964.0,271.5 953.7,277.6 953.7,265.4" fill="#61717a"/>
+<rect id="pa1-b3" x="967.0" y="240.5" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1179.2" y="280.5" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa1-b3" xml:space="preserve">M03 讀能量座標</text>
+<polyline class="arrow" points="1394.5,271.5 1422.5,271.5" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1422.5,271.5 1412.2,277.6 1412.2,265.4" fill="#61717a"/>
+<rect id="pa1-b4" x="1425.5" y="240.5" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1637.8" y="280.5" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa1-b4" xml:space="preserve">M04 比對與校正</text>
+<text x="50.0" y="364.5" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">能量梯子：每顆光子的能量由左往右增加（波長變短）</text>
+<polyline class="arrow" points="60.0,398.5 1840.0,398.5" fill="none" stroke="#24343f" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1840.0,398.5 1826.2,406.6 1826.2,390.4" fill="#24343f"/>
+<text x="70.0" y="428.5" font-size="21" font-weight="400" fill="#61717a" xml:space="preserve">低能量（波長長）</text>
+<text x="1830.0" y="428.5" font-size="21" font-weight="400" fill="#61717a" text-anchor="end" xml:space="preserve">高能量（波長短）</text>
+<rect id="pa1-b5" x="50.0" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="66.0" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b5" xml:space="preserve">射頻＋強磁場</text>
+<text x="66.0" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve"><tspan font-weight="700" fill="#61717a">MHz</tspan></text>
+<text x="66.0" y="553.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve"><tspan font-weight="700">核自旋翻轉</tspan></text>
+<text x="66.0" y="588.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve">方法：NMR</text>
+<text x="66.0" y="623.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve">座標：δ（ppm）</text>
+<text x="66.0" y="658.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve">B₀ 越大，能階差越大；仍遠</text>
+<text x="66.0" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve">小於 kBT，所以族群差小、</text>
+<text x="66.0" y="716.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b5" xml:space="preserve">靈敏度低。</text>
+<rect id="pa1-b6" x="352.7" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="368.7" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b6" xml:space="preserve">中紅外</text>
+<text x="368.7" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve"><tspan font-weight="700" fill="#61717a">常用 4000–400 cm⁻¹</tspan></text>
+<text x="368.7" y="553.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve"><tspan font-weight="700">分子振動（偶極矩要改變）</tspan></text>
+<text x="368.7" y="588.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve">方法：IR</text>
+<text x="368.7" y="623.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve">座標：ṽ（cm⁻¹）</text>
+<text x="368.7" y="658.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve">官能基區＋指紋區；製樣決</text>
+<text x="368.7" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b6" xml:space="preserve">定能不能量。</text>
+<rect id="pa1-b7" x="655.3" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="671.3" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b7" xml:space="preserve">近紅外</text>
+<text x="671.3" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve"><tspan font-weight="700" fill="#61717a">約 0.8–2.5 µm</tspan></text>
+<text x="671.3" y="553.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve"><tspan font-weight="700">X–H 倍頻與組合帶（弱）</tspan></text>
+<text x="671.3" y="588.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve">方法：NIR</text>
+<text x="671.3" y="623.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve">座標：需校正模型</text>
+<text x="671.3" y="658.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve">弱約千倍 → 光穿得深、免製</text>
+<text x="671.3" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b7" xml:space="preserve">樣、適合快速取樣。</text>
+<rect id="pa1-b8" x="958.0" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="974.0" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b8" xml:space="preserve">紫外–可見</text>
+<text x="974.0" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve"><tspan font-weight="700" fill="#61717a">UV 約 200–400 nm；Vis </tspan></text>
+<text x="974.0" y="547.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve"><tspan font-weight="700" fill="#61717a">約 400–780 nm</tspan></text>
+<text x="974.0" y="582.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve"><tspan font-weight="700">價電子 π→π*、n→π</tspan>*</text>
+<text x="974.0" y="617.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve">方法：UV-Vis → 螢光</text>
+<text x="974.0" y="652.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve">座標：λmax（nm）</text>
+<text x="974.0" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve">吸收後若從激發態放光，就</text>
+<text x="974.0" y="716.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b8" xml:space="preserve">接到螢光章。</text>
+<rect id="pa1-b9" x="1260.7" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1276.7" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b9" xml:space="preserve">同區：原子特徵線</text>
+<text x="1276.7" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve"><tspan font-weight="700" fill="#61717a">與左格同一能量區</tspan></text>
+<text x="1276.7" y="553.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve"><tspan font-weight="700">原子外層電子（無振轉 → </tspan></text>
+<text x="1276.7" y="582.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve"><tspan font-weight="700">窄線）</tspan></text>
+<text x="1276.7" y="617.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve">方法：AAS／AES／ICP</text>
+<text x="1276.7" y="652.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve">座標：元素線 λ</text>
+<text x="1276.7" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve">差別不在能量，而在自由原</text>
+<text x="1276.7" y="716.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b9" xml:space="preserve">子沒有振轉能階；先原子化。</text>
+<rect id="pa1-b10" x="1563.3" y="446.5" width="286.7" height="296.2" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1579.3" y="485.3" font-size="24" font-weight="700" fill="#326991" data-b="pa1-b10" xml:space="preserve">X 射線</text>
+<text x="1579.3" y="518.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve"><tspan font-weight="700" fill="#61717a">約 0.01–10 nm</tspan></text>
+<text x="1579.3" y="553.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve"><tspan font-weight="700">晶格繞射</tspan></text>
+<text x="1579.3" y="588.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve">方法：XRD</text>
+<text x="1579.3" y="623.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve">座標：繞射角</text>
+<text x="1579.3" y="658.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve">固態指紋：問晶型時不要先</text>
+<text x="1579.3" y="687.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b10" xml:space="preserve">溶解。</text>
+<rect id="pa1-b11" x="50.0" y="766.7" width="888.0" height="175.8" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="68.0" y="808.5" font-size="25" font-weight="700" fill="#286c68" data-b="pa1-b11" xml:space="preserve">側枝①　散射找零：Raman</text>
+<text x="68.0" y="845.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b11" xml:space="preserve">可見或近紅外雷射照樣品，大部分光原樣彈回（Rayleigh），極少數光子少了或多了一份</text>
+<text x="68.0" y="875.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b11" xml:space="preserve">振動能量。</text>
+<text x="68.0" y="914.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b11" xml:space="preserve"><tspan font-weight="700">讀差額</tspan>：位移＝ṽ雷射−ṽ散射；看極化率改變，和 IR 看偶極矩改變互補。</text>
+<rect id="pa1-b12" x="962.0" y="766.7" width="888.0" height="175.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="980.0" y="808.5" font-size="25" font-weight="700" fill="#9e771c" data-b="pa1-b12" xml:space="preserve">側枝②　不換能量、只改光速：折光與旋光</text>
+<text x="980.0" y="845.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b12" xml:space="preserve">光沒有被吸收，只是在介質中變慢（n＝c／v），或左右圓偏光速度不同（掌性 → 偏極面旋</text>
+<text x="980.0" y="875.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b12" xml:space="preserve">轉）。</text>
+<text x="980.0" y="914.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b12" xml:space="preserve"><tspan font-weight="700">讀一個數</tspan>：n 或角度 a；都用鈉 D 線 589 nm，並固定溫度。</text>
+<text x="50.0" y="993.5" font-size="22" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">怎麼讀下面每張卡：</tspan>卡片＝該章的中循環。M01–M04 是全科四站在這一章的樣子；括號裡是原章小循環 L 編號；「小循環存檔點」照抄各章分組，答錯時直接回那一組。</text>
+<rect id="pa1-b13" x="50.0" y="1026.5" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M51.2,1084.2 L51.2,1044.5 Q51.2,1027.7 68.0,1027.7 L616.0,1027.7 Q632.8,1027.7 632.8,1044.5 L632.8,1084.2 Z" fill="#dceaf7"/>
+<text x="70.0" y="1071.2" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b13" xml:space="preserve">光譜概論｜能量梯子　<tspan font-weight="700" fill="#61717a">L×12</tspan></text>
+<text x="70.0" y="1110.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve">波長越短，每顆光子能量越大，碰得到越深的能階；先認</text>
+<text x="70.0" y="1140.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve">是哪一階，才知道儀器在量什麼。</text>
+<text x="70.0" y="1179.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">M01</tspan>　同一錠可問含量、身分、微量雜質或晶型；溶解後</text>
+<text x="70.0" y="1209.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve">不再保留晶格（L12）</text>
+<text x="70.0" y="1243.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">M02</tspan>　E＝hν＝hc／λ；光子能量對上能階差才會作用</text>
+<text x="70.0" y="1273.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve">（L1–L4）</text>
+<text x="70.0" y="1307.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">M03</tspan>　吸收、放射、散射、核訊號、離子、繞射，六種訊</text>
+<text x="70.0" y="1336.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve">號各量不同的量（L5–L10）</text>
+<text x="70.0" y="1370.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">M04</tspan>　斜率是靈敏度；偵測極限還要看雜訊（L11）</text>
+<text x="70.0" y="1410.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">母式</tspan>　ṽ（cm⁻¹）＝10⁷／λ（nm）；E ∝ 1／λ</text>
+<text x="70.0" y="1449.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　L1–3 量與單位｜L4 躍遷｜L5–10 各法訊號</text>
+<text x="70.0" y="1477.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b13" xml:space="preserve">｜L11 偵測｜L12 晶型</text>
+<text x="70.0" y="1516.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b13" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　ppb 是比例、pg 是質量，不能只看指數互換；0.5 nm </text>
+<text x="70.0" y="1544.7" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b13" xml:space="preserve">屬 X 射線，用 XRD 比晶格。</text>
+<rect id="pa1-b14" x="658.0" y="1026.5" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M659.2,1084.2 L659.2,1044.5 Q659.2,1027.7 676.0,1027.7 L1224.0,1027.7 Q1240.8,1027.7 1240.8,1044.5 L1240.8,1084.2 Z" fill="#dceaf7"/>
+<text x="678.0" y="1071.2" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b14" xml:space="preserve">UV-Vis｜乘法變加法　<tspan font-weight="700" fill="#61717a">L×20</tspan></text>
+<text x="678.0" y="1110.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">每層吸收使透光率相乘變小；取 −log 後變成可相加的 A，</text>
+<text x="678.0" y="1140.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">才會和濃度成正比。</text>
+<text x="678.0" y="1179.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">M01</tspan>　匹配空白、溶媒、pH 與稀釋先定好（L01、L11、</text>
+<text x="678.0" y="1209.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">L14）</text>
+<text x="678.0" y="1243.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">M02</tspan>　價電子躍遷 π→π*、n→π*；共軛縮小能隙（L05–</text>
+<text x="678.0" y="1273.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">L09）</text>
+<text x="678.0" y="1307.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">M03</tspan>　λmax 是位置，A 是大小；差異、微分光譜與 DAD </text>
+<text x="678.0" y="1336.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">另讀（L15、L17、L18）</text>
+<text x="678.0" y="1370.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">M04</tspan>　Beer 定律只在有效條件下成立；雜散光與光變少的</text>
+<text x="678.0" y="1400.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve">誤差方向相反（L03、L20）</text>
+<text x="678.0" y="1440.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">母式</tspan>　A＝−log T＝εbc＝A(1%,1cm)·b·c</text>
+<text x="678.0" y="1479.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 光到得了 L13・14・16｜B 如何吸光 L05</text>
+<text x="678.0" y="1507.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b14" xml:space="preserve">–07｜C 結構與 pH 改譜 L08–11｜D 讀數→濃度 L01–04｜</text>
+<text x="678.0" y="1536.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b14" xml:space="preserve">E 選擇性與數學 L12・17・18｜F 資料與品質 L15・19・20</text>
+<text x="678.0" y="1574.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b14" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　T＝1% 時 A＝2；1−T 不一定全是藥物吸收，散射也會</text>
+<text x="678.0" y="1602.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b14" xml:space="preserve">使光變少。</text>
+<rect id="pa1-b15" x="1266.0" y="1026.5" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M1267.2,1084.2 L1267.2,1044.5 Q1267.2,1027.7 1284.0,1027.7 L1832.0,1027.7 Q1848.8,1027.7 1848.8,1044.5 L1848.8,1084.2 Z" fill="#dceaf7"/>
+<text x="1286.0" y="1071.2" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b15" xml:space="preserve">螢光｜激發態水庫・多出口　<tspan font-weight="700" fill="#61717a">L×20</tspan></text>
+<text x="1286.0" y="1110.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">吸收的光先存成激發態，再從螢光、非輻射、系間跨越等</text>
+<text x="1286.0" y="1140.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">出口離開；走螢光出口的比例就是 Φ。</text>
+<text x="1286.0" y="1179.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">M01</tspan>　三條路：天然螢光 F、衍生化產物 F、選擇性熄滅</text>
+<text x="1286.0" y="1209.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">差值 ΔF（L01–L03）</text>
+<text x="1286.0" y="1243.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">M02</tspan>　Φ＝kf／Σk；剛性↑、溫度↓、去氧 → Φ↑；重原</text>
+<text x="1286.0" y="1273.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">子、溶氧會淬熄（L04–L10）</text>
+<text x="1286.0" y="1307.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">M03</tspan>　選 λex、收 λem（常 90° 側收）；扣散射與空白</text>
+<text x="1286.0" y="1336.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">（L11–L14）</text>
+<text x="1286.0" y="1370.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">M04</tspan>　低吸收時 F 才正比 c；高濃度內濾使 F 偏離甚至下</text>
+<text x="1286.0" y="1400.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve">降（L14、L20）</text>
+<text x="1286.0" y="1440.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">母式</tspan>　F≈2.303·K·I₀·Φ·ε·b·c（低吸收）</text>
+<text x="1286.0" y="1479.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 檢品與路徑 L01–03｜B 能量與分流 L04–</text>
+<text x="1286.0" y="1507.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b15" xml:space="preserve">06｜C 結構與條件 L07–10｜D 光路與訊號 L11–14｜E 指定</text>
+<text x="1286.0" y="1536.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b15" xml:space="preserve">反應 L15–18｜F 結果與品質 L19–20</text>
+<text x="1286.0" y="1574.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b15" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　λem 比 λex 長（Stokes）；檢品可比 UV 稀約 10–</text>
+<text x="1286.0" y="1602.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b15" xml:space="preserve">100 倍；螢光與磷光分流不同（L06）。</text>
+<rect id="pa1-b16" x="50.0" y="1658.3" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M51.2,1716.1 L51.2,1676.3 Q51.2,1659.5 68.0,1659.5 L616.0,1659.5 Q632.8,1659.5 632.8,1676.3 L632.8,1716.1 Z" fill="#dceaf7"/>
+<text x="70.0" y="1703.0" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b16" xml:space="preserve">IR｜彈簧琴　<tspan font-weight="700" fill="#61717a">L×14</tspan></text>
+<text x="70.0" y="1742.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">化學鍵像彈簧：越硬（k↑）、越輕（μ↓）振動越快、波</text>
+<text x="70.0" y="1771.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">數越高；振動要改變偶極矩才會吸收。</text>
+<text x="70.0" y="1811.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">M01</tspan>　官能基、身分、晶形或含量？選製樣：KBr、糊漿、</text>
+<text x="70.0" y="1841.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">溶液、薄膜、氣槽、ATR、DRIFT（L08–L11）</text>
+<text x="70.0" y="1875.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">M02</tspan>　ṽ ∝ √(k／μ)；偶極矩改變才 IR 活性（L01–</text>
+<text x="70.0" y="1905.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">L04）</text>
+<text x="70.0" y="1938.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">M03</tspan>　峰位 cm⁻¹；%T 圖吸收向下（A 圖向上）；氫鍵 O–</text>
+<text x="70.0" y="1968.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">H 帶寬（L05–L07）</text>
+<text x="70.0" y="2002.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">M04</tspan>　含指紋區的完整比對；固態差異先查晶形與製樣</text>
+<text x="70.0" y="2032.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve">（L08、L10、L14）</text>
+<text x="70.0" y="2072.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">母式</tspan>　ṽ＝(1／2πc)·√(k／μ)</text>
+<text x="70.0" y="2111.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　吸收規則 L01–04｜讀譜 L05–08｜製樣與晶</text>
+<text x="70.0" y="2139.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b16" xml:space="preserve">形 L09–11｜FT、NIR 與品質 L12–14</text>
+<text x="70.0" y="2177.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b16" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　C–D 比 C–H 低波數（μ↑）；共軛羰基低移、</text>
+<text x="70.0" y="2206.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b16" xml:space="preserve">β-lactam 小環高移；NIR 弱約千倍，說的是強度不是頻率。</text>
+<rect id="pa1-b17" x="658.0" y="1658.3" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M659.2,1716.1 L659.2,1676.3 Q659.2,1659.5 676.0,1659.5 L1224.0,1659.5 Q1240.8,1659.5 1240.8,1676.3 L1240.8,1716.1 Z" fill="#dceaf7"/>
+<text x="678.0" y="1703.0" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b17" xml:space="preserve">Raman｜能量找零　<tspan font-weight="700" fill="#61717a">L×10</tspan></text>
+<text x="678.0" y="1742.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve">雷射光子撞到分子後，散射光子少了（Stokes）或多了</text>
+<text x="678.0" y="1771.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve">（anti-Stokes）一份振動能量；量的是這個差額。</text>
+<text x="678.0" y="1811.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">M01</tspan>　固體、溶液、製劑甚至包裝內都可量；保留固態才</text>
+<text x="678.0" y="1841.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve">能問晶型（L7、L8）</text>
+<text x="678.0" y="1875.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">M02</tspan>　振動要改變極化率，與 IR 互補；虛擬態不是螢光</text>
+<text x="678.0" y="1905.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve">的真實激發態（L2、L3）</text>
+<text x="678.0" y="1938.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">M03</tspan>　位移＝ṽ雷射−ṽ散射；先濾掉 Rayleigh；色散式或</text>
+<text x="678.0" y="1968.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve">FT（L4、L5）</text>
+<text x="678.0" y="2002.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">M04</tspan>　指紋比對；定量要代表性取樣＋校正（L9）</text>
+<text x="678.0" y="2042.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">母式</tspan>　Δṽ＝ṽ₀−ṽs；換雷射，位移不變、絕對波長改變</text>
+<text x="678.0" y="2081.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　能量交換 L1・2・10｜選擇律 L3｜讀數與背</text>
+<text x="678.0" y="2109.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b17" xml:space="preserve">景 L4–6｜取樣與晶型 L7・8｜定量 L9</text>
+<text x="678.0" y="2148.1" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b17" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　長波雷射可降低螢光背景，但 Raman 訊號也變弱</text>
+<text x="678.0" y="2176.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b17" xml:space="preserve">（L6）；anti-Stokes 弱，因為已在激發振動態的分子少</text>
+<text x="678.0" y="2204.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b17" xml:space="preserve">（L10）。</text>
+<rect id="pa1-b18" x="1266.0" y="1658.3" width="584.0" height="605.8" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M1267.2,1716.1 L1267.2,1676.3 Q1267.2,1659.5 1284.0,1659.5 L1832.0,1659.5 Q1848.8,1659.5 1848.8,1676.3 L1848.8,1716.1 Z" fill="#dceaf7"/>
+<text x="1286.0" y="1703.0" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b18" xml:space="preserve">NMR｜磁場陀螺合唱　<tspan font-weight="700" fill="#61717a">L×24</tspan></text>
+<text x="1286.0" y="1742.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">核在 B₀ 中分成自旋能階，RF 對上拉莫爾頻率才共振；四</text>
+<text x="1286.0" y="1771.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">個讀數各回答一件事。</text>
+<text x="1286.0" y="1811.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">M01</tspan>　選核種（I＝½：¹H、¹³C、¹⁹F、³¹P）、氘代溶</text>
+<text x="1286.0" y="1841.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">媒、目的（L01、L02、L15）</text>
+<text x="1286.0" y="1875.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">M02</tspan>　ν＝γB₀／2π；族群差小使靈敏度低；脈衝 → FID </text>
+<text x="1286.0" y="1905.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">→ FT（L03、L04、L14）</text>
+<text x="1286.0" y="1938.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">M03</tspan>　δ 看環境、積分看 H 數、n＋1 裂分看鄰居、J</text>
+<text x="1286.0" y="1968.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">（Hz）看連接（L05–L12）</text>
+<text x="1286.0" y="2002.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">M04</tspan>　四讀數互相約束；qNMR 面積接回物質量；DOSY </text>
+<text x="1286.0" y="2032.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve">依擴散（L21–L24）</text>
+<text x="1286.0" y="2072.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">母式</tspan>　δ＝(ν−ν_ref)／ν_ref×10⁶（ppm）</text>
+<text x="1286.0" y="2111.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 核自旋 L01–04｜B 峰數與位置 L05–08｜</text>
+<text x="1286.0" y="2139.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b18" xml:space="preserve">C 裂分與積分 L09–12｜D 複雜譜與儀器 L13–16｜E 碳譜與</text>
+<text x="1286.0" y="2167.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b18" xml:space="preserve">相關 L17–20｜F 應用與品質 L21–24</text>
+<text x="1286.0" y="2206.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b18" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　換高場時 δ 與 J 不變、Δν（Hz）變大，Δν／J 變大</text>
+<text x="1286.0" y="2234.7" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b18" xml:space="preserve">更接近一級譜（L13）；D₂O 使 OH、NH 峰消失（L15）。</text>
+<rect id="pa1-b19" x="50.0" y="2290.1" width="584.0" height="604.4" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M51.2,2347.9 L51.2,2308.1 Q51.2,2291.3 68.0,2291.3 L616.0,2291.3 Q632.8,2291.3 632.8,2308.1 L632.8,2347.9 Z" fill="#dceaf7"/>
+<text x="70.0" y="2334.8" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b19" xml:space="preserve">原子光譜｜元素音叉　<tspan font-weight="700" fill="#61717a">L×16</tspan></text>
+<text x="70.0" y="2373.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve">自由原子沒有振動與轉動能階，只剩電子躍遷，所以譜線</text>
+<text x="70.0" y="2403.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve">很窄；先原子化，再量被吸掉的燈光或原子自己放的光。</text>
+<text x="70.0" y="2443.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">M01</tspan>　元素、基質、空白與前處理（L08、L14）</text>
+<text x="70.0" y="2477.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">M02</tspan>　原子化；AAS 吸收中空陰極燈的特徵線；AES、</text>
+<text x="70.0" y="2507.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve">ICP 量激發後的放光（L02–L05、L12）</text>
+<text x="70.0" y="2540.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">M03</tspan>　分光＋斬光扣背景，得淨讀數 A 或發射強度（L06、</text>
+<text x="70.0" y="2570.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve">L11）</text>
+<text x="70.0" y="2604.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">M04</tspan>　校正曲線或標準添加；分清四種干擾再修正（L13、</text>
+<text x="70.0" y="2634.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve">L16）</text>
+<text x="70.0" y="2674.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">母式</tspan>　A＝log(I₀／I) ∝ c（校正範圍內）</text>
+<text x="70.0" y="2713.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　原子化與激發 L01–05・07｜四干擾：L08 </text>
+<text x="70.0" y="2741.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b19" xml:space="preserve">物理・L09 化學・L10 離子化・L11 光譜｜校正與選法 L12</text>
+<text x="70.0" y="2769.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b19" xml:space="preserve">–16</text>
+<text x="70.0" y="2808.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b19" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　磷酸根化學干擾加 LaCl₃ 釋放劑；Na D 線約 589 nm</text>
+<text x="70.0" y="2836.7" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b19" xml:space="preserve">（3p→3s）；題本 Na／K 輸注液偏 AES，Pb、Ni、Zn、</text>
+<text x="70.0" y="2865.1" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b19" xml:space="preserve">Ca／Mg 偏 AAS。</text>
+<rect id="pa1-b20" x="658.0" y="2290.1" width="584.0" height="604.4" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M659.2,2347.9 L659.2,2308.1 Q659.2,2291.3 676.0,2291.3 L1224.0,2291.3 Q1240.8,2291.3 1240.8,2308.1 L1240.8,2347.9 Z" fill="#dceaf7"/>
+<text x="678.0" y="2334.8" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b20" xml:space="preserve">折光｜光的減速帶　<tspan font-weight="700" fill="#61717a">L×9</tspan></text>
+<text x="678.0" y="2373.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve">光進入較密介質會變慢並偏折，n＝c／v；只讀到一個數，</text>
+<text x="678.0" y="2403.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve">所以條件要固定。</text>
+<text x="678.0" y="2443.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">M01</tspan>　鑑別、純度或估濃度；液體薄膜要完全接觸（L6）</text>
+<text x="678.0" y="2477.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">M02</tspan>　Snell：n₁sinθ₁＝n₂sinθ₂；臨界角形成明暗邊</text>
+<text x="678.0" y="2507.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve">界（L1–L3）</text>
+<text x="678.0" y="2540.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">M03</tspan>　Abbe 讀邊界得 n（20 °C、589 nm）；RI 偵測器</text>
+<text x="678.0" y="2570.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve">讀流出液與移動相的差 Δn（L3、L9）</text>
+<text x="678.0" y="2604.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">M04</tspan>　固定 T 與 λ；用水值校正；單一 n 不能指認雜質</text>
+<text x="678.0" y="2634.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve">（L4、L5、L7、L8）</text>
+<text x="678.0" y="2674.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">母式</tspan>　n＝c／v；sinθc＝n₂／n₁</text>
+<text x="678.0" y="2713.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　光學 L1–3｜條件 L4–6｜校正與判讀 L7–8</text>
+<text x="678.0" y="2741.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b20" xml:space="preserve">｜偵測器 L9</text>
+<text x="678.0" y="2779.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b20" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　溫度改變 n 可能被誤當成組成改變（L4）；RI 偵測</text>
+<text x="678.0" y="2808.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b20" xml:space="preserve">器怕梯度沖提，基線會隨組成漂移（L9）。</text>
+<rect id="pa1-b21" x="1266.0" y="2290.1" width="584.0" height="604.4" rx="18" fill="#ffffff" stroke="#326991" stroke-width="2.5"/>
+<path d="M1267.2,2347.9 L1267.2,2308.1 Q1267.2,2291.3 1284.0,2291.3 L1832.0,2291.3 Q1848.8,2291.3 1848.8,2308.1 L1848.8,2347.9 Z" fill="#dceaf7"/>
+<text x="1286.0" y="2334.8" font-size="26" font-weight="700" fill="#326991" data-b="pa1-b21" xml:space="preserve">旋光｜左右手速度差　<tspan font-weight="700" fill="#61717a">L×10</tspan></text>
+<text x="1286.0" y="2373.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve">掌性分子對左、右圓偏光的折射率不同，平面偏極光因此</text>
+<text x="1286.0" y="2403.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve">被轉一個角度 a；除掉 l、c 才得到物質常數 [α]。</text>
+<text x="1286.0" y="2443.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">M01</tspan>　分析物必須具掌性；避免外消旋與氣泡（L4）</text>
+<text x="1286.0" y="2477.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">M02</tspan>　鈉 D 線 589 nm → 起偏鏡 → 半影稜鏡 → 樣品管 l</text>
+<text x="1286.0" y="2507.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve">→ 檢偏鏡（L1–L3）</text>
+<text x="1286.0" y="2540.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">M03</tspan>　讀 a（°）與方向（＋／−）；a ∝ l×c（L5）</text>
+<text x="1286.0" y="2574.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">M04</tspan>　[α]＝100a／(l·c)；比對規格、求含量或鏡像比例</text>
+<text x="1286.0" y="2604.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve">（L6、L9）</text>
+<text x="1286.0" y="2644.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">母式</tspan>　[α]＝100a／(l·c)（l：dm；c：g／100 mL）</text>
+<text x="1286.0" y="2683.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　讀角度 L1–2｜為什麼會轉 L3–4｜歸一化 </text>
+<text x="1286.0" y="2711.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa1-b21" xml:space="preserve">L5–7｜判讀 L8–10</text>
+<text x="1286.0" y="2750.1" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b21" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　(＋)／(−) 和 D／L、R／S 沒有必然對應（L8）；[α] </text>
+<text x="1286.0" y="2778.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa1-b21" xml:space="preserve">偏低可能是混入鏡像體或不旋光雜質，處置不同。</text>
+<text x="50.0" y="2948.5" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">家族內對照：同一個能量帳，問法換了</text>
+<rect id="pa1-b22" x="50.0" y="2970.5" width="435.0" height="290.2" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="66.0" y="3009.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa1-b22" xml:space="preserve">吸收、放射、散射</text>
+<text x="66.0" y="3042.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve"><tspan font-weight="700">吸收</tspan>（UV、IR、AAS）：量光少了多少，I </text>
+<text x="66.0" y="3071.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve">對 I₀。</text>
+<text x="66.0" y="3106.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve"><tspan font-weight="700">放射</tspan>（螢光、AES）：量樣品自己放出的光；</text>
+<text x="66.0" y="3135.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve">螢光是在暗背景上量，所以常比 UV 靈敏。</text>
+<text x="66.0" y="3170.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve"><tspan font-weight="700">散射</tspan>（Raman）：量散射光的能量差，訊號極</text>
+<text x="66.0" y="3199.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b22" xml:space="preserve">弱，要先濾 Rayleigh。</text>
+<rect id="pa1-b23" x="505.0" y="2970.5" width="435.0" height="290.2" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="521.0" y="3009.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa1-b23" xml:space="preserve">IR 與 Raman 互補</text>
+<text x="521.0" y="3042.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b23" xml:space="preserve">IR：振動要改變<tspan font-weight="700">偶極矩</tspan>；Raman：振動要改</text>
+<text x="521.0" y="3071.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b23" xml:space="preserve">變<tspan font-weight="700">極化率</tspan>。</text>
+<text x="521.0" y="3106.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b23" xml:space="preserve">水的 IR 吸收強、Raman 弱 → 含水樣品常考</text>
+<text x="521.0" y="3135.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b23" xml:space="preserve">慮 Raman。</text>
+<text x="521.0" y="3170.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b23" xml:space="preserve">兩者都可直接看固體 → 晶型題常見。</text>
+<rect id="pa1-b24" x="960.0" y="2970.5" width="435.0" height="290.2" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="976.0" y="3009.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa1-b24" xml:space="preserve">線與帶</text>
+<text x="976.0" y="3042.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b24" xml:space="preserve">分子有電子＋振動＋轉動能階疊加 → 吸收<tspan font-weight="700">帶</tspan></text>
+<text x="976.0" y="3071.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b24" xml:space="preserve">較寬。</text>
+<text x="976.0" y="3106.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b24" xml:space="preserve">自由原子只剩電子躍遷 → <tspan font-weight="700">窄線</tspan>；但不同元素</text>
+<text x="976.0" y="3135.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b24" xml:space="preserve">的線仍可能靠近（原子 L01）。</text>
+<rect id="pa1-b25" x="1415.0" y="2970.5" width="435.0" height="290.2" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1431.0" y="3009.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa1-b25" xml:space="preserve">換儀器條件，哪個讀數不變</text>
+<text x="1431.0" y="3042.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">NMR 換高場：δ（ppm）不變，Δν（Hz）</text>
+<text x="1431.0" y="3071.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">變。</text>
+<text x="1431.0" y="3106.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">Raman 換雷射：位移不變，散射光絕對波長</text>
+<text x="1431.0" y="3135.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">變。</text>
+<text x="1431.0" y="3170.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">旋光換管長或濃度：a 變，[α] 不變。</text>
+<text x="1431.0" y="3205.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve"><tspan font-weight="700">好讀數＝已經除掉儀器條件的量</tspan>（見圖4 歸</text>
+<text x="1431.0" y="3234.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa1-b25" xml:space="preserve">一化）。</text>
+<text x="50.0" y="3309.7" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">回查：讀不通時先回該卡的「小循環存檔點」，再回原章 L；共用原理（Beer、校正、背景）見圖4，偵測器怎樣把本家族接到分離章見圖3。</text>
+<text x="50.0" y="3341.7" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">數值與配對照各章講義的固定輸入；波段邊界依教材慣例（UV08、IR F02），不是硬牆。來源：光譜 9 章建構講義 v2.0。示意，不按比例。</text>
+</svg>

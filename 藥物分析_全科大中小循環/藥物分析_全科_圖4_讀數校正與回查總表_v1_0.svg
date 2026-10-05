@@ -1,0 +1,385 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="3218" viewBox="0 0 1900 3218" role="img" aria-labelledby="pa4-title pa4-desc" font-family="Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, WenQuanYi Zen Hei, Droid Sans Fallback, sans-serif">
+<title id="pa4-title">藥物分析全科｜讀數、校正與回查總表</title>
+<desc id="pa4-desc">全科 M03 與 M04 的總表：三讀數加上可跨儀器比較的歸一化量、六種定量方法、讀數污染型對照（取自使用者藥理型別庫 ⑥–⑪），以及症狀到回查站與原章 L 的路由。示意。</desc>
+<rect x="0" y="0" width="1900" height="3218" fill="#f8f6ee"/>
+<text x="50.0" y="62.0" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">PHARMACEUTICAL ANALYSIS / 全科 / M03–M04 總表 / v1.0</text>
+<text x="50.0" y="120.0" font-size="40" font-weight="700" fill="#24343f" xml:space="preserve">讀數、校正與回查總表：17 章共用的後半段</text>
+<text x="50.0" y="165.8" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">一句主幹：先問這個讀數是位置、大小還是形狀；再把儀器條件除掉，變成可比較的量；最後用標準把斜率量出來。</tspan>答錯時，大多斷在這一段，而不是原理。</text>
+<rect id="pa4-b1" x="50.0" y="204.2" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="262.2" y="244.2" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa4-b1" xml:space="preserve">M01 先定問題</text>
+<polyline class="arrow" points="477.5,235.2 505.5,235.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="505.5,235.2 495.2,241.4 495.2,229.1" fill="#61717a"/>
+<rect id="pa4-b2" x="508.5" y="204.2" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="720.8" y="244.2" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa4-b2" xml:space="preserve">M02 準備與測量</text>
+<polyline class="arrow" points="936.0,235.2 964.0,235.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="964.0,235.2 953.7,241.4 953.7,229.1" fill="#61717a"/>
+<rect id="pa4-b3" x="967.0" y="204.2" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1179.2" y="244.2" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa4-b3" xml:space="preserve">M03 讀數與歸一化</text>
+<polyline class="arrow" points="1394.5,235.2 1422.5,235.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1422.5,235.2 1412.2,241.4 1412.2,229.1" fill="#61717a"/>
+<rect id="pa4-b4" x="1425.5" y="204.2" width="424.5" height="62.0" rx="14" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1637.8" y="244.2" font-size="23" font-weight="700" fill="#24343f" text-anchor="middle" data-b="pa4-b4" xml:space="preserve">M04 校正與回查</text>
+<text x="50.0" y="328.2" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">A｜三讀數＋歸一化：每一章的座標長什麼樣</text>
+<text x="50.0" y="365.1" font-size="22" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">歸一化</tspan>＝把儀器條件除掉，剩下的才是物質本身的指紋：δ 除掉磁場、Raman 位移除掉雷射、[α] 除掉管長與濃度、k′ 除掉 t₀、Rf 除掉展開距離。題目問「哪個量換儀器也不變」，就</text>
+<text x="50.0" y="397.0" font-size="22" font-weight="400" fill="#24343f" xml:space="preserve">是在問這一欄。</text>
+<rect id="pa4-b5" x="50.0" y="422.1" width="230.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="454.9" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b5" xml:space="preserve">方法</text>
+<rect id="pa4-b6" x="280.0" y="422.1" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="454.9" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b6" xml:space="preserve">位置 → 身分線索</text>
+<rect id="pa4-b7" x="610.0" y="422.1" width="390.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="454.9" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b7" xml:space="preserve">大小 → 含量</text>
+<rect id="pa4-b8" x="1000.0" y="422.1" width="420.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="454.9" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b8" xml:space="preserve">形狀 → 環境／品質</text>
+<rect id="pa4-b9" x="1420.0" y="422.1" width="430.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="454.9" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b9" xml:space="preserve">可跨儀器比較的量</text>
+<rect id="pa4-b10" x="50.0" y="476.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="507.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b10" xml:space="preserve"><tspan font-weight="700">UV-Vis</tspan></text>
+<rect id="pa4-b11" x="280.0" y="476.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="507.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b11" xml:space="preserve">λmax（nm）</text>
+<rect id="pa4-b12" x="610.0" y="476.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="507.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b12" xml:space="preserve">A＝εbc</text>
+<rect id="pa4-b13" x="1000.0" y="476.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="507.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b13" xml:space="preserve">紅移／藍移、增色／減色</text>
+<rect id="pa4-b14" x="1420.0" y="476.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="507.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b14" xml:space="preserve">ε、A(1%,1cm)：除掉光徑與濃度</text>
+<rect id="pa4-b15" x="50.0" y="528.9" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="559.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b15" xml:space="preserve"><tspan font-weight="700">螢光</tspan></text>
+<rect id="pa4-b16" x="280.0" y="528.9" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="559.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b16" xml:space="preserve">λex、λem（nm）</text>
+<rect id="pa4-b17" x="610.0" y="528.9" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="559.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b17" xml:space="preserve">F（a.u.，含儀器因子 K、I₀）</text>
+<rect id="pa4-b18" x="1000.0" y="528.9" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="559.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b18" xml:space="preserve">Stokes 位移、激發與發射近鏡像</text>
+<rect id="pa4-b19" x="1420.0" y="528.9" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="559.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b19" xml:space="preserve">Φ：螢光出口所佔比例</text>
+<rect id="pa4-b20" x="50.0" y="580.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="611.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b20" xml:space="preserve"><tspan font-weight="700">IR</tspan></text>
+<rect id="pa4-b21" x="280.0" y="580.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="611.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b21" xml:space="preserve">ṽ（cm⁻¹）</text>
+<rect id="pa4-b22" x="610.0" y="580.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="611.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b22" xml:space="preserve">%T 或 A（隨製樣、接觸改變）</text>
+<rect id="pa4-b23" x="1000.0" y="580.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="611.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b23" xml:space="preserve">帶寬：氫鍵 O–H 寬</text>
+<rect id="pa4-b24" x="1420.0" y="580.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="611.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b24" xml:space="preserve">峰位本身就是能量座標</text>
+<rect id="pa4-b25" x="50.0" y="632.9" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="663.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b25" xml:space="preserve"><tspan font-weight="700">Raman</tspan></text>
+<rect id="pa4-b26" x="280.0" y="632.9" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="663.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b26" xml:space="preserve">位移（cm⁻¹）</text>
+<rect id="pa4-b27" x="610.0" y="632.9" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="663.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b27" xml:space="preserve">強度（需校正）</text>
+<rect id="pa4-b28" x="1000.0" y="632.9" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="663.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b28" xml:space="preserve">Stokes 強於 anti-Stokes</text>
+<rect id="pa4-b29" x="1420.0" y="632.9" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="663.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b29" xml:space="preserve">位移：除掉雷射波長</text>
+<rect id="pa4-b30" x="50.0" y="684.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="715.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b30" xml:space="preserve"><tspan font-weight="700">NMR</tspan></text>
+<rect id="pa4-b31" x="280.0" y="684.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="715.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b31" xml:space="preserve">δ（ppm）</text>
+<rect id="pa4-b32" x="610.0" y="684.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="715.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b32" xml:space="preserve">積分＝各組 H 數比</text>
+<rect id="pa4-b33" x="1000.0" y="684.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="715.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b33" xml:space="preserve">n＋1 裂分、J（Hz）</text>
+<rect id="pa4-b34" x="1420.0" y="684.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="715.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b34" xml:space="preserve">δ 除掉磁場；J 不隨場變</text>
+<rect id="pa4-b35" x="50.0" y="736.9" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="767.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b35" xml:space="preserve"><tspan font-weight="700">原子光譜</tspan></text>
+<rect id="pa4-b36" x="280.0" y="736.9" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="767.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b36" xml:space="preserve">元素特徵線 λ</text>
+<rect id="pa4-b37" x="610.0" y="736.9" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="767.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b37" xml:space="preserve">A 或發射強度</text>
+<rect id="pa4-b38" x="1000.0" y="736.9" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="767.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b38" xml:space="preserve">線寬、背景</text>
+<rect id="pa4-b39" x="1420.0" y="736.9" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="767.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b39" xml:space="preserve">必須靠校正曲線或標準添加</text>
+<rect id="pa4-b40" x="50.0" y="788.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="819.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b40" xml:space="preserve"><tspan font-weight="700">折光</tspan></text>
+<rect id="pa4-b41" x="280.0" y="788.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="819.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b41" xml:space="preserve">—（只有一個數）</text>
+<rect id="pa4-b42" x="610.0" y="788.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="819.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b42" xml:space="preserve">n</text>
+<rect id="pa4-b43" x="1000.0" y="788.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="819.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b43" xml:space="preserve">—</text>
+<rect id="pa4-b44" x="1420.0" y="788.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="819.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b44" xml:space="preserve">n（20 °C、589 nm）：固定溫度與波長</text>
+<rect id="pa4-b45" x="50.0" y="840.9" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="871.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b45" xml:space="preserve"><tspan font-weight="700">旋光</tspan></text>
+<rect id="pa4-b46" x="280.0" y="840.9" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="871.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b46" xml:space="preserve">方向（＋／−）</text>
+<rect id="pa4-b47" x="610.0" y="840.9" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="871.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b47" xml:space="preserve">a（°）</text>
+<rect id="pa4-b48" x="1000.0" y="840.9" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="871.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b48" xml:space="preserve">—</text>
+<rect id="pa4-b49" x="1420.0" y="840.9" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="871.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b49" xml:space="preserve">[α]＝100a／(l·c)：除掉 l 與 c</text>
+<rect id="pa4-b50" x="50.0" y="892.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="923.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b50" xml:space="preserve"><tspan font-weight="700">萃取</tspan></text>
+<rect id="pa4-b51" x="280.0" y="892.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="923.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b51" xml:space="preserve">在哪一相</text>
+<rect id="pa4-b52" x="610.0" y="892.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="923.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b52" xml:space="preserve">m＝c×V；回收 R</text>
+<rect id="pa4-b53" x="1000.0" y="892.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="923.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b53" xml:space="preserve">乳化、分層不清</text>
+<rect id="pa4-b54" x="1420.0" y="892.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="923.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b54" xml:space="preserve">D 是濃度比，不是量比</text>
+<rect id="pa4-b55" x="50.0" y="944.9" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="975.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b55" xml:space="preserve"><tspan font-weight="700">TLC</tspan></text>
+<rect id="pa4-b56" x="280.0" y="944.9" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="975.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b56" xml:space="preserve">Rf</text>
+<rect id="pa4-b57" x="610.0" y="944.9" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="975.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b57" xml:space="preserve">斑點大小、深淺（需校正）</text>
+<rect id="pa4-b58" x="1000.0" y="944.9" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="975.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b58" xml:space="preserve">拖尾、前緣歪</text>
+<rect id="pa4-b59" x="1420.0" y="944.9" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="975.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b59" xml:space="preserve">Rf：除掉展開距離</text>
+<rect id="pa4-b60" x="50.0" y="996.9" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1027.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b60" xml:space="preserve"><tspan font-weight="700">HPLC／GC／SFC</tspan></text>
+<rect id="pa4-b61" x="280.0" y="996.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1027.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b61" xml:space="preserve">tR；GC 另有保留指數 I</text>
+<rect id="pa4-b62" x="610.0" y="996.9" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1027.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b62" xml:space="preserve">峰面積</text>
+<rect id="pa4-b63" x="1000.0" y="996.9" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="1027.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b63" xml:space="preserve">峰寬 W、N、拖尾因子</text>
+<rect id="pa4-b64" x="1420.0" y="996.9" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="1027.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b64" xml:space="preserve">k′ 除掉 t₀；I 以正烷烴為刻度</text>
+<rect id="pa4-b65" x="50.0" y="1048.8" width="230.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1079.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b65" xml:space="preserve"><tspan font-weight="700">CE</tspan></text>
+<rect id="pa4-b66" x="280.0" y="1048.8" width="330.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1079.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b66" xml:space="preserve">tm</text>
+<rect id="pa4-b67" x="610.0" y="1048.8" width="390.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1079.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b67" xml:space="preserve">面積；tm 不同時用 A／tm</text>
+<rect id="pa4-b68" x="1000.0" y="1048.8" width="420.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="1079.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b68" xml:space="preserve">峰寬：焦耳熱、吸附</text>
+<rect id="pa4-b69" x="1420.0" y="1048.8" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="1079.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b69" xml:space="preserve">μ：除掉電場強度</text>
+<rect id="pa4-b70" x="50.0" y="1100.8" width="230.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1131.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b70" xml:space="preserve"><tspan font-weight="700">MS</tspan></text>
+<rect id="pa4-b71" x="280.0" y="1100.8" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1131.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b71" xml:space="preserve">m／z</text>
+<rect id="pa4-b72" x="610.0" y="1100.8" width="390.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1131.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b72" xml:space="preserve">相對豐度</text>
+<rect id="pa4-b73" x="1000.0" y="1100.8" width="420.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="1131.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b73" xml:space="preserve">同位素峰群、電荷態間距</text>
+<rect id="pa4-b74" x="1420.0" y="1100.8" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1432.0" y="1131.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b74" xml:space="preserve">中性 M：扣回電荷與加合物</text>
+<text x="50.0" y="1220.8" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">B｜讀數＝斜率 × 量＋背景：六種把斜率量出來的方法</text>
+<rect id="pa4-b75" x="50.0" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="64.0" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b75" xml:space="preserve">外標（校正曲線）</text>
+<text x="64.0" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve">S＝a·c＋b → c＝(S−b)／</text>
+<text x="64.0" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve">a。</text>
+<text x="64.0" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve">先確認落在線性範圍；空白</text>
+<text x="64.0" y="1404.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve">決定 b。</text>
+<text x="64.0" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve"><tspan font-weight="700" fill="#61717a">HPLC C06、原子 C1–C2、</tspan></text>
+<text x="64.0" y="1468.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b75" xml:space="preserve"><tspan font-weight="700" fill="#61717a">螢光 C4</tspan></text>
+<rect id="pa4-b76" x="352.7" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="366.7" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b76" xml:space="preserve">內標</text>
+<text x="366.7" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b76" xml:space="preserve">R＝Ax／AIS，用比值抵消</text>
+<text x="366.7" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b76" xml:space="preserve">進樣體積與注入變動。</text>
+<text x="366.7" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b76" xml:space="preserve"><tspan font-weight="700">找不回萃取前已失去的藥</tspan>。</text>
+<text x="366.7" y="1410.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b76" xml:space="preserve"><tspan font-weight="700" fill="#61717a">GC L24、HPLC C07、萃</tspan></text>
+<text x="366.7" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b76" xml:space="preserve"><tspan font-weight="700" fill="#61717a">取 L26、MS L30</tspan></text>
+<rect id="pa4-b77" x="655.3" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="669.3" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b77" xml:space="preserve">標準添加</text>
+<text x="669.3" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b77" xml:space="preserve">在檢品自己的基質裡加已知</text>
+<text x="669.3" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b77" xml:space="preserve">量，直接量斜率。</text>
+<text x="669.3" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b77" xml:space="preserve">專治基質使斜率改變的情況。</text>
+<text x="669.3" y="1410.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b77" xml:space="preserve"><tspan font-weight="700" fill="#61717a">原子 C3、L08</tspan></text>
+<rect id="pa4-b78" x="958.0" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="972.0" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b78" xml:space="preserve">比吸光度／對照標準</text>
+<text x="972.0" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b78" xml:space="preserve">同條件下用 A(1%,1cm) 或標</text>
+<text x="972.0" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b78" xml:space="preserve">準品比值換算。</text>
+<text x="972.0" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b78" xml:space="preserve">先算測定液，再回推標示量。</text>
+<text x="972.0" y="1410.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b78" xml:space="preserve"><tspan font-weight="700" fill="#61717a">UV C2–C3</tspan></text>
+<rect id="pa4-b79" x="1260.7" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1274.7" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b79" xml:space="preserve">qNMR</text>
+<text x="1274.7" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b79" xml:space="preserve">面積 ÷ 該組 H 數 ∝ 物質的</text>
+<text x="1274.7" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b79" xml:space="preserve">量。</text>
+<text x="1274.7" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b79" xml:space="preserve">斜率對所有化合物相同 → 內</text>
+<text x="1274.7" y="1404.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b79" xml:space="preserve">標可用不同物質。</text>
+<text x="1274.7" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b79" xml:space="preserve"><tspan font-weight="700" fill="#61717a">NMR L21、C7</tspan></text>
+<rect id="pa4-b80" x="1563.3" y="1242.8" width="286.7" height="249.9" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1577.3" y="1278.7" font-size="23" font-weight="700" fill="#9e771c" data-b="pa4-b80" xml:space="preserve">稀釋回推</text>
+<text x="1577.3" y="1311.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">原液＝測定液濃度×稀釋倍</text>
+<text x="1577.3" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">數；最後才換成每錠含量。</text>
+<text x="1577.3" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">濃縮看濃度、回收看量，兩</text>
+<text x="1577.3" y="1404.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">者分開。</text>
+<text x="1577.3" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">HPLC C08、萃取 L24–</tspan></text>
+<text x="1577.3" y="1468.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L25</tspan></text>
+<rect id="pa4-b81" x="50.0" y="1510.8" width="1800.0" height="66.5" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="68.0" y="1548.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa4-b81" xml:space="preserve"><tspan font-weight="700">靈敏度不等於偵測極限</tspan>：斜率大＝靈敏度高；偵測極限還要看雜訊（光譜概論 L11、GC L27）。把增益調大會同時放大訊號與雜訊，S／N 不變，偵測極限也就不會因此變好。</text>
+<text x="50.0" y="1645.2" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">C｜讀數污染型：沿用你藥理型別庫 ⑥–⑪ 的名稱</text>
+<text x="50.0" y="1682.1" font-size="22" font-weight="400" fill="#24343f" xml:space="preserve">藥理章用這六型描述「讀數騙人」的方式；藥分的 M04 回查正好是同一件事。對照如下（例子都取自本科講義，⑩ 尚未找到對應，保留為空格）。</text>
+<rect id="pa4-b82" x="50.0" y="1707.1" width="300.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1740.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b82" xml:space="preserve">型</text>
+<rect id="pa4-b83" x="350.0" y="1707.1" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="1740.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b83" xml:space="preserve">在藥分長什麼樣</text>
+<rect id="pa4-b84" x="680.0" y="1707.1" width="640.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="1740.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b84" xml:space="preserve">例子（原章 L）</text>
+<rect id="pa4-b85" x="1320.0" y="1707.1" width="530.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="1740.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b85" xml:space="preserve">怎麼拆</text>
+<rect id="pa4-b86" x="50.0" y="1761.9" width="300.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1792.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b86" xml:space="preserve"><tspan font-weight="700">⑥ 讀數被第三方接管</tspan></text>
+<rect id="pa4-b87" x="350.0" y="1761.9" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="1792.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b87" xml:space="preserve">別人的訊號混進來</text>
+<rect id="pa4-b88" x="680.0" y="1761.9" width="640.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="1792.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b88" xml:space="preserve">混濁散射被當成吸收（UV L01）；Raman 的螢光背景（L6）；AAS </text>
+<text x="692.0" y="1820.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b88" xml:space="preserve">背景（L06）；LC-MS 基質效應（MS L30–L31）</text>
+<rect id="pa4-b89" x="1320.0" y="1761.9" width="530.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="1792.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b89" xml:space="preserve">空白、背景校正、斬光、換雷射波長、內標、基質匹配</text>
+<rect id="pa4-b90" x="50.0" y="1841.9" width="300.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1872.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b90" xml:space="preserve"><tspan font-weight="700">⑦ 讀數與真正的量反向</tspan></text>
+<rect id="pa4-b91" x="350.0" y="1841.9" width="330.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="1872.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b91" xml:space="preserve">量越多，數字越小</text>
+<rect id="pa4-b92" x="680.0" y="1841.9" width="640.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="1872.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b92" xml:space="preserve">%T（吸越多越小）；ECD 電流變小（GC L20）；CE 間接 UV 負峰</text>
+<text x="692.0" y="1900.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b92" xml:space="preserve">（L24）；螢光高濃度內濾反降（L14）</text>
+<rect id="pa4-b93" x="1320.0" y="1841.9" width="530.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="1872.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b93" xml:space="preserve">先問讀數的方向；換成 A、稀釋回線性區</text>
+<rect id="pa4-b94" x="50.0" y="1921.9" width="300.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1952.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b94" xml:space="preserve"><tspan font-weight="700">⑧ 讀數被冒名頂替</tspan></text>
+<rect id="pa4-b95" x="350.0" y="1921.9" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="1952.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b95" xml:space="preserve">別的物質給出同一個讀數</text>
+<rect id="pa4-b96" x="680.0" y="1921.9" width="640.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="1952.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b96" xml:space="preserve">共洗脫；同 Rf（TLC L03）；相近原子線（原子 L11）；相同名目</text>
+<text x="692.0" y="1980.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b96" xml:space="preserve">質量；單一 n 或 [α]</text>
+<rect id="pa4-b97" x="1320.0" y="1921.9" width="530.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="1952.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b97" xml:space="preserve">加一個獨立讀數：換模式、DAD 光譜、MS、二維展開</text>
+<text x="1332.0" y="1980.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b97" xml:space="preserve">（TLC L18）</text>
+<rect id="pa4-b98" x="50.0" y="2001.9" width="300.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2032.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b98" xml:space="preserve"><tspan font-weight="700">⑨ 同一讀數兩成因、處置相</tspan></text>
+<text x="62.0" y="2060.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b98" xml:space="preserve"><tspan font-weight="700">反</tspan></text>
+<rect id="pa4-b99" x="350.0" y="2001.9" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="2032.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b99" xml:space="preserve">症狀一樣，修法相反</text>
+<rect id="pa4-b100" x="680.0" y="2001.9" width="640.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="2032.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b100" xml:space="preserve">[α] 偏低：混入鏡像體，或混入不旋光雜質（旋光反推表）；螢光變</text>
+<text x="692.0" y="2060.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b100" xml:space="preserve">暗：動態淬熄、靜態錯合或內濾（螢光 02 節）；AAS 讀低：化學干</text>
+<text x="692.0" y="2088.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b100" xml:space="preserve">擾加 LaCl₃，物理干擾做基質匹配或標準添加（原子 L08–L09）</text>
+<rect id="pa4-b101" x="1320.0" y="2001.9" width="530.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="2032.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b101" xml:space="preserve">改一個條件看反應：量壽命、稀釋、加釋放劑、標準添加</text>
+<rect id="pa4-b102" x="50.0" y="2109.9" width="300.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2140.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b102" xml:space="preserve"><tspan font-weight="700">⑩ 讀數在時間上雙向擺盪</tspan></text>
+<rect id="pa4-b103" x="350.0" y="2109.9" width="330.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="2140.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b103" xml:space="preserve">（空格）</text>
+<rect id="pa4-b104" x="680.0" y="2109.9" width="640.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="2140.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b104" xml:space="preserve">本科講義中尚未找到典型例子</text>
+<rect id="pa4-b105" x="1320.0" y="2109.9" width="530.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="2140.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b105" xml:space="preserve">可押注：哪種分析會出現來回擺盪的讀數？</text>
+<rect id="pa4-b106" x="50.0" y="2161.9" width="300.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2192.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b106" xml:space="preserve"><tspan font-weight="700">⑪ 校準隨時間漂移</tspan></text>
+<rect id="pa4-b107" x="350.0" y="2161.9" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="362.0" y="2192.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b107" xml:space="preserve">基準慢慢移動</text>
+<rect id="pa4-b108" x="680.0" y="2161.9" width="640.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="692.0" y="2192.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b108" xml:space="preserve">程式升溫時基線上升，常是固定相流失（GC L06）；SFC 壓力或比</text>
+<text x="692.0" y="2220.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b108" xml:space="preserve">例漂移（L20）；儀器性能查核（UV L16）；EOF 隨管壁歷史改變</text>
+<text x="692.0" y="2248.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b108" xml:space="preserve">（CE L11–L12、L26）</text>
+<rect id="pa4-b109" x="1320.0" y="2161.9" width="530.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1332.0" y="2192.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b109" xml:space="preserve">空白與標準穿插、系統適用性、定期校正</text>
+<text x="50.0" y="2337.9" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">D｜錯題救援：症狀 → 混淆了什麼 → 回哪一站 → 回哪一條 L</text>
+<rect id="pa4-b110" x="50.0" y="2359.9" width="520.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2392.8" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b110" xml:space="preserve">卡住的症狀</text>
+<rect id="pa4-b111" x="570.0" y="2359.9" width="430.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2392.8" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b111" xml:space="preserve">最可能混淆</text>
+<rect id="pa4-b112" x="1000.0" y="2359.9" width="220.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2392.8" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b112" xml:space="preserve">回查站</text>
+<rect id="pa4-b113" x="1220.0" y="2359.9" width="630.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2392.8" font-size="22" font-weight="700" fill="#24343f" data-b="pa4-b113" xml:space="preserve">回建構（原章 L）</text>
+<rect id="pa4-b114" x="50.0" y="2414.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2445.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b114" xml:space="preserve"><tspan font-weight="700">算出的濃度差了 10 或 100 倍</tspan></text>
+<rect id="pa4-b115" x="570.0" y="2414.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2445.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b115" xml:space="preserve">單位、稀釋倍數、濃度與量</text>
+<rect id="pa4-b116" x="1000.0" y="2414.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2445.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b116" xml:space="preserve">M03</text>
+<rect id="pa4-b117" x="1220.0" y="2414.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2445.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b117" xml:space="preserve">UV C3、HPLC C08、萃取 L24</text>
+<rect id="pa4-b118" x="50.0" y="2466.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2497.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b118" xml:space="preserve"><tspan font-weight="700">把 %T 當 A 用，方向全反</tspan></text>
+<rect id="pa4-b119" x="570.0" y="2466.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2497.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b119" xml:space="preserve">讀數方向</text>
+<rect id="pa4-b120" x="1000.0" y="2466.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2497.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b120" xml:space="preserve">M03</text>
+<rect id="pa4-b121" x="1220.0" y="2466.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2497.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b121" xml:space="preserve">UV L02、IR L05</text>
+<rect id="pa4-b122" x="50.0" y="2518.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2549.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b122" xml:space="preserve"><tspan font-weight="700">NMR 換機器後答案不同</tspan></text>
+<rect id="pa4-b123" x="570.0" y="2518.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2549.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b123" xml:space="preserve">Hz 與 ppm</text>
+<rect id="pa4-b124" x="1000.0" y="2518.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2549.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b124" xml:space="preserve">M03</text>
+<rect id="pa4-b125" x="1220.0" y="2518.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2549.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b125" xml:space="preserve">NMR L07、C1、C3</text>
+<rect id="pa4-b126" x="50.0" y="2570.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2601.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b126" xml:space="preserve"><tspan font-weight="700">直接把 m／z 當分子量</tspan></text>
+<rect id="pa4-b127" x="570.0" y="2570.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2601.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b127" xml:space="preserve">離子身分與電荷</text>
+<rect id="pa4-b128" x="1000.0" y="2570.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2601.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b128" xml:space="preserve">M03</text>
+<rect id="pa4-b129" x="1220.0" y="2570.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2601.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b129" xml:space="preserve">MS L03–L06</text>
+<rect id="pa4-b130" x="50.0" y="2622.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2653.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b130" xml:space="preserve"><tspan font-weight="700">兩峰重疊卻一直加柱長</tspan></text>
+<rect id="pa4-b131" x="570.0" y="2622.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2653.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b131" xml:space="preserve">α 不足還是 N 不足</text>
+<rect id="pa4-b132" x="1000.0" y="2622.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2653.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b132" xml:space="preserve">M02</text>
+<rect id="pa4-b133" x="1220.0" y="2622.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2653.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b133" xml:space="preserve">層析 L07、L10–L11</text>
+<rect id="pa4-b134" x="50.0" y="2674.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2705.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b134" xml:space="preserve"><tspan font-weight="700">同 tR 或同 Rf 就判同一物</tspan></text>
+<rect id="pa4-b135" x="570.0" y="2674.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2705.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b135" xml:space="preserve">支持與證明</text>
+<rect id="pa4-b136" x="1000.0" y="2674.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2705.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b136" xml:space="preserve">M04</text>
+<rect id="pa4-b137" x="1220.0" y="2674.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2705.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b137" xml:space="preserve">層析 L16、TLC L03</text>
+<rect id="pa4-b138" x="50.0" y="2726.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2757.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b138" xml:space="preserve"><tspan font-weight="700">面積百分比直接當組成</tspan></text>
+<rect id="pa4-b139" x="570.0" y="2726.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2757.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b139" xml:space="preserve">各成分響應不同</text>
+<rect id="pa4-b140" x="1000.0" y="2726.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2757.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b140" xml:space="preserve">M04</text>
+<rect id="pa4-b141" x="1220.0" y="2726.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2757.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b141" xml:space="preserve">GC L25</text>
+<rect id="pa4-b142" x="50.0" y="2778.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2809.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b142" xml:space="preserve"><tspan font-weight="700">溶解後還在問晶型</tspan></text>
+<rect id="pa4-b143" x="570.0" y="2778.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2809.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b143" xml:space="preserve">目的與保留</text>
+<rect id="pa4-b144" x="1000.0" y="2778.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2809.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b144" xml:space="preserve">M01</text>
+<rect id="pa4-b145" x="1220.0" y="2778.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2809.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b145" xml:space="preserve">光譜概論 L12、IR L10、Raman L8</text>
+<rect id="pa4-b146" x="50.0" y="2830.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2861.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b146" xml:space="preserve"><tspan font-weight="700">中性物用 CZE 分不開</tspan></text>
+<rect id="pa4-b147" x="570.0" y="2830.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2861.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b147" xml:space="preserve">模式選錯</text>
+<rect id="pa4-b148" x="1000.0" y="2830.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2861.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b148" xml:space="preserve">M01</text>
+<rect id="pa4-b149" x="1220.0" y="2830.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2861.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b149" xml:space="preserve">CE L17、L28</text>
+<rect id="pa4-b150" x="50.0" y="2882.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2913.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b150" xml:space="preserve"><tspan font-weight="700">不揮發的藥直接進 GC</tspan></text>
+<rect id="pa4-b151" x="570.0" y="2882.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2913.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b151" xml:space="preserve">檢品不合</text>
+<rect id="pa4-b152" x="1000.0" y="2882.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2913.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b152" xml:space="preserve">M01</text>
+<rect id="pa4-b153" x="1220.0" y="2882.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2913.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b153" xml:space="preserve">GC L01、L17</text>
+<rect id="pa4-b154" x="50.0" y="2934.7" width="520.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="2965.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b154" xml:space="preserve"><tspan font-weight="700">螢光隨濃度不升反降</tspan></text>
+<rect id="pa4-b155" x="570.0" y="2934.7" width="430.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="2965.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b155" xml:space="preserve">內濾、偏離線性</text>
+<rect id="pa4-b156" x="1000.0" y="2934.7" width="220.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="2965.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b156" xml:space="preserve">M02→M03</text>
+<rect id="pa4-b157" x="1220.0" y="2934.7" width="630.0" height="52.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="2965.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b157" xml:space="preserve">螢光 L14</text>
+<rect id="pa4-b158" x="50.0" y="2986.7" width="520.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="3017.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b158" xml:space="preserve"><tspan font-weight="700">RI 基線一直漂</tspan></text>
+<rect id="pa4-b159" x="570.0" y="2986.7" width="430.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="582.0" y="3017.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b159" xml:space="preserve">梯度或溫度</text>
+<rect id="pa4-b160" x="1000.0" y="2986.7" width="220.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1012.0" y="3017.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b160" xml:space="preserve">M02</text>
+<rect id="pa4-b161" x="1220.0" y="2986.7" width="630.0" height="52.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1232.0" y="3017.7" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b161" xml:space="preserve">折光 L9、HPLC L22</text>
+<text x="50.0" y="3089.6" font-size="22" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">錯題回填欄（自己抄）</tspan>：題號｜漏掉的條件｜混淆的兩項｜修正後的短鏈｜回查 L｜明天重答。</text>
+<text x="50.0" y="3143.6" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">C 欄的 ⑥–⑪ 名稱取自你的「大循環對撞台」頁面；藥分對照與例子是本組依 17 章講義整理，屬於類比，判讀仍以各章原文為準。</text>
+<text x="50.0" y="3175.6" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">式子身分：Beer、外標直線、內標比值為校正模型，須在驗證過的線性範圍內使用。來源：17 章建構講義。示意。</text>
+</svg>

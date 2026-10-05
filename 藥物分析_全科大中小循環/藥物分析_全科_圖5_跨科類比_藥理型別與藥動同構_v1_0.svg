@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="2090" viewBox="0 0 1900 2090" role="img" aria-labelledby="pa5-title pa5-desc" font-family="Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, WenQuanYi Zen Hei, Droid Sans Fallback, sans-serif">
+<title id="pa5-title">藥物分析全科｜跨科類比：藥理型別與藥動同構</title>
+<desc id="pa5-desc">把藥物分析接到已學過的藥理與生物藥劑：上半把使用者藥理型別庫 ⑪–⑯ 對到藥分章節，下半列出藥分公式與藥動公式的數學同構；每列最右欄是類比失效的界線。示意。</desc>
+<rect x="0" y="0" width="1900" height="2090" fill="#f8f6ee"/>
+<text x="50.0" y="62.0" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">PHARMACEUTICAL ANALYSIS / 全科 / 跨科類比 / v1.0</text>
+<text x="50.0" y="120.0" font-size="40" font-weight="700" fill="#24343f" xml:space="preserve">跨科類比：藥分 ↔ 藥理型別庫 ↔ 藥動</text>
+<text x="50.0" y="165.8" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">用法：類比只負責「一看就想起整條鏈」與跨科遷移；答題仍回到原章定義。每一列最右欄寫出類比在哪裡失效。</tspan>上半沿用你「大循環對撞台」的型別名稱；下</text>
+<text x="50.0" y="202.0" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve">半是同一條數學在兩科各出現一次。</text>
+<text x="50.0" y="276.5" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">A｜你的藥理型別庫 ⑪–⑯，在藥分裡長在哪裡</text>
+<rect id="pa5-b1" x="50.0" y="298.5" width="250.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="331.4" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b1" xml:space="preserve">型別（藥理章）</text>
+<rect id="pa5-b2" x="300.0" y="298.5" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="331.4" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b2" xml:space="preserve">藥理裡的樣子</text>
+<rect id="pa5-b3" x="630.0" y="298.5" width="520.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="331.4" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b3" xml:space="preserve">藥分裡的樣子（原章 L）</text>
+<rect id="pa5-b4" x="1150.0" y="298.5" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="331.4" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b4" xml:space="preserve">共同骨架</text>
+<rect id="pa5-b5" x="1480.0" y="298.5" width="370.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="331.4" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b5" xml:space="preserve">類比界線</text>
+<rect id="pa5-b6" x="50.0" y="353.3" width="250.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b6" xml:space="preserve"><tspan font-weight="700">⑪ 三相分配器（麻醉</tspan></text>
+<text x="62.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b6" xml:space="preserve"><tspan font-weight="700">劑）</tspan></text>
+<rect id="pa5-b7" x="300.0" y="353.3" width="330.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b7" xml:space="preserve">pKa 決定非離子分率與起效；脂溶</text>
+<text x="312.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b7" xml:space="preserve">性管效價與時間</text>
+<rect id="pa5-b8" x="630.0" y="353.3" width="520.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b8" xml:space="preserve">萃取 D＝K×中性分率（萃取 L03–L04）；逆相保留隨 </text>
+<text x="642.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b8" xml:space="preserve">pH 改（HPLC L09–L10）</text>
+<rect id="pa5-b9" x="1150.0" y="353.3" width="330.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">同一條 Henderson–</text>
+<text x="1162.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">Hasselbalch：中性形才進得了</text>
+<text x="1162.0" y="440.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">疏水層</text>
+<rect id="pa5-b10" x="1480.0" y="353.3" width="370.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b10" xml:space="preserve">藥分只有兩相平衡，沒有血流、轉運體</text>
+<text x="1492.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b10" xml:space="preserve">與組織</text>
+<rect id="pa5-b11" x="50.0" y="461.3" width="250.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="492.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b11" xml:space="preserve"><tspan font-weight="700">⑫ 增益旋鈕（抗焦慮）</tspan></text>
+<rect id="pa5-b12" x="300.0" y="461.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="492.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b12" xml:space="preserve">BZD 是乘數不是加數；有天花板</text>
+<rect id="pa5-b13" x="630.0" y="461.3" width="520.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="492.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b13" xml:space="preserve">光源 I₀ 是螢光的乘數（F≈2.303KI₀Φεbc）；偵測器</text>
+<text x="642.0" y="520.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b13" xml:space="preserve">飽和是天花板；增益同時放大雜訊，S／N 不變（GC </text>
+<text x="642.0" y="548.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b13" xml:space="preserve">L27）</text>
+<rect id="pa5-b14" x="1150.0" y="461.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="492.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b14" xml:space="preserve">乘數只能放大已有的訊號</text>
+<rect id="pa5-b15" x="1480.0" y="461.3" width="370.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="492.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b15" xml:space="preserve">藥理乘的是內生 GABA 訊號；藥分乘</text>
+<text x="1492.0" y="520.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b15" xml:space="preserve">的是訊號與雜訊兩者</text>
+<rect id="pa5-b16" x="50.0" y="569.3" width="250.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="600.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b16" xml:space="preserve"><tspan font-weight="700">⑬ 雙穩態開關（鎮靜安</tspan></text>
+<text x="62.0" y="628.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b16" xml:space="preserve"><tspan font-weight="700">眠）</tspan></text>
+<rect id="pa5-b17" x="300.0" y="569.3" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="600.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b17" xml:space="preserve">翻轉不等於加深</text>
+<rect id="pa5-b18" x="630.0" y="569.3" width="520.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="600.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b18" xml:space="preserve">pH 越過 pKa 約 2 單位，物種已幾乎全翻；再加酸鹼不</text>
+<text x="642.0" y="628.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b18" xml:space="preserve">會更好，還可能傷矽膠或藥（萃取 L12）</text>
+<rect id="pa5-b19" x="1150.0" y="569.3" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="600.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b19" xml:space="preserve">開關翻過去之後，再推只剩副作用</text>
+<rect id="pa5-b20" x="1480.0" y="569.3" width="370.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="600.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b20" xml:space="preserve">解離比例是連續 S 形曲線，不是真正</text>
+<text x="1492.0" y="628.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b20" xml:space="preserve">的雙穩態</text>
+<rect id="pa5-b21" x="50.0" y="649.3" width="250.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="680.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b21" xml:space="preserve"><tspan font-weight="700">⑭ 共用旋鈕、分區需求</tspan></text>
+<text x="62.0" y="708.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b21" xml:space="preserve"><tspan font-weight="700">（抗精神病）</tspan></text>
+<rect id="pa5-b22" x="300.0" y="649.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="680.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b22" xml:space="preserve">一個 D2 旋鈕同時管四條路徑</text>
+<rect id="pa5-b23" x="630.0" y="649.3" width="520.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="680.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b23" xml:space="preserve">柱溫（GC）、溶劑強度（HPLC）同時作用所有成分；</text>
+<text x="642.0" y="708.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b23" xml:space="preserve">早峰要弱、晚峰要強 → 程式升溫、梯度沖提（GC </text>
+<text x="642.0" y="736.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b23" xml:space="preserve">L05、HPLC L11–L12）</text>
+<rect id="pa5-b24" x="1150.0" y="649.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="680.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b24" xml:space="preserve">全域旋鈕＋分區需求 → 改成按時</text>
+<text x="1162.0" y="708.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b24" xml:space="preserve">間分段調</text>
+<rect id="pa5-b25" x="1480.0" y="649.3" width="370.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="680.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b25" xml:space="preserve">藥理靠受體選擇性解耦；藥分靠時間程</text>
+<text x="1492.0" y="708.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b25" xml:space="preserve">式解耦</text>
+<rect id="pa5-b26" x="50.0" y="757.3" width="250.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="788.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b26" xml:space="preserve"><tspan font-weight="700">⑮ 漏損補給線＋緩衝槽</tspan></text>
+<text x="62.0" y="816.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b26" xml:space="preserve"><tspan font-weight="700">（抗帕金森）</tspan></text>
+<rect id="pa5-b27" x="300.0" y="757.3" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="788.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b27" xml:space="preserve">levodopa 在周邊兩個漏口流失</text>
+<rect id="pa5-b28" x="630.0" y="757.3" width="520.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="788.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b28" xml:space="preserve">SPE 上樣穿透、洗液洗失、沖提不全三個漏口（萃取 </text>
+<text x="642.0" y="816.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b28" xml:space="preserve">L10）；AAS 送樣速率 C×Q×η（原子 L08）</text>
+<rect id="pa5-b29" x="1150.0" y="757.3" width="330.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="788.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b29" xml:space="preserve">沿線做質量守恆，逐段找漏口</text>
+<rect id="pa5-b30" x="1480.0" y="757.3" width="370.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="788.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b30" xml:space="preserve">藥分靠分段收集驗證漏口；藥理靠酵素</text>
+<text x="1492.0" y="816.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b30" xml:space="preserve">抑制劑補漏</text>
+<rect id="pa5-b31" x="50.0" y="837.3" width="250.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="868.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b31" xml:space="preserve"><tspan font-weight="700">⑯ 共源多讀數、異速耐</tspan></text>
+<text x="62.0" y="896.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b31" xml:space="preserve"><tspan font-weight="700">受（止痛）</tspan></text>
+<rect id="pa5-b32" x="300.0" y="837.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="312.0" y="868.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b32" xml:space="preserve">同一 μ 受體 → 多種效果，耐受速</text>
+<text x="312.0" y="896.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b32" xml:space="preserve">度不同</text>
+<rect id="pa5-b33" x="630.0" y="837.3" width="520.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="642.0" y="868.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b33" xml:space="preserve">同一個 M → [M＋H]⁺、[M＋Na]⁺、多電荷、同位素、碎</text>
+<text x="642.0" y="896.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b33" xml:space="preserve">片（MS L01–L07）；同一結構 → δ、積分、裂分、J；</text>
+<text x="642.0" y="924.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b33" xml:space="preserve">換高場時 δ、J 不變而 Δν 變（NMR L13）</text>
+<rect id="pa5-b34" x="1150.0" y="837.3" width="330.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1162.0" y="868.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b34" xml:space="preserve">一個源、多個讀數，各自對條件的</text>
+<text x="1162.0" y="896.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b34" xml:space="preserve">反應不同</text>
+<rect id="pa5-b35" x="1480.0" y="837.3" width="370.0" height="108.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1492.0" y="868.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b35" xml:space="preserve">讀數不會「耐受」，只是對儀器條件的</text>
+<text x="1492.0" y="896.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b35" xml:space="preserve">依賴不同</text>
+<text x="50.0" y="1017.3" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">B｜同一條數學，兩科各出現一次：藥分 ↔ 藥動／生物藥劑</text>
+<rect id="pa5-b36" x="50.0" y="1039.3" width="470.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1072.2" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b36" xml:space="preserve">藥分（原章 L）</text>
+<rect id="pa5-b37" x="520.0" y="1039.3" width="450.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1072.2" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b37" xml:space="preserve">藥動／生物藥劑</text>
+<rect id="pa5-b38" x="970.0" y="1039.3" width="430.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1072.2" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b38" xml:space="preserve">共同骨架</text>
+<rect id="pa5-b39" x="1400.0" y="1039.3" width="450.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1072.2" font-size="22" font-weight="700" fill="#24343f" data-b="pa5-b39" xml:space="preserve">類比界線</text>
+<rect id="pa5-b40" x="50.0" y="1094.1" width="470.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1125.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b40" xml:space="preserve"><tspan font-weight="700">保留</tspan>　tR＝t₀(1＋k′)；k′＝留在固定相的量 ÷ 在</text>
+<text x="62.0" y="1153.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b40" xml:space="preserve">移動相的量（層析 L04–L05）</text>
+<rect id="pa5-b41" x="520.0" y="1094.1" width="450.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1125.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b41" xml:space="preserve"><tspan font-weight="700">分布體積</tspan>　Vd＝Vp×(1＋組織中藥量 ÷ 血漿</text>
+<text x="532.0" y="1153.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b41" xml:space="preserve">中藥量)；t½＝0.693·Vd／CL</text>
+<rect id="pa5-b42" x="970.0" y="1094.1" width="430.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1125.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b42" xml:space="preserve">只有待在流動區才會被帶走；被停留區扣住越</text>
+<text x="982.0" y="1153.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b42" xml:space="preserve">多，整個過程越慢</text>
+<rect id="pa5-b43" x="1400.0" y="1094.1" width="450.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1125.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b43" xml:space="preserve">層析算的是遷移時間；藥動算的是清除，還受 </text>
+<text x="1412.0" y="1153.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b43" xml:space="preserve">CL 與蛋白結合 fu 影響</text>
+<rect id="pa5-b44" x="50.0" y="1174.1" width="470.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1205.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b44" xml:space="preserve"><tspan font-weight="700">pH 開關</tspan>　弱鹼鹼化 → 中性 → 進有機相；反萃到</text>
+<text x="62.0" y="1233.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b44" xml:space="preserve">酸水 → 帶電留在水相（萃取 L03–L06）</text>
+<rect id="pa5-b45" x="520.0" y="1174.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1205.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b45" xml:space="preserve"><tspan font-weight="700">pH 分配假說與離子捕捉</tspan>　非離子形跨膜；弱鹼</text>
+<text x="532.0" y="1233.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b45" xml:space="preserve">在酸性區被困住（尿液酸化可加速弱鹼排除）</text>
+<rect id="pa5-b46" x="970.0" y="1174.1" width="430.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1205.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b46" xml:space="preserve">Henderson–Hasselbalch 決定哪一形能移</text>
+<text x="982.0" y="1233.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b46" xml:space="preserve">動</text>
+<rect id="pa5-b47" x="1400.0" y="1174.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1205.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b47" xml:space="preserve">體內還有轉運體、吸收表面積與血流</text>
+<rect id="pa5-b48" x="50.0" y="1254.1" width="470.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1285.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b48" xml:space="preserve"><tspan font-weight="700">螢光出口競爭</tspan>　Φ＝kf／Σk；τ＝1／Σk（螢光 </text>
+<text x="62.0" y="1313.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b48" xml:space="preserve">02 節）。動態淬熄＝多開一個出口 → Φ、τ 都</text>
+<text x="62.0" y="1341.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b48" xml:space="preserve">降；靜態淬熄＝能發光的分子變少，τ 不變</text>
+<rect id="pa5-b49" x="520.0" y="1254.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1285.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b49" xml:space="preserve"><tspan font-weight="700">平行排除</tspan>　fe＝ke／k；一室模型平均滯留 1／</text>
+<text x="532.0" y="1313.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b49" xml:space="preserve">k。加一條清除途徑（如酶誘導）→ fe、1／k </text>
+<text x="532.0" y="1341.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b49" xml:space="preserve">都降；F 下降時 k 不變</text>
+<rect id="pa5-b50" x="970.0" y="1254.1" width="430.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1285.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b50" xml:space="preserve">某一出口的分率＝該出口速率 ÷ 總速率；多</text>
+<text x="982.0" y="1313.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b50" xml:space="preserve">開出口與減少入口是兩件事</text>
+<rect id="pa5-b51" x="1400.0" y="1254.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1285.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b51" xml:space="preserve">螢光是奈秒級、計光子；藥動是小時級、量濃度</text>
+<rect id="pa5-b52" x="50.0" y="1362.1" width="470.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1393.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b52" xml:space="preserve"><tspan font-weight="700">NMR 縱向恢復</tspan>　Mz＝M₀(1−e^(−t／T₁))（NMR </text>
+<text x="62.0" y="1421.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b52" xml:space="preserve">02 節）</text>
+<rect id="pa5-b53" x="520.0" y="1362.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1393.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b53" xml:space="preserve"><tspan font-weight="700">靜脈輸注趨近穩態</tspan>　C＝Css(1−e^(−kt))</text>
+<rect id="pa5-b54" x="970.0" y="1362.1" width="430.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1393.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b54" xml:space="preserve">同一條一級趨近曲線：等 5T₁ 恢復約 99.3%；</text>
+<text x="982.0" y="1421.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b54" xml:space="preserve">經 5 個半衰期約達 97%</text>
+<rect id="pa5-b55" x="1400.0" y="1362.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1393.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b55" xml:space="preserve">T₁ 是時間常數，不是半衰期（t½＝0.693·T₁）</text>
+<rect id="pa5-b56" x="50.0" y="1442.1" width="470.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b56" xml:space="preserve"><tspan font-weight="700">Stokes 摩擦 6πηr</tspan>　CE：μep＝q／(6πηr)</text>
+<text x="62.0" y="1501.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b56" xml:space="preserve">（CE L03）；擴散 D＝kT／(6πηr) 管峰展寬與 </text>
+<text x="62.0" y="1529.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b56" xml:space="preserve">DOSY（延伸，講義未列此式）</text>
+<rect id="pa5-b57" x="520.0" y="1442.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve"><tspan font-weight="700">溶離</tspan>　Noyes–Whitney：dM／dt＝D·A·</text>
+<text x="532.0" y="1501.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve">(Cs−C)／h</text>
+<rect id="pa5-b58" x="970.0" y="1442.1" width="430.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b58" xml:space="preserve">黏度高、分子大 → 遷移、擴散、溶離都變慢</text>
+<rect id="pa5-b59" x="1400.0" y="1442.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b59" xml:space="preserve">Stokes 式假設球形粒子與稀溶液</text>
+<rect id="pa5-b60" x="50.0" y="1550.1" width="470.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1581.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b60" xml:space="preserve"><tspan font-weight="700">內標比值</tspan>　R＝Ax／AIS，共同變動在比值中抵消</text>
+<text x="62.0" y="1609.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b60" xml:space="preserve">（GC L24、萃取 L26）</text>
+<rect id="pa5-b61" x="520.0" y="1550.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1581.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b61" xml:space="preserve"><tspan font-weight="700">交叉設計的生體可用率</tspan>　F相對＝AUC試驗／</text>
+<text x="532.0" y="1609.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b61" xml:space="preserve">AUC參考，同一受試者自身對照</text>
+<rect id="pa5-b62" x="970.0" y="1550.1" width="430.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1581.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b62" xml:space="preserve">比值抵消共同變動</text>
+<rect id="pa5-b63" x="1400.0" y="1550.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1581.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b63" xml:space="preserve">只抵消兩邊共有的變動；只發生在一邊的損失補</text>
+<text x="1412.0" y="1609.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b63" xml:space="preserve">不回來</text>
+<rect id="pa5-b64" x="50.0" y="1630.1" width="470.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1661.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b64" xml:space="preserve"><tspan font-weight="700">線性範圍</tspan>　Beer、F ∝ c 只在低吸收時成立；高</text>
+<text x="62.0" y="1689.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b64" xml:space="preserve">濃度偏離（UV L03、螢光 L14）</text>
+<rect id="pa5-b65" x="520.0" y="1630.1" width="450.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1661.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b65" xml:space="preserve"><tspan font-weight="700">線性藥動</tspan>　酵素未飽和時才線性；phenytoin </text>
+<text x="532.0" y="1689.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b65" xml:space="preserve">高劑量轉為 Michaelis–Menten 非線性</text>
+<rect id="pa5-b66" x="970.0" y="1630.1" width="430.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1661.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b66" xml:space="preserve">低量線性、高量飽和 → 先確認落在線性區</text>
+<rect id="pa5-b67" x="1400.0" y="1630.1" width="450.0" height="80.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1661.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b67" xml:space="preserve">螢光高濃度甚至會反降；MM 只是趨平</text>
+<rect id="pa5-b68" x="50.0" y="1710.1" width="470.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1741.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b68" xml:space="preserve"><tspan font-weight="700">競爭有限資源</tspan>　ESI 基質效應：共存物搶液滴表</text>
+<text x="62.0" y="1769.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b68" xml:space="preserve">面電荷，訊號被抑制或增強（MS L30–L31）</text>
+<rect id="pa5-b69" x="520.0" y="1710.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="532.0" y="1741.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b69" xml:space="preserve"><tspan font-weight="700">競爭同一酵素或結合位</tspan>　兩藥共用 CYP 或白蛋</text>
+<text x="532.0" y="1769.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b69" xml:space="preserve">白結合位</text>
+<rect id="pa5-b70" x="970.0" y="1710.1" width="430.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="982.0" y="1741.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b70" xml:space="preserve">有限容量被搶 → 讀數或游離濃度改變；同位</text>
+<text x="982.0" y="1769.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b70" xml:space="preserve">素內標一起被影響，比值較穩</text>
+<rect id="pa5-b71" x="1400.0" y="1710.1" width="450.0" height="80.0" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1412.0" y="1741.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b71" xml:space="preserve">內標不保證完全補償（MS L30）</text>
+<rect id="pa5-b72" x="50.0" y="1830.1" width="1800.0" height="136.1" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="68.0" y="1870.9" font-size="24" font-weight="700" fill="#9e771c" data-b="pa5-b72" xml:space="preserve">空格與押注（照對撞台的玩法）</text>
+<text x="68.0" y="1907.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa5-b72" xml:space="preserve">⑩「讀數在時間上雙向擺盪」在本科講義中還沒找到典型例子 → 留為空格。反向也可押：藥分的「解析度＝位置差 ÷ 寬度」在藥理有沒有對應？候選是受體選擇性——兩亞型親和力比（像 </text>
+<text x="68.0" y="1937.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa5-b72" xml:space="preserve">α）等於 1 時，劑量再精準（像 N）也分不開。</text>
+<text x="50.0" y="2015.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">A 表型別名稱與藥理內容取自你的「大循環對撞台」頁面（六章藥理／藥化）；B 表藥動側為一般藥動學公式。本次沒有讀到你的生物藥劑講義檔，若有自訂符號或型別，請上傳後再對齊。</text>
+<text x="50.0" y="2047.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">藥分側數值與條件以 17 章建構講義為準；類比僅作記憶與遷移。示意。</text>
+</svg>
