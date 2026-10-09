@@ -84,7 +84,7 @@ def parse_runs(s):
     return runs
 
 
-WORD = re.compile(r"[A-Za-z0-9_\.\+\-/=′'%°\^₀-₉⁰-⁹⁺⁻αβγδεζημνλπσρτφχψωΦΔΣΩ]+")
+WORD = re.compile(r"[A-Za-z0-9_·\(\)\[\]\.\+\-/=′'%°\^₀-₉⁰-⁹¹²³⁺⁻αβγδεζημνλπσρτφχψωΦΔΣΩ]+(?:–[A-Za-z0-9]+)*")
 
 
 def tokens(runs):

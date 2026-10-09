@@ -27,9 +27,9 @@
 <text x="642.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b8" xml:space="preserve">萃取 D＝K×中性分率（萃取 L03–L04）；逆相保留隨 </text>
 <text x="642.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b8" xml:space="preserve">pH 改（HPLC L09–L10）</text>
 <rect id="pa5-b9" x="1150.0" y="353.3" width="330.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
-<text x="1162.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">同一條 Henderson–</text>
-<text x="1162.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">Hasselbalch：中性形才進得了</text>
-<text x="1162.0" y="440.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">疏水層</text>
+<text x="1162.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">同一條 </text>
+<text x="1162.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">Henderson–Hasselbalch：中</text>
+<text x="1162.0" y="440.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b9" xml:space="preserve">性形才進得了疏水層</text>
 <rect id="pa5-b10" x="1480.0" y="353.3" width="370.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
 <text x="1492.0" y="384.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b10" xml:space="preserve">藥分只有兩相平衡，沒有血流、轉運體</text>
 <text x="1492.0" y="412.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b10" xml:space="preserve">與組織</text>
@@ -163,8 +163,8 @@
 <text x="62.0" y="1501.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b56" xml:space="preserve">（CE L03）；擴散 D＝kT／(6πηr) 管峰展寬與 </text>
 <text x="62.0" y="1529.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b56" xml:space="preserve">DOSY（延伸，講義未列此式）</text>
 <rect id="pa5-b57" x="520.0" y="1442.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
-<text x="532.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve"><tspan font-weight="700">溶離</tspan>　Noyes–Whitney：dM／dt＝D·A·</text>
-<text x="532.0" y="1501.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve">(Cs−C)／h</text>
+<text x="532.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve"><tspan font-weight="700">溶離</tspan>　Noyes–Whitney：dM／dt＝</text>
+<text x="532.0" y="1501.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b57" xml:space="preserve">D·A·(Cs−C)／h</text>
 <rect id="pa5-b58" x="970.0" y="1442.1" width="430.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
 <text x="982.0" y="1473.1" font-size="20" font-weight="400" fill="#24343f" data-b="pa5-b58" xml:space="preserve">黏度高、分子大 → 遷移、擴散、溶離都變慢</text>
 <rect id="pa5-b59" x="1400.0" y="1442.1" width="450.0" height="108.0" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>

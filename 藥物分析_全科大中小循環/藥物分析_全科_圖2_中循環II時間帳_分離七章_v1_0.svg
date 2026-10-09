@@ -131,9 +131,9 @@
 <text x="70.0" y="1799.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b19" xml:space="preserve">定位原因（L26、L27）</text>
 <text x="70.0" y="1839.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b19" xml:space="preserve"><tspan font-weight="700">母式</tspan>　q＝Va／(Va＋D·Vo)；萃 n 次剩 qⁿ（少量多次較</text>
 <text x="70.0" y="1869.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b19" xml:space="preserve">完全）</text>
-<text x="70.0" y="1907.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 認相與 pH L01–07｜B SPE 四步 L08–</text>
-<text x="70.0" y="1936.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve">12｜C 電荷・結構・尺寸 L13–18｜D 特殊取樣 L19–23｜E </text>
-<text x="70.0" y="1964.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve">濃縮・回收・品質 L24–27</text>
+<text x="70.0" y="1907.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 認相與 pH L01–07｜B SPE 四步 </text>
+<text x="70.0" y="1936.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve">L08–12｜C 電荷・結構・尺寸 L13–18｜D 特殊取樣 </text>
+<text x="70.0" y="1964.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b19" xml:space="preserve">L19–23｜E 濃縮・回收・品質 L24–27</text>
 <text x="70.0" y="2003.1" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b19" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　收哪一層看藥在哪一相，不看哪一層在上（L05）；找</text>
 <text x="70.0" y="2031.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b19" xml:space="preserve">失落的藥要查上樣、洗液、沖提三段（L10）。</text>
 <rect id="pa2-b20" x="658.0" y="1395.4" width="584.0" height="665.5" rx="18" fill="#ffffff" stroke="#356844" stroke-width="2.5"/>
@@ -150,9 +150,9 @@
 <text x="678.0" y="1739.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b20" xml:space="preserve">（L06–L11）</text>
 <text x="678.0" y="1779.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b20" xml:space="preserve"><tspan font-weight="700">母式</tspan>　Rs≈(√N／4)·((α−1)／α)·(k′／(1＋k′))；H＝</text>
 <text x="678.0" y="1809.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b20" xml:space="preserve">A＋B／u＋Cu</text>
-<text x="678.0" y="1848.2" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 讀懂一次分析 L01–03｜B 保留可比 L04–</text>
-<text x="678.0" y="1876.6" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve">06｜C 解析度與效率 L07–09｜D 參數收益 L10–11｜E 展寬</text>
-<text x="678.0" y="1905.0" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve">機制 L12–14｜F 峰形與證據 L15–16</text>
+<text x="678.0" y="1848.2" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 讀懂一次分析 L01–03｜B 保留可比 </text>
+<text x="678.0" y="1876.6" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve">L04–06｜C 解析度與效率 L07–09｜D 參數收益 L10–11｜</text>
+<text x="678.0" y="1905.0" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b20" xml:space="preserve">E 展寬機制 L12–14｜F 峰形與證據 L15–16</text>
 <text x="678.0" y="1943.4" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b20" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　α＝1 時 N 再大也分不開；N 變 4 倍，Rs 才變 2 倍；</text>
 <text x="678.0" y="1971.8" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b20" xml:space="preserve">拖尾因子大於 1。</text>
 <rect id="pa2-b21" x="1266.0" y="1395.4" width="584.0" height="665.5" rx="18" fill="#ffffff" stroke="#356844" stroke-width="2.5"/>
@@ -188,11 +188,12 @@
 <text x="70.0" y="2431.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b22" xml:space="preserve">（L23、L24）</text>
 <text x="70.0" y="2471.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b22" xml:space="preserve"><tspan font-weight="700">母式</tspan>　外標 c＝(S−b)／a；內標 R＝Ax／AIS</text>
 <text x="70.0" y="2509.9" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 儀器與讀數 L01–04｜B 保留與固定相 </text>
-<text x="70.0" y="2538.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve">L05–08｜C 配方、酸鹼與時間 L09–12｜D 換分離依據 L13</text>
-<text x="70.0" y="2566.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve">–16｜E 立體、反應與光學 L17–20｜F 偵測與定量 L21–24</text>
-<text x="70.0" y="2605.1" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　弱酸在 pH 降低時中性比例↑，逆相保留↑，弱鹼方向</text>
-<text x="70.0" y="2633.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve">相反（L09）；分子篩大分子先出（L15）；鹼性藥在殘餘矽</text>
-<text x="70.0" y="2661.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve">醇上拖尾（L08）。</text>
+<text x="70.0" y="2538.3" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve">L05–08｜C 配方、酸鹼與時間 L09–12｜D 換分離依據 </text>
+<text x="70.0" y="2566.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve">L13–16｜E 立體、反應與光學 L17–20｜F 偵測與定量 </text>
+<text x="70.0" y="2595.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b22" xml:space="preserve">L21–24</text>
+<text x="70.0" y="2633.5" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　弱酸在 pH 降低時中性比例↑，逆相保留↑，弱鹼方向</text>
+<text x="70.0" y="2661.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve">相反（L09）；分子篩大分子先出（L15）；鹼性藥在殘餘矽</text>
+<text x="70.0" y="2690.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b22" xml:space="preserve">醇上拖尾（L08）。</text>
 <rect id="pa2-b23" x="658.0" y="2086.9" width="584.0" height="664.0" rx="18" fill="#ffffff" stroke="#356844" stroke-width="2.5"/>
 <path d="M659.2,2144.7 L659.2,2104.9 Q659.2,2088.1 676.0,2088.1 L1224.0,2088.1 Q1240.8,2088.1 1240.8,2104.9 L1240.8,2144.7 Z" fill="#dcecdc"/>
 <text x="678.0" y="2131.6" font-size="26" font-weight="700" fill="#356844" data-b="pa2-b23" xml:space="preserve">GC｜沸點樓梯＋溫度電梯　<tspan font-weight="700" fill="#61717a">L×27</tspan></text>
@@ -229,8 +230,8 @@
 <text x="1286.0" y="2461.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b24" xml:space="preserve">（L19、L20）</text>
 <text x="1286.0" y="2500.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b24" xml:space="preserve"><tspan font-weight="700">母式</tspan>　ΔP＝Pin−Pout；背壓（BPR）不是壓降</text>
 <text x="1286.0" y="2539.7" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b24" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 任務與相態 L01–04｜B 流體改保留與峰</text>
-<text x="1286.0" y="2568.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b24" xml:space="preserve">寬 L05–07｜C 改質劑、選擇性與管柱 L08–11｜D 硬體 L12</text>
-<text x="1286.0" y="2596.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b24" xml:space="preserve">–16｜E 萃取、含量與品質 L17–20</text>
+<text x="1286.0" y="2568.1" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b24" xml:space="preserve">寬 L05–07｜C 改質劑、選擇性與管柱 L08–11｜D 硬體 </text>
+<text x="1286.0" y="2596.5" font-size="20" font-weight="400" fill="#61717a" data-b="pa2-b24" xml:space="preserve">L12–16｜E 萃取、含量與品質 L17–20</text>
 <text x="1286.0" y="2634.9" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b24" xml:space="preserve"><tspan font-weight="700">陷阱</tspan>　溫度同時改密度與揮發，方向不能硬背成單向</text>
 <text x="1286.0" y="2663.3" font-size="20" font-weight="400" fill="#b72d4a" data-b="pa2-b24" xml:space="preserve">（L07）；SFE 取出來不等於量出來（L17）。</text>
 <rect id="pa2-b25" x="50.0" y="2776.9" width="584.0" height="693.9" rx="18" fill="#ffffff" stroke="#356844" stroke-width="2.5"/>
@@ -241,8 +242,8 @@
 <text x="70.0" y="2930.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve"><tspan font-weight="700">M01</tspan>　登記 pH、pKa／pI、電極位置與模式（L01、</text>
 <text x="70.0" y="2960.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">L08、L09）</text>
 <text x="70.0" y="2993.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve"><tspan font-weight="700">M02</tspan>　μEOF＝−εζ／η；v＝(μEOF＋μep)E；塗層、</text>
-<text x="70.0" y="3023.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">pH、離子強度改 EOF；焦耳熱與吸附使峰變寬（L02–</text>
-<text x="70.0" y="3053.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">L07、L10–L16）</text>
+<text x="70.0" y="3023.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">pH、離子強度改 EOF；焦耳熱與吸附使峰變寬</text>
+<text x="70.0" y="3053.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">（L02–L07、L10–L16）</text>
 <text x="70.0" y="3087.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve"><tspan font-weight="700">M03</tspan>　電泳圖：遷移時間、面積、峰寬；短光徑 UV、間接</text>
 <text x="70.0" y="3117.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve">UV 負峰（L23–L25）</text>
 <text x="70.0" y="3151.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa2-b25" xml:space="preserve"><tspan font-weight="700">M04</tspan>　比對標準；依目的選 CZE、MEKC、CGE、CIEF、</text>

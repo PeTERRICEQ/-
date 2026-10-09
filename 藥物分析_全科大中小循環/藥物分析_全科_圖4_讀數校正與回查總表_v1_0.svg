@@ -203,8 +203,8 @@
 <text x="1577.3" y="1340.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">數；最後才換成每錠含量。</text>
 <text x="1577.3" y="1375.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">濃縮看濃度、回收看量，兩</text>
 <text x="1577.3" y="1404.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve">者分開。</text>
-<text x="1577.3" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">HPLC C08、萃取 L24–</tspan></text>
-<text x="1577.3" y="1468.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L25</tspan></text>
+<text x="1577.3" y="1439.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">HPLC C08、萃取 </tspan></text>
+<text x="1577.3" y="1468.8" font-size="20" font-weight="400" fill="#24343f" data-b="pa4-b80" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L24–L25</tspan></text>
 <rect id="pa4-b81" x="50.0" y="1510.8" width="1800.0" height="66.5" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
 <text x="68.0" y="1548.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa4-b81" xml:space="preserve"><tspan font-weight="700">靈敏度不等於偵測極限</tspan>：斜率大＝靈敏度高；偵測極限還要看雜訊（光譜概論 L11、GC L27）。把增益調大會同時放大訊號與雜訊，S／N 不變，偵測極限也就不會因此變好。</text>
 <text x="50.0" y="1645.2" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">C｜讀數污染型：沿用你藥理型別庫 ⑥–⑪ 的名稱</text>

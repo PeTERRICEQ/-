@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="1094" viewBox="0 0 1900 1094" role="img" aria-labelledby="fp10-title fp10-desc" font-family="Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, WenQuanYi Zen Hei, Droid Sans Fallback, sans-serif">
+<title id="fp10-title">萃取｜五格指紋卡</title>
+<desc id="fp10-desc">萃取的五格指紋：翻譯三格（探針、把柄、座標）是本章和別章不同之處，驗證兩格（寬度、誰在騙讀數）對應全科共用的解析度式與讀數式。括號內為原章小循環 L 編號。示意。</desc>
+<rect x="0" y="0" width="1900" height="1094" fill="#f8f6ee"/>
+<text x="50.0" y="62.0" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">PHARMACEUTICAL ANALYSIS / 五格指紋卡 / 萃取法 / v1.0</text>
+<text x="50.0" y="120.0" font-size="40" font-weight="700" fill="#24343f" xml:space="preserve">萃取｜一次分配＋pH 開關：五格指紋</text>
+<text x="50.0" y="165.8" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve">兩相只交換到一次平衡就停；pH 決定藥是中性（進有機相）還是帶電（留在水相）。</text>
+<text x="50.0" y="218.1" font-size="23" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">母式</tspan>　q＝Va／(Va＋D·Vo)；萃 n 次剩 qⁿ（少量多次較完全）　　<tspan font-weight="700" fill="#61717a">小循環 L×27</tspan></text>
+<text x="50.0" y="287.6" font-size="27" font-weight="700" fill="#356844" xml:space="preserve">翻譯　這一章和別章不同的地方</text>
+<rect id="fp10-b1" x="50.0" y="309.6" width="562.7" height="191.2" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="70.0" y="355.2" font-size="27" font-weight="700" fill="#356844" data-b="fp10-b1" xml:space="preserve">① 探針</text>
+<text x="70.0" y="394.6" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b1" xml:space="preserve"><tspan font-weight="700" fill="#61717a">用什麼去碰分子？</tspan></text>
+<text x="70.0" y="435.9" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b1" xml:space="preserve">第二液相（有機溶劑）或固相吸附劑（SPE）</text>
+<text x="70.0" y="469.3" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b1" xml:space="preserve">（L02、L08）</text>
+<polyline class="arrow" points="615.7,405.2 664.7,405.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="664.7,405.2 654.3,411.3 654.3,399.1" fill="#61717a"/>
+<rect id="fp10-b2" x="668.7" y="309.6" width="562.7" height="191.2" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="688.7" y="355.2" font-size="27" font-weight="700" fill="#356844" data-b="fp10-b2" xml:space="preserve">② 把柄</text>
+<text x="688.7" y="394.6" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b2" xml:space="preserve"><tspan font-weight="700" fill="#61717a">碰到分子的哪一種差異？</tspan></text>
+<text x="688.7" y="435.9" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b2" xml:space="preserve">分配差：中性分率（pH 對 pKa）、極性、電荷、</text>
+<text x="688.7" y="469.3" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b2" xml:space="preserve">結構把柄（L03、L04、L13–L18）</text>
+<polyline class="arrow" points="1234.3,405.2 1283.3,405.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1283.3,405.2 1273.0,411.3 1273.0,399.1" fill="#61717a"/>
+<rect id="fp10-b3" x="1287.3" y="309.6" width="562.7" height="191.2" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1307.3" y="355.2" font-size="27" font-weight="700" fill="#356844" data-b="fp10-b3" xml:space="preserve">③ 座標</text>
+<text x="1307.3" y="394.6" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b3" xml:space="preserve"><tspan font-weight="700" fill="#61717a">讀哪一條軸？位置／大小／形狀各是什麼？</tspan></text>
+<text x="1307.3" y="435.9" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b3" xml:space="preserve">在哪一相、多少量：D、q、回收 R、濃縮倍數</text>
+<text x="1307.3" y="469.3" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b3" xml:space="preserve">（L05、L24、L25）</text>
+<text x="618.7" y="393.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">去碰</text>
+<text x="1233.3" y="393.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">放大</text>
+<polyline class="arrow" points="1568.7,502.8 1568.7,534.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline class="arrow" points="494.0,534.8 1568.7,534.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="50.0" y="584.8" font-size="27" font-weight="700" fill="#b72d4a" xml:space="preserve">驗證　全科共用的兩條式子</text>
+<polyline class="arrow" points="494.0,534.8 494.0,601.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="494.0,601.8 487.9,591.4 500.1,591.4" fill="#61717a"/>
+<polyline class="arrow" points="1406.0,534.8 1406.0,601.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1406.0,601.8 1399.9,591.4 1412.1,591.4" fill="#61717a"/>
+<rect id="fp10-b4" x="50.0" y="604.8" width="888.0" height="199.2" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="70.0" y="650.4" font-size="27" font-weight="700" fill="#9e771c" data-b="fp10-b4" xml:space="preserve">④ 寬度</text>
+<text x="70.0" y="689.7" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b4" xml:space="preserve"><tspan font-weight="700">解析度＝位置差 ÷ 寬度</tspan></text>
+<text x="70.0" y="731.1" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b4" xml:space="preserve"><tspan font-weight="700" fill="#61717a">什麼讓位置變模糊？</tspan></text>
+<text x="70.0" y="772.4" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b4" xml:space="preserve">一次平衡分不乾淨 → 少量多次（L02）；乳化使界面不清（L07）</text>
+<rect id="fp10-b5" x="962.0" y="604.8" width="888.0" height="199.2" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="982.0" y="650.4" font-size="27" font-weight="700" fill="#b72d4a" data-b="fp10-b5" xml:space="preserve">⑤ 誰在騙讀數</text>
+<text x="982.0" y="689.7" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b5" xml:space="preserve"><tspan font-weight="700">讀數＝斜率 × 量＋背景</tspan></text>
+<text x="982.0" y="731.1" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b5" xml:space="preserve"><tspan font-weight="700" fill="#61717a">什麼會冒充訊號，或偷偷改掉訊號？</tspan></text>
+<text x="982.0" y="772.4" font-size="23" font-weight="400" fill="#24343f" data-b="fp10-b5" xml:space="preserve">基質一起被萃出；濃度變高被誤當回收變高（L25）；洗液洗掉目標（L10）</text>
+<rect id="fp10-b6" x="50.0" y="829.9" width="1800.0" height="107.8" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="68.0" y="868.8" font-size="22" font-weight="400" fill="#24343f" data-b="fp10-b6" xml:space="preserve"><tspan font-weight="700">答錯時先分流</tspan>：錯在翻譯（①–③：用錯探針、認錯把柄、讀錯座標或單位）→ 回該格括號裡的 L；錯在驗證（④⑤：分不開、被假訊號騙）→ 也查圖4 的污染型與回查路由。</text>
+<text x="68.0" y="908.7" font-size="22" font-weight="400" fill="#24343f" data-b="fp10-b6" xml:space="preserve"><tspan font-weight="700" fill="#61717a">小循環存檔點　A 認相與 pH L01–07｜B SPE 四步 L08–12｜C 電荷・結構・尺寸 L13–18｜D 特殊取樣 L19–23｜E 濃縮・回收・品質 L24–27</tspan></text>
+<rect id="fp10-b7" x="50.0" y="955.7" width="1800.0" height="57.0" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2" stroke-dasharray="8 6"/>
+<text x="64.0" y="988.7" font-size="20" font-weight="400" fill="#24343f" data-b="fp10-b7" xml:space="preserve"><tspan font-weight="700" fill="#61717a">背景流程（四站）：M01 先定問題，決定要保留什麼 → M02 放 ①② → M03 放 ③ → M04 放 ④⑤，符合才交出答案。</tspan></text>
+<text x="50.0" y="1055.7" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">來源：藥物分析_萃取法 建構講義（括號內為原章 L 編號）。總覽與跨章比較見 圖0 與 圖6 五格指紋矩陣。示意。</text>
+</svg>

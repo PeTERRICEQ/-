@@ -72,8 +72,8 @@
 <text x="70.0" y="900.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">M02</tspan>　離子源：EI、CI、ESI、APCI／APPI、MALDI；分析器：磁場、四極柱、離子</text>
 <text x="70.0" y="930.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve">阱、TOF、Orbitrap／FTICR（L08–L20）</text>
 <text x="70.0" y="964.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">M03</tspan>　m／z、相對豐度、同位素峰距（約 1／z）、碎片峰差（L01–L07、L21–L26）</text>
-<text x="70.0" y="997.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">M04</tspan>　回推中性 M；MS／MS 選母離子碰撞看子離子；內標定量；ICP-MS 測元素（L27–</text>
-<text x="70.0" y="1027.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve">L33）</text>
+<text x="70.0" y="997.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">M04</tspan>　回推中性 M；MS／MS 選母離子碰撞看子離子；內標定量；ICP-MS 測元素</text>
+<text x="70.0" y="1027.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve">（L27–L33）</text>
 <text x="70.0" y="1067.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">母式</tspan>　[M＋H]⁺：M＝m／z−1；[M＋zH]ᶻ⁺：M＝z·(m／z)−z（名目質量）</text>
 <text x="70.0" y="1106.4" font-size="20" font-weight="400" fill="#61717a" data-b="pa3-b10" xml:space="preserve"><tspan font-weight="700">小循環存檔點</tspan>　A 看懂圖 L01–07｜B 變成離子 L08–13｜C 儀器每段 L14–20｜D 峰群與碎片</text>
 <text x="70.0" y="1134.8" font-size="20" font-weight="400" fill="#61717a" data-b="pa3-b10" xml:space="preserve">L21–26｜E MS／MS L27–29｜F 方法、定量與品質 L30–33</text>
@@ -250,9 +250,9 @@
 <text x="1156.8" y="2371.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b80" xml:space="preserve">離（NMR L22）。</text>
 <rect id="pa3-b81" x="1504.4" y="2241.7" width="345.6" height="185.2" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
 <text x="1520.4" y="2280.5" font-size="24" font-weight="700" fill="#9e771c" data-b="pa3-b81" xml:space="preserve">數學</text>
-<text x="1520.4" y="2313.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">差異、微分光譜（UV L17–</text>
-<text x="1520.4" y="2342.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">L18）；選擇性熄滅 ΔF（螢光 </text>
-<text x="1520.4" y="2371.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">L03）；NIR 校正模型（IR </text>
+<text x="1520.4" y="2313.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">差異、微分光譜（UV </text>
+<text x="1520.4" y="2342.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">L17–L18）；選擇性熄滅 ΔF（螢</text>
+<text x="1520.4" y="2371.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">光 L03）；NIR 校正模型（IR </text>
 <text x="1520.4" y="2400.9" font-size="20" font-weight="400" fill="#24343f" data-b="pa3-b81" xml:space="preserve">L13）。</text>
 <rect id="pa3-b82" x="50.0" y="2448.9" width="1800.0" height="136.1" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
 <text x="68.0" y="2489.7" font-size="24" font-weight="700" fill="#9e771c" data-b="pa3-b82" xml:space="preserve">反過來：不分離、不溶解，才保留得住的資訊</text>
