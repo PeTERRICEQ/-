@@ -1,0 +1,117 @@
+<svg width="1900" height="2350" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2350" role="img" aria-labelledby="sp3_g5_title sp3_g5_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sp3_g5_title">光譜概論｜公式與誤差判讀總表</title><desc id="sp3_g5_desc">光譜概論教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；紫線表示射頻作用，綠線表示離子資訊。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="2350" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH26 / SPECTROSCOPY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">光譜概論｜公式與誤差判讀總表</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先辨求什麼與已知單位，再由定義整理；比例、倒數與科學記號可以紙筆完成。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="570" height="415" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="421" font-size="27" font-weight="600" fill="#9e771c">C1｜波數換波長</text>
+<text x="72" y="468" font-size="24" font-weight="400" fill="#24343f">定義：ν̃＝1/λ</text>
+<text x="72" y="502.08" font-size="24" font-weight="400" fill="#24343f">λ＝1/(4×10⁴) cm</text>
+<text x="72" y="536.16" font-size="24" font-weight="400" fill="#24343f">＝(1/4)×10⁻⁴ cm＝2.5×10⁻⁵ cm</text>
+<text x="72" y="570.24" font-size="24" font-weight="400" fill="#24343f">×10⁷ nm/cm → 250 nm → UV</text>
+<text x="72" y="604.32" font-size="24" font-weight="400" fill="#24343f">回驗：(4×10⁴)(2.5×10⁻⁵)＝1</text>
+<text x="72" y="638.4" font-size="24" font-weight="400" fill="#24343f">變式：20,000 cm⁻¹ → 500 nm</text>
+<text x="72" y="672.48" font-size="24" font-weight="400" fill="#24343f">護欄：波數若用 m⁻¹，係數改 10⁹。</text>
+<rect x="670" y="380" width="570" height="415" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="421" font-size="27" font-weight="600" fill="#286c68">C2｜統一單位再排序</text>
+<text x="692" y="468" font-size="24" font-weight="400" fill="#24343f">同傳播條件：E 與 λ₀ 反向</text>
+<text x="692" y="502.08" font-size="24" font-weight="400" fill="#24343f">0.25 μm → 250 nm</text>
+<text x="692" y="536.16" font-size="24" font-weight="400" fill="#24343f">500 nm → 500 nm</text>
+<text x="692" y="570.24" font-size="24" font-weight="400" fill="#24343f">2×10⁻⁶ m → 2000 nm</text>
+<text x="692" y="604.32" font-size="24" font-weight="400" fill="#24343f">最短：0.25 μm，每光子 E 最大。</text>
+<text x="692" y="638.4" font-size="24" font-weight="400" fill="#24343f">變式：400、200、1000 nm → 200 最大 E</text>
+<text x="692" y="672.48" font-size="24" font-weight="400" fill="#24343f">護欄：不能直接比較 0.25、500、2。</text>
+<rect x="1290" y="380" width="570" height="415" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="421" font-size="27" font-weight="600" fill="#356844">C3｜光子能量與比例</text>
+<text x="1312" y="468" font-size="24" font-weight="400" fill="#24343f">模型：E＝hν＝hc/λ₀</text>
+<text x="1312" y="502.08" font-size="24" font-weight="400" fill="#24343f">E₂₅₀/E₅₀₀＝500/250＝2</text>
+<text x="1312" y="536.16" font-size="24" font-weight="400" fill="#24343f">500 nm＝5×10⁻⁷ m</text>
+<text x="1312" y="570.24" font-size="24" font-weight="400" fill="#24343f">E≈(6.626×10⁻³⁴)(3×10⁸)/(5×10⁻⁷)</text>
+<text x="1312" y="604.32" font-size="24" font-weight="400" fill="#24343f">＝(19.878/5)×10⁻¹⁹ J</text>
+<text x="1312" y="638.4" font-size="24" font-weight="400" fill="#24343f">≈4.0×10⁻¹⁹ J</text>
+<text x="1312" y="672.48" font-size="24" font-weight="400" fill="#24343f">護欄：加亮不改同頻每光子 E。</text>
+<rect x="50" y="830" width="570" height="415" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="871" font-size="27" font-weight="600" fill="#685185">C4｜分率與質量</text>
+<text x="72" y="918" font-size="24" font-weight="400" fill="#24343f">1 pg＝10⁻¹² g</text>
+<text x="72" y="952.08" font-size="24" font-weight="400" fill="#24343f">0.1 pg＝10⁻¹³ g，不是 10⁻¹² g。</text>
+<text x="72" y="986.16" font-size="24" font-weight="400" fill="#24343f">質量分率：m_analyte＝w m_sample</text>
+<text x="72" y="1020.24" font-size="24" font-weight="400" fill="#24343f">1 ppb、1 kg：10⁻⁹×1000 g</text>
+<text x="72" y="1054.32" font-size="24" font-weight="400" fill="#24343f">＝10⁻⁶ g＝1 μg</text>
+<text x="72" y="1088.4" font-size="24" font-weight="400" fill="#24343f">變式：2 ppb×250 g＝0.5 μg</text>
+<text x="72" y="1122.48" font-size="24" font-weight="400" fill="#24343f">護欄：沒檢品質量，ppb 不換成 pg。</text>
+<rect x="670" y="830" width="570" height="415" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="871" font-size="27" font-weight="600" fill="#326991">C5｜h 的單位護照</text>
+<text x="692" y="918" font-size="24" font-weight="400" fill="#24343f">1 J＝10⁷ erg；h 是能量×時間</text>
+<text x="692" y="952.08" font-size="24" font-weight="400" fill="#24343f">h≈6.626×10⁻³⁴ J·s</text>
+<text x="692" y="986.16" font-size="24" font-weight="400" fill="#24343f">＝6.626×10⁻²⁷ erg·s</text>
+<text x="692" y="1020.24" font-size="24" font-weight="400" fill="#24343f">逆換：erg→J 除 10⁷</text>
+<text x="692" y="1054.32" font-size="24" font-weight="400" fill="#24343f">Q13 原 A：正 10²⁷、s⁻¹，兩處錯。</text>
+<text x="692" y="1088.4" font-size="24" font-weight="400" fill="#24343f">原 C 的 v 按語意為 ν，E＝hν。</text>
+<text x="692" y="1122.48" font-size="24" font-weight="400" fill="#24343f">護欄：h 不隨 λ 改變。</text>
+<rect x="1290" y="830" width="570" height="415" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="871" font-size="27" font-weight="600" fill="#b72d4a">性能比較｜不要跨量排序</text>
+<text x="1312" y="918" font-size="24" font-weight="400" fill="#24343f">線性示意：y＝a＋mC</text>
+<text x="1312" y="952.08" font-size="24" font-weight="400" fill="#24343f">斜率 m＝Δy/ΔC，不是量的倒數。</text>
+<text x="1312" y="986.16" font-size="24" font-weight="400" fill="#24343f">同噪音，m 變 2m → 訊號差變兩倍。</text>
+<text x="1312" y="1020.24" font-size="24" font-weight="400" fill="#24343f">同 m，噪音增加 → 低量較難辨識。</text>
+<text x="1312" y="1054.32" font-size="24" font-weight="400" fill="#24343f">檢品量、LOD、精密度分別判。</text>
+<text x="1312" y="1088.4" font-size="24" font-weight="400" fill="#24343f">本題 MS 低量、NMR 需量多：</text>
+<text x="1312" y="1122.48" font-size="24" font-weight="400" fill="#24343f">限定選項與方法，不作永久排名。</text>
+<rect x="50" y="1300" width="1800" height="280" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1341" font-size="27" font-weight="600" fill="#326991">三個波長的比較｜這是資料比較，不是三種光連續通過的路徑</text>
+<text x="72" y="1388" font-size="25" font-weight="400" fill="#24343f">250 nm：UV；500 nm：可見；2000 nm：NIR（題本分界）。</text>
+<text x="72" y="1423.5" font-size="25" font-weight="400" fill="#24343f">以 500 nm 光子 E 為 1，三者能量依序為 2、1、1/4：E 比＝500/λ₀。</text>
+<text x="72" y="1459" font-size="25" font-weight="400" fill="#24343f">波長增加，頻率與每光子能量減少；前提為相同傳播條件。</text>
+<text x="72" y="1494.5" font-size="25" font-weight="400" fill="#24343f">500 MHz 的 NMR 真空波長：3×10⁸/(5×10⁸)＝0.6 m＝6×10⁸ nm；不是全都 &gt;10⁹ nm。</text>
+<text x="50" y="1640" font-size="29" font-weight="600" fill="#b72d4a">常見錯誤 → 做什麼 → 回哪一站</text>
+<rect x="50" y="1690" width="420" height="240" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="1731" font-size="27" font-weight="600" fill="#b72d4a">cm⁻¹ 當成 Hz</text>
+<text x="72" y="1778" font-size="24" font-weight="400" fill="#24343f">先分每長度／每秒</text>
+<polyline points="260,1930 260,1964" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="260.0,1964.0 253.8,1952.6 266.2,1952.6" fill="#b72d4a"/>
+<rect x="50" y="1970" width="420" height="95" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="70" y="2025" font-size="25" font-weight="600" fill="#b72d4a">M03｜L2</text>
+<rect x="510" y="1690" width="420" height="240" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="532" y="1731" font-size="27" font-weight="600" fill="#b72d4a">λ 長反而 E 大</text>
+<text x="532" y="1778" font-size="24" font-weight="400" fill="#24343f">先固定 v，查 ν=v/λ</text>
+<polyline points="720,1930 720,1964" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="720.0,1964.0 713.8,1952.6 726.2,1952.6" fill="#b72d4a"/>
+<rect x="510" y="1970" width="420" height="95" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="530" y="2025" font-size="25" font-weight="600" fill="#b72d4a">M03｜L1、L3</text>
+<rect x="970" y="1690" width="420" height="240" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="992" y="1731" font-size="27" font-weight="600" fill="#b72d4a">1 ppb＝1 pg</text>
+<text x="992" y="1778" font-size="24" font-weight="400" fill="#24343f">補質量／體積等基準</text>
+<polyline points="1180,1930 1180,1964" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1180.0,1964.0 1173.8,1952.6 1186.2,1952.6" fill="#b72d4a"/>
+<rect x="970" y="1970" width="420" height="95" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="990" y="2025" font-size="25" font-weight="600" fill="#b72d4a">M03｜C4</text>
+<rect x="1430" y="1690" width="420" height="240" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1452" y="1731" font-size="27" font-weight="600" fill="#b72d4a">Raman 不能定量</text>
+<text x="1452" y="1778" font-size="24" font-weight="400" fill="#24343f">分題本答案與一般能力</text>
+<polyline points="1640,1930 1640,1964" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1640.0,1964.0 1633.8,1952.6 1646.2,1952.6" fill="#b72d4a"/>
+<rect x="1430" y="1970" width="420" height="95" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1450" y="2025" font-size="25" font-weight="600" fill="#b72d4a">M04｜F12</text>
+<text x="50" y="2170" font-size="22" font-weight="400" fill="#61717a">C＝濃度；c＝真空光速；h＝普朗克常數；ν＝頻率；ν̃＝波數；λ₀＝真空波長；LOD＝偵測極限。</text>
+<text x="50" y="2282" font-size="20" font-weight="400" fill="#61717a">題本 Q1 的波數、Q13 的錯誤選項、Q26 的 0.1 pg 原樣保留；額外比較與變式均為自編紙筆練習。</text>
+<text x="50" y="2318" font-size="20" font-weight="400" fill="#61717a">原題：ch26 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

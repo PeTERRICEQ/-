@@ -1,0 +1,113 @@
+<svg width="1900" height="2880" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2880" role="img" aria-labelledby="ri3_g5_title ri3_g5_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ri3_g5_title">折光度測定法｜公式與誤差判讀總表</title><desc id="ri3_g5_desc">折光度測定法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；綠線表示液體流路。紅虛線表示條件不符的分析者回查。示意不按比例；角度從法線量起。</desc>
+<rect x="0" y="0" width="1900" height="2880" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH33 / REFRACTOMETRY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">折光度測定法｜公式與誤差判讀總表</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先讀題目給的角色與條件，再寫母式；紙筆以約分、差值與比例完成，最後核對單位及方向。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="385" width="570" height="360" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="426" font-size="27" font-weight="600" fill="#9e771c">C1｜由速度求 n</text>
+<text x="72" y="473" font-size="24" font-weight="400" fill="#24343f">母式：n＝v_air／v_sample</text>
+<text x="72" y="507.08" font-size="24" font-weight="400" fill="#24343f">題給：3.0×10⁸／2.0×10⁸</text>
+<text x="72" y="541.16" font-size="24" font-weight="400" fill="#24343f">約 m/s 與 10⁸ → 3／2＝1.50</text>
+<text x="72" y="575.24" font-size="24" font-weight="400" fill="#24343f">護欄：相對空氣；真空用 n_abs。</text>
+<text x="72" y="609.32" font-size="24" font-weight="400" fill="#24343f">算成 2／3：回 M03／L1 查比值。</text>
+<rect x="670" y="385" width="570" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="426" font-size="27" font-weight="600" fill="#286c68">C2｜先認介質，再寫正弦比</text>
+<text x="692" y="473" font-size="24" font-weight="400" fill="#24343f">母式：n₁ sin θ₁＝n₂ sin θ₂</text>
+<text x="692" y="507.08" font-size="24" font-weight="400" fill="#24343f">空氣→檢品：n_rel＝0.60／0.40</text>
+<text x="692" y="541.16" font-size="24" font-weight="400" fill="#24343f">＝6／4＝1.50；各角從法線量。</text>
+<text x="692" y="575.24" font-size="24" font-weight="400" fill="#24343f">檢品→N：n／N＝sin r／sin i。</text>
+<text x="692" y="609.32" font-size="24" font-weight="400" fill="#24343f">正入射 0／0 不可求 n，回母式。</text>
+<rect x="1290" y="385" width="570" height="360" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="426" font-size="27" font-weight="600" fill="#356844">C3｜極限角換成 n</text>
+<text x="1312" y="473" font-size="24" font-weight="400" fill="#24343f">檢品 n→稜鏡 N；n&lt;N，i→90°</text>
+<text x="1312" y="507.08" font-size="24" font-weight="400" fill="#24343f">母式：n＝N sin r_c</text>
+<text x="1312" y="541.16" font-size="24" font-weight="400" fill="#24343f">N＝1.60，sin r_c＝7／8</text>
+<text x="1312" y="575.24" font-size="24" font-weight="400" fill="#24343f">n＝(16／10)×(7／8)＝1.40</text>
+<text x="1312" y="609.32" font-size="24" font-weight="400" fill="#24343f">核對：無單位、1.40&lt;1.60。</text>
+<rect x="50" y="800" width="570" height="360" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="841" font-size="27" font-weight="600" fill="#685185">C4｜平均與溫度方向</text>
+<text x="72" y="888" font-size="24" font-weight="400" fill="#24343f">母式：n̄＝(n₁＋n₂＋n₃)／3</text>
+<text x="72" y="922.08" font-size="24" font-weight="400" fill="#24343f">1.3330、1.3331、1.3329</text>
+<text x="72" y="956.16" font-size="24" font-weight="400" fill="#24343f">對 1.3330 偏移相消 → 均值 1.3330</text>
+<text x="72" y="990.24" font-size="24" font-weight="400" fill="#24343f">水：20 °C→1.3330；25→1.3325</text>
+<text x="72" y="1024.32" font-size="24" font-weight="400" fill="#24343f">這兩點不能當全部檢品的溫度校正。</text>
+<rect x="670" y="800" width="570" height="360" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="841" font-size="27" font-weight="600" fill="#326991">C5｜先有有效區間，才內插</text>
+<text x="692" y="888" font-size="24" font-weight="400" fill="#24343f">模型：(C−C₁)/(C₂−C₁)</text>
+<text x="692" y="922.08" font-size="24" font-weight="400" fill="#24343f">＝(n−n₁)/(n₂−n₁)</text>
+<text x="692" y="956.16" font-size="24" font-weight="400" fill="#24343f">10%→1.3500；20%→1.3700</text>
+<text x="692" y="990.24" font-size="24" font-weight="400" fill="#24343f">n＝1.3600：0.0100/0.0200＝1/2</text>
+<text x="692" y="1024.32" font-size="24" font-weight="400" fill="#24343f">C＝10%＋(1/2)×10百分點＝15% w/w</text>
+<rect x="1290" y="800" width="570" height="360" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="841" font-size="27" font-weight="600" fill="#b72d4a">Δn｜兩池差值，保留符號</text>
+<text x="1312" y="888" font-size="24" font-weight="400" fill="#24343f">母式：Δn＝n_sample−n_reference</text>
+<text x="1312" y="922.08" font-size="24" font-weight="400" fill="#24343f">1.3332−1.3330＝＋0.0002</text>
+<text x="1312" y="956.16" font-size="24" font-weight="400" fill="#24343f">反過來：1.3330−1.3332＝−0.0002</text>
+<text x="1312" y="990.24" font-size="24" font-weight="400" fill="#24343f">池內是流出液／移動相，不是固定相。</text>
+<text x="1312" y="1024.32" font-size="24" font-weight="400" fill="#24343f">峰的實際顯示方向另看儀器極性。</text>
+<rect x="50" y="1250" width="1800" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1291" font-size="27" font-weight="600" fill="#326991">C5 條件護照｜兩點本身不能證明線性</text>
+<text x="72" y="1338" font-size="25" font-weight="400" fill="#24343f">先給已知組成、同 T、λ，且已驗證局部線性及可唯一反推。</text>
+<text x="72" y="1373.5" font-size="25" font-weight="400" fill="#24343f">換數字：n＝1.3650 → 0.0150／0.0200＝3／4 → C＝17.5% w/w。</text>
+<text x="72" y="1409" font-size="25" font-weight="400" fill="#24343f">加入第三成分、讀值越界或同 n 對應多個 C：先回 M04／L8 查模型；需新檢品才回 M01。</text>
+<rect x="50" y="1570" width="875" height="315" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="1611" font-size="27" font-weight="600" fill="#286c68">角度護照｜同數值，分方向</text>
+<text x="72" y="1658" font-size="24" font-weight="400" fill="#24343f">正向 n→N：r_c 是極限折射角。</text>
+<text x="72" y="1692.08" font-size="24" font-weight="400" fill="#24343f">反向 N→n：θ_c 是臨界入射角。</text>
+<text x="72" y="1726.16" font-size="24" font-weight="400" fill="#24343f">θ_c＝r_c；超過 θ_c 才全反射。</text>
+<text x="72" y="1760.24" font-size="24" font-weight="400" fill="#24343f">若算出 n&gt;N 卻用 n＝N sin r_c，</text>
+<text x="72" y="1794.32" font-size="24" font-weight="400" fill="#24343f">回 M03／L2、L3 查角色與前提。</text>
+<rect x="975" y="1570" width="875" height="315" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="997" y="1611" font-size="27" font-weight="600" fill="#b72d4a">誤差護照｜穩定與準確分開</text>
+<text x="997" y="1658" font-size="24" font-weight="400" fill="#24343f">三次平均可減少隨機波動影響。</text>
+<text x="997" y="1692.08" font-size="24" font-weight="400" fill="#24343f">三次共同偏高：平均仍偏高。</text>
+<text x="997" y="1726.16" font-size="24" font-weight="400" fill="#24343f">四位小數是解析度，不保證 ±0.0001。</text>
+<text x="997" y="1760.24" font-size="24" font-weight="400" fill="#24343f">條件不符：回 M02；</text>
+<text x="997" y="1794.32" font-size="24" font-weight="400" fill="#24343f">標準偏差與校正：回 M04／L7。</text>
+<text x="50" y="1960" font-size="29" font-weight="600" fill="#24343f">F 數字／專名快取｜這些不能由方向推導出精確數值</text>
+<rect x="50" y="2005" width="570" height="300" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="2046" font-size="27" font-weight="600" fill="#9e771c">波長／條件</text>
+<text x="72" y="2093" font-size="24" font-weight="400" fill="#24343f">D 約 589／589.3 nm。</text>
+<text x="72" y="2127.08" font-size="24" font-weight="400" fill="#24343f">n_D^T：D 是線，T 是 °C。</text>
+<text x="72" y="2161.16" font-size="24" font-weight="400" fill="#24343f">合適白光配置可配補償。</text>
+<text x="72" y="2195.24" font-size="24" font-weight="400" fill="#24343f">鎢燈不是單色；RI 光源依型號。</text>
+<rect x="670" y="2005" width="570" height="300" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="692" y="2046" font-size="27" font-weight="600" fill="#326991">水／重複／規格</text>
+<text x="692" y="2093" font-size="24" font-weight="400" fill="#24343f">水值為題本 D 線相對空氣值。</text>
+<text x="692" y="2127.08" font-size="24" font-weight="400" fill="#24343f">至少三次平均是題本規則。</text>
+<text x="692" y="2161.16" font-size="24" font-weight="400" fill="#24343f">±0.0001 是 112-2 接受的敘述。</text>
+<text x="692" y="2195.24" font-size="24" font-weight="400" fill="#24343f">個別型號依各自程序及規格。</text>
+<rect x="1290" y="2005" width="560" height="300" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="2046" font-size="27" font-weight="600" fill="#b72d4a">用途／接觸／背景</text>
+<text x="1312" y="2093" font-size="24" font-weight="400" fill="#24343f">定性物性查驗＋有條件定量。</text>
+<text x="1312" y="2127.08" font-size="24" font-weight="400" fill="#24343f">接觸液須合適、相容、不改樣。</text>
+<text x="1312" y="2161.16" font-size="24" font-weight="400" fill="#24343f">RI 參考池是移動相。</text>
+<text x="1312" y="2195.24" font-size="24" font-weight="400" fill="#24343f">Laurent half-shadow 是旋光儀。</text>
+<rect x="50" y="2360" width="1800" height="335" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="2401" font-size="27" font-weight="600" fill="#356844">交回 M04 前｜四句方向驗算</text>
+<text x="72" y="2448" font-size="25" font-weight="400" fill="#24343f">1. 參考速度固定：檢品慢，n 大；m/s 必相消。</text>
+<text x="72" y="2483.5" font-size="25" font-weight="400" fill="#24343f">2. 固定 N 且 n&lt;N：n 增加，r_c 增加；角從法線量。</text>
+<text x="72" y="2519" font-size="25" font-weight="400" fill="#24343f">3. 同系統且有效區間：內插結果留在兩標準中間，濃度基準一致。</text>
+<text x="72" y="2554.5" font-size="25" font-weight="400" fill="#24343f">4. 同 T、λ 才能比標準；n 相同或偏離，都不能單獨指認全部成分。</text>
+<text x="50" y="2812" font-size="20" font-weight="400" fill="#61717a">C1–C5 與換數字例均自編；附件 11 題沒有獨立數值計算題。本圖是紙筆入口，完整步驟與精準回跳見雙檔。</text>
+<text x="50" y="2848" font-size="20" font-weight="400" fill="#61717a">原題：ch33 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例；角度從法線量起。</text>
+</svg>

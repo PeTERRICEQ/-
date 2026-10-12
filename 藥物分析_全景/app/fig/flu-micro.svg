@@ -1,0 +1,142 @@
+<svg width="1900" height="2430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2430" role="img" aria-labelledby="fluor3l-title fluor3l-desc">
+<title id="fluor3l-title">螢光光譜小循環掛載點圖｜20 條短鏈接回同一主線</title><desc id="fluor3l-desc">每列先標入口與出口，再補中間理由；同區模組平行使用。第一次先走 A → B → D → F 的基本讀數。</desc>
+<defs><marker id="fluor3l-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="fluor3l-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="2430" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">螢光光譜小循環掛載點圖｜20 條短鏈接回同一主線</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">每列先標入口與出口，再補中間理由；同區模組平行使用。第一次先走 A → B → D → F 的基本讀數。</text>
+<rect x="40" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M01｜先定問題</text>
+<text x="64" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">分析物？原物、產物或差值？</text>
+<path d="M 472 220 L 500 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<rect x="504" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="528" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M02｜準備與測量</text>
+<text x="528" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">反應、溶液條件、激發與收光</text>
+<path d="M 936 220 L 964 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<rect x="968" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="992" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M03｜讀訊號</text>
+<text x="992" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">λex／λem、F／ΔF、單位</text>
+<path d="M 1400 220 L 1428 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<rect x="1432" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="1456" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M04｜核對結論</text>
+<text x="1456" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">背景、校正與範圍是否可靠？</text>
+<rect x="40" y="335" width="590" height="675" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="64" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">A｜先選對量測路徑</text>
+<text x="62" y="434.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L01｜微量分析與選擇性</text>
+<text x="62" y="472.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M01 目的 → L01 → M04 選法</text>
+<text x="62" y="506.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">能發光 → 選兩波長 → 辨微量訊號</text>
+<path d="M 62 534 L 608 534" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="62" y="572.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L02｜結構先過吸收與發光兩關</text>
+<text x="62" y="610.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M01 結構 → L02 → M02 準備</text>
+<text x="62" y="644.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">吸光 → 有效發光 → 決定是否反應</text>
+<path d="M 62 672 L 608 672" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="62" y="710.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L03｜選測定路徑與檢品角色</text>
+<text x="62" y="748.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M01 分析物 → L03 → M03 F／ΔF</text>
+<text x="62" y="782.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">原物／衍生化／熄滅 → F 或 ΔF</text>
+<text x="62" y="977.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#9e771c">先問對象與路徑，不先背試劑串。</text>
+<rect x="660" y="335" width="590" height="675" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="684" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">B｜讀懂波長與效率</text>
+<text x="682" y="434.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L04｜吸收後的能量帳與波長</text>
+<text x="682" y="472.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 能量變化 → L04 → M03 波長</text>
+<text x="682" y="506.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">吸光 → 先散失能量 → 通常 λem＞λex</text>
+<path d="M 682 534 L 1228 534" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="682" y="572.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L05｜量子產率是光子比例</text>
+<text x="682" y="610.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 光子數 → L05 → M03 效率Φ</text>
+<text x="682" y="644.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">數螢光光子／吸收光子 → Φ</text>
+<path d="M 682 672 L 1228 672" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="682" y="710.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L06｜螢光與磷光分流</text>
+<text x="682" y="748.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 S／T路徑 → L06 → M03 光種</text>
+<text x="682" y="782.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">S₁→S₀：螢光；T₁→S₀：磷光</text>
+<text x="682" y="977.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#286c68">λ 是位置，Φ 是效率；先分量。</text>
+<rect x="1280" y="335" width="590" height="675" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="1304" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">C｜濃度不變，為何也變亮</text>
+<text x="1302" y="434.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L07｜剛性、黏度與溫度</text>
+<text x="1302" y="472.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 溫度／黏度 → L07 → M03 F</text>
+<text x="1302" y="506.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">失活減少 → 發光比例可增 → F 可增</text>
+<path d="M 1302 534 L 1848 534" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="1302" y="572.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L08｜取代基的題本配對</text>
+<text x="1302" y="610.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 取代基 → L08 → M03 強弱</text>
+<text x="1302" y="644.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">辨 OH／NH₂／NHMe → 選增強組</text>
+<path d="M 1302 672 L 1848 672" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="1302" y="710.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L09｜重原子、溶氧與共存淬熄物</text>
+<text x="1302" y="748.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 共存物 → L09 → M03 F</text>
+<text x="1302" y="782.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">失活／發光物種改變 → F 可降</text>
+<path d="M 1302 810 L 1848 810" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="1302" y="848.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L10｜pH 與溶媒先辨物種</text>
+<text x="1302" y="886.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 pH／溶媒 → L10 → M03 譜／F</text>
+<text x="1302" y="920.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">物種／吸收／失活變 → 匹配再比較</text>
+<text x="1302" y="977.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#356844">F 變了，先查條件，別直接報濃度。</text>
+<rect x="40" y="1045" width="590" height="675" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="64" y="1088.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">D｜把儀器與訊號分清</text>
+<text x="62" y="1144.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L11｜光路與兩個選波長模組</text>
+<text x="62" y="1182.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 光路 → L11 → M03 選波長F</text>
+<text x="62" y="1216.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">激發端 → 樣品 → 側向發射端</text>
+<path d="M 62 1244 L 608 1244" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="62" y="1282.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L12｜散射與螢光訊號辨認</text>
+<text x="62" y="1320.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 空白／峰位 → L12 → M04 來源</text>
+<text x="62" y="1354.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">辨散射 → 處理背景 → 才判目標光</text>
+<path d="M 62 1382 L 608 1382" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="62" y="1420.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L13｜掃描定義、帶狀與鏡像</text>
+<text x="62" y="1458.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 掃描設定 → L13 → M04 波長選擇</text>
+<text x="62" y="1492.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">固定 em 掃 ex／固定 ex 掃 em</text>
+<path d="M 62 1520 L 608 1520" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="62" y="1558.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L14｜低吸收線性與高濃度偏離</text>
+<text x="62" y="1596.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 淨F、c → L14 → M04 校正範圍</text>
+<text x="62" y="1630.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">稀液約成比例 → 高濃度可能偏離</text>
+<text x="62" y="1687.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#685185">固定端、掃描端、背景與範圍各有用途。</text>
+<rect x="660" y="1045" width="590" height="675" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2.5"/>
+<text x="684" y="1088.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#326991">E｜把反應接回含量</text>
+<text x="682" y="1144.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L15｜Vitamin B₁ 氧化做出訊號</text>
+<text x="682" y="1182.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M01 B₁ → L15 → M03 產物F</text>
+<text x="682" y="1216.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">Thiamine → 鹼性氧化 → Thiochrome</text>
+<path d="M 682 1244 L 1228 1244" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="682" y="1282.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L16｜Vitamin B₂ 還原差值</text>
+<text x="682" y="1320.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 前後F → L16 → M04 B₂量</text>
+<text x="682" y="1354.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">還原消光 → 前減後 → 扣空白差</text>
+<path d="M 682 1382 L 1228 1382" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="682" y="1420.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L17｜Digoxin 脫水與氧化</text>
+<text x="682" y="1458.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M01 Digoxin → L17 → M04 含量</text>
+<text x="682" y="1492.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">HCl 脫水 → H₂O₂ 氧化 → 產物 F</text>
+<path d="M 682 1520 L 1228 1520" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="682" y="1558.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L18｜鋁與鋅的螯合訊號</text>
+<text x="682" y="1596.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M02 金屬＋試劑 → L18 → M04 金屬量</text>
+<text x="682" y="1630.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">Al／Zn＋8-Hydroxyquinoline → 錯合 F</text>
+<text x="682" y="1687.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#326991">產物 F 與消光 ΔF，反應方向相反。</text>
+<rect x="1280" y="1045" width="590" height="675" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="1304" y="1088.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">F｜讓結論有證據</text>
+<text x="1302" y="1144.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L19｜蛋白質訊號與環境探針</text>
+<text x="1302" y="1182.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 蛋白質訊號 → L19 → M04 環境比較</text>
+<text x="1302" y="1216.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">譜形／F＋控制 → 有條件的環境證據</text>
+<path d="M 1302 1244 L 1848 1244" fill="none" stroke="#a7b5b0" stroke-width="3"/>
+<text x="1302" y="1282.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L20｜校正、品質與回查閉合</text>
+<text x="1302" y="1320.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">M03 讀數 → L20 → M04 結論／回查</text>
+<text x="1302" y="1354.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">背景／校正／範圍 → 回推量或修正</text>
+<text x="1302" y="1687.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#b72d4a">能說出條件、判法與回查，才算接通。</text>
+<rect x="40" y="1755" width="1820" height="132" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="1798.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">串起來用一次｜自編首例，不是實測</text>
+<text x="64" y="1843.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">350／450 nm → B 分清照入與放出 → D 扣空白得標準100、檢品50 → F 比標準2 µg/mL得1 µg/mL。</text>
+<rect x="40" y="1918" width="1820" height="425" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="64" y="1961.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">L04／L06 的原理小圖｜能量往上較高；圖為通常路徑示意</text>
+<path d="M 110 2268 L 1045 2268" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 245 2040 L 657 2040" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 245 2095 L 657 2095" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 710 2150 L 1045 2150" fill="none" stroke="#61717a" stroke-width="3"/>
+<text x="111" y="2306.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">S₀ 基態</text>
+<text x="245" y="2023.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">S₁：吸收至較高振動階</text>
+<text x="110" y="2123.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">S₁ 最低階</text>
+<text x="715" y="2131.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">T₁ 激發三重態</text>
+<path d="M 315 2268 L 315 2040" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<text x="335" y="2201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">吸收</text>
+<path d="M 440 2040 L 440 2095" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)" stroke-dasharray="10 7"/>
+<text x="461" y="2072.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#61717a">先鬆弛</text>
+<path d="M 518 2095 L 518 2268" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<text x="538" y="2240.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">螢光</text>
+<path d="M 658 2095 L 713 2150" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)" stroke-dasharray="10 7"/>
+<text x="774" y="2077.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#61717a">ISC：換態，不是放光</text>
+<path d="M 917 2150 L 917 2268" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3l-arrow)"/>
+<text x="937" y="2240.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">磷光</text>
+<text x="1190" y="2082.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">S／T 是自旋狀態分類；不是一顆／三顆電子。</text>
+<text x="1190" y="2115.3" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">先鬆弛少掉部分能量，再放光。</text>
+<text x="1190" y="2148.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">轉進 T₁ 之後仍可能不放光。</text>
+<text x="1190" y="2182.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">λem 通常較長；Φ 衡量發光光子比例。</text>
+<text x="40" y="2392.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 螢光光譜｜v3.0｜先讀波長與亮度 → 理解原因 → 作答與回查</text>
+</svg>

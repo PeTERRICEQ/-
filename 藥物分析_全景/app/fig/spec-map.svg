@@ -1,0 +1,251 @@
+<svg width="1900" height="5158" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 5158" role="img" aria-labelledby="sp3_g3_title sp3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sp3_g3_title">光譜概論｜全章方法分類與大小循環對照</title><desc id="sp3_g3_desc">光譜概論教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；紫線表示射頻作用，綠線表示離子資訊。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="5158" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH26 / SPECTROSCOPY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">光譜概論｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">十種核心方法，每種各列 P1–P4；先分名稱層次，再沿相同四站比較目的、作用、讀數與限制。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="1800" height="310" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="421" font-size="27" font-weight="600" fill="#61717a">分類分層｜平行方法不強接成一條光路</text>
+<text x="72" y="468" font-size="24" font-weight="400" fill="#24343f">波段：UV／可見／NIR／IR；名稱範圍依教材及設備用途判。</text>
+<text x="72" y="502.08" font-size="24" font-weight="400" fill="#24343f">原理：吸收、放射、非彈性散射、核共振、離子質荷比、繞射。</text>
+<text x="72" y="536.16" font-size="24" font-weight="400" fill="#24343f">配置：LC-MS、串聯 MS、solid-state NMR、溶液 DOSY；不是與所有原理平行的新增物理事件。</text>
+<text x="72" y="570.24" font-size="24" font-weight="400" fill="#24343f">部件／製樣：氘燈、雷射、磁體、離子源、Mull、DRIFT、ATR、KBr pellet；用途與條件見圖 4。</text>
+<rect x="50" y="745" width="880" height="717" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="792" font-size="29" font-weight="600" fill="#356844">UV-Vis（紫外－可見光譜）</text>
+<rect x="74" y="863.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="902.18" font-size="25" font-weight="600" fill="#356844">P1／M01｜對象與目的</text>
+<text x="92" y="945.18" font-size="24" font-weight="400" fill="#24343f">分子對 UV／可見光的吸收；用於含量或特徵比較。</text>
+<polyline points="490,987.18 490,1004.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1004.2 483.8,992.8 496.2,992.8" fill="#61717a"/>
+<rect x="74" y="1005.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="1044.18" font-size="25" font-weight="600" fill="#356844">P2／M02｜作用與條件</text>
+<text x="92" y="1087.18" font-size="24" font-weight="400" fill="#24343f">電子能階改變；須有可量測吸收、適當溶劑與波長。</text>
+<polyline points="490,1129.1799999999998 490,1146.1799999999998" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1146.2 483.8,1134.8 496.2,1134.8" fill="#61717a"/>
+<rect x="74" y="1147.1799999999998" width="832" height="158" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="1186.18" font-size="25" font-weight="600" fill="#356844">P3／M03｜裝置與讀數</text>
+<text x="92" y="1229.18" font-size="24" font-weight="400" fill="#24343f">典型 UV 用氘燈、可見用鎢／石英鹵素；讀透射光與吸光度。 λ：nm；T、</text>
+<text x="92" y="1263.26" font-size="24" font-weight="400" fill="#24343f">A 無量綱。</text>
+<polyline points="490,1305.1799999999998 490,1322.1799999999998" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1322.2 483.8,1310.8 496.2,1310.8" fill="#61717a"/>
+<rect x="74" y="1323.1799999999998" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="1362.18" font-size="25" font-weight="600" fill="#356844">P4／M04｜判定與限制</text>
+<text x="92" y="1405.18" font-size="24" font-weight="400" fill="#24343f">定量需校正及適用範圍；單靠寬吸收帶通常不足以確認未知分子結構。</text>
+<rect x="970" y="745" width="880" height="717" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="994" y="792" font-size="29" font-weight="600" fill="#356844">Fluorescence（螢光）</text>
+<rect x="994" y="863.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="902.18" font-size="25" font-weight="600" fill="#356844">P1／M01｜對象與目的</text>
+<text x="1012" y="945.18" font-size="24" font-weight="400" fill="#24343f">分子受光激發後的發光；可用於適合分析物的微量分析。</text>
+<polyline points="1410,987.18 1410,1004.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1004.2 1403.8,992.8 1416.2,992.8" fill="#61717a"/>
+<rect x="994" y="1005.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="1044.18" font-size="25" font-weight="600" fill="#356844">P2／M02｜作用與條件</text>
+<text x="1012" y="1087.18" font-size="24" font-weight="400" fill="#24343f">先吸收再放光；非輻射途徑、淬熄與環境影響強度。</text>
+<polyline points="1410,1129.1799999999998 1410,1146.1799999999998" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1146.2 1403.8,1134.8 1416.2,1134.8" fill="#61717a"/>
+<rect x="994" y="1147.1799999999998" width="832" height="158" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="1186.18" font-size="25" font-weight="600" fill="#356844">P3／M03｜裝置與讀數</text>
+<text x="1012" y="1229.18" font-size="24" font-weight="400" fill="#24343f">常用氙燈；選激發／放射波段後量發光強度。 波長：nm；強度依儀器單</text>
+<text x="1012" y="1263.26" font-size="24" font-weight="400" fill="#24343f">位。</text>
+<polyline points="1410,1305.1799999999998 1410,1322.1799999999998" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1322.2 1403.8,1310.8 1416.2,1310.8" fill="#61717a"/>
+<rect x="994" y="1323.1799999999998" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="1362.18" font-size="25" font-weight="600" fill="#356844">P4／M04｜判定與限制</text>
+<text x="1012" y="1405.18" font-size="24" font-weight="400" fill="#24343f">可有良好偵測能力，但不是每個分子都發強螢光；有時須衍生化。</text>
+<rect x="50" y="1507" width="880" height="751" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="74" y="1554" font-size="29" font-weight="600" fill="#685185">Raman spectroscopy（拉曼光譜）</text>
+<rect x="74" y="1625.18" width="832" height="124" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="92" y="1664.18" font-size="25" font-weight="600" fill="#685185">P1／M01｜對象與目的</text>
+<text x="92" y="1707.18" font-size="24" font-weight="400" fill="#24343f">振動與晶體／分子環境資訊。</text>
+<polyline points="490,1749.18 490,1766.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1766.2 483.8,1754.8 496.2,1754.8" fill="#61717a"/>
+<rect x="74" y="1767.18" width="832" height="124" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="92" y="1806.18" font-size="25" font-weight="600" fill="#685185">P2／M02｜作用與條件</text>
+<text x="92" y="1849.18" font-size="24" font-weight="400" fill="#24343f">散射前後光子與物質交換能量；相關振動須能改變極化率。</text>
+<polyline points="490,1891.18 490,1908.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1908.2 483.8,1896.8 496.2,1896.8" fill="#61717a"/>
+<rect x="74" y="1909.18" width="832" height="158" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="92" y="1948.18" font-size="25" font-weight="600" fill="#685185">P3／M03｜裝置與讀數</text>
+<text x="92" y="1991.18" font-size="24" font-weight="400" fill="#24343f">雷射激發，讀 Raman shift（拉曼位移），常用 cm⁻¹。 位移：cm⁻¹；強</text>
+<text x="92" y="2025.26" font-size="24" font-weight="400" fill="#24343f">度依儀器。</text>
+<polyline points="490,2067.1800000000003 490,2084.1800000000003" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,2084.2 483.8,2072.8 496.2,2072.8" fill="#61717a"/>
+<rect x="74" y="2085.1800000000003" width="832" height="124" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="92" y="2124.18" font-size="25" font-weight="600" fill="#685185">P4／M04｜判定與限制</text>
+<text x="92" y="2167.18" font-size="24" font-weight="400" fill="#24343f">可做鑑別、晶型及合適校正下的定量；螢光背景、樣品及配置會限制判讀。</text>
+<rect x="970" y="1507" width="880" height="751" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="994" y="1554" font-size="29" font-weight="600" fill="#685185">NIR／NIRA（近紅外光譜／分析）</text>
+<rect x="994" y="1625.18" width="832" height="124" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1012" y="1664.18" font-size="25" font-weight="600" fill="#685185">P1／M01｜對象與目的</text>
+<text x="1012" y="1707.18" font-size="24" font-weight="400" fill="#24343f">固體、粉末、錠劑等的成分與物理性質資訊。</text>
+<polyline points="1410,1749.18 1410,1766.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1766.2 1403.8,1754.8 1416.2,1754.8" fill="#61717a"/>
+<rect x="994" y="1767.18" width="832" height="124" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1012" y="1806.18" font-size="25" font-weight="600" fill="#685185">P2／M02｜作用與條件</text>
+<text x="1012" y="1849.18" font-size="24" font-weight="400" fill="#24343f">常見伸縮振動的泛音與組合頻；譜帶重疊明顯。</text>
+<polyline points="1410,1891.18 1410,1908.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1908.2 1403.8,1896.8 1416.2,1896.8" fill="#61717a"/>
+<rect x="994" y="1909.18" width="832" height="158" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1012" y="1948.18" font-size="25" font-weight="600" fill="#685185">P3／M03｜裝置與讀數</text>
+<text x="1012" y="1991.18" font-size="24" font-weight="400" fill="#24343f">近紅外光源／光學與偵測配置；可採反射或透射。 波長 nm 或波數</text>
+<text x="1012" y="2025.26" font-size="24" font-weight="400" fill="#24343f">cm⁻¹；T/A 或反射資訊。</text>
+<polyline points="1410,2067.1800000000003 1410,2084.1800000000003" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,2084.2 1403.8,2072.8 1416.2,2072.8" fill="#61717a"/>
+<rect x="994" y="2085.1800000000003" width="832" height="158" rx="9" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1012" y="2124.18" font-size="25" font-weight="600" fill="#685185">P4／M04｜判定與限制</text>
+<text x="1012" y="2167.18" font-size="24" font-weight="400" fill="#24343f">水分、裸錠、均勻度、多成分等需代表性樣本與校正；不可只看到一條峰就</text>
+<text x="1012" y="2201.26" font-size="24" font-weight="400" fill="#24343f">判全部成分。</text>
+<rect x="50" y="2303" width="880" height="751" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="2350" font-size="29" font-weight="600" fill="#356844">IR（紅外光譜；以中紅外為主）</text>
+<rect x="74" y="2421.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="2460.18" font-size="25" font-weight="600" fill="#356844">P1／M01｜對象與目的</text>
+<text x="92" y="2503.18" font-size="24" font-weight="400" fill="#24343f">振動特徵、官能基與檢品環境；可比較身分或晶型。</text>
+<polyline points="490,2545.18 490,2562.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,2562.2 483.8,2550.8 496.2,2550.8" fill="#61717a"/>
+<rect x="74" y="2563.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="2602.18" font-size="25" font-weight="600" fill="#356844">P2／M02｜作用與條件</text>
+<text x="92" y="2645.18" font-size="24" font-weight="400" fill="#24343f">振動伴隨偶極矩變化時可呈 IR 吸收；物態影響譜帶。</text>
+<polyline points="490,2687.18 490,2704.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,2704.2 483.8,2692.8 496.2,2692.8" fill="#61717a"/>
+<rect x="74" y="2705.18" width="832" height="158" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="2744.18" font-size="25" font-weight="600" fill="#356844">P3／M03｜裝置與讀數</text>
+<text x="92" y="2787.18" font-size="24" font-weight="400" fill="#24343f">Globar、金屬氧化物熱源等；可用 Mull、DRIFT、ATR 或 KBr 錠法。 波數</text>
+<text x="92" y="2821.26" font-size="24" font-weight="400" fill="#24343f">cm⁻¹；T/A 或反射相關讀數。</text>
+<polyline points="490,2863.18 490,2880.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,2880.2 483.8,2868.8 496.2,2868.8" fill="#61717a"/>
+<rect x="74" y="2881.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="2920.18" font-size="25" font-weight="600" fill="#356844">P4／M04｜判定與限制</text>
+<text x="92" y="2963.18" font-size="24" font-weight="400" fill="#24343f">看多個特徵與參考譜；晶型比較先檢查前處理是否改變檢品。</text>
+<rect x="970" y="2303" width="880" height="751" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="994" y="2350" font-size="29" font-weight="600" fill="#326991">NMR（核磁共振）</text>
+<rect x="994" y="2421.18" width="832" height="124" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1012" y="2460.18" font-size="25" font-weight="600" fill="#326991">P1／M01｜對象與目的</text>
+<text x="1012" y="2503.18" font-size="24" font-weight="400" fill="#24343f">特定原子核的化學環境與彼此關係。</text>
+<polyline points="1410,2545.18 1410,2562.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,2562.2 1403.8,2550.8 1416.2,2550.8" fill="#61717a"/>
+<rect x="994" y="2563.18" width="832" height="124" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1012" y="2602.18" font-size="25" font-weight="600" fill="#326991">P2／M02｜作用與條件</text>
+<text x="1012" y="2645.18" font-size="24" font-weight="400" fill="#24343f">在磁場下用射頻激發，核訊號反映局部環境。</text>
+<polyline points="1410,2687.18 1410,2704.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,2704.2 1403.8,2692.8 1416.2,2692.8" fill="#61717a"/>
+<rect x="994" y="2705.18" width="832" height="158" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1012" y="2744.18" font-size="25" font-weight="600" fill="#326991">P3／M03｜裝置與讀數</text>
+<text x="1012" y="2787.18" font-size="24" font-weight="400" fill="#24343f">磁體、射頻系統；分析化學位移、耦合與其他資訊。 位移 ppm、耦合 Hz；</text>
+<text x="1012" y="2821.26" font-size="24" font-weight="400" fill="#24343f">接收訊號須處理。</text>
+<polyline points="1410,2863.18 1410,2880.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,2880.2 1403.8,2868.8 1416.2,2868.8" fill="#61717a"/>
+<rect x="994" y="2881.18" width="832" height="158" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1012" y="2920.18" font-size="25" font-weight="600" fill="#326991">P4／M04｜判定與限制</text>
+<text x="1012" y="2963.18" font-size="24" font-weight="400" fill="#24343f">結構／異構物常選 NMR；固態可比較晶型，溶液 DOSY 不能直接重現原晶</text>
+<text x="1012" y="2997.26" font-size="24" font-weight="400" fill="#24343f">格。</text>
+<rect x="50" y="3099" width="880" height="717" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="74" y="3146" font-size="29" font-weight="600" fill="#326991">MS（質譜）</text>
+<rect x="74" y="3217.18" width="832" height="124" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3256.18" font-size="25" font-weight="600" fill="#326991">P1／M01｜對象與目的</text>
+<text x="92" y="3299.18" font-size="24" font-weight="400" fill="#24343f">離子的質荷比與相對豐度，可提供質量及結構線索。</text>
+<polyline points="490,3341.18 490,3358.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,3358.2 483.8,3346.8 496.2,3346.8" fill="#61717a"/>
+<rect x="74" y="3359.18" width="832" height="124" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3398.18" font-size="25" font-weight="600" fill="#326991">P2／M02｜作用與條件</text>
+<text x="92" y="3441.18" font-size="24" font-weight="400" fill="#24343f">先產生離子，再分析 m/z；EI、ESI 等機制不同。</text>
+<polyline points="490,3483.18 490,3500.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,3500.2 483.8,3488.8 496.2,3488.8" fill="#61717a"/>
+<rect x="74" y="3501.18" width="832" height="158" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3540.18" font-size="25" font-weight="600" fill="#326991">P3／M03｜裝置與讀數</text>
+<text x="92" y="3583.18" font-size="24" font-weight="400" fill="#24343f">離子源、質量分析器與偵測器；不是量吸收／放射光譜。 m/z 軸及相對豐</text>
+<text x="92" y="3617.26" font-size="24" font-weight="400" fill="#24343f">度；不是光的波長。</text>
+<polyline points="490,3659.18 490,3676.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,3676.2 483.8,3664.8 496.2,3664.8" fill="#61717a"/>
+<rect x="74" y="3677.18" width="832" height="124" rx="9" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3716.18" font-size="25" font-weight="600" fill="#326991">P4／M04｜判定與限制</text>
+<text x="92" y="3759.18" font-size="24" font-weight="400" fill="#24343f">質量推定須識別電荷與加合物；碎片、同位素及分離資訊共同支持鑑別。</text>
+<rect x="970" y="3099" width="880" height="717" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="994" y="3146" font-size="29" font-weight="600" fill="#356844">AAS（原子吸收光譜）</text>
+<rect x="994" y="3217.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="3256.18" font-size="25" font-weight="600" fill="#356844">P1／M01｜對象與目的</text>
+<text x="1012" y="3299.18" font-size="24" font-weight="400" fill="#24343f">元素分析，常見金屬；被測者為原子。</text>
+<polyline points="1410,3341.18 1410,3358.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,3358.2 1403.8,3346.8 1416.2,3346.8" fill="#61717a"/>
+<rect x="994" y="3359.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="3398.18" font-size="25" font-weight="600" fill="#356844">P2／M02｜作用與條件</text>
+<text x="1012" y="3441.18" font-size="24" font-weight="400" fill="#24343f">先原子化，再測元素特徵光被吸收的程度。</text>
+<polyline points="1410,3483.18 1410,3500.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,3500.2 1403.8,3488.8 1416.2,3488.8" fill="#61717a"/>
+<rect x="994" y="3501.18" width="832" height="158" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="3540.18" font-size="25" font-weight="600" fill="#356844">P3／M03｜裝置與讀數</text>
+<text x="1012" y="3583.18" font-size="24" font-weight="400" fill="#24343f">典型線光源為 Hollow cathode lamp（中空陰極燈）；另需原子化系統。 元</text>
+<text x="1012" y="3617.26" font-size="24" font-weight="400" fill="#24343f">素特徵波長 nm；吸光度 A 無量綱。</text>
+<polyline points="1410,3659.18 1410,3676.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,3676.2 1403.8,3664.8 1416.2,3664.8" fill="#61717a"/>
+<rect x="994" y="3677.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1012" y="3716.18" font-size="25" font-weight="600" fill="#356844">P4／M04｜判定與限制</text>
+<text x="1012" y="3759.18" font-size="24" font-weight="400" fill="#24343f">校正吸收訊號判含量；不把原子化用火焰當成取代所有外部光源。</text>
+<rect x="50" y="3861" width="880" height="717" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="3908" font-size="29" font-weight="600" fill="#356844">AES（原子放射光譜）</text>
+<rect x="74" y="3979.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="4018.18" font-size="25" font-weight="600" fill="#356844">P1／M01｜對象與目的</text>
+<text x="92" y="4061.18" font-size="24" font-weight="400" fill="#24343f">激發原子／離子的特徵放射，支持元素分析。</text>
+<polyline points="490,4103.18 490,4120.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,4120.2 483.8,4108.8 496.2,4108.8" fill="#61717a"/>
+<rect x="74" y="4121.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="4160.18" font-size="25" font-weight="600" fill="#356844">P2／M02｜作用與條件</text>
+<text x="92" y="4203.18" font-size="24" font-weight="400" fill="#24343f">火焰或電漿等提供能量 → 激發 → 放光。</text>
+<polyline points="490,4245.18 490,4262.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,4262.2 483.8,4250.8 496.2,4250.8" fill="#61717a"/>
+<rect x="74" y="4263.18" width="832" height="158" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="4302.18" font-size="25" font-weight="600" fill="#356844">P3／M03｜裝置與讀數</text>
+<text x="92" y="4345.18" font-size="24" font-weight="400" fill="#24343f">不需外部激發燈照入再量吸收；量特徵線強度。 元素特徵波長 nm；線強度</text>
+<text x="92" y="4379.26" font-size="24" font-weight="400" fill="#24343f">依儀器單位。</text>
+<polyline points="490,4421.18 490,4438.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,4438.2 483.8,4426.8 496.2,4426.8" fill="#61717a"/>
+<rect x="74" y="4439.18" width="832" height="124" rx="9" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="92" y="4478.18" font-size="25" font-weight="600" fill="#356844">P4／M04｜判定與限制</text>
+<text x="92" y="4521.18" font-size="24" font-weight="400" fill="#24343f">火焰放射常見 Na、K、Li、Ca、Ba；AES 範圍不只這五種元素。</text>
+<rect x="970" y="3861" width="880" height="717" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="994" y="3908" font-size="29" font-weight="600" fill="#b72d4a">XRD（X 射線繞射）</text>
+<rect x="994" y="3979.18" width="832" height="124" rx="9" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1012" y="4018.18" font-size="25" font-weight="600" fill="#b72d4a">P1／M01｜對象與目的</text>
+<text x="1012" y="4061.18" font-size="24" font-weight="400" fill="#24343f">晶體週期排列與相組成的資訊。</text>
+<polyline points="1410,4103.18 1410,4120.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,4120.2 1403.8,4108.8 1416.2,4108.8" fill="#61717a"/>
+<rect x="994" y="4121.18" width="832" height="124" rx="9" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1012" y="4160.18" font-size="25" font-weight="600" fill="#b72d4a">P2／M02｜作用與條件</text>
+<text x="1012" y="4203.18" font-size="24" font-weight="400" fill="#24343f">X 射線被晶體散射，符合幾何關係時形成繞射特徵。</text>
+<polyline points="1410,4245.18 1410,4262.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,4262.2 1403.8,4250.8 1416.2,4250.8" fill="#61717a"/>
+<rect x="994" y="4263.18" width="832" height="158" rx="9" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1012" y="4302.18" font-size="25" font-weight="600" fill="#b72d4a">P3／M03｜裝置與讀數</text>
+<text x="1012" y="4345.18" font-size="24" font-weight="400" fill="#24343f">X 射線源與角度／強度量測；得到繞射圖樣。 常用 2θ：°；強度依儀器單</text>
+<text x="1012" y="4379.26" font-size="24" font-weight="400" fill="#24343f">位。</text>
+<polyline points="1410,4421.18 1410,4438.18" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,4438.2 1403.8,4426.8 1416.2,4426.8" fill="#61717a"/>
+<rect x="994" y="4439.18" width="832" height="124" rx="9" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1012" y="4478.18" font-size="25" font-weight="600" fill="#b72d4a">P4／M04｜判定與限制</text>
+<text x="1012" y="4521.18" font-size="24" font-weight="400" fill="#24343f">晶型不同可呈不同繞射特徵；需適當參考與樣品處理。</text>
+<rect x="50" y="4633" width="1800" height="330" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="4674" font-size="27" font-weight="600" fill="#61717a">分類時先說讀數｜同是藥分，不代表都量光</text>
+<text x="72" y="4721" font-size="24" font-weight="400" fill="#24343f">UV-Vis／IR／AAS：光的吸收；螢光／AES：激發後放光；Raman：非彈性散射位移。</text>
+<text x="72" y="4755.08" font-size="24" font-weight="400" fill="#24343f">NMR：核環境；MS：離子質荷比；XRD：晶體繞射。LC-MS 先加分離，再取質譜資訊。</text>
+<text x="72" y="4789.16" font-size="24" font-weight="400" fill="#24343f">題本 107-1-2 選 D Raman，但一般物理分類仍為散射；104-1-14 選 B，不能外推成不能定量。</text>
+<text x="72" y="4823.24" font-size="24" font-weight="400" fill="#24343f">UV＝紫外；NIR＝近紅外；NMR＝核磁共振；MS＝質譜；AES/AAS＝原子放射／吸收；XRD＝X 射線繞射。</text>
+<text x="50" y="5090" font-size="20" font-weight="400" fill="#61717a">P1–P4 各使用本方法的實際資訊；表中箭頭表示同方法的分析資訊，不把十種方法串為物理流程。</text>
+<text x="50" y="5126" font-size="20" font-weight="400" fill="#61717a">原題：ch26 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

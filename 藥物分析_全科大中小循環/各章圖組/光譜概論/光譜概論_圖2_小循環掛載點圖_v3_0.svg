@@ -1,0 +1,208 @@
+<svg width="1900" height="3430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3430" role="img" aria-labelledby="sp3_g2_title sp3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sp3_g2_title">光譜概論｜小循環掛載圖</title><desc id="sp3_g2_desc">光譜概論教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；紫線表示射頻作用，綠線表示離子資訊。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3430" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH26 / SPECTROSCOPY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">光譜概論｜小循環掛載圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">六個存檔點、十二條 L。每張卡有具名入口、短鏈與出口；同組兩條是學習搭配，不是必然的物理先後。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="570" height="1290" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="425" font-size="29" font-weight="600" fill="#9e771c">A｜先分清量與單位</text>
+<text x="72" y="474" font-size="23" font-weight="400" fill="#24343f">先辨長度、每秒、每長度，再換算。</text>
+<rect x="68" y="530" width="534" height="545" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="572" font-size="26" font-weight="600" fill="#9e771c">L1｜波長、頻率與傳播速度</text>
+<rect x="83" y="596" width="504" height="116" rx="9" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="96" y="630" font-size="23" font-weight="400" fill="#24343f">入口 M02｜傳播速度與波長</text>
+<polyline points="335,712 335,738" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,738.0 328.8,726.6 341.2,726.6" fill="#61717a"/>
+<text x="90" y="774" font-size="24" font-weight="400" fill="#24343f">固定速度 → 波長變長 → 每秒波數變少 → 頻</text>
+<text x="90" y="808.08" font-size="24" font-weight="400" fill="#24343f">率降低</text>
+<polyline points="335,870 335,895" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,895.0 328.8,883.6 341.2,883.6" fill="#61717a"/>
+<rect x="83" y="897" width="504" height="87" rx="9" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="96" y="932" font-size="23" font-weight="400" fill="#9e771c">出口 M03｜相應頻率及改變方向</text>
+<text x="88" y="1021" font-size="21" font-weight="400" fill="#61717a">條件：固定傳播速度；換介質不可硬套反比。</text>
+<rect x="68" y="1095" width="534" height="545" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="1137" font-size="26" font-weight="600" fill="#9e771c">L2｜波數是波長的倒數</text>
+<rect x="83" y="1161" width="504" height="116" rx="9" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="96" y="1195" font-size="23" font-weight="400" fill="#24343f">入口 M03｜波數讀數與長度單位</text>
+<polyline points="335,1277 335,1303" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,1303.0 328.8,1291.6 341.2,1291.6" fill="#61717a"/>
+<text x="90" y="1339" font-size="24" font-weight="400" fill="#24343f">每公分波數 → 取倒數得 cm → 換成 nm → 判</text>
+<text x="90" y="1373.08" font-size="24" font-weight="400" fill="#24343f">波段</text>
+<polyline points="335,1435 335,1460" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,1460.0 328.8,1448.6 341.2,1448.6" fill="#61717a"/>
+<rect x="83" y="1462" width="504" height="87" rx="9" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="96" y="1497" font-size="23" font-weight="400" fill="#9e771c">出口 M04｜可供波段判讀的波長</text>
+<text x="88" y="1586" font-size="21" font-weight="400" fill="#61717a">條件：先使波數與波長的長度單位對應。</text>
+<rect x="670" y="380" width="570" height="1290" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="425" font-size="29" font-weight="600" fill="#286c68">B｜光能改變什麼</text>
+<text x="692" y="474" font-size="23" font-weight="400" fill="#24343f">光子能量須配合能階差與允許條件。</text>
+<rect x="688" y="530" width="534" height="545" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="708" y="572" font-size="26" font-weight="600" fill="#286c68">L3｜每光子能量與總光量</text>
+<rect x="703" y="596" width="504" height="116" rx="9" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="716" y="630" font-size="23" font-weight="400" fill="#24343f">入口 M02｜光的頻率與照射光量</text>
+<polyline points="955,712 955,738" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,738.0 948.8,726.6 961.2,726.6" fill="#61717a"/>
+<text x="710" y="774" font-size="24" font-weight="400" fill="#24343f">頻率 → 乘 h → 每光子能量；同頻加亮 → 光</text>
+<text x="710" y="808.08" font-size="24" font-weight="400" fill="#24343f">子數增加</text>
+<polyline points="955,870 955,895" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,895.0 948.8,883.6 961.2,883.6" fill="#61717a"/>
+<rect x="703" y="897" width="504" height="87" rx="9" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="716" y="932" font-size="23" font-weight="400" fill="#286c68">出口 M03｜單顆能量與總光量的區分</text>
+<text x="708" y="1021" font-size="21" font-weight="400" fill="#61717a">條件：E=hν；hc/λ 中 λ 須為真空波長。</text>
+<rect x="688" y="1095" width="534" height="545" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="708" y="1137" font-size="26" font-weight="600" fill="#286c68">L4｜能階差與允許躍遷</text>
+<rect x="703" y="1161" width="504" height="116" rx="9" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="716" y="1195" font-size="23" font-weight="400" fill="#24343f">入口 M02｜物質狀態、光能與可用能階</text>
+<polyline points="955,1277 955,1303" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,1303.0 948.8,1291.6 961.2,1291.6" fill="#61717a"/>
+<text x="710" y="1339" font-size="24" font-weight="400" fill="#24343f">能量配合能階差＋允許條件 → 可吸收 → 出現</text>
+<text x="710" y="1373.08" font-size="24" font-weight="400" fill="#24343f">特徵</text>
+<polyline points="955,1435 955,1460" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,1460.0 948.8,1448.6 961.2,1448.6" fill="#61717a"/>
+<rect x="703" y="1462" width="504" height="87" rx="9" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="716" y="1497" font-size="23" font-weight="400" fill="#286c68">出口 M03｜作用類型與可見光譜特徵</text>
+<text x="708" y="1586" font-size="21" font-weight="400" fill="#61717a">條件：能量配合還不夠；需有允許的交互作用。</text>
+<rect x="1290" y="380" width="570" height="1290" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="425" font-size="29" font-weight="600" fill="#356844">C｜吸收與放射分開</text>
+<text x="1312" y="474" font-size="23" font-weight="400" fill="#24343f">一個量光少多少，一個量激發後放光。</text>
+<rect x="1308" y="530" width="534" height="545" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1328" y="572" font-size="26" font-weight="600" fill="#356844">L5｜吸收如何成為讀數</text>
+<rect x="1323" y="596" width="504" height="116" rx="9" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1336" y="630" font-size="23" font-weight="400" fill="#24343f">入口 M02｜外部光、檢品與參考光路</text>
+<polyline points="1575,712 1575,738" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,738.0 1568.8,726.6 1581.2,726.6" fill="#61717a"/>
+<text x="1330" y="774" font-size="24" font-weight="400" fill="#24343f">外部光通過檢品 → 比較透射與參考 → T → A</text>
+<polyline points="1575,870 1575,895" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,895.0 1568.8,883.6 1581.2,883.6" fill="#61717a"/>
+<rect x="1323" y="897" width="504" height="87" rx="9" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1336" y="932" font-size="23" font-weight="400" fill="#356844">出口 M03｜吸收型讀數與所測對象</text>
+<text x="1328" y="1021" font-size="21" font-weight="400" fill="#61717a">條件：參考相容；先排除散射、反射等損失。</text>
+<rect x="1308" y="1095" width="534" height="545" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1328" y="1137" font-size="26" font-weight="600" fill="#356844">L6｜激發後的放射</text>
+<rect x="1323" y="1161" width="504" height="116" rx="9" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1336" y="1195" font-size="23" font-weight="400" fill="#24343f">入口 M02｜檢品與光／熱／電漿激發</text>
+<polyline points="1575,1277 1575,1303" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,1303.0 1568.8,1291.6 1581.2,1291.6" fill="#61717a"/>
+<text x="1330" y="1339" font-size="24" font-weight="400" fill="#24343f">供給能量 → 激發 → 回到較低能態 → 偵測放</text>
+<text x="1330" y="1373.08" font-size="24" font-weight="400" fill="#24343f">光</text>
+<polyline points="1575,1435 1575,1460" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,1460.0 1568.8,1448.6 1581.2,1448.6" fill="#61717a"/>
+<rect x="1323" y="1462" width="504" height="87" rx="9" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1336" y="1497" font-size="23" font-weight="400" fill="#356844">出口 M03｜放射強度與激發方式</text>
+<text x="1328" y="1586" font-size="21" font-weight="400" fill="#61717a">條件：無外部激發燈，不等於無能量輸入。</text>
+<rect x="50" y="1720" width="570" height="1290" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1765" font-size="29" font-weight="600" fill="#685185">D｜振動資訊怎麼來</text>
+<text x="72" y="1814" font-size="23" font-weight="400" fill="#24343f">Raman 讀散射位移；NIR 讀吸收譜帶。</text>
+<rect x="68" y="1870" width="534" height="545" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="1912" font-size="26" font-weight="600" fill="#685185">L7｜Raman 的能量交換</text>
+<rect x="83" y="1936" width="504" height="116" rx="9" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="96" y="1970" font-size="23" font-weight="400" fill="#24343f">入口 M02｜雷射與可發生能量交換的物質</text>
+<polyline points="335,2052 335,2078" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,2078.0 328.8,2066.6 341.2,2066.6" fill="#61717a"/>
+<text x="90" y="2114" font-size="24" font-weight="400" fill="#24343f">雷射與物質作用 → 非彈性散射 → 讀位移 →</text>
+<text x="90" y="2148.08" font-size="24" font-weight="400" fill="#24343f">振動資訊</text>
+<polyline points="335,2210 335,2235" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,2235.0 328.8,2223.6 341.2,2223.6" fill="#61717a"/>
+<rect x="83" y="2237" width="504" height="87" rx="9" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="96" y="2272" font-size="23" font-weight="400" fill="#685185">出口 M03｜Raman 位移及振動線索</text>
+<text x="88" y="2361" font-size="21" font-weight="400" fill="#61717a">條件：振動須改變極化率；背景與照射不得誤判。</text>
+<rect x="68" y="2435" width="534" height="545" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="2477" font-size="26" font-weight="600" fill="#685185">L8｜NIR 的泛音與組合頻</text>
+<rect x="83" y="2501" width="504" height="116" rx="9" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="96" y="2535" font-size="23" font-weight="400" fill="#24343f">入口 M02｜裸錠／粉末、量測幾何與校正樣本</text>
+<polyline points="335,2617 335,2643" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,2643.0 328.8,2631.6 341.2,2631.6" fill="#61717a"/>
+<text x="90" y="2679" font-size="24" font-weight="400" fill="#24343f">振動泛音／組合頻 → NIR 譜帶 → 取樣讀數 →</text>
+<text x="90" y="2713.08" font-size="24" font-weight="400" fill="#24343f">模型輸入</text>
+<polyline points="335,2775 335,2800" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,2800.0 328.8,2788.6 341.2,2788.6" fill="#61717a"/>
+<rect x="83" y="2802" width="504" height="87" rx="9" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="96" y="2837" font-size="23" font-weight="400" fill="#685185">出口 M03｜可供模型判讀的近紅外光譜</text>
+<text x="88" y="2926" font-size="21" font-weight="400" fill="#61717a">條件：散射、粒徑與厚度會影響；仍需有效模型。</text>
+<rect x="670" y="1720" width="570" height="1290" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="1765" font-size="29" font-weight="600" fill="#326991">E｜結構資訊從哪裡來</text>
+<text x="692" y="1814" font-size="23" font-weight="400" fill="#24343f">NMR 讀核環境；MS 讀離子質荷比。</text>
+<rect x="688" y="1870" width="534" height="545" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="708" y="1912" font-size="26" font-weight="600" fill="#326991">L9｜NMR 的核自旋訊號</text>
+<rect x="703" y="1936" width="504" height="116" rx="9" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="716" y="1970" font-size="23" font-weight="400" fill="#24343f">入口 M02｜可觀察原子核、靜磁場與射頻</text>
+<polyline points="955,2052 955,2078" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,2078.0 948.8,2066.6 961.2,2066.6" fill="#61717a"/>
+<text x="710" y="2114" font-size="24" font-weight="400" fill="#24343f">磁場建立核能階差 → 射頻激發 → 核訊號 →</text>
+<text x="710" y="2148.08" font-size="24" font-weight="400" fill="#24343f">核環境線索</text>
+<polyline points="955,2210 955,2235" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,2235.0 948.8,2223.6 961.2,2223.6" fill="#61717a"/>
+<rect x="703" y="2237" width="504" height="87" rx="9" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="716" y="2272" font-size="23" font-weight="400" fill="#326991">出口 M03｜化學位移、耦合等結構資訊</text>
+<text x="708" y="2361" font-size="21" font-weight="400" fill="#61717a">條件：頻率依核種與磁場；固態與溶液資訊有別。</text>
+<rect x="688" y="2435" width="534" height="545" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="708" y="2477" font-size="26" font-weight="600" fill="#326991">L10｜MS 與 LC-MS 的資訊</text>
+<rect x="703" y="2501" width="504" height="116" rx="9" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="716" y="2535" font-size="23" font-weight="400" fill="#24343f">入口 M02｜檢品、離子源及必要的 LC 分離</text>
+<polyline points="955,2617 955,2643" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,2643.0 948.8,2631.6 961.2,2631.6" fill="#61717a"/>
+<text x="710" y="2679" font-size="24" font-weight="400" fill="#24343f">形成離子 → 按 m/z 分析 → 偵測；LC 可先分</text>
+<text x="710" y="2713.08" font-size="24" font-weight="400" fill="#24343f">離混合物</text>
+<polyline points="955,2775 955,2800" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,2800.0 948.8,2788.6 961.2,2788.6" fill="#61717a"/>
+<rect x="703" y="2802" width="504" height="87" rx="9" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="716" y="2837" font-size="23" font-weight="400" fill="#326991">出口 M03｜離子質荷比、豐度與成分線索</text>
+<text x="708" y="2926" font-size="21" font-weight="400" fill="#61717a">條件：識別電荷、加合物與碎片；勿當中性質量直</text>
+<text x="708" y="2955.82" font-size="21" font-weight="400" fill="#61717a">讀。</text>
+<rect x="1290" y="1720" width="570" height="1290" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="1765" font-size="29" font-weight="600" fill="#b72d4a">F｜量得出，也要判得對</text>
+<text x="1312" y="1814" font-size="23" font-weight="400" fill="#24343f">先辨性能，再查前處理保留的資訊。</text>
+<rect x="1308" y="1870" width="534" height="545" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1328" y="1912" font-size="26" font-weight="600" fill="#b72d4a">L11｜訊號斜率、噪音與偵測</text>
+<rect x="1323" y="1936" width="504" height="116" rx="9" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1336" y="1970" font-size="23" font-weight="400" fill="#24343f">入口 M03｜校正斜率、背景變異與題目的性能</text>
+<text x="1336" y="2002.66" font-size="23" font-weight="400" fill="#24343f">要求</text>
+<polyline points="1575,2052 1575,2078" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,2078.0 1568.8,2066.6 1581.2,2066.6" fill="#61717a"/>
+<text x="1330" y="2114" font-size="24" font-weight="400" fill="#24343f">量的變化 → 訊號變化；對照背景變異 → 評估</text>
+<text x="1330" y="2148.08" font-size="24" font-weight="400" fill="#24343f">可辨識量</text>
+<polyline points="1575,2210 1575,2235" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,2235.0 1568.8,2223.6 1581.2,2223.6" fill="#61717a"/>
+<rect x="1323" y="2237" width="504" height="87" rx="9" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1336" y="2272" font-size="23" font-weight="400" fill="#b72d4a">出口 M04｜性能判斷與有效比較條件</text>
+<text x="1328" y="2361" font-size="21" font-weight="400" fill="#61717a">條件：分清靈敏度、偵測極限、檢品量與精密度。</text>
+<rect x="1308" y="2435" width="534" height="545" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1328" y="2477" font-size="26" font-weight="600" fill="#b72d4a">L12｜晶型資訊的保留與流失</text>
+<rect x="1323" y="2501" width="504" height="116" rx="9" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1336" y="2535" font-size="23" font-weight="400" fill="#24343f">入口 M01｜原晶型比較目的與檢品狀態</text>
+<polyline points="1575,2617 1575,2643" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,2643.0 1568.8,2631.6 1581.2,2631.6" fill="#61717a"/>
+<text x="1330" y="2679" font-size="24" font-weight="400" fill="#24343f">問原晶型 → 查前處理是否保留固態 → 選可辨</text>
+<text x="1330" y="2713.08" font-size="24" font-weight="400" fill="#24343f">識配置</text>
+<polyline points="1575,2775 1575,2800" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,2800.0 1568.8,2788.6 1581.2,2788.6" fill="#61717a"/>
+<rect x="1323" y="2802" width="504" height="87" rx="9" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1336" y="2837" font-size="23" font-weight="400" fill="#b72d4a">出口 M02｜相容製樣、方法與參考方案</text>
+<text x="1328" y="2926" font-size="21" font-weight="400" fill="#61717a">條件：量測後仍須在 M04 比對；有壓力不等於必轉</text>
+<text x="1328" y="2955.82" font-size="21" font-weight="400" fill="#61717a">晶。</text>
+<rect x="50" y="3070" width="1800" height="210" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="3111" font-size="27" font-weight="600" fill="#9e771c">把基本例接回四站｜原晶型保留的資訊</text>
+<text x="72" y="3158" font-size="24" font-weight="400" fill="#24343f">M01：問原晶型 → L12：查製樣、保留固體且方法能區分參考 → M02：交相容方案</text>
+<text x="72" y="3192.08" font-size="24" font-weight="400" fill="#24343f">→ M03：讀可比較的固態特徵 → M04：與參考核對，條件相符才判。</text>
+<text x="72" y="3226.16" font-size="24" font-weight="400" fill="#24343f">本題 DOSY 已轉為溶液擴散資訊；不直接恢復原晶格。</text>
+<text x="50" y="3362" font-size="20" font-weight="400" fill="#61717a">ν＝頻率 Hz；λ＝波長；T/A＝透光率／吸光度；Raman＝拉曼；NIR＝近紅外；NMR＝核磁共振；LC-MS＝液相色層－質譜。</text>
+<text x="50" y="3398" font-size="20" font-weight="400" fill="#61717a">原題：ch26 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

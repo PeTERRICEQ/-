@@ -1,0 +1,117 @@
+<svg width="2000" height="1780" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1780" role="img" aria-labelledby="pol-f4-title pol-f4-desc">
+<title id="pol-f4-title">圖4｜旋光度測定法：儀器與操作考點圖</title>
+<desc id="pol-f4-desc">旋光計光路六個部件依序排列，下方為每個部件的角色、考點、限制與題源，最下方為操作規範與檢品配製考點。</desc>
+<defs><marker id="pol-f4-a15803d" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#15803d"/></marker><marker id="pol-f4-a1d4ed8" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#1d4ed8"/></marker><marker id="pol-f4-a6d28d9" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#6d28d9"/></marker></defs>
+<rect x="0" y="0" width="2000" height="1780" fill="#fcfcfd"/>
+<text x="60" y="70" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="42" font-weight="700" fill="#111827" text-anchor="start">圖4｜儀器與操作考點：部件 → 角色 → 考點／限制 → 題源</text>
+<text x="60" y="116" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">上方為光路示意（依題本儀器概念圖重繪，非比例）；編號①～⑥與下方卡片對應。</text>
+<rect x="60" y="150" width="1880" height="300" rx="16" fill="#f8fafc" stroke="#cbd5e1" stroke-width="2"/>
+<text x="1700" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#b45309" text-anchor="start">溫度控制 25°C</text>
+<circle cx="170" cy="300" r="46" fill="#fde68a" stroke="#b45309" stroke-width="3"/>
+<text x="170" y="310" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#b45309" text-anchor="middle">Na</text>
+<text x="170" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">①鈉燈 589 nm</text>
+<polyline points="220,300 380,300" fill="none" stroke="#1d4ed8" stroke-width="4" marker-end="url(#pol-f4-a1d4ed8)"/>
+<text x="300" y="240" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="600" fill="#1d4ed8" text-anchor="middle">非偏極光</text>
+<polyline points="300,334 300,266" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<polyline points="276,324 324,276" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<polyline points="266,300 334,300" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<polyline points="276,276 324,324" fill="none" stroke="#1d4ed8" stroke-width="3"/>
+<rect x="390" y="220" width="40" height="160" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<polyline points="390,380 430,220" fill="none" stroke="#1d4ed8" stroke-width="2"/>
+<text x="410" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">②起偏鏡</text>
+<polyline points="432,300 560,300" fill="none" stroke="#15803d" stroke-width="4" marker-end="url(#pol-f4-a15803d)"/>
+<polyline points="500,260 500,340" fill="none" stroke="#15803d" stroke-width="4"/>
+<text x="500" y="244" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="600" fill="#15803d" text-anchor="middle">平面偏極光</text>
+<rect x="570" y="240" width="22" height="120" fill="#f1f5f9" stroke="#334155" stroke-width="3"/>
+<text x="582" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">③半影稜鏡</text>
+<polyline points="594,300 660,300" fill="none" stroke="#15803d" stroke-width="4" marker-end="url(#pol-f4-a15803d)"/>
+<rect x="670" y="245" width="560" height="110" rx="55" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<text x="950" y="310" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="600" fill="#15803d" text-anchor="middle">chiral 分子溶液（l dm）</text>
+<text x="950" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">④儲液管：常用 1、2 dm，不可含氣泡</text>
+<polyline points="1232,300 1380,300" fill="none" stroke="#15803d" stroke-width="4" marker-end="url(#pol-f4-a15803d)"/>
+<polyline points="1310,260 1310,340" fill="none" stroke="#9ca3af" stroke-width="2" stroke-dasharray="10 8"/>
+<polyline points="1290,336 1330,264" fill="none" stroke="#b91c1c" stroke-width="4"/>
+<text x="1345" y="256" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#b91c1c" text-anchor="start">a</text>
+<rect x="1390" y="220" width="40" height="160" fill="#ede9fe" stroke="#6d28d9" stroke-width="3"/>
+<polyline points="1390,220 1430,380" fill="none" stroke="#6d28d9" stroke-width="2"/>
+<text x="1410" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">⑤檢偏鏡</text>
+<path d="M1455,205 A60,60 0 0 1 1455,275" fill="none" stroke="#6d28d9" stroke-width="3"/>
+<text x="1470" y="230" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="21" font-weight="600" fill="#6d28d9" text-anchor="start">轉到終點</text>
+<polyline points="1432,300 1600,300" fill="none" stroke="#6d28d9" stroke-width="4" marker-end="url(#pol-f4-a6d28d9)"/>
+<rect x="1610" y="255" width="220" height="90" rx="12" fill="#e5e7eb" stroke="#334155" stroke-width="3"/>
+<text x="1720" y="310" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="600" fill="#111827" text-anchor="middle">眼／光電</text>
+<text x="1720" y="410" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="middle">⑥檢測器</text>
+<rect x="60" y="500" width="600" height="330" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="84" y="552" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">① 光源：鈉燈</text>
+<text x="84" y="593" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">角色：提供單一波長 D 線 589 nm</text>
+<text x="84" y="627" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">為什麼單一波長：[α] 隨 λ 變</text>
+<text x="84" y="661" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">（L7），混波長讀數無法定義</text>
+<text x="84" y="695" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">考點：「鈉光為常用光源」正確</text>
+<text x="84" y="729" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">下標 D ＝ 鈉光 D 線</text>
+<text x="84" y="763" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #23、111-2 #15、111-1 #18</text>
+<rect x="700" y="500" width="600" height="330" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="724" y="552" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">② 起偏鏡：Nicol prism</text>
+<text x="724" y="593" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">角色：非偏極光 → 平面偏極光</text>
+<text x="724" y="627" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">兩個三稜鏡黏合而成</text>
+<text x="724" y="661" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">與檢偏鏡「結構相同」</text>
+<text x="724" y="695" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">工作不同：位置在樣品前</text>
+<text x="724" y="729" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">題本稱「光極化物質」</text>
+<text x="724" y="763" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #23、111-2 #15</text>
+<rect x="1340" y="500" width="600" height="330" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="1364" y="552" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">③ 半影稜鏡：石英薄片</text>
+<text x="1364" y="593" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">位置：起偏鏡之後、儲液管之前</text>
+<text x="1364" y="627" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">功能：調整視野亮度、易定位</text>
+<text x="1364" y="661" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">檢偏鏡；半影效應→易調終點</text>
+<text x="1364" y="695" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#b91c1c" text-anchor="start">易錯：誤記在檢偏鏡之後</text>
+<text x="1364" y="729" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">原理：比兩半等亮（L2）</text>
+<text x="1364" y="763" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #23</text>
+<rect x="60" y="860" width="600" height="330" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3"/>
+<text x="84" y="912" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#15803d" text-anchor="start">④ 儲液管</text>
+<text x="84" y="953" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">常用 1、2 dm（1 dm＝100 mm）</text>
+<text x="84" y="987" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">l 在公式分母 → 不影響 [α]</text>
+<text x="84" y="1021" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">但 a ∝ l（113-2 陷阱）</text>
+<text x="84" y="1055" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#b91c1c" text-anchor="start">不可含氣泡：光路偏折、終點糊</text>
+<text x="84" y="1089" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">裝填後保持 25°C</text>
+<text x="84" y="1123" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #23、107-2 #2</text>
+<rect x="700" y="860" width="600" height="330" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-width="3"/>
+<text x="724" y="912" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#6d28d9" text-anchor="start">⑤ 檢偏鏡：Nicol prism</text>
+<text x="724" y="953" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">角色：轉到終點讀出 a</text>
+<text x="724" y="987" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">順時針 (+) 右旋、逆時針 (−) 左旋</text>
+<text x="724" y="1021" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">結構與起偏鏡相同</text>
+<text x="724" y="1055" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">讀數精確度至少 0.02°</text>
+<text x="724" y="1089" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">是「測量」不是「產生」偏極光</text>
+<text x="724" y="1123" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #23</text>
+<rect x="1340" y="860" width="600" height="330" rx="16" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="1364" y="912" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#6b7280" text-anchor="start">⑥ 檢測器</text>
+<text x="1364" y="953" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">題本圖：以眼睛判讀（目視）</text>
+<text x="1364" y="987" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">目視旋光計：≥ 5 次求平均</text>
+<text x="1364" y="1021" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">課外：光電式可單次量測</text>
+<text x="1364" y="1055" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">（USP〈781〉，仍扣溶劑空白）</text>
+<text x="1364" y="1089" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">檢測器不改變 [α]，只影響</text>
+<text x="1364" y="1123" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">讀數可信度</text>
+<rect x="60" y="1230" width="920" height="470" rx="16" fill="#fef3c7" stroke="#b45309" stroke-width="3"/>
+<text x="84" y="1283" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#b45309" text-anchor="start">檢品配製與條件（M02）</text>
+<text x="84" y="1324" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">濃度單位：c ＝ g/100 mL（不是 g/mL）</text>
+<text x="84" y="1358" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">  mg → ÷1000 變 g；％ w/v 直接用</text>
+<text x="84" y="1392" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">溶劑必須寫出：會改 [α]（112-2 −13 vs +20）</text>
+<text x="84" y="1426" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">  111-1：「水可作為溶媒」正確</text>
+<text x="84" y="1460" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">溫度寫上標：25°C（114-1 題幹為 20°C）</text>
+<text x="84" y="1494" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">分析物必須 chiral：異丙醇、aspirin 無</text>
+<text x="84" y="1528" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#c2410c" text-anchor="start">課外｜葡萄糖：有變旋（mutarotation），</text>
+<text x="84" y="1562" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#c2410c" text-anchor="start">  藥典以稀氨水為溶劑、使平衡後再讀</text>
+<text x="84" y="1596" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#c2410c" text-anchor="start">課外｜甘露醇：本身旋光很小，</text>
+<text x="84" y="1630" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#c2410c" text-anchor="start">  加鉬酸鹽形成錯合物使旋光變大（110-2）</text>
+<rect x="1020" y="1230" width="920" height="470" rx="16" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="1044" y="1283" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#6b7280" text-anchor="start">操作與品質規範（M07）</text>
+<text x="1044" y="1324" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">精確度：旋光計至少 0.02°（儀器規格）</text>
+<text x="1044" y="1358" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">次數：測定至少 5 次求平均（操作要求）</text>
+<text x="1044" y="1392" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">空白：同一管裝溶劑的讀數要扣除（USP）</text>
+<text x="1044" y="1426" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">溫度：25°C；溫度改變 → [α] 改變</text>
+<text x="1044" y="1460" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">氣泡：必須排除</text>
+<text x="1044" y="1494" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#b91c1c" text-anchor="start">為什麼 0.02° 重要：a＝0.6° 時</text>
+<text x="1044" y="1528" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#b91c1c" text-anchor="start">  0.02 ÷ 0.6 ＝ 1／30 ≈ 3%</text>
+<text x="1044" y="1562" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">收益與代價：換 2 dm 管 → a 加倍、</text>
+<text x="1044" y="1596" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">  相對誤差減半；代價是樣品量與氣泡</text>
+<text x="1044" y="1630" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">來源：統整本、110-1 #17；USP〈781〉課外</text>
+<text x="1960" y="1756" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="20" fill="#4b5563" text-anchor="end">依據：旋光度建構講義 v2_0｜圖組 v2_0｜光路為示意重繪</text>
+</svg>

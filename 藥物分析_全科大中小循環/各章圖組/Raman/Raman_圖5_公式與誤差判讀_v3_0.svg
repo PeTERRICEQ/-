@@ -1,0 +1,128 @@
+<svg width="1900" height="3550" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3550" role="img" aria-labelledby="rm3_g5_title rm3_g5_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="rm3_g5_title">拉曼光譜｜公式與誤差判讀總表</title><desc id="rm3_g5_desc">拉曼光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；能階子圖另標藍線為能量帳。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3550" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH30 / RAMAN / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">拉曼光譜｜公式與誤差判讀總表</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先辨絕對位置或差值，再列式、代指定單位、紙筆計算，最後用方向與條件驗算。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="1800" height="255" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="416" font-size="27" font-weight="600" fill="#326991">同一例的三種位置｜λ₀＝500 nm；模式間距＝1000 cm⁻¹</text>
+<text x="72" y="463" font-size="24" font-weight="400" fill="#24343f">anti-Stokes：Δν̃＝−1000；ν̃ₛ＝21000 cm⁻¹；λₛ≈476.2 nm。</text>
+<text x="72" y="497.08" font-size="24" font-weight="400" fill="#24343f">Rayleigh：Δν̃＝0；ν̃ₛ＝20000 cm⁻¹；λₛ＝500 nm。</text>
+<text x="72" y="531.16" font-size="24" font-weight="400" fill="#24343f">Stokes：Δν̃＝＋1000；ν̃ₛ＝19000 cm⁻¹；λₛ≈526.3 nm。峰高不在這張位置表內。</text>
+<rect x="50" y="675" width="1800" height="290" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="75" y="720" font-size="27" font-weight="600" fill="#326991">有號位移軸｜本圖只對應三個位置，不是實驗峰高</text>
+<polyline points="170,810 1710,810" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1710.0,810.0 1698.6,816.2 1698.6,803.8" fill="#326991"/>
+<polyline points="340,790 340,830" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="180" y="773" font-size="24" font-weight="400" fill="#326991">−1000｜anti-Stokes</text>
+<text x="190" y="879" font-size="24" font-weight="400" fill="#24343f">476.2 nm；短波</text>
+<polyline points="920,790 920,830" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="760" y="773" font-size="24" font-weight="400" fill="#326991">0｜Rayleigh</text>
+<text x="770" y="879" font-size="24" font-weight="400" fill="#24343f">500 nm</text>
+<polyline points="1500,790 1500,830" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1340" y="773" font-size="24" font-weight="400" fill="#326991">＋1000｜Stokes</text>
+<text x="1350" y="879" font-size="24" font-weight="400" fill="#24343f">526.3 nm；長波</text>
+<text x="75" y="929" font-size="23" font-weight="400" fill="#61717a">λₛ 從左至右增加；ν̃ₛ 從左至右降低。若閱讀器把位移軸反畫，先看刻度再判方向。</text>
+<rect x="50" y="1010" width="1800" height="350" rx="18" fill="#fff1c8" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="1054" font-size="28" font-weight="600" fill="#24343f">C1｜nm → 波數｜L4；F06</text>
+<rect x="75" y="1090" width="570" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="93" y="1126" font-size="25" font-weight="600" fill="#24343f">母式／量與單位</text>
+<text x="93" y="1177" font-size="23" font-weight="400" fill="#24343f">ν̃＝1/λ；λcm＝λnm×10⁻⁷</text>
+<text x="93" y="1209.66" font-size="23" font-weight="400" fill="#24343f">ν̃(cm⁻¹)＝10⁷／λ(nm)</text>
+<rect x="670" y="1090" width="610" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="688" y="1126" font-size="25" font-weight="600" fill="#326991">紙筆例（均為自編）</text>
+<text x="688" y="1177" font-size="23" font-weight="400" fill="#326991">500 nm → 20000 cm⁻¹</text>
+<text x="688" y="1209.66" font-size="23" font-weight="400" fill="#326991">800 nm → 12500 cm⁻¹</text>
+<rect x="1305" y="1090" width="520" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1323" y="1126" font-size="25" font-weight="600" fill="#b72d4a">驗算／常見斷點</text>
+<text x="1323" y="1177" font-size="23" font-weight="400" fill="#b72d4a">長波 → 低波數。</text>
+<text x="1323" y="1209.66" font-size="23" font-weight="400" fill="#b72d4a">10⁷ 只適用指定 nm／cm⁻¹ 單位。</text>
+<text x="1323" y="1242.32" font-size="23" font-weight="400" fill="#b72d4a">單位錯 → M03 重換算。</text>
+<rect x="50" y="1395" width="1800" height="350" rx="18" fill="#d9eeea" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="1439" font-size="28" font-weight="600" fill="#24343f">C2｜能量守恆｜L1、L4；F03</text>
+<rect x="75" y="1475" width="570" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="93" y="1511" font-size="25" font-weight="600" fill="#24343f">母式／量與單位</text>
+<text x="93" y="1562" font-size="23" font-weight="400" fill="#24343f">E₀＋E_i＝Eₛ＋E_f</text>
+<text x="93" y="1594.66" font-size="23" font-weight="400" fill="#24343f">Δν̃＝ν̃₀−ν̃ₛ＝(E_f−E_i)/(hc)</text>
+<text x="93" y="1627.32" font-size="23" font-weight="400" fill="#24343f">i／f：分子初／末態</text>
+<rect x="670" y="1475" width="610" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="688" y="1511" font-size="25" font-weight="600" fill="#326991">紙筆例（均為自編）</text>
+<text x="688" y="1562" font-size="23" font-weight="400" fill="#326991">20000−1000＝19000 → 長波</text>
+<text x="688" y="1594.66" font-size="23" font-weight="400" fill="#326991">20000＋1000＝21000 → 短波</text>
+<rect x="1305" y="1475" width="520" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1323" y="1511" font-size="25" font-weight="600" fill="#b72d4a">驗算／常見斷點</text>
+<text x="1323" y="1562" font-size="23" font-weight="400" fill="#b72d4a">Stokes 正；anti-Stokes 負。</text>
+<text x="1323" y="1594.66" font-size="23" font-weight="400" fill="#b72d4a">算 J 時 c 與波數長度單位須一致。</text>
+<text x="1323" y="1627.32" font-size="23" font-weight="400" fill="#b72d4a">方向錯 → M03 重列能量帳。</text>
+<rect x="50" y="1780" width="1800" height="350" rx="18" fill="#dceaf7" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="1824" font-size="28" font-weight="600" fill="#24343f">C3｜換雷射｜L4；F06、F07</text>
+<rect x="75" y="1860" width="570" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="93" y="1896" font-size="25" font-weight="600" fill="#24343f">母式／量與單位</text>
+<text x="93" y="1947" font-size="23" font-weight="400" fill="#24343f">ν̃ₛ＝ν̃₀−Δν̃</text>
+<text x="93" y="1979.66" font-size="23" font-weight="400" fill="#24343f">λₛ＝10⁷／ν̃ₛ</text>
+<rect x="670" y="1860" width="610" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="688" y="1896" font-size="25" font-weight="600" fill="#326991">紙筆例（均為自編）</text>
+<text x="688" y="1947" font-size="23" font-weight="400" fill="#326991">800 nm：12500−1000＝11500</text>
+<text x="688" y="1979.66" font-size="23" font-weight="400" fill="#326991">10⁷／11500＝20000／23≈869.6 nm</text>
+<rect x="1305" y="1860" width="520" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1323" y="1896" font-size="25" font-weight="600" fill="#b72d4a">驗算／常見斷點</text>
+<text x="1323" y="1947" font-size="23" font-weight="400" fill="#b72d4a">同模式與物態下位移近似同。</text>
+<text x="1323" y="1979.66" font-size="23" font-weight="400" fill="#b72d4a">峰高、背景與波長差不一定同。</text>
+<text x="1323" y="2012.32" font-size="23" font-weight="400" fill="#b72d4a">混量 → M03 分列位移／波長。</text>
+<rect x="50" y="2165" width="1800" height="350" rx="18" fill="#dceaf7" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="2209" font-size="28" font-weight="600" fill="#24343f">C4｜兩波長反算｜L4；F06</text>
+<rect x="75" y="2245" width="570" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="93" y="2281" font-size="25" font-weight="600" fill="#24343f">母式／量與單位</text>
+<text x="93" y="2332" font-size="23" font-weight="400" fill="#24343f">Δν̃＝10⁷(1/λ₀−1/λₛ)</text>
+<text x="93" y="2364.66" font-size="23" font-weight="400" fill="#24343f">兩個 λ 均以 nm 代入</text>
+<rect x="670" y="2245" width="610" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="688" y="2281" font-size="25" font-weight="600" fill="#326991">紙筆例（均為自編）</text>
+<text x="688" y="2332" font-size="23" font-weight="400" fill="#326991">500、625 nm：20000−16000</text>
+<text x="688" y="2364.66" font-size="23" font-weight="400" fill="#326991">＝＋4000 cm⁻¹；Stokes</text>
+<rect x="1305" y="2245" width="520" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1323" y="2281" font-size="25" font-weight="600" fill="#b72d4a">驗算／常見斷點</text>
+<text x="1323" y="2332" font-size="23" font-weight="400" fill="#b72d4a">先各自倒數，再相減。</text>
+<text x="1323" y="2364.66" font-size="23" font-weight="400" fill="#b72d4a">10⁷／(625−500)＝80000 是錯法。</text>
+<text x="1323" y="2397.32" font-size="23" font-weight="400" fill="#b72d4a">錯倒數 → M03 各取倒數再減。</text>
+<rect x="50" y="2550" width="1800" height="350" rx="18" fill="#f5dfe2" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="2594" font-size="28" font-weight="600" fill="#24343f">C5｜已驗證線性內插｜L9；F14</text>
+<rect x="75" y="2630" width="570" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="93" y="2666" font-size="25" font-weight="600" fill="#24343f">母式／量與單位</text>
+<text x="93" y="2717" font-size="23" font-weight="400" fill="#24343f">S＝aC＋b</text>
+<text x="93" y="2749.66" font-size="23" font-weight="400" fill="#24343f">(C−C₁)/(C₂−C₁)＝(S−S₁)/(S₂−S₁)</text>
+<rect x="670" y="2630" width="610" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="688" y="2666" font-size="25" font-weight="600" fill="#326991">紙筆例（均為自編）</text>
+<text x="688" y="2717" font-size="23" font-weight="400" fill="#326991">10%→20 a.u.；20%→40 a.u.</text>
+<text x="688" y="2749.66" font-size="23" font-weight="400" fill="#326991">未知 30：C＝10%＋(10/20)×10%</text>
+<text x="688" y="2782.32" font-size="23" font-weight="400" fill="#326991">＝15% w/w</text>
+<rect x="1305" y="2630" width="520" height="245" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1323" y="2666" font-size="25" font-weight="600" fill="#b72d4a">驗算／常見斷點</text>
+<text x="1323" y="2717" font-size="23" font-weight="400" fill="#b72d4a">固定功率、聚焦、基質與處理。</text>
+<text x="1323" y="2749.66" font-size="23" font-weight="400" fill="#b72d4a">不外插；兩點本身不證明線性。</text>
+<text x="1323" y="2782.32" font-size="23" font-weight="400" fill="#b72d4a">取樣不合 → M02；校正不合 → M04。</text>
+<rect x="50" y="2970" width="1800" height="340" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="3011" font-size="27" font-weight="600" fill="#b72d4a">L10 補充｜人口比只讀方向；不是第六組來源計算</text>
+<text x="72" y="3058" font-size="24" font-weight="400" fill="#24343f">熱平衡近似：N₁／N₀＝exp[−ΔE／(kBT)]；T 用 K，簡併另計或忽略。</text>
+<text x="72" y="3092.08" font-size="24" font-weight="400" fill="#24343f">固定 ΔE，T 升高 → 負指數絕對值變小 → 高振動態人口比例增加 → anti-Stokes 相對訊號通常增加。</text>
+<text x="72" y="3126.16" font-size="24" font-weight="400" fill="#24343f">這不是完整強度比公式；精確測溫還需頻率因子、相對響應校正與適用模型。</text>
+<text x="50" y="3482" font-size="20" font-weight="400" fill="#61717a">a.u.＝任意單位；w/w＝質量／質量；a＝斜率；b＝截距。λ＝真空波長慣例；ν̃＝波數；Δν̃＝有號 Raman 位移。</text>
+<text x="50" y="3518" font-size="20" font-weight="400" fill="#61717a">原題：ch30 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

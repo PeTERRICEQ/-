@@ -1,0 +1,128 @@
+<svg width="1900" height="2750" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2750" role="img" aria-labelledby="ce3_g1_title ce3_g1_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ce3_g1_title">CE 大循環母圖</title><desc id="ce3_g1_desc">毛細管電泳教學向量圖，v3.0。M01先定問題，M02準備與測量，M03讀訊號，M04核對結論。灰箭頭是分析流程；藍線是液流或區帶運動，金線是光路，橙線是自身電泳，紫線是聚焦運動；紅虛線僅表示分析者依品質疑點回查。所有硬體與箭頭依標籤判讀，示意不按比例；曲線依子圖標示為自編模型，非實測。</desc>
+<rect x="0" y="0" width="1900" height="2750" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH24 / CE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">CE 大循環母圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">第一輪先走 CZE；選擇不同模式，改的是 M02 的分離機制。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="455" height="400" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="72" y="416" font-size="27" font-weight="600" fill="#37668b">先寫條件，再判方向</text>
+<text x="72" y="464.34" font-size="24" font-weight="400" fill="#24343f">pH 與 pKa／pI</text>
+<text x="72" y="498.42" font-size="24" font-weight="400" fill="#24343f">電極位置＋固定偵測端</text>
+<text x="72" y="532.5" font-size="24" font-weight="400" fill="#24343f">內壁與 BGE 組成</text>
+<text x="72" y="566.58" font-size="24" font-weight="400" fill="#24343f">Ltot／Leff、V 與電流</text>
+<text x="72" y="600.66" font-size="24" font-weight="400" fill="#24343f">目的：分開、鑑別或定量？</text>
+<rect x="50" y="825" width="455" height="420" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="866" font-size="27" font-weight="600" fill="#61717a">讀箭頭的規則</text>
+<text x="72" y="914.34" font-size="24" font-weight="400" fill="#24343f">灰箭頭：分析流程與資訊。</text>
+<text x="72" y="948.42" font-size="24" font-weight="400" fill="#24343f">藍箭頭：液流／區帶運動。</text>
+<text x="72" y="982.5" font-size="24" font-weight="400" fill="#24343f">紅虛線：品質不符，分析者回查。</text>
+<text x="72" y="1016.58" font-size="24" font-weight="400" fill="#24343f">「＋、0、−」先後須正常EOF、陰極</text>
+<text x="72" y="1050.66" font-size="24" font-weight="400" fill="#24343f">出口且全員可達。</text>
+<rect x="580" y="375" width="1250" height="170" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="602" y="416" font-size="27" font-weight="600" fill="#37668b">M01｜先定問題</text>
+<text x="602" y="464.34" font-size="24" font-weight="400" fill="#24343f">L01／L28：依分析物與目的選分離機制；六模式是並列選擇，不是六個必經步驟。</text>
+<polyline points="1205,545 1205,1235" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="580" y="635" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="602" y="676" font-size="27" font-weight="600" fill="#765a8c">P01｜CZE</text>
+<text x="602" y="724.34" font-size="23" font-weight="400" fill="#24343f">帶電、有效淌度有差的分析物</text>
+<text x="602" y="757" font-size="23" font-weight="400" fill="#24343f">均一BGE；EP與EOF；L02–L12</text>
+<polyline points="1205,605 877.5,605 877.5,635" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="877.5,635.0 871.3,623.6 883.7,623.6" fill="#61717a"/>
+<polyline points="580,755 550,755" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1235" y="635" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1257" y="676" font-size="27" font-weight="600" fill="#765a8c">P02｜MEKC</text>
+<text x="1257" y="724.34" font-size="23" font-weight="400" fill="#24343f">中性/疏水物及部分帶電物</text>
+<text x="1257" y="757" font-size="23" font-weight="400" fill="#24343f">微胞假固定相；達到實際CMC；L17</text>
+<polyline points="1205,605 1532.5,605 1532.5,635" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1532.5,635.0 1526.3,623.6 1538.7,623.6" fill="#61717a"/>
+<polyline points="1830,755 1865,755" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="580" y="950" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="602" y="991" font-size="27" font-weight="600" fill="#765a8c">P03｜CGE</text>
+<text x="602" y="1039.34" font-size="23" font-weight="400" fill="#24343f">DNA/RNA、SDS變性蛋白大小</text>
+<text x="602" y="1072" font-size="23" font-weight="400" fill="#24343f">固定或可置換聚合物篩分；L19</text>
+<polyline points="1205,920 877.5,920 877.5,950" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="877.5,950.0 871.3,938.6 883.7,938.6" fill="#61717a"/>
+<polyline points="580,1070 550,1070" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1235" y="950" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1257" y="991" font-size="27" font-weight="600" fill="#765a8c">P04｜CIEF</text>
+<text x="1257" y="1039.34" font-size="23" font-weight="400" fill="#24343f">兩性物、蛋白電荷異型/pI</text>
+<text x="1257" y="1072" font-size="23" font-weight="400" fill="#24343f">pH梯度；抑制EOF聚焦；L10/L20</text>
+<polyline points="1205,920 1532.5,920 1532.5,950" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1532.5,950.0 1526.3,938.6 1538.7,938.6" fill="#61717a"/>
+<polyline points="1830,1070 1865,1070" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="580" y="1265" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="602" y="1306" font-size="27" font-weight="600" fill="#765a8c">P05｜ITP</text>
+<text x="602" y="1354.34" font-size="23" font-weight="400" fill="#24343f">同號離子濃縮、痕量分析</text>
+<text x="602" y="1387" font-size="23" font-weight="400" fill="#24343f">|μLE|&gt;|μsample|&gt;|μTE|；L21</text>
+<polyline points="1205,1235 877.5,1235 877.5,1265" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="877.5,1265.0 871.3,1253.6 883.7,1253.6" fill="#61717a"/>
+<polyline points="580,1385 550,1385" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1235" y="1265" width="595" height="240" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1257" y="1306" font-size="27" font-weight="600" fill="#765a8c">P06｜CEC</text>
+<text x="1257" y="1354.34" font-size="23" font-weight="400" fill="#24343f">中性/帶電物需層析選擇性</text>
+<text x="1257" y="1387" font-size="23" font-weight="400" fill="#24343f">真固定相分配，EOF驅動；L22</text>
+<polyline points="1205,1235 1532.5,1235 1532.5,1265" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1532.5,1265.0 1526.3,1253.6 1538.7,1253.6" fill="#61717a"/>
+<polyline points="1830,1385 1865,1385" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="550,755 550,1540 1205,1540" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1865,755 1865,1540 1205,1540" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="610" y="1580" font-size="23" font-weight="400" fill="#24343f">各模式平行選用，共同交回準備與測量。</text>
+<polyline points="1205,1540 1205,1620" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1205.0,1620.0 1198.8,1608.6 1211.2,1608.6" fill="#61717a"/>
+<rect x="580" y="1620" width="1250" height="190" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="602" y="1661" font-size="27" font-weight="600" fill="#497d65">M02｜準備與測量</text>
+<text x="602" y="1709.34" font-size="24" font-weight="400" fill="#24343f">L04／L11–L16／L26：BGE、管壁、進樣、控溫與電極；記錄電流。確定總速度指向偵測窗。</text>
+<rect x="580" y="1860" width="1250" height="190" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="602" y="1901" font-size="27" font-weight="600" fill="#90632e">M03｜讀訊號</text>
+<text x="602" y="1949.34" font-size="24" font-weight="400" fill="#24343f">L03／L05–L09／L23–L25：時間 s/min、峰形、面積、標準及中性標記；速度和淌度帶符號。</text>
+<polyline points="1205,1810 1205,1860" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1205.0,1860.0 1198.8,1848.6 1211.2,1848.6" fill="#61717a"/>
+<rect x="580" y="2100" width="1250" height="220" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="602" y="2141" font-size="27" font-weight="600" fill="#765a8c">M04｜核對結論</text>
+<text x="602" y="2189.34" font-size="24" font-weight="400" fill="#24343f">L25／L27：可達性與峰序合理？標準／加標支持身分？分離、校正與再現性合格？</text>
+<text x="602" y="2223.42" font-size="24" font-weight="400" fill="#24343f">合格 → 在已驗證條件下交出結論。</text>
+<polyline points="1205,2050 1205,2100" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1205.0,2100.0 1198.8,2088.6 1211.2,2088.6" fill="#61717a"/>
+<rect x="580" y="2380" width="1250" height="170" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="602" y="2421" font-size="27" font-weight="600" fill="#497d65">正常出口｜只報證據支持的結果</text>
+<text x="602" y="2469.34" font-size="24" font-weight="400" fill="#24343f">順序、身分或含量；一個峰不證明單一成分，高N不自動證明高Rs或低LOD。</text>
+<polyline points="1205,2320 1205,2380" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1205.0,2380.0 1198.8,2368.6 1211.2,2368.6" fill="#61717a"/>
+<rect x="50" y="1700" width="455" height="640" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="1741" font-size="27" font-weight="600" fill="#b72d4a">品質不符才回查</text>
+<text x="72" y="1789.34" font-size="23" font-weight="400" fill="#24343f">方法無法分中性／R-S → M01重新選模</text>
+<text x="72" y="1822" font-size="23" font-weight="400" fill="#24343f">式或修飾。</text>
+<text x="72" y="1854.66" font-size="23" font-weight="400" fill="#24343f">時間飄、熱或拖尾 → M02查壁/BGE、電</text>
+<text x="72" y="1887.32" font-size="23" font-weight="400" fill="#24343f">流與進樣。</text>
+<text x="72" y="1919.98" font-size="23" font-weight="400" fill="#24343f">單位置換／面積處理錯 → M03重讀、重</text>
+<text x="72" y="1952.64" font-size="23" font-weight="400" fill="#24343f">算。</text>
+<text x="72" y="1985.3" font-size="23" font-weight="400" fill="#24343f">結論超出證據 → M04補標準或驗證。</text>
+<polyline points="580,2200 535,2200 535,1950 505,1950" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="505.0,1950.0 516.4,1943.8 516.4,1956.2" fill="#b72d4a"/>
+<polyline points="50,1825 25,1825 25,445 50,445" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="50.0,445.0 38.6,451.2 38.6,438.8" fill="#b72d4a"/>
+<polyline points="505,2020 550,2020 550,1715 580,1715" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="580.0,1715.0 568.6,1721.2 568.6,1708.8" fill="#b72d4a"/>
+<polyline points="505,2210 555,2210 555,1955 580,1955" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="580.0,1955.0 568.6,1961.2 568.6,1948.8" fill="#b72d4a"/>
+<text x="50" y="2682" font-size="20" font-weight="400" fill="#61717a">入口 → 方法選擇 → 測量 → 有單位讀數 → 有條件結論。紅回線是分析者查核，不是分子自行繞圈。</text>
+<text x="50" y="2718" font-size="20" font-weight="400" fill="#61717a">來源：CH24題本／雙筆記。EP＝自身電泳，EOF＝電滲流，BGE＝背景電解質；M大站／L理解／P方法／C紙筆。圖文同源v3.0。</text>
+</svg>

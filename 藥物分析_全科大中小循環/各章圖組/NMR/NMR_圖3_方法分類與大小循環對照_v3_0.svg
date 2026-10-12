@@ -1,0 +1,106 @@
+<svg width="1900" height="1600" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1600" role="img" aria-labelledby="nmr3c-title nmr3c-desc">
+<title id="nmr3c-title">NMR 方法分類｜先問要知道什麼，再選名字</title><desc id="nmr3c-desc">同一大循環：定問題 → 選測法 → 讀對應資料 → 檢查結論。先認問題，不先背縮寫列表。</desc>
+<defs><marker id="nmr3c-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="nmr3c-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1600" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">NMR 方法分類｜先問要知道什麼，再選名字</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">同一大循環：定問題 → 選測法 → 讀對應資料 → 檢查結論。先認問題，不先背縮寫列表。</text>
+<rect x="40" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第1站｜先定問題</text>
+<text x="64" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">看結構？含量？混合物？</text>
+<path d="M 472 220 L 500 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3c-arrow)"/>
+<rect x="504" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="528" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第2站｜準備與測量</text>
+<text x="528" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">核種、溶媒、參考、RF</text>
+<path d="M 936 220 L 964 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3c-arrow)"/>
+<rect x="968" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="992" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第3站｜讀訊號</text>
+<text x="992" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">組數／位置／面積／分裂</text>
+<path d="M 1400 220 L 1428 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3c-arrow)"/>
+<rect x="1432" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="1456" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第4站｜核對答案</text>
+<text x="1456" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">證據一致？條件可靠？</text>
+<rect x="40" y="335" width="505" height="65" rx="0" fill="#dfe6e7" stroke="#61717a" stroke-width="2.5"/>
+<text x="58" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#24343f">方法</text>
+<rect x="545" y="335" width="565" height="65" rx="0" fill="#dfe6e7" stroke="#61717a" stroke-width="2.5"/>
+<text x="563" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#24343f">問題</text>
+<rect x="1110" y="335" width="420" height="65" rx="0" fill="#dfe6e7" stroke="#61717a" stroke-width="2.5"/>
+<text x="1128" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#24343f">主要讀什麼</text>
+<rect x="1530" y="335" width="330" height="65" rx="0" fill="#dfe6e7" stroke="#61717a" stroke-width="2.5"/>
+<text x="1548" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#24343f">掛回哪裡</text>
+<rect x="40" y="400" width="505" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="439.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">¹H NMR（氫核磁共振）</text>
+<rect x="545" y="400" width="565" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="439.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">氫有哪些環境？各有多少？</text>
+<rect x="1110" y="400" width="420" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="439.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">組數、δ、面積、分裂</text>
+<rect x="1530" y="400" width="330" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="439.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L01–L08／結構主線</text>
+<rect x="40" y="505" width="505" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="544.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">¹³C NMR（碳核磁共振）</text>
+<rect x="545" y="505" width="565" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="544.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">有哪些可分辨的碳環境？</text>
+<rect x="1110" y="505" width="420" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="544.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">碳峰組數與 δ</text>
+<rect x="1530" y="505" width="330" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="544.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L17／結構補證據</text>
+<rect x="40" y="610" width="505" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="649.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">DEPT（附氫碳分類）</text>
+<rect x="545" y="610" width="565" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="649.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">碳直接接 1、2、3 個 H？</text>
+<rect x="1110" y="610" width="420" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="649.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">90：CH；135：CH₂ 反相</text>
+<rect x="1530" y="610" width="330" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="649.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L18／第3 → 第4站</text>
+<rect x="40" y="715" width="505" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="754.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">COSY／TOCSY（氫相關）</text>
+<rect x="545" y="715" width="565" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="754.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">氫沿鍵與誰偶合／屬哪個網路？</text>
+<rect x="1110" y="715" width="420" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="754.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">H–H 交叉峰</text>
+<rect x="1530" y="715" width="330" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="754.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L19／第3 → 第4站</text>
+<rect x="40" y="820" width="505" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="859.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">HSQC／HMQC（直接異核相關）</text>
+<rect x="545" y="820" width="565" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="859.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">這個 H 通常直接接哪個 C？</text>
+<rect x="1110" y="820" width="420" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="859.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">H–C 直接相關</text>
+<rect x="1530" y="820" width="330" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="859.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L19／第3 → 第4站</text>
+<rect x="40" y="925" width="505" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="964.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">HMBC（異核多鍵相關）</text>
+<rect x="545" y="925" width="565" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="964.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">隔多個鍵，連到哪個 C？</text>
+<rect x="1110" y="925" width="420" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="964.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">常見 2–3 鍵 H–C 相關</text>
+<rect x="1530" y="925" width="330" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="964.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L19／第3 → 第4站</text>
+<rect x="40" y="1030" width="505" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="1069.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">NOESY／ROESY（空間相關）</text>
+<rect x="545" y="1030" width="565" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="1069.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">哪些氫在空間上接近？</text>
+<rect x="1110" y="1030" width="420" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="1069.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">空間相關，支持相對立體</text>
+<rect x="1530" y="1030" width="330" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="1069.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L20／第3 → 第4站</text>
+<rect x="40" y="1135" width="505" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="1174.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">qNMR（定量核磁共振）</text>
+<rect x="545" y="1135" width="565" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="1174.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">待測物有多少？</text>
+<rect x="1110" y="1135" width="420" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="1174.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">積分／氫數，再與內標比</text>
+<rect x="1530" y="1135" width="330" height="105" rx="0" fill="#edf3f1" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="1174.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L21／含量分支</text>
+<rect x="40" y="1240" width="505" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="58" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">DOSY（擴散排序光譜）</text>
+<rect x="545" y="1240" width="565" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="563" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">混合物成分擴散是否不同？</text>
+<rect x="1110" y="1240" width="420" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1128" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">δ 與擴散係數 D</text>
+<rect x="1530" y="1240" width="330" height="105" rx="0" fill="#fffdf7" stroke="#aebbb9" stroke-width="2.5"/>
+<text x="1548" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">L22／混合物分支</text>
+<rect x="40" y="1383" width="1820" height="130" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="64" y="1426.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">三個分類陷阱</text>
+<text x="64" y="1471.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">DEPT 數「直接接的 H」；NOESY 看「空間」；DOSY 是「光譜解析」，不把成分實體分瓶。</text>
+<text x="40" y="1562.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 NMR｜v3.0｜先會讀圖 → 理解原因 → 做題驗證</text>
+</svg>

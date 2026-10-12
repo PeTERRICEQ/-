@@ -1,0 +1,218 @@
+<svg width="1900" height="5164" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 5164" role="img" aria-labelledby="ce3_g2_title ce3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ce3_g2_title">CE 小循環掛載點圖</title><desc id="ce3_g2_desc">毛細管電泳教學向量圖，v3.0。M01先定問題，M02準備與測量，M03讀訊號，M04核對結論。灰箭頭是分析流程；藍線是液流或區帶運動，金線是光路，橙線是自身電泳，紫線是聚焦運動；紅虛線僅表示分析者依品質疑點回查。所有硬體與箭頭依標籤判讀，示意不按比例；曲線依子圖標示為自編模型，非實測。</desc>
+<rect x="0" y="0" width="1900" height="5164" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH24 / CE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">CE 小循環掛載點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">六個存檔點；每條 L 都有來源 M、具體輸入、短鏈與交回結果。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="590" height="2029.76" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="68" y="415" font-size="27" font-weight="600" fill="#37668b">先把電荷與方向說清楚</text>
+<text x="68" y="473" font-size="23" font-weight="400" fill="#24343f">先看終點，再把水流與自身電泳相加。</text>
+<rect x="68" y="545" width="555" height="263.96" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="586" font-size="27" font-weight="600" fill="#37668b">L01｜CE 先回答什麼，什麼才算分開</text>
+<text x="90" y="634.34" font-size="22" font-weight="400" fill="#24343f">M01｜分析目的與檢品狀態</text>
+<text x="90" y="665.58" font-size="22" font-weight="400" fill="#24343f">目的 → 選分離機制 → 不同區帶到達 → 用適合證據</text>
+<text x="90" y="696.82" font-size="22" font-weight="400" fill="#24343f">判讀</text>
+<text x="90" y="728.06" font-size="22" font-weight="400" fill="#24343f">→ M04｜方法目的與所需品質</text>
+<rect x="68" y="824.96" width="555" height="263.96" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="865.96" font-size="27" font-weight="600" fill="#37668b">L02｜電場會把帶電物推向哪裡</text>
+<text x="90" y="914.3" font-size="22" font-weight="400" fill="#24343f">M02｜陽極、陰極與電荷符號</text>
+<text x="90" y="945.54" font-size="22" font-weight="400" fill="#24343f">電極位置 → 電場由＋到− → 電荷受力 → 自身電泳</text>
+<text x="90" y="976.78" font-size="22" font-weight="400" fill="#24343f">方向</text>
+<text x="90" y="1008.02" font-size="22" font-weight="400" fill="#24343f">→ M03｜帶符號的電泳方向</text>
+<rect x="68" y="1104.92" width="555" height="232.72" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="1145.92" font-size="27" font-weight="600" fill="#37668b">L03｜淌度與速度，電壓到底改哪一個</text>
+<text x="90" y="1194.26" font-size="22" font-weight="400" fill="#24343f">M02｜電荷、半徑、黏度與電場</text>
+<text x="90" y="1225.5" font-size="22" font-weight="400" fill="#24343f">同一介質的 μ → 乘電場 E → 速度 v → 遷移時間</text>
+<text x="90" y="1256.74" font-size="22" font-weight="400" fill="#24343f">→ M03｜淌度與速度的不同單位</text>
+<rect x="68" y="1353.64" width="555" height="232.72" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="1394.64" font-size="27" font-weight="600" fill="#37668b">L06｜把兩個速度相加，誰真的到得了</text>
+<text x="90" y="1442.98" font-size="22" font-weight="400" fill="#24343f">M03｜EOF 與帶符號的自身電泳</text>
+<text x="90" y="1474.22" font-size="22" font-weight="400" fill="#24343f">μEOF＋μep → μapp → vapp → 到達或無法到達</text>
+<text x="90" y="1505.46" font-size="22" font-weight="400" fill="#24343f">→ M04｜到達順序與可達性</text>
+<rect x="68" y="1602.3600000000001" width="555" height="232.72" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="1643.36" font-size="27" font-weight="600" fill="#37668b">L07｜只切換正負電壓，能直接反轉峰序嗎</text>
+<text x="90" y="1691.7" font-size="22" font-weight="400" fill="#24343f">M02｜電極、內壁電荷與固定偵測端</text>
+<text x="90" y="1722.94" font-size="22" font-weight="400" fill="#24343f">先標電極 → 畫 EOF 與 EP → 相加 → 再判出口</text>
+<text x="90" y="1754.18" font-size="22" font-weight="400" fill="#24343f">→ M04｜反向配置可支持的峰序</text>
+<rect x="68" y="1851.0800000000002" width="555" height="232.72" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="1892.08" font-size="27" font-weight="600" fill="#37668b">L08｜pH 與 pKa 怎麼翻成有效電荷</text>
+<text x="90" y="1940.42" font-size="22" font-weight="400" fill="#24343f">M01｜弱酸 HA 或弱鹼 BH⁺ 的 pKa</text>
+<text x="90" y="1971.66" font-size="22" font-weight="400" fill="#24343f">比較 pH−pKa → 比例 → 帶電分率 → μep 符號</text>
+<text x="90" y="2002.9" font-size="22" font-weight="400" fill="#24343f">→ M02｜帶電比例及可用的分離條件</text>
+<rect x="68" y="2099.8" width="555" height="263.96" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="90" y="2140.8" font-size="27" font-weight="600" fill="#37668b">L09｜看結構時，哪些基團真的可以判電荷</text>
+<text x="90" y="2189.14" font-size="22" font-weight="400" fill="#24343f">M01｜原題結構及各位點酸鹼性</text>
+<text x="90" y="2220.38" font-size="22" font-weight="400" fill="#24343f">找 Carboxyl／Amine 等 → 核對 pKa → 合併平均電</text>
+<text x="90" y="2251.62" font-size="22" font-weight="400" fill="#24343f">荷 → 定方向</text>
+<text x="90" y="2282.86" font-size="22" font-weight="400" fill="#24343f">→ M02｜結構支持的符號與必要限制</text>
+<rect x="660" y="375" width="590" height="2029.76" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="678" y="415" font-size="27" font-weight="600" fill="#497d65">管壁怎樣改水流</text>
+<text x="678" y="473" font-size="23" font-weight="400" fill="#24343f">pH、離子強度與塗層改 EOF；pI 是分析物的條件。</text>
+<rect x="678" y="545" width="555" height="263.96" rx="18" fill="#fff" stroke="#497d65" stroke-width="2"/>
+<text x="700" y="586" font-size="27" font-weight="600" fill="#497d65">L04｜管壁怎麼讓整桶水一起走</text>
+<text x="700" y="634.34" font-size="22" font-weight="400" fill="#24343f">M02｜裸露 Fused silica 的內壁與 BGE</text>
+<text x="700" y="665.58" font-size="22" font-weight="400" fill="#24343f">Silanol 去質子化 → 負表面及電雙層 → 可動反離子</text>
+<text x="700" y="696.82" font-size="22" font-weight="400" fill="#24343f">受力 → 拖動水</text>
+<text x="700" y="728.06" font-size="22" font-weight="400" fill="#24343f">→ M03｜正常 EOF 向陰極</text>
+<rect x="678" y="824.96" width="555" height="232.72" rx="18" fill="#fff" stroke="#497d65" stroke-width="2"/>
+<text x="700" y="865.96" font-size="27" font-weight="600" fill="#497d65">L05｜EOF 的大小與正負號如何寫</text>
+<text x="700" y="914.3" font-size="22" font-weight="400" fill="#24343f">M02｜ζ、η、ε 與 E</text>
+<text x="700" y="945.54" font-size="22" font-weight="400" fill="#24343f">表面狀態決定 ζ → μEOF=−εζ/η → 乘 E → EOF 速度</text>
+<text x="700" y="976.78" font-size="22" font-weight="400" fill="#24343f">→ M03｜正負一致的 EOF 淌度</text>
+<rect x="678" y="1073.68" width="555" height="263.96" rx="18" fill="#fff" stroke="#497d65" stroke-width="2"/>
+<text x="700" y="1114.68" font-size="27" font-weight="600" fill="#497d65">L10｜pI 為什麼能聚焦，也能接到明膠</text>
+<text x="700" y="1163.02" font-size="22" font-weight="400" fill="#24343f">M01｜兩性分子的 pI 與目前 pH</text>
+<text x="700" y="1194.26" font-size="22" font-weight="400" fill="#24343f">pH 比 pI → 平均淨電荷 → 自身 EP → 聚焦或相互作</text>
+<text x="700" y="1225.5" font-size="22" font-weight="400" fill="#24343f">用</text>
+<text x="700" y="1256.74" font-size="22" font-weight="400" fill="#24343f">→ M02｜蛋白質方向；明膠延伸的電荷條件</text>
+<rect x="678" y="1353.64" width="555" height="302.96" rx="18" fill="#fff" stroke="#497d65" stroke-width="2"/>
+<text x="700" y="1394.64" font-size="27" font-weight="600" fill="#497d65">L11｜改 pH 或離子強度時，水和藥要分開</text>
+<text x="700" y="1432.98" font-size="27" font-weight="600" fill="#497d65">看</text>
+<text x="700" y="1481.32" font-size="22" font-weight="400" fill="#24343f">M02｜改變的 BGE 條件</text>
+<text x="700" y="1512.56" font-size="22" font-weight="400" fill="#24343f">pH／離子強度 → 壁 ζ 及分析物電荷 → EOF 與 EP →</text>
+<text x="700" y="1543.8" font-size="22" font-weight="400" fill="#24343f">合成速度</text>
+<text x="700" y="1575.04" font-size="22" font-weight="400" fill="#24343f">→ M03｜有條件的遷移時間變化</text>
+<rect x="678" y="1672.6000000000001" width="555" height="263.96" rx="18" fill="#fff" stroke="#497d65" stroke-width="2"/>
+<text x="700" y="1713.6" font-size="27" font-weight="600" fill="#497d65">L12｜內壁塗層怎麼抑制或反轉 EOF</text>
+<text x="700" y="1761.94" font-size="22" font-weight="400" fill="#24343f">M02｜內壁改質與添加劑</text>
+<text x="700" y="1793.18" font-size="22" font-weight="400" fill="#24343f">中性遮壁／增黏或正表面 → ζ／η 改變 → EOF 抑制</text>
+<text x="700" y="1824.42" font-size="22" font-weight="400" fill="#24343f">或反轉</text>
+<text x="700" y="1855.66" font-size="22" font-weight="400" fill="#24343f">→ M03｜可追蹤的 EOF 符號</text>
+<rect x="1270" y="375" width="590" height="2029.76" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="1288" y="415" font-size="27" font-weight="600" fill="#90632e">效率如何被操作破壞</text>
+<text x="1288" y="473" font-size="23" font-weight="400" fill="#24343f">塞狀流是起點；熱、進樣、吸附與電分散要各別檢查。</text>
+<rect x="1288" y="545" width="555" height="263.96" rx="18" fill="#fff" stroke="#90632e" stroke-width="2"/>
+<text x="1310" y="586" font-size="27" font-weight="600" fill="#90632e">L13｜塞狀流為什麼有利，但不保證解析度</text>
+<text x="1310" y="634.34" font-size="22" font-weight="400" fill="#24343f">M02｜流速剖面與 CZE 條件</text>
+<text x="1310" y="665.58" font-size="22" font-weight="400" fill="#24343f">薄雙層推動液體 → 主體速度近均一 → 減少剪切展寬</text>
+<text x="1310" y="696.82" font-size="22" font-weight="400" fill="#24343f">→ 高效率潛力</text>
+<text x="1310" y="728.06" font-size="22" font-weight="400" fill="#24343f">→ M04｜效率與解析度的界線</text>
+<rect x="1288" y="824.96" width="555" height="263.96" rx="18" fill="#fff" stroke="#90632e" stroke-width="2"/>
+<text x="1310" y="865.96" font-size="27" font-weight="600" fill="#90632e">L14｜焦耳熱怎樣把窄峰弄寬</text>
+<text x="1310" y="914.3" font-size="22" font-weight="400" fill="#24343f">M02｜電壓、電流、管徑與冷卻</text>
+<text x="1310" y="945.54" font-size="22" font-weight="400" fill="#24343f">P=IV → 溫度及黏度梯度 → 不同區域速度不同 → 展</text>
+<text x="1310" y="976.78" font-size="22" font-weight="400" fill="#24343f">寬漂移</text>
+<text x="1310" y="1008.02" font-size="22" font-weight="400" fill="#24343f">→ M03｜電流紀錄及熱造成的峰寬</text>
+<rect x="1288" y="1104.92" width="555" height="263.96" rx="18" fill="#fff" stroke="#90632e" stroke-width="2"/>
+<text x="1310" y="1145.92" font-size="27" font-weight="600" fill="#90632e">L15｜進樣與堆積，何時放大訊號會放寬峰</text>
+<text x="1310" y="1194.26" font-size="22" font-weight="400" fill="#24343f">M02｜注入方式、塞長與樣品電導率</text>
+<text x="1310" y="1225.5" font-size="22" font-weight="400" fill="#24343f">進樣量／偏差 → 初始區帶 → 選 stacking 條件 → 檢</text>
+<text x="1310" y="1256.74" font-size="22" font-weight="400" fill="#24343f">查峰寬與訊號</text>
+<text x="1310" y="1287.98" font-size="22" font-weight="400" fill="#24343f">→ M03｜進樣一致性與濃縮後的峰形</text>
+<rect x="1288" y="1384.88" width="555" height="263.96" rx="18" fill="#fff" stroke="#90632e" stroke-width="2"/>
+<text x="1310" y="1425.88" font-size="27" font-weight="600" fill="#90632e">L16｜拖尾與前伸，先查導電不匹配和吸附</text>
+<text x="1310" y="1474.22" font-size="22" font-weight="400" fill="#24343f">M03｜峰形、載量、BGE 與壁相互作用</text>
+<text x="1310" y="1505.46" font-size="22" font-weight="400" fill="#24343f">觀察不對稱 → 列電分散／吸附等原因 → 對照另一條</text>
+<text x="1310" y="1536.7" font-size="22" font-weight="400" fill="#24343f">件 → 回查 M02</text>
+<text x="1310" y="1567.94" font-size="22" font-weight="400" fill="#24343f">→ M02｜可檢驗的展寬候選原因</text>
+<rect x="50" y="2459.76" width="590" height="1874.7599999999998" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="2499.76" font-size="27" font-weight="600" fill="#765a8c">選出真正的分離模式</text>
+<text x="68" y="2557.76" font-size="23" font-weight="400" fill="#24343f">依淌度、分配、大小、pI 或等速區帶選六種模式。</text>
+<rect x="68" y="2629.76" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="2670.76" font-size="27" font-weight="600" fill="#765a8c">L17｜中性物用 MEKC 怎麼分開</text>
+<text x="90" y="2719.1" font-size="22" font-weight="400" fill="#24343f">M01｜中性物與微胞分配</text>
+<text x="90" y="2750.34" font-size="22" font-weight="400" fill="#24343f">濃度達成微胞 → 兩種遷移環境 → 不同分配比例 →</text>
+<text x="90" y="2781.58" font-size="22" font-weight="400" fill="#24343f">不同平均速度</text>
+<text x="90" y="2812.82" font-size="22" font-weight="400" fill="#24343f">→ M03｜水相與微胞時間之間的峰</text>
+<rect x="68" y="2909.7200000000003" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="2950.72" font-size="27" font-weight="600" fill="#765a8c">L18｜β-CD 怎樣製造立體選擇性</text>
+<text x="90" y="2999.06" font-size="22" font-weight="400" fill="#24343f">M01｜R/S 或來源指定立體異構物</text>
+<text x="90" y="3030.3" font-size="22" font-weight="400" fill="#24343f">手性選擇劑 → 結合平衡不同 → 有效淌度不同 → 兩</text>
+<text x="90" y="3061.54" font-size="22" font-weight="400" fill="#24343f">峰</text>
+<text x="90" y="3092.78" font-size="22" font-weight="400" fill="#24343f">→ M03｜可驗證的立體分離</text>
+<rect x="68" y="3189.6800000000003" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="3230.68" font-size="27" font-weight="600" fill="#765a8c">L19｜CGE 為什麼常用來篩大小</text>
+<text x="90" y="3279.02" font-size="22" font-weight="400" fill="#24343f">M01｜核酸或蛋白質與篩分介質</text>
+<text x="90" y="3310.26" font-size="22" font-weight="400" fill="#24343f">聚合物網目 → 差異阻礙 → 有效遷移不同 → 大小分</text>
+<text x="90" y="3341.5" font-size="22" font-weight="400" fill="#24343f">布</text>
+<text x="90" y="3372.74" font-size="22" font-weight="400" fill="#24343f">→ M03｜遷移時間對應的大小證據</text>
+<rect x="68" y="3469.6400000000003" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="3510.64" font-size="27" font-weight="600" fill="#765a8c">L20｜CIEF 為什麼聚在 pH 等於 pI 的位置</text>
+<text x="90" y="3558.98" font-size="22" font-weight="400" fill="#24343f">M02｜pH 梯度、蛋白質 pI 與兩端電極</text>
+<text x="90" y="3590.22" font-size="22" font-weight="400" fill="#24343f">偏離 pI → 電荷重新出現 → 自身 EP 指回 pI → 區帶</text>
+<text x="90" y="3621.46" font-size="22" font-weight="400" fill="#24343f">聚焦</text>
+<text x="90" y="3652.7" font-size="22" font-weight="400" fill="#24343f">→ M03｜pI 對應聚焦位置</text>
+<rect x="68" y="3749.6000000000004" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="3790.6" font-size="27" font-weight="600" fill="#765a8c">L21｜ITP 的等速，究竟是哪個量相等</text>
+<text x="90" y="3838.94" font-size="22" font-weight="400" fill="#24343f">M02｜LE、sample、TE 的有效淌度</text>
+<text x="90" y="3870.18" font-size="22" font-weight="400" fill="#24343f">|μLE|&gt;|μsample|&gt;|μTE| → 各區 E 調整 → 相同界</text>
+<text x="90" y="3901.42" font-size="22" font-weight="400" fill="#24343f">面速度 → 連續堆疊區帶</text>
+<text x="90" y="3932.66" font-size="22" font-weight="400" fill="#24343f">→ M03｜同速但不同淌度的區帶</text>
+<rect x="68" y="4029.5600000000004" width="555" height="263.96" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="90" y="4070.56" font-size="27" font-weight="600" fill="#765a8c">L22｜CEC 和 MEKC 的固定相有何區別</text>
+<text x="90" y="4118.9" font-size="22" font-weight="400" fill="#24343f">M01｜中性/帶電物與真固定相</text>
+<text x="90" y="4150.14" font-size="22" font-weight="400" fill="#24343f">真固定相分配 → EOF 驅動液相 → 平均遷移差 → 層</text>
+<text x="90" y="4181.38" font-size="22" font-weight="400" fill="#24343f">析選擇性</text>
+<text x="90" y="4212.62" font-size="22" font-weight="400" fill="#24343f">→ M03｜保留行為與分離</text>
+<rect x="660" y="2459.76" width="590" height="1874.7599999999998" rx="18" fill="#faf0f3" stroke="#8b5e6e" stroke-width="2"/>
+<text x="678" y="2499.76" font-size="27" font-weight="600" fill="#8b5e6e">把峰轉成證據</text>
+<text x="678" y="2557.76" font-size="23" font-weight="400" fill="#24343f">偵測器決定看見什麼；時間、面積與鑑別分開。</text>
+<rect x="678" y="2629.76" width="555" height="232.72" rx="18" fill="#fff" stroke="#8b5e6e" stroke-width="2"/>
+<text x="700" y="2670.76" font-size="27" font-weight="600" fill="#8b5e6e">L23｜短光徑與偵測器，能看見什麼</text>
+<text x="700" y="2719.1" font-size="22" font-weight="400" fill="#24343f">M02｜分析物響應與偵測窗</text>
+<text x="700" y="2750.34" font-size="22" font-weight="400" fill="#24343f">選 UV/LIF 等 → 區帶過窗 → 訊號與噪聲 → 檢出能力</text>
+<text x="700" y="2781.58" font-size="22" font-weight="400" fill="#24343f">→ M03｜適合分析物的訊號單位</text>
+<rect x="678" y="2878.48" width="555" height="263.96" rx="18" fill="#fff" stroke="#8b5e6e" stroke-width="2"/>
+<text x="700" y="2919.48" font-size="27" font-weight="600" fill="#8b5e6e">L24｜無發色基，為什麼會出現負波峰</text>
+<text x="700" y="2967.82" font-size="22" font-weight="400" fill="#24343f">M02｜分析物及吸光 BGE 共離子</text>
+<text x="700" y="2999.06" font-size="22" font-weight="400" fill="#24343f">吸光背景 → analyte 區帶置換部分背景 → 原始吸光</text>
+<text x="700" y="3030.3" font-size="22" font-weight="400" fill="#24343f">下降 → 間接訊號</text>
+<text x="700" y="3061.54" font-size="22" font-weight="400" fill="#24343f">→ M03｜間接 UV 的負向響應</text>
+<rect x="678" y="3158.44" width="555" height="263.96" rx="18" fill="#fff" stroke="#8b5e6e" stroke-width="2"/>
+<text x="700" y="3199.44" font-size="27" font-weight="600" fill="#8b5e6e">L25｜時間、峰寬與面積，各證明哪件事</text>
+<text x="700" y="3247.78" font-size="22" font-weight="400" fill="#24343f">M03｜tm、面積、標準/校正與重複測量</text>
+<text x="700" y="3279.02" font-size="22" font-weight="400" fill="#24343f">讀 tm/面積 → 比對/校正 → 檢查分離與重複性 → 鑑</text>
+<text x="700" y="3310.26" font-size="22" font-weight="400" fill="#24343f">別或含量</text>
+<text x="700" y="3341.5" font-size="22" font-weight="400" fill="#24343f">→ M04｜證據足夠的結論</text>
+<rect x="1270" y="2459.76" width="590" height="1874.7599999999998" rx="18" fill="#edf6f6" stroke="#476c79" stroke-width="2"/>
+<text x="1288" y="2499.76" font-size="27" font-weight="600" fill="#476c79">儀器與結論是否可信</text>
+<text x="1288" y="2557.76" font-size="23" font-weight="400" fill="#24343f">管長、電極、再現性與配方條件要回查到具體位置。</text>
+<rect x="1288" y="2629.76" width="555" height="263.96" rx="18" fill="#fff" stroke="#476c79" stroke-width="2"/>
+<text x="1310" y="2670.76" font-size="27" font-weight="600" fill="#476c79">L26｜管長、電極、進樣與訊號鏈如何接</text>
+<text x="1310" y="2719.1" font-size="22" font-weight="400" fill="#24343f">M02｜總管長 Ltot、有效長 Leff 與實際部件</text>
+<text x="1310" y="2750.34" font-size="22" font-weight="400" fill="#24343f">電極接 BGE → 管內電場 → 區帶到檢測窗 → 光/電訊</text>
+<text x="1310" y="2781.58" font-size="22" font-weight="400" fill="#24343f">號讀出</text>
+<text x="1310" y="2812.82" font-size="22" font-weight="400" fill="#24343f">→ M03｜E、tm、μ 的正確幾何</text>
+<rect x="1288" y="2909.7200000000003" width="555" height="302.96" rx="18" fill="#fff" stroke="#476c79" stroke-width="2"/>
+<text x="1310" y="2950.72" font-size="27" font-weight="600" fill="#476c79">L27｜CE 與 HPLC 比較，哪一欄才是本題重</text>
+<text x="1310" y="2989.06" font-size="27" font-weight="600" fill="#476c79">點</text>
+<text x="1310" y="3037.4" font-size="22" font-weight="400" fill="#24343f">M04｜效率、選擇性、檢出與重複性</text>
+<text x="1310" y="3068.64" font-size="22" font-weight="400" fill="#24343f">分開品質指標 → 對照本題比較 → 找出EOF/進樣因素</text>
+<text x="1310" y="3099.88" font-size="22" font-weight="400" fill="#24343f">→ 有條件作答</text>
+<text x="1310" y="3131.12" font-size="22" font-weight="400" fill="#24343f">→ M04｜特定比較中的合理答案</text>
+<rect x="1288" y="3228.6800000000003" width="555" height="263.96" rx="18" fill="#fff" stroke="#476c79" stroke-width="2"/>
+<text x="1310" y="3269.68" font-size="27" font-weight="600" fill="#476c79">L28｜依目的選模式，再核對配方與用途</text>
+<text x="1310" y="3318.02" font-size="22" font-weight="400" fill="#24343f">M01｜帶電/中性、大小、pI、R/S、無發色基</text>
+<text x="1310" y="3349.26" font-size="22" font-weight="400" fill="#24343f">目的 → 六模式/修飾軸 → 必要添加物 → 實驗品質核</text>
+<text x="1310" y="3380.5" font-size="22" font-weight="400" fill="#24343f">對</text>
+<text x="1310" y="3411.74" font-size="22" font-weight="400" fill="#24343f">→ M02｜有條件且角色正確的方法配置</text>
+<rect x="50" y="4384.5199999999995" width="1800" height="520" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="72" y="4425.52" font-size="27" font-weight="600" fill="#37668b">完整路線 EX01｜先成功一次，再補公式</text>
+<text x="72" y="4473.86" font-size="24" font-weight="400" fill="#24343f">M01：酸A pKa5、鹼B pKa8、中性C，pH6，陰極端偵測。</text>
+<text x="72" y="4507.94" font-size="24" font-weight="400" fill="#24343f">→ L08：A負、B正、C0；這一步先決定自身電泳符號。</text>
+<text x="72" y="4542.02" font-size="24" font-weight="400" fill="#24343f">→ M02：本例給定EOF +0.4mm/s；B自身+0.2、C0、A−0.1mm/s，路程12mm。</text>
+<text x="72" y="4576.1" font-size="24" font-weight="400" fill="#24343f">→ L06／C02：總速度B+0.6、C+0.4、A+0.3mm/s；時間B20、C30、A40s。</text>
+<text x="72" y="4610.18" font-size="24" font-weight="400" fill="#24343f">→ M03：相應自編三峰順序B、C、A；峰中心時間是s，訊號高度不是速度。</text>
+<text x="72" y="4644.26" font-size="24" font-weight="400" fill="#24343f">→ M04：三個總速度全朝出口，條件成立；若A改−0.6，則總速度−0.2，不得報負到達時間。</text>
+<text x="72" y="4678.34" font-size="24" font-weight="400" fill="#24343f">Q20 原題選B；本例的速度/路程是自編，不是原題數值。</text>
+<text x="50" y="5096" font-size="20" font-weight="400" fill="#61717a">同組模組按學習順序閱讀；未畫串聯的卡片是平行工具。字母／電荷先轉換成符號，再算總速度。</text>
+<text x="50" y="5132" font-size="20" font-weight="400" fill="#61717a">來源：CH24題本／雙筆記。EP＝自身電泳，EOF＝電滲流，BGE＝背景電解質；M大站／L理解／P方法／C紙筆。圖文同源v3.0。</text>
+</svg>

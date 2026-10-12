@@ -1,0 +1,190 @@
+<svg width="1900" height="3110" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3110" role="img" aria-labelledby="sfc3_g3_title sfc3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sfc3_g3_title">方法分類｜不同分類軸走同一個四站</title><desc id="sfc3_g3_desc">超臨界流體層析與萃取教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4流體路線，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3110" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH22 / SFC &amp; SFE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">方法分類｜不同分類軸走同一個四站</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">P01–07是條目登記號；P1目的、P2原理條件、P3裝置讀數、P4判定限制是四個面向。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<text x="50" y="380" font-size="31" font-weight="600" fill="#24343f">先辨四條軸：能組合，不是互斥七選一</text>
+<rect x="50" y="440" width="420" height="225" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="481" font-size="27" font-weight="600" fill="#9e771c">任務</text>
+<text x="72" y="529.34" font-size="24" font-weight="400" fill="#24343f">SFC：柱分離分析</text>
+<text x="72" y="563.42" font-size="24" font-weight="400" fill="#24343f">SFE：從基質取出</text>
+<text x="72" y="597.5" font-size="24" font-weight="400" fill="#24343f">可串接SFE–SFC</text>
+<rect x="510" y="440" width="420" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="481" font-size="27" font-weight="600" fill="#286c68">主要流體與程序</text>
+<text x="532" y="529.34" font-size="24" font-weight="400" fill="#24343f">純CO₂／CO₂＋改質劑</text>
+<text x="532" y="563.42" font-size="24" font-weight="400" fill="#24343f">等組成／改質或壓力程序</text>
+<text x="532" y="597.5" font-size="24" font-weight="400" fill="#24343f">混合物相態另核對</text>
+<rect x="970" y="440" width="420" height="225" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="481" font-size="27" font-weight="600" fill="#685185">柱的兩條分類</text>
+<text x="992" y="529.34" font-size="24" font-weight="400" fill="#24343f">結構：開管／填充</text>
+<text x="992" y="563.42" font-size="24" font-weight="400" fill="#24343f">化學：silica、diol等</text>
+<text x="992" y="597.5" font-size="24" font-weight="400" fill="#24343f">不以柱形代替表面作用</text>
+<rect x="1430" y="440" width="420" height="225" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1452" y="481" font-size="27" font-weight="600" fill="#326991">偵測配置</text>
+<text x="1452" y="529.34" font-size="24" font-weight="400" fill="#24343f">UV：高壓吸收池</text>
+<text x="1452" y="563.42" font-size="24" font-weight="400" fill="#24343f">MS／FID：相容減壓介面</text>
+<text x="1452" y="597.5" font-size="24" font-weight="400" fill="#24343f">不同訊號各自校正</text>
+<text x="70" y="720" font-size="25" font-weight="600" fill="#24343f">條目／身分</text>
+<text x="350" y="720" font-size="24" font-weight="600" fill="#24343f">P1／M01｜目的</text>
+<text x="745" y="720" font-size="24" font-weight="600" fill="#24343f">P2／M02｜條件與作用</text>
+<text x="1150" y="720" font-size="24" font-weight="600" fill="#24343f">P3／M03｜裝置與量</text>
+<text x="1545" y="720" font-size="24" font-weight="600" fill="#24343f">P4／M04｜限制</text>
+<rect x="50" y="754" width="1800" height="195" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="73" y="799" font-size="25" font-weight="600" fill="#326991">P01 純CO₂ SFC</text>
+<text x="73" y="857" font-size="23" font-weight="400" fill="#24343f">流體組成</text>
+<text x="350" y="803" font-size="23" font-weight="400" fill="#24343f">可溶分析物</text>
+<text x="350" y="835.66" font-size="23" font-weight="400" fill="#24343f">柱分離／定量</text>
+<text x="745" y="803" font-size="23" font-weight="400" fill="#24343f">純CO₂＋適合T、P</text>
+<text x="745" y="835.66" font-size="23" font-weight="400" fill="#24343f">柱作用與密度可調</text>
+<text x="1150" y="803" font-size="23" font-weight="400" fill="#24343f">柱／BPR／相容偵測</text>
+<text x="1150" y="835.66" font-size="23" font-weight="400" fill="#24343f">tR min、面積</text>
+<text x="1545" y="803" font-size="23" font-weight="400" fill="#24343f">量Rs與校正</text>
+<text x="1545" y="835.66" font-size="23" font-weight="400" fill="#24343f">超臨界不保證可用</text>
+<polyline points="712,828 733,828" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,828.0 721.6,834.2 721.6,821.8" fill="#61717a"/>
+<polyline points="1112,828 1133,828" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,828.0 1121.6,834.2 1121.6,821.8" fill="#61717a"/>
+<polyline points="1508,828 1529,828" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,828.0 1517.6,834.2 1517.6,821.8" fill="#61717a"/>
+<rect x="50" y="974" width="1800" height="195" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="73" y="1019" font-size="25" font-weight="600" fill="#326991">P02 CO₂＋改質</text>
+<text x="73" y="1077" font-size="23" font-weight="400" fill="#24343f">流體組成</text>
+<text x="350" y="1023" font-size="23" font-weight="400" fill="#24343f">需改溶解／相對作用</text>
+<text x="350" y="1055.66" font-size="23" font-weight="400" fill="#24343f">現代填充柱常見</text>
+<text x="745" y="1023" font-size="23" font-weight="400" fill="#24343f">改質種類／比例／柱</text>
+<text x="745" y="1055.66" font-size="23" font-weight="400" fill="#24343f">等組成或梯度</text>
+<text x="1150" y="1023" font-size="23" font-weight="400" fill="#24343f">雙幫浦／混合／柱</text>
+<text x="1150" y="1055.66" font-size="23" font-weight="400" fill="#24343f">比例%、tR、Wb</text>
+<text x="1545" y="1023" font-size="23" font-weight="400" fill="#24343f">混合相態另判</text>
+<text x="1545" y="1055.66" font-size="23" font-weight="400" fill="#24343f">梯度時間比非固定α</text>
+<polyline points="712,1048 733,1048" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,1048.0 721.6,1054.2 721.6,1041.8" fill="#61717a"/>
+<polyline points="1112,1048 1133,1048" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,1048.0 1121.6,1054.2 1121.6,1041.8" fill="#61717a"/>
+<polyline points="1508,1048 1529,1048" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,1048.0 1517.6,1054.2 1517.6,1041.8" fill="#61717a"/>
+<rect x="50" y="1194" width="1800" height="195" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="73" y="1239" font-size="25" font-weight="600" fill="#685185">P03 開管SFC</text>
+<text x="73" y="1297" font-size="23" font-weight="400" fill="#24343f">柱結構</text>
+<text x="350" y="1243" font-size="23" font-weight="400" fill="#24343f">相容樣品與表面</text>
+<text x="350" y="1275.66" font-size="23" font-weight="400" fill="#24343f">作柱分離</text>
+<text x="745" y="1243" font-size="23" font-weight="400" fill="#24343f">固定相在內壁</text>
+<text x="745" y="1275.66" font-size="23" font-weight="400" fill="#24343f">化學另辨</text>
+<text x="1150" y="1243" font-size="23" font-weight="400" fill="#24343f">開管柱／限流介面</text>
+<text x="1150" y="1275.66" font-size="23" font-weight="400" fill="#24343f">tR、訊號</text>
+<text x="1545" y="1243" font-size="23" font-weight="400" fill="#24343f">樣品量與柱外體積</text>
+<text x="1545" y="1275.66" font-size="23" font-weight="400" fill="#24343f">相容性需核對</text>
+<polyline points="712,1268 733,1268" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,1268.0 721.6,1274.2 721.6,1261.8" fill="#61717a"/>
+<polyline points="1112,1268 1133,1268" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,1268.0 1121.6,1274.2 1121.6,1261.8" fill="#61717a"/>
+<polyline points="1508,1268 1529,1268" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,1268.0 1517.6,1274.2 1517.6,1261.8" fill="#61717a"/>
+<rect x="50" y="1414" width="1800" height="195" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="73" y="1459" font-size="25" font-weight="600" fill="#685185">P04 填充柱SFC</text>
+<text x="73" y="1517" font-size="23" font-weight="400" fill="#24343f">柱結構</text>
+<text x="350" y="1463" font-size="23" font-weight="400" fill="#24343f">小分子或合適寡聚物</text>
+<text x="350" y="1495.66" font-size="23" font-weight="400" fill="#24343f">看實際表面與流體</text>
+<text x="745" y="1463" font-size="23" font-weight="400" fill="#24343f">填充顆粒</text>
+<text x="745" y="1495.66" font-size="23" font-weight="400" fill="#24343f">silica／diol等作用</text>
+<text x="1150" y="1463" font-size="23" font-weight="400" fill="#24343f">填充柱／柱炉／BPR</text>
+<text x="1150" y="1495.66" font-size="23" font-weight="400" fill="#24343f">tR、Wb、ΔP</text>
+<text x="1545" y="1463" font-size="23" font-weight="400" fill="#24343f">同為packed</text>
+<text x="1545" y="1495.66" font-size="23" font-weight="400" fill="#24343f">不保證同α</text>
+<polyline points="712,1488 733,1488" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,1488.0 721.6,1494.2 721.6,1481.8" fill="#61717a"/>
+<polyline points="1112,1488 1133,1488" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,1488.0 1121.6,1494.2 1121.6,1481.8" fill="#61717a"/>
+<polyline points="1508,1488 1529,1488" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,1488.0 1517.6,1494.2 1517.6,1481.8" fill="#61717a"/>
+<rect x="50" y="1634" width="1800" height="195" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="73" y="1679" font-size="25" font-weight="600" fill="#326991">P05 UV／MS／FID</text>
+<text x="73" y="1737" font-size="23" font-weight="400" fill="#24343f">偵測配置</text>
+<text x="350" y="1683" font-size="23" font-weight="400" fill="#24343f">分離後讀</text>
+<text x="350" y="1715.66" font-size="23" font-weight="400" fill="#24343f">吸收／離子／火焰響應</text>
+<text x="745" y="1683" font-size="23" font-weight="400" fill="#24343f">UV維持耐壓</text>
+<text x="745" y="1715.66" font-size="23" font-weight="400" fill="#24343f">MS／FID受控減壓</text>
+<text x="1150" y="1683" font-size="23" font-weight="400" fill="#24343f">吸收；m/z與強度</text>
+<text x="1150" y="1715.66" font-size="23" font-weight="400" fill="#24343f">FID電流–時間</text>
+<text x="1545" y="1683" font-size="23" font-weight="400" fill="#24343f">換偵測不直接改α</text>
+<text x="1545" y="1715.66" font-size="23" font-weight="400" fill="#24343f">各自響應與校正</text>
+<polyline points="712,1708 733,1708" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,1708.0 721.6,1714.2 721.6,1701.8" fill="#61717a"/>
+<polyline points="1112,1708 1133,1708" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,1708.0 1121.6,1714.2 1121.6,1701.8" fill="#61717a"/>
+<polyline points="1508,1708 1529,1708" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,1708.0 1517.6,1714.2 1517.6,1701.8" fill="#61717a"/>
+<rect x="50" y="1854" width="1800" height="195" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="73" y="1899" font-size="25" font-weight="600" fill="#9e771c">P06 離線SFE</text>
+<text x="73" y="1957" font-size="23" font-weight="400" fill="#24343f">前處理</text>
+<text x="350" y="1903" font-size="23" font-weight="400" fill="#24343f">基質中取出目標物</text>
+<text x="350" y="1935.66" font-size="23" font-weight="400" fill="#24343f">再交後續分析</text>
+<text x="745" y="1903" font-size="23" font-weight="400" fill="#24343f">溶解／解吸／傳質</text>
+<text x="745" y="1935.66" font-size="23" font-weight="400" fill="#24343f">減壓／溶媒／捕集</text>
+<text x="1150" y="1903" font-size="23" font-weight="400" fill="#24343f">萃取槽／收集器</text>
+<text x="1150" y="1935.66" font-size="23" font-weight="400" fill="#24343f">萃取物，後測c</text>
+<text x="1545" y="1903" font-size="23" font-weight="400" fill="#24343f">先取出≠已知含量</text>
+<text x="1545" y="1935.66" font-size="23" font-weight="400" fill="#24343f">回收與基質需測</text>
+<polyline points="712,1928 733,1928" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,1928.0 721.6,1934.2 721.6,1921.8" fill="#61717a"/>
+<polyline points="1112,1928 1133,1928" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,1928.0 1121.6,1934.2 1121.6,1921.8" fill="#61717a"/>
+<polyline points="1508,1928 1529,1928" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,1928.0 1517.6,1934.2 1517.6,1921.8" fill="#61717a"/>
+<rect x="50" y="2074" width="1800" height="195" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="73" y="2119" font-size="25" font-weight="600" fill="#9e771c">P07 線上SFE–SFC</text>
+<text x="73" y="2177" font-size="23" font-weight="400" fill="#24343f">任務串接</text>
+<text x="350" y="2123" font-size="23" font-weight="400" fill="#24343f">先萃基質</text>
+<text x="350" y="2155.66" font-size="23" font-weight="400" fill="#24343f">再柱分離分析</text>
+<text x="745" y="2123" font-size="23" font-weight="400" fill="#24343f">相容捕集／閥轉移</text>
+<text x="745" y="2155.66" font-size="23" font-weight="400" fill="#24343f">兩段條件分開</text>
+<text x="1150" y="2123" font-size="23" font-weight="400" fill="#24343f">萃取槽→閥→柱</text>
+<text x="1150" y="2155.66" font-size="23" font-weight="400" fill="#24343f">峰、後測c與回收</text>
+<text x="1545" y="2123" font-size="23" font-weight="400" fill="#24343f">轉移、攜帶污染</text>
+<text x="1545" y="2155.66" font-size="23" font-weight="400" fill="#24343f">總回收需核對</text>
+<polyline points="712,2148 733,2148" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="733.0,2148.0 721.6,2154.2 721.6,2141.8" fill="#61717a"/>
+<polyline points="1112,2148 1133,2148" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1133.0,2148.0 1121.6,2154.2 1121.6,2141.8" fill="#61717a"/>
+<polyline points="1508,2148 1529,2148" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1529.0,2148.0 1517.6,2154.2 1517.6,2141.8" fill="#61717a"/>
+<text x="50" y="2370" font-size="31" font-weight="600" fill="#24343f">各方法共用的判讀出口</text>
+<rect x="50" y="2430" width="875" height="245" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="2471" font-size="27" font-weight="600" fill="#685185">SFC｜中心、峰寬與響應分開</text>
+<text x="72" y="2519.34" font-size="24" font-weight="400" fill="#24343f">L09：k與α看相對保留，需穩定等組成</text>
+<text x="72" y="2553.42" font-size="24" font-weight="400" fill="#24343f">L10：Wb＋中心距看Rs與積分干擾</text>
+<text x="72" y="2587.5" font-size="24" font-weight="400" fill="#24343f">L14–16／19：峰面積／離子訊號靠校正</text>
+<text x="72" y="2621.58" font-size="24" font-weight="400" fill="#24343f">不能僅由早出、α變大或m/z一項宣布成功。</text>
+<rect x="975" y="2430" width="875" height="245" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="997" y="2471" font-size="27" font-weight="600" fill="#356844">SFE｜回收與後測分開</text>
+<text x="997" y="2519.34" font-size="24" font-weight="400" fill="#24343f">L17：基質→可萃物→收集端</text>
+<text x="997" y="2553.42" font-size="24" font-weight="400" fill="#24343f">L18：案例是範圍，不是所有同類保證有效</text>
+<text x="997" y="2587.5" font-size="24" font-weight="400" fill="#24343f">L19：c、V、DF→總量→原檢品含量</text>
+<text x="997" y="2621.58" font-size="24" font-weight="400" fill="#24343f">不能把萃取選擇性直接當色譜α、Rs。</text>
+<rect x="50" y="2740" width="1800" height="235" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="2781" font-size="27" font-weight="600" fill="#286c68">固定資料出口F01–11｜名稱與數值查表，因果回L</text>
+<text x="72" y="2829.34" font-size="24" font-weight="400" fill="#24343f">F01相圖／單位；F02物性比較；F03常用CO₂；F04 P與T條件；F05改質與α；F06適用範圍</text>
+<text x="72" y="2863.42" font-size="24" font-weight="400" fill="#24343f">F07硬體／BPR；F08柱結構與偵測；F09 SFC舊例；F10 SFE舊例與證據；F11 NO₂／N₂O疑義</text>
+<text x="72" y="2897.5" font-size="24" font-weight="400" fill="#24343f">原題Q001／002／004／005為SFE；Q003／006為SFC。不是七條方法各有一題。</text>
+<text x="50" y="3042" font-size="20" font-weight="400" fill="#61717a">方法差異放在真正不同的站；P1–P4四面向不可拿來當分類轴。圖3為比較，真實接管看圖4。</text>
+<text x="50" y="3078" font-size="20" font-weight="400" fill="#61717a">原題：CH22 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

@@ -1,0 +1,172 @@
+<svg width="1900" height="3760" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3760" role="img" aria-labelledby="tlc3_g3_title tlc3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="tlc3_g3_title">薄層層析 TLC｜全章方法分類與大小循環對照</title><desc id="tlc3_g3_desc">薄層層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線為溶劑前進與前緣，灰線為分析程序；斑點與UV子圖另附圖例。圖5板上距離採同刻度，其餘示意不按比例。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3760" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH19 / THIN-LAYER CHROMATOGRAPHY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">薄層層析 TLC｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">保留模式、性能、程序、用途與偵測是不同分類軸；同一方法可同時有多個標籤。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="875" height="275" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="418" font-size="27" font-weight="600" fill="#286c68">保留模式｜B</text>
+<text x="74" y="468.34" font-size="24" font-weight="400" fill="#24343f">正相：極性矽膠，常見吸附。</text>
+<text x="74" y="502.42" font-size="24" font-weight="400" fill="#24343f">逆相：非極性塗層；來源液態石蠟為液相保留。</text>
+<text x="74" y="536.5" font-size="24" font-weight="400" fill="#24343f">Kieselguhr可作承載，勿只按材料名猜模式。</text>
+<rect x="975" y="375" width="875" height="275" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="999" y="418" font-size="27" font-weight="600" fill="#b72d4a">性能與操作｜F</text>
+<text x="999" y="468.34" font-size="24" font-weight="400" fill="#24343f">普通TLC或HPTLC；粒子與受控操作不同。</text>
+<text x="999" y="502.42" font-size="24" font-weight="400" fill="#24343f">HPTLC仍可採正相／逆相，仍可接二維或放射配置。</text>
+<rect x="50" y="675" width="875" height="275" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="74" y="718" font-size="27" font-weight="600" fill="#b72d4a">程序與目的｜F</text>
+<text x="74" y="768.34" font-size="24" font-weight="400" fill="#24343f">上升、下降、水平；二維是第二方向展開。</text>
+<text x="74" y="802.42" font-size="24" font-weight="400" fill="#24343f">鑑別、雜質比較、定量、半製備回收可依方法選。</text>
+<rect x="975" y="675" width="875" height="275" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="999" y="718" font-size="27" font-weight="600" fill="#685185">偵測讀數｜D、E</text>
+<text x="999" y="768.34" font-size="24" font-weight="400" fill="#24343f">UV暗／亮或反應呈色：位置與光學訊號。</text>
+<text x="999" y="802.42" font-size="24" font-weight="400" fill="#24343f">光學掃描＋校正：量。Radio-TLC：放射活性。</text>
+<text x="999" y="836.5" font-size="24" font-weight="400" fill="#24343f">定位試劑不是另一種固定相。</text>
+<rect x="50" y="1020" width="420" height="165" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="1063" font-size="27" font-weight="600" fill="#61717a">P1｜M01對象與目的</text>
+<text x="74" y="1113.34" font-size="23" font-weight="400" fill="#24343f">測什麼、檢品需什麼狀態</text>
+<rect x="510" y="1020" width="420" height="165" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="1063" font-size="27" font-weight="600" fill="#61717a">P2｜M02作用與條件</text>
+<text x="534" y="1113.34" font-size="23" font-weight="400" fill="#24343f">固定相、程序與成立條件</text>
+<rect x="970" y="1020" width="420" height="165" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="1063" font-size="27" font-weight="600" fill="#61717a">P3｜M03裝置與讀數</text>
+<text x="994" y="1113.34" font-size="23" font-weight="400" fill="#24343f">實際量、單位與配置</text>
+<rect x="1430" y="1020" width="420" height="165" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="1063" font-size="27" font-weight="600" fill="#61717a">P4｜M04判定與限制</text>
+<text x="1454" y="1113.34" font-size="23" font-weight="400" fill="#24343f">比較基準與證據界線</text>
+<rect x="50" y="1230" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="1273" font-size="27" font-weight="600" fill="#61717a">P01｜普通正相 TLC</text>
+<text x="74" y="1323.34" font-size="23" font-weight="400" fill="#24343f">中性或合適可溶分析物的鑑別、雜質</text>
+<text x="74" y="1356" font-size="23" font-weight="400" fill="#24343f">比較；可同板多道。</text>
+<rect x="510" y="1230" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="1273" font-size="27" font-weight="600" fill="#61717a">P01｜普通正相 TLC</text>
+<text x="534" y="1323.34" font-size="23" font-weight="400" fill="#24343f">極性矽膠與展開液共同作用；相同條</text>
+<text x="534" y="1356" font-size="23" font-weight="400" fill="#24343f">件較受矽膠保留者Rf通常較小（</text>
+<text x="534" y="1388.66" font-size="23" font-weight="400" fill="#24343f">L04、06–09）。</text>
+<rect x="970" y="1230" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="1273" font-size="27" font-weight="600" fill="#61717a">P01｜普通正相 TLC</text>
+<text x="994" y="1323.34" font-size="23" font-weight="400" fill="#24343f">矽膠板、點樣工具、展開槽；乾燥後</text>
+<text x="994" y="1356" font-size="23" font-weight="400" fill="#24343f">UV或呈色。讀a、b（cm／mm）、</text>
+<text x="994" y="1388.66" font-size="23" font-weight="400" fill="#24343f">Rf（無單位）、色彩／強度。</text>
+<rect x="1430" y="1230" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="1273" font-size="27" font-weight="600" fill="#61717a">P01｜普通正相 TLC</text>
+<text x="1454" y="1323.34" font-size="23" font-weight="400" fill="#24343f">同板參考與指定顯色比對；濃度比較</text>
+<text x="1454" y="1356" font-size="23" font-weight="400" fill="#24343f">需點樣量與反應條件。共移行、過載</text>
+<text x="1454" y="1388.66" font-size="23" font-weight="400" fill="#24343f">及水分會干擾。</text>
+<rect x="50" y="1598" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="1641" font-size="27" font-weight="600" fill="#61717a">P02｜逆相 TLC</text>
+<text x="74" y="1691.34" font-size="23" font-weight="400" fill="#24343f">適合依疏水保留差異分離；來源例為</text>
+<text x="74" y="1724" font-size="23" font-weight="400" fill="#24343f">液態石蠟系統脂肪酸。</text>
+<rect x="510" y="1598" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="1641" font-size="27" font-weight="600" fill="#61717a">P02｜逆相 TLC</text>
+<text x="534" y="1691.34" font-size="23" font-weight="400" fill="#24343f">題例Kieselguhr承載Liquid</text>
+<text x="534" y="1724" font-size="23" font-weight="400" fill="#24343f">paraffin；或矽烷化矽膠。較疏水者</text>
+<text x="534" y="1756.66" font-size="23" font-weight="400" fill="#24343f">在相同條件常保留較多（L05）。</text>
+<rect x="970" y="1598" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="1641" font-size="27" font-weight="600" fill="#61717a">P02｜逆相 TLC</text>
+<text x="994" y="1691.34" font-size="23" font-weight="400" fill="#24343f">適當非極性塗層板、題指定移動相與</text>
+<text x="994" y="1724" font-size="23" font-weight="400" fill="#24343f">偵測；一樣讀距離比與斑點訊號。</text>
+<rect x="1430" y="1598" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="1641" font-size="27" font-weight="600" fill="#61717a">P02｜逆相 TLC</text>
+<text x="1454" y="1691.34" font-size="23" font-weight="400" fill="#24343f">比較需固定相、溶劑與解離一致；不</text>
+<text x="1454" y="1724" font-size="23" font-weight="400" fill="#24343f">能保證每次由正相換逆相所有順序完</text>
+<text x="1454" y="1756.66" font-size="23" font-weight="400" fill="#24343f">全反轉。</text>
+<rect x="50" y="1966" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="2009" font-size="27" font-weight="600" fill="#61717a">P03｜HPTLC</text>
+<text x="74" y="2059.34" font-size="23" font-weight="400" fill="#24343f">需較窄斑點、較好重現性、多道或定</text>
+<text x="74" y="2092" font-size="23" font-weight="400" fill="#24343f">量的工作；可選正相或逆相材料。</text>
+<rect x="510" y="1966" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="2009" font-size="27" font-weight="600" fill="#61717a">P03｜HPTLC</text>
+<text x="534" y="2059.34" font-size="23" font-weight="400" fill="#24343f">較小且均一顆粒，加受控點樣與展</text>
+<text x="534" y="2092" font-size="23" font-weight="400" fill="#24343f">開；不是另一個完全不同分離原理（</text>
+<text x="534" y="2124.66" font-size="23" font-weight="400" fill="#24343f">L17）。</text>
+<rect x="970" y="1966" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="2009" font-size="27" font-weight="600" fill="#61717a">P03｜HPTLC</text>
+<text x="994" y="2059.34" font-size="23" font-weight="400" fill="#24343f">HPTLC板、自動點樣／展開可選；搭</text>
+<text x="994" y="2092" font-size="23" font-weight="400" fill="#24343f">Scanner／Densitometer。讀位置及</text>
+<text x="994" y="2124.66" font-size="23" font-weight="400" fill="#24343f">吸收／螢光訊號，校正成點樣質量。</text>
+<rect x="1430" y="1966" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="2009" font-size="27" font-weight="600" fill="#61717a">P03｜HPTLC</text>
+<text x="1454" y="2059.34" font-size="23" font-weight="400" fill="#24343f">先驗證選擇性、校正範圍與重現性，</text>
+<text x="1454" y="2092" font-size="23" font-weight="400" fill="#24343f">再作定量。特定pg數字、粒徑與配方</text>
+<text x="1454" y="2124.66" font-size="23" font-weight="400" fill="#24343f">不能當通用保證。</text>
+<rect x="50" y="2334" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="2377" font-size="27" font-weight="600" fill="#61717a">P04｜2D-TLC</text>
+<text x="74" y="2427.34" font-size="23" font-weight="400" fill="#24343f">第一方向共同移行的成分；需要另一</text>
+<text x="74" y="2460" font-size="23" font-weight="400" fill="#24343f">分離選擇性。</text>
+<rect x="510" y="2334" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="2377" font-size="27" font-weight="600" fill="#61717a">P04｜2D-TLC</text>
+<text x="534" y="2427.34" font-size="23" font-weight="400" fill="#24343f">第一溶劑展開→乾燥→轉90°→第二</text>
+<text x="534" y="2460" font-size="23" font-weight="400" fill="#24343f">溶劑展開；換成有效不同選擇性（</text>
+<text x="534" y="2492.66" font-size="23" font-weight="400" fill="#24343f">L18）。</text>
+<rect x="970" y="2334" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="2377" font-size="27" font-weight="600" fill="#61717a">P04｜2D-TLC</text>
+<text x="994" y="2427.34" font-size="23" font-weight="400" fill="#24343f">方形板、兩個受控溶劑程序與適合偵</text>
+<text x="994" y="2460" font-size="23" font-weight="400" fill="#24343f">測；讀兩方向位置／Rf_x、Rf_y。</text>
+<rect x="1430" y="2334" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="2377" font-size="27" font-weight="600" fill="#61717a">P04｜2D-TLC</text>
+<text x="1454" y="2427.34" font-size="23" font-weight="400" fill="#24343f">第二方向可能拉開重疊，但不是必</text>
+<text x="1454" y="2460" font-size="23" font-weight="400" fill="#24343f">然；偏離同溶劑正規化對角線只能列</text>
+<text x="1454" y="2492.66" font-size="23" font-weight="400" fill="#24343f">轉化及操作等候選原因。</text>
+<rect x="50" y="2702" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="2745" font-size="27" font-weight="600" fill="#61717a">P05｜半製備／製備 TLC</text>
+<text x="74" y="2795.34" font-size="23" font-weight="400" fill="#24343f">取得分離後物質；容量與回收完整性</text>
+<text x="74" y="2828" font-size="23" font-weight="400" fill="#24343f">比目視鑑別更重要。</text>
+<rect x="510" y="2702" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="2745" font-size="27" font-weight="600" fill="#61717a">P05｜半製備／製備 TLC</text>
+<text x="534" y="2795.34" font-size="23" font-weight="400" fill="#24343f">適當較厚層提升承載，控制過載與分</text>
+<text x="534" y="2828" font-size="23" font-weight="400" fill="#24343f">離（L09、12）；可採對應正／逆</text>
+<text x="534" y="2860.66" font-size="23" font-weight="400" fill="#24343f">相。</text>
+<rect x="970" y="2702" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="2745" font-size="27" font-weight="600" fill="#61717a">P05｜半製備／製備 TLC</text>
+<text x="994" y="2795.34" font-size="23" font-weight="400" fill="#24343f">較厚板、適當定位；刮取目標區、萃</text>
+<text x="994" y="2828" font-size="23" font-weight="400" fill="#24343f">取與必要過濾。讀位置並記回收質量</text>
+<text x="994" y="2860.66" font-size="23" font-weight="400" fill="#24343f">／純度。</text>
+<rect x="1430" y="2702" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="2745" font-size="27" font-weight="600" fill="#61717a">P05｜半製備／製備 TLC</text>
+<text x="1454" y="2795.34" font-size="23" font-weight="400" fill="#24343f">較厚不等於較高效率；選可逆或較少</text>
+<text x="1454" y="2828" font-size="23" font-weight="400" fill="#24343f">破壞的定位，回收後仍檢完整性與純</text>
+<text x="1454" y="2860.66" font-size="23" font-weight="400" fill="#24343f">度。</text>
+<rect x="50" y="3070" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="74" y="3113" font-size="27" font-weight="600" fill="#61717a">P06｜Radio-TLC</text>
+<text x="74" y="3163.34" font-size="23" font-weight="400" fill="#24343f">放射藥物同核種不同化學形式的放射</text>
+<text x="74" y="3196" font-size="23" font-weight="400" fill="#24343f">化學純度。</text>
+<rect x="510" y="3070" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="534" y="3113" font-size="27" font-weight="600" fill="#61717a">P06｜Radio-TLC</text>
+<text x="534" y="3163.34" font-size="23" font-weight="400" fill="#24343f">適當板／條帶與溶劑先分離形式；需</text>
+<text x="534" y="3196" font-size="23" font-weight="400" fill="#24343f">確定各形式去哪區（L15）。</text>
+<rect x="970" y="3070" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="994" y="3113" font-size="27" font-weight="600" fill="#61717a">P06｜Radio-TLC</text>
+<text x="994" y="3163.34" font-size="23" font-weight="400" fill="#24343f">展開後接Radio-scanner或分段計</text>
+<text x="994" y="3196" font-size="23" font-weight="400" fill="#24343f">數；讀各區校正活性（Bq）或一致</text>
+<text x="994" y="3228.66" font-size="23" font-weight="400" fill="#24343f">條件計數率。</text>
+<rect x="1430" y="3070" width="420" height="341" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1454" y="3113" font-size="27" font-weight="600" fill="#61717a">P06｜Radio-TLC</text>
+<text x="1454" y="3163.34" font-size="23" font-weight="400" fill="#24343f">目的形式活性/同核種總活性×100</text>
+<text x="1454" y="3196" font-size="23" font-weight="400" fill="#24343f">%。未分開、背景或效率不合會錯</text>
+<text x="1454" y="3228.66" font-size="23" font-weight="400" fill="#24343f">判；不是UV顏色比例。</text>
+<rect x="50" y="3470" width="1800" height="140" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="3513" font-size="27" font-weight="600" fill="#9e771c">如何反查</text>
+<text x="74" y="3563.34" font-size="23" font-weight="400" fill="#24343f">方法找原理→P表／L；部件找用途→角色表；題幹找路線→Q索引。舊特定藥典配方另區保存，未核原頁者清楚標示。</text>
+<text x="50" y="3656" font-size="20" font-weight="400" fill="#61717a">縮寫：Rf＝比移值；UV＝紫外光；HPTLC＝高效能薄層層析；2D＝二維；RCP＝放射化學純度；F254＝254 nm螢光指示劑。</text>
+<text x="50" y="3692" font-size="20" font-weight="400" fill="#61717a">分類用容器與標籤；只有四站資訊帶使用箭頭。六個P條目不是互斥的六種保留機制。</text>
+<text x="50" y="3728" font-size="20" font-weight="400" fill="#61717a">來源：CH19 PDF；建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法／配置。圖5板面距離同刻度，其餘示意不按比例。</text>
+</svg>

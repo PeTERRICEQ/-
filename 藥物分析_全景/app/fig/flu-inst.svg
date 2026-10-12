@@ -1,0 +1,86 @@
+<svg width="1900" height="1920" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1920" role="img" aria-labelledby="fluor3i-title fluor3i-desc">
+<title id="fluor3i-title">螢光儀器與操作考點｜照入光直走，發光從側面收</title><desc id="fluor3i-desc">典型稀溶液的 90° 收光示意；兩個單光器各選一端。實線為光路，PMT 後的點線為電子讀數。</desc>
+<defs><marker id="fluor3i-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="fluor3i-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1920" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">螢光儀器與操作考點｜照入光直走，發光從側面收</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">典型稀溶液的 90° 收光示意；兩個單光器各選一端。實線為光路，PMT 後的點線為電子讀數。</text>
+<rect x="40" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M01｜先定問題</text>
+<text x="64" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">分析物？原物、產物或差值？</text>
+<path d="M 472 220 L 500 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<rect x="504" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="528" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M02｜準備與測量</text>
+<text x="528" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">反應、溶液條件、激發與收光</text>
+<path d="M 936 220 L 964 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<rect x="968" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="992" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M03｜讀訊號</text>
+<text x="992" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">λex／λem、F／ΔF、單位</text>
+<path d="M 1400 220 L 1428 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<rect x="1432" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="1456" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M04｜核對結論</text>
+<text x="1456" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">背景、校正與範圍是否可靠？</text>
+<rect x="40" y="320" width="1820" height="945" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="64" y="363.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">M02 → M03｜原物或產物都接到同一套光路</text>
+<rect x="90" y="425" width="260" height="130" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="114" y="468.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">光源</text>
+<text x="114" y="513.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">常用氙燈</text>
+<rect x="415" y="425" width="330" height="130" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="439" y="468.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">激發單光器</text>
+<text x="439" y="513.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">選 λex＝350 nm</text>
+<rect x="850" y="425" width="300" height="130" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="874" y="468.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">樣品</text>
+<text x="874" y="513.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">四面透明容槽</text>
+<rect x="1435" y="425" width="365" height="130" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="1459" y="468.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">直行光離開</text>
+<text x="1459" y="513.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">透射激發光／光阱</text>
+<path d="M 350 490 L 415 490" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<path d="M 745 490 L 850 490" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<path d="M 1150 490 L 1435 490" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<text x="747" y="398.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#286c68">照進去</text>
+<text x="1169" y="397.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#61717a">沿原方向，不送入側向偵測器</text>
+<path d="M 1000 555 L 1000 657" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<text x="1023" y="607.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#685185">側向放出的光</text>
+<text x="1122" y="573.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="25" font-weight="bold" fill="#685185">90°</text>
+<rect x="850" y="657" width="300" height="133" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="874" y="700.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">發射單光器</text>
+<text x="874" y="745.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">選 λem＝450 nm</text>
+<path d="M 1000 790 L 1000 849" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)"/>
+<rect x="810" y="849" width="380" height="132" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="834" y="892.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">PMT｜光電倍增管</text>
+<text x="834" y="937.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">光 → 電訊號</text>
+<path d="M 1000 981 L 1000 1040" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3i-arrow)" stroke-dasharray="10 7"/>
+<rect x="850" y="1040" width="300" height="138" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="874" y="1083.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">F 讀數</text>
+<text x="874" y="1128.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：55 a.u.</text>
+<rect x="90" y="655" width="620" height="302" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="114" y="698.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">部件各做一件事</text>
+<text x="114" y="743.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">激發端：選照入的波長。</text>
+<text x="114" y="785.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">發射端：選要觀察的放光波段。</text>
+<text x="114" y="828.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">光柵／狹縫在單光器模組內。</text>
+<text x="114" y="871.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">容槽材質要適合波段，側面需透光。</text>
+<rect x="1300" y="655" width="500" height="346" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="1324" y="698.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">90° 避開什麼？</text>
+<text x="1324" y="743.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">減少強烈直達激發光。</text>
+<text x="1324" y="785.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">仍可能收進散射、溶媒／試劑光。</text>
+<text x="1324" y="828.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">還要選波長、量空白、查粒子。</text>
+<text x="1324" y="871.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">Q01 的「避免散射」不能當完全消除。</text>
+<text x="90" y="1221.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">Ex350／Em450、F55 是自編首例設定；不同分析物與方法須選自己的工作波長。</text>
+<rect x="40" y="1305" width="880" height="326" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="64" y="1348.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">L13｜掃描：固定端與橫軸對上</text>
+<text x="64" y="1400.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">激發譜：固定 λem，掃 λex。</text>
+<text x="64" y="1434.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">橫軸是激發波長；縱軸是收到的 F。</text>
+<text x="64" y="1469.6" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f"></text>
+<text x="64" y="1504.4" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">發射譜：固定 λex，掃 λem。</text>
+<text x="64" y="1539.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">橫軸是發射波長；縱軸仍是 F。</text>
+<rect x="950" y="1305" width="910" height="326" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="974" y="1348.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">L12／L20｜從量測到可用讀數</text>
+<text x="974" y="1393.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">空白 → 查背景；標準 → 建校正。</text>
+<text x="974" y="1436.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">匹配 pH／溶媒／溫度／狹縫／光源。</text>
+<text x="974" y="1478.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">檢品在範圍內；必要時先稀釋。</text>
+<text x="974" y="1521.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">相同設定與程序，再比淨 F／ΔF。</text>
+<rect x="40" y="1674" width="1820" height="164" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="64" y="1717.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">不符時回哪裡？</text>
+<text x="64" y="1762.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">樣品混濁／條件不同 → 回 M02 處理或控制；波長與扣背景錯 → 回 M03 重讀。</text>
+<text x="64" y="1805.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">已超校正範圍 → 回 M02 稀釋後重測；只是推論過頭 → 回 M04 重查證據。</text>
+<text x="40" y="1882.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 螢光光譜｜v3.0｜先讀波長與亮度 → 理解原因 → 作答與回查</text>
+</svg>

@@ -1,0 +1,74 @@
+<svg width="1900" height="2910" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2910" role="img" aria-labelledby="ms3_g1_title ms3_g1_desc">
+<title id="ms3_g1_title">大循環母圖｜先定目的，選路徑，再讀訊號與核對</title>
+<desc id="ms3_g1_desc">質譜法v3.0，原生可編輯向量圖。M01先定問題、M02準備與測量、M03讀訊號、M04核對結論。深灰實線為資訊或具條件的因果；紅色虛線為分析者遇到不符時的回查，非分子物理回饋。</desc>
+<defs><marker id="ms3_g1_arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#61717a"/></marker><marker id="ms3_g1_red" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#b72d4a"/></marker></defs>
+<rect width="1900" height="2910" fill="#f8f6ee"/>
+<g font-family="Droid Sans Fallback, Noto Sans CJK TC, PingFang TC, Microsoft JhengHei, sans-serif" fill="#24343f">
+<text x="55" y="78" font-size="38" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">大循環母圖｜先定目的，選路徑，再讀訊號與核對</tspan></text>
+<text x="55" y="126" font-size="24" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">質譜法 v3.0｜先看用途與條件，再沿入口 → 短鏈 → 出口判讀。</tspan></text>
+<text x="55" y="161" font-size="20" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">m/z：離子質量的Da數值 ÷ |z|；Da：質量單位；z：電荷整數。</tspan></text>
+<text x="55" y="198" font-size="20" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">LC液相／GC氣相層析；ESI電噴灑、EI電子、CI化學、APCI常壓化學、APPI常壓光游離；MALDI基質雷射、DESI表面電噴灑；ICP電漿、TOF飛行時間。</tspan></text>
+<rect x="50" y="255" width="290" height="1200" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="297" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">先圈出題目要什麼</tspan></text>
+<text x="74" y="348.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">分子量：先辨離子與電</tspan><tspan x="74" dy="34.8">荷。</tspan><tspan x="74" dy="34.8"></tspan><tspan x="74" dy="34.8">分子式／結構：準確質</tspan><tspan x="74" dy="34.8">量、同位素與碎片各給</tspan><tspan x="74" dy="34.8">一種證據。</tspan><tspan x="74" dy="34.8"></tspan><tspan x="74" dy="34.8">濃度：校正、基質與品</tspan><tspan x="74" dy="34.8">質資料。</tspan><tspan x="74" dy="34.8"></tspan><tspan x="74" dy="34.8">元素：ICP–MS，別拿</tspan><tspan x="74" dy="34.8">完整分子質量來回答。</tspan><tspan x="74" dy="34.8"></tspan><tspan x="74" dy="34.8">第一輪：M01 → 選源 </tspan><tspan x="74" dy="34.8">→ M03讀峰 → L03扣</tspan><tspan x="74" dy="34.8">加合 → M04回驗。</tspan></text>
+<rect x="450" y="255" width="1250" height="170" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="474" y="297" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">M01｜先定問題與檢品</tspan></text>
+<text x="474" y="348.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">小分子／蛋白質／元素？要中性質量、結構，還是濃度？依目的與可汽化性選路徑。</tspan></text>
+<path d="M450,340 L380,340 L380,1370" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="450" y="520" width="1250" height="200" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="474" y="562" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">LC分子路徑｜L10、L11、L13、L33</tspan></text>
+<text x="474" y="613.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">溶液檢品 → LC（需要分離時）→ ESI／APCI／APPI等選一種源。</tspan><tspan x="474" dy="34.8">蛋白質通常先考慮ESI；低極性可汽化小分子另比較APCI／APPI。</tspan></text>
+<circle cx="380" cy="620" r="5" fill="#61717a"/>
+<path d="M380,620 L450,620" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<path d="M1700,620 L1740,620" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1740" cy="620" r="5" fill="#61717a"/>
+<rect x="450" y="770" width="1250" height="200" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="474" y="812" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">GC分子路徑｜L08、L09、L33</tspan></text>
+<text x="474" y="863.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">可汽化、熱穩定檢品 → GC → EI或CI。</tspan><tspan x="474" dy="34.8">EI常給豐富碎片；CI較保留質量線索，正負模式需分清。</tspan></text>
+<circle cx="380" cy="870" r="5" fill="#61717a"/>
+<path d="M380,870 L450,870" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<path d="M1700,870 L1740,870" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1740" cy="870" r="5" fill="#61717a"/>
+<rect x="450" y="1020" width="1250" height="200" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="474" y="1062" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">點靶／表面路徑｜L12、L13</tspan></text>
+<text x="474" y="1113.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">大分子點靶＋基質＋雷射 → MALDI；表面檢品可比較DESI。</tspan><tspan x="474" dy="34.8">MALDI常單價並配TOF；不是所有點靶都固定同一分析器。</tspan></text>
+<circle cx="380" cy="1120" r="5" fill="#61717a"/>
+<path d="M380,1120 L450,1120" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<path d="M1700,1120 L1740,1120" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1740" cy="1120" r="5" fill="#61717a"/>
+<rect x="450" y="1270" width="1250" height="200" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="474" y="1312" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">元素路徑｜L32</tspan></text>
+<text x="474" y="1363.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">前處理／霧化 → Ar電漿原子化與游離 → ICP–MS。</tspan><tspan x="474" dy="34.8">讀元素離子與同位素，原分子的連線結構已不保留。</tspan></text>
+<circle cx="380" cy="1370" r="5" fill="#61717a"/>
+<path d="M380,1370 L450,1370" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<path d="M1700,1370 L1740,1370" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="1740" cy="1370" r="5" fill="#61717a"/>
+<path d="M1740,620 L1740,1490 L1075,1490 L1075,1560" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<rect x="450" y="1560" width="1250" height="180" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="474" y="1602" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">M02｜共同工作：傳輸、分析器與訊號讀出｜L14–L20</tspan></text>
+<text x="474" y="1653.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">源先造離子 → 適合的分析器把m/z差轉成可讀資訊 → 偵測或影像電流讀出。</tspan><tspan x="474" dy="34.8">真空減少非預期碰撞；CID只在指定區域刻意加碰撞氣體。</tspan></text>
+<path d="M1075,1740 L1075,1845" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<rect x="450" y="1845" width="1250" height="200" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="474" y="1887" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">M03｜先讀量、座標、單位｜L01–L07、L21–L24</tspan></text>
+<text x="474" y="1938.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">m/z位置；離子強度／面積；峰差與同位素間距；LC／GC另有保留時間。</tspan><tspan x="474" dy="34.8">m/z不是直接中性分子量；原始強度與100%相對強度分清。</tspan></text>
+<path d="M1075,2045 L1075,2150" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<rect x="450" y="2150" width="1250" height="230" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="474" y="2192" font-size="27" fill="#24343f" font-weight="bold"><tspan x="474" dy="0">M04｜核對結論與品質｜L25–L33</tspan></text>
+<text x="474" y="2243.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="474" dy="0">質量：辨電荷／加合，扣回中性M並用第二個峰驗算。</tspan><tspan x="474" dy="34.8">結構：候選需多證據；28 Da不唯一是CO。濃度：校正與基質控制。</tspan><tspan x="474" dy="34.8">資料不足：指出還缺哪項；不為題本答案硬造機制。</tspan></text>
+<path d="M1075,2380 L1075,2500" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g1_arrow)"/>
+<rect x="660" y="2500" width="830" height="145" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="684" y="2542" font-size="27" fill="#24343f" font-weight="bold"><tspan x="684" dy="0">符合目的與品質 → 交出答案</tspan></text>
+<text x="684" y="2593.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="684" dy="0">中性質量／元素或結構候選／濃度；附必要條件與證據限制。</tspan></text>
+<rect x="50" y="1600" width="290" height="1150" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="74" y="1642" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">紅線：分析者回查</tspan></text>
+<text x="74" y="1693.15" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">①檢品／方法不合：回</tspan><tspan x="74" dy="33.35">M01確認檢品與目的。</tspan><tspan x="74" dy="33.35"></tspan><tspan x="74" dy="33.35">②操作不合：回M02修</tspan><tspan x="74" dy="33.35">正源、分離、校正或基</tspan><tspan x="74" dy="33.35">質條件，再量測。</tspan><tspan x="74" dy="33.35"></tspan><tspan x="74" dy="33.35">③讀數有誤：回M03辨</tspan><tspan x="74" dy="33.35">離子、電荷、軸量，再</tspan><tspan x="74" dy="33.35">判讀。</tspan><tspan x="74" dy="33.35"></tspan><tspan x="74" dy="33.35">推論過度：留M04重查</tspan><tspan x="74" dy="33.35">判準；需新資料才回上</tspan><tspan x="74" dy="33.35">遊。</tspan><tspan x="74" dy="33.35"></tspan><tspan x="74" dy="33.35">這些是人的品質流程，</tspan><tspan x="74" dy="33.35">不是分子自動產生物理</tspan><tspan x="74" dy="33.35">回饋。</tspan></text>
+<path d="M1700,2275 L1840,2275 L1840,340 L1700,340" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g1_red)"/>
+<text x="1720" y="382" font-size="21" fill="#b72d4a" font-weight="normal"><tspan x="1720" dy="0">①檢品</tspan></text>
+<path d="M1700,2275 L1840,2275 L1840,1650 L1700,1650" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g1_red)"/>
+<text x="1720" y="1692" font-size="21" fill="#b72d4a" font-weight="normal"><tspan x="1720" dy="0">②操作</tspan></text>
+<path d="M1700,2275 L1840,2275 L1840,1945 L1700,1945" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g1_red)"/>
+<text x="1720" y="1987" font-size="21" fill="#b72d4a" font-weight="normal"><tspan x="1720" dy="0">③讀數</tspan></text>
+<text x="450" y="2740" font-size="23" fill="#24343f" font-weight="normal"><tspan x="450" dy="0">實線：資料向下遊。並列路徑為選擇，不代表GC → LC → MALDI → ICP串聯。</tspan></text>
+<text x="55" y="2836" font-size="21" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">M04符合目的與品質才交結論；不符時依原因回查。圖中文字為示意／教學資料，非實測圖。</tspan></text>
+</g>
+</svg>

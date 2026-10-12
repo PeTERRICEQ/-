@@ -1,0 +1,171 @@
+<svg width="1900" height="3270" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3270" role="img" aria-labelledby="ir3_g4_title ir3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ir3_g4_title">紅外光譜｜儀器與操作考點</title><desc id="ir3_g4_desc">紅外光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路，紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3270" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH28 / IR / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">紅外光譜｜儀器與操作考點</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">上方畫實際兩臂光路；中段畫訊號處理；下段分開 ATR／DRIFT 的取樣作用。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="1800" height="880" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="75" y="416" font-size="27" font-weight="600" fill="#326991">M02｜常見 FT-IR 實際光路：干涉後照樣品；兩臂不是樣品／參考品臂</text>
+<text x="75" y="459" font-size="23" font-weight="400" fill="#61717a">藍線＝實際光路；灰線＝資訊處理。示意不按比例。L12</text>
+<rect x="80" y="675" width="310" height="150" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="102" y="716" font-size="27" font-weight="600" fill="#326991">寬頻光源</text>
+<text x="102" y="763" font-size="24" font-weight="400" fill="#24343f">Globar／Nernst</text>
+<polyline points="390,750 680,750" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="680.0,750.0 668.6,756.2 668.6,743.8" fill="#326991"/>
+<polyline points="640,810 760,690" fill="none" stroke="#61717a" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="700,740 700,505" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="700.0,505.0 706.2,516.4 693.8,516.4" fill="#326991"/>
+<polyline points="710,505 710,740" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="710.0,740.0 703.8,728.6 716.2,728.6" fill="#326991"/>
+<polyline points="630,495 790,495" fill="none" stroke="#61717a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="90" y="548" font-size="23" font-weight="400" fill="#326991">移動鏡：鏡移 x → OPD 改變 2x</text>
+<text x="90" y="590" font-size="22" font-weight="400" fill="#61717a">OPD＝optical path difference（光程差）</text>
+<polyline points="570,535 612,535 630,495" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="720,750 1090,750" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1090.0,750.0 1078.6,756.2 1078.6,743.8" fill="#326991"/>
+<polyline points="1090,765 718,765" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="718.0,765.0 729.4,758.8 729.4,771.2" fill="#326991"/>
+<polyline points="1100,675 1100,835" fill="none" stroke="#61717a" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1150" y="752" font-size="27" font-weight="600" fill="#326991">固定鏡</text>
+<text x="1150" y="798" font-size="24" font-weight="400" fill="#24343f">兩束回到分光器重組</text>
+<text x="1150" y="840" font-size="23" font-weight="400" fill="#24343f">形成依 OPD 改變的干涉訊號</text>
+<text x="100" y="892" font-size="25" font-weight="600" fill="#326991">Beam splitter（分光器）</text>
+<text x="100" y="932" font-size="23" font-weight="400" fill="#24343f">部分反射＋部分透射；不是 NaCl 鍍金箔。</text>
+<polyline points="565,889 607,889 640,810" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="690,780 690,980" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="690.0,980.0 683.8,968.6 696.2,968.6" fill="#326991"/>
+<rect x="540" y="980" width="320" height="105" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="562" y="1021" font-size="27" font-weight="600" fill="#326991">樣品／取樣附件</text>
+<text x="562" y="1068" font-size="22" font-weight="400" fill="#24343f">穿透、ATR、DRIFT</text>
+<polyline points="690,1085 690,1130" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="690.0,1130.0 683.8,1118.6 696.2,1118.6" fill="#326991"/>
+<rect x="540" y="1130" width="320" height="105" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="562" y="1171" font-size="27" font-weight="600" fill="#326991">偵測器</text>
+<text x="562" y="1218" font-size="22" font-weight="400" fill="#24343f">光訊號 → 電訊號</text>
+<polyline points="860,1180 1105,1180" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1105.0,1180.0 1093.6,1186.2 1093.6,1173.8" fill="#61717a"/>
+<rect x="1125" y="1050" width="685" height="185" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1147" y="1091" font-size="27" font-weight="600" fill="#326991">M03｜Interferogram（干涉圖）</text>
+<text x="1147" y="1138" font-size="24" font-weight="400" fill="#24343f">橫軸：OPD 或掃描位置</text>
+<text x="1147" y="1172.08" font-size="24" font-weight="400" fill="#24343f">縱軸：偵測器訊號；還不是波數軸。</text>
+<rect x="50" y="1320" width="570" height="230" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1361" font-size="27" font-weight="600" fill="#326991">1｜各自 Fourier transform</text>
+<text x="72" y="1408" font-size="24" font-weight="400" fill="#24343f">樣品與背景的干涉圖，分別做 FT（傅立葉轉換）</text>
+<text x="72" y="1442.08" font-size="24" font-weight="400" fill="#24343f">得到波數光譜。</text>
+<polyline points="620,1435 665,1435" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="665.0,1435.0 653.6,1441.2 653.6,1428.8" fill="#61717a"/>
+<rect x="670" y="1320" width="570" height="230" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="1361" font-size="27" font-weight="600" fill="#326991">2｜先取樣品／背景比值</text>
+<text x="692" y="1408" font-size="24" font-weight="400" fill="#24343f">S(ν̃)/B(ν̃) → T；再 A=−log₁₀T。不要直接逐點相</text>
+<text x="692" y="1442.08" font-size="24" font-weight="400" fill="#24343f">除干涉圖。</text>
+<polyline points="1240,1435 1285,1435" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1285.0,1435.0 1273.6,1441.2 1273.6,1428.8" fill="#61717a"/>
+<rect x="1290" y="1320" width="570" height="230" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1312" y="1361" font-size="27" font-weight="600" fill="#326991">3｜交回 M04 核對</text>
+<text x="1312" y="1408" font-size="24" font-weight="400" fill="#24343f">峰位 cm⁻¹；A、T 無因次。檢查可比條件、背景</text>
+<text x="1312" y="1442.08" font-size="24" font-weight="400" fill="#24343f">與資料品質。</text>
+<rect x="50" y="1630" width="870" height="630" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="75" y="1673" font-size="27" font-weight="600" fill="#326991">L11｜ATR：全反射＋倏逝場</text>
+<text x="75" y="1720" font-size="23" font-weight="400" fill="#24343f">Attenuated total reflection（衰減全反射）</text>
+<text x="75" y="1760" font-size="23" font-weight="400" fill="#24343f">光主要留在晶體；倏逝場進入緊貼的樣品。</text>
+<rect x="170" y="1845" width="575" height="50" rx="0" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<rect x="170" y="1895" width="575" height="195" rx="0" fill="#c8dff3" stroke="#326991" stroke-width="2"/>
+<text x="470" y="1880" font-size="25" font-weight="400" fill="#356844">鄰接樣品</text>
+<text x="545" y="1980" font-size="23" font-weight="400" fill="#326991">高折射率晶體</text>
+<ellipse cx="370" cy="1892" rx="67" ry="31" fill="#356844" opacity="0.25"/>
+<polyline points="185,2050 370,1895 555,2050" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="555.0,2050.0 542.3,2047.5 550.3,2037.9" fill="#326991"/>
+<text x="195" y="1820" font-size="23" font-weight="400" fill="#356844">倏逝場：近界面衰減</text>
+<text x="75" y="2140" font-size="23" font-weight="400" fill="#24343f">n₁&gt;n₂、θ 超過臨界角；λ 較長時 dₚ 通常較深。</text>
+<text x="75" y="2182" font-size="23" font-weight="400" fill="#24343f">n＝折射率；θ 從法線量；dₚ 是場振幅 1/e 深度。</text>
+<text x="75" y="2225" font-size="23" font-weight="400" fill="#b72d4a">接觸／壓力／表面代表性要控制。</text>
+<rect x="980" y="1630" width="870" height="630" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1005" y="1673" font-size="27" font-weight="600" fill="#326991">L11｜DRIFT：粉末中的漫反射</text>
+<text x="1005" y="1720" font-size="23" font-weight="400" fill="#24343f">Diffuse reflectance IR Fourier transform</text>
+<text x="1005" y="1760" font-size="23" font-weight="400" fill="#24343f">光在粉末內多次散射並被吸收，再收集離開的光。</text>
+<rect x="1100" y="1895" width="600" height="195" rx="0" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<circle cx="1130" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1200" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1270" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1340" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1410" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1480" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1550" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1620" cy="1930" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1130" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1200" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1270" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1340" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1410" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1480" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1550" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1620" cy="1980" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1130" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1200" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1270" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1340" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1410" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1480" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1550" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1620" cy="2030" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1130" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1200" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1270" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1340" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1410" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1480" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1550" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<circle cx="1620" cy="2070" r="15" fill="#fff" stroke="#685185"/>
+<polyline points="1100,1815 1250,1970 1380,2045 1500,1955 1720,1815" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1720.0,1815.0 1713.7,1826.4 1707.0,1815.9" fill="#326991"/>
+<text x="1020" y="1850" font-size="24" font-weight="400" fill="#326991">入射</text>
+<text x="1650" y="1778" font-size="24" font-weight="400" fill="#326991">收集反射</text>
+<text x="1005" y="2140" font-size="23" font-weight="400" fill="#24343f">M03：R∞ → F(R∞)=(1−R∞)²/(2R∞)=K/S。</text>
+<text x="1005" y="2182" font-size="23" font-weight="400" fill="#24343f">R∞ 用小數；K、S 同單位；F 無因次。</text>
+<text x="1005" y="2225" font-size="23" font-weight="400" fill="#b72d4a">M04：查粒徑、填裝、S 是否可比；F 不是 A。</text>
+<text x="50" y="2320" font-size="27" font-weight="600" fill="#b72d4a">品質不符 → 修正實際出錯站 → 重新取得或處理必要資料</text>
+<rect x="50" y="2360" width="570" height="210" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="2401" font-size="27" font-weight="600" fill="#b72d4a">厚度大／ATR 全峰弱</text>
+<text x="72" y="2448" font-size="24" font-weight="400" fill="#24343f">回 M02：減厚、稀釋或改善接觸。</text>
+<polyline points="335,2570 335,2625" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="335.0,2625.0 328.8,2613.6 341.2,2613.6" fill="#b72d4a"/>
+<rect x="670" y="2360" width="570" height="210" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="692" y="2401" font-size="27" font-weight="600" fill="#b72d4a">波數整體偏移</text>
+<text x="692" y="2448" font-size="24" font-weight="400" fill="#24343f">回 M02：用 polystyrene 檢查波數準確度。</text>
+<polyline points="955,2570 955,2625" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="955.0,2625.0 948.8,2613.6 961.2,2613.6" fill="#b72d4a"/>
+<rect x="1290" y="2360" width="570" height="210" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="2401" font-size="27" font-weight="600" fill="#b72d4a">把 OPD 當波數讀</text>
+<text x="1312" y="2448" font-size="24" font-weight="400" fill="#24343f">回 M03：確認 FT、比值與座標。</text>
+<polyline points="1575,2570 1575,2625" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1575.0,2625.0 1568.8,2613.6 1581.2,2613.6" fill="#b72d4a"/>
+<rect x="50" y="2625" width="1800" height="150" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="2666" font-size="27" font-weight="600" fill="#356844">回到正常主路</text>
+<text x="72" y="2713" font-size="24" font-weight="400" fill="#24343f">M02 修正並量測 → M03 讀正確訊號 → M04 用合適判準核對。不要把分析者回查畫成光線返回樣品。</text>
+<rect x="50" y="2830" width="1800" height="290" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2871" font-size="27" font-weight="600" fill="#61717a">部件快查｜首次縮寫定義</text>
+<text x="72" y="2918" font-size="24" font-weight="400" fill="#24343f">熱型：thermocouple（熱電偶）、bolometer（測輻射熱器）、DTGS（deuterated triglycine sulfate，氘化硫酸三甘胺酸，熱釋電）。</text>
+<text x="72" y="2952.08" font-size="24" font-weight="400" fill="#24343f">光子型：MCT（mercury cadmium telluride，碲鎘汞）；可有光導型或光伏型，依儀器配置。</text>
+<text x="72" y="2986.16" font-size="24" font-weight="400" fill="#24343f">PMT（photomultiplier tube，光電倍增管）不是一般 MIR 常用偵測器。</text>
+<text x="72" y="3020.24" font-size="24" font-weight="400" fill="#24343f">NaCl／KCl 鹽窗：有限透光範圍且怕水；polystyrene（聚苯乙烯）薄膜：檢查波數準確度。</text>
+<text x="50" y="3202" font-size="20" font-weight="400" fill="#61717a">硬體路徑 L12；取樣 L09–L11；讀數 L05；品質 L14。FT-IR 的兩臂產生干涉，背景與樣品常依序量測。</text>
+<text x="50" y="3238" font-size="20" font-weight="400" fill="#61717a">原題：ch28 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

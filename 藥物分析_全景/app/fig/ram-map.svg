@@ -1,0 +1,112 @@
+<svg width="1900" height="3120" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3120" role="img" aria-labelledby="rm3_g3_title rm3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="rm3_g3_title">拉曼光譜｜全章方法分類與大小循環對照</title><desc id="rm3_g3_desc">拉曼光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；能階子圖另標藍線為能量帳。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3120" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH30 / RAMAN / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">拉曼光譜｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先分分類身分，再用同一四站核對目的、條件、讀數與結論；不同層的名稱不硬排成同列。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="1800" height="340" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="416" font-size="27" font-weight="600" fill="#61717a">分類分層｜這些名稱在回答不同問題</text>
+<text x="72" y="463" font-size="24" font-weight="400" fill="#24343f">光子能量：Rayleigh 彈性；Stokes／anti-Stokes Raman 非彈性。</text>
+<text x="72" y="497.08" font-size="24" font-weight="400" fill="#24343f">粒子現象：Tyndall 為膠體／粒子散射，不是普遍固定強度排序的一欄。</text>
+<text x="72" y="531.16" font-size="24" font-weight="400" fill="#24343f">取得光譜：色散式／FT-Raman；波段：UV、可見、NIR；角度：90°或 180°等。</text>
+<text x="72" y="565.24" font-size="24" font-weight="400" fill="#24343f">相鄰方法：IR／UV-Vis／AAS 吸收；螢光／AES 真實激發態放射。MS／LC-MS/MS、NMR 另看各自訊號。</text>
+<rect x="50" y="770" width="570" height="1230" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="815" font-size="29" font-weight="600" fill="#326991">色散式 Raman</text>
+<text x="72" y="862" font-size="22" font-weight="400" fill="#61717a">配置／取得光譜；L1–L9</text>
+<rect x="68" y="920" width="534" height="220" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="90" y="961" font-size="27" font-weight="600" fill="#326991">P1／M01｜目的</text>
+<text x="90" y="1008" font-size="24" font-weight="400" fill="#24343f">鑑別、固態比較；經驗證定量。</text>
+<polyline points="335,1140 335,1170" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,1170.0 328.8,1158.6 341.2,1158.6" fill="#61717a"/>
+<rect x="68" y="1175" width="534" height="220" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="90" y="1216" font-size="27" font-weight="600" fill="#326991">P2／M02｜作用與條件</text>
+<text x="90" y="1263" font-size="24" font-weight="400" fill="#24343f">雷射激發；模式改 α；匹配濾片與光學。</text>
+<polyline points="335,1395 335,1425" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,1425.0 328.8,1413.6 341.2,1413.6" fill="#61717a"/>
+<rect x="68" y="1430" width="534" height="220" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="90" y="1471" font-size="27" font-weight="600" fill="#326991">P3／M03｜取得與讀數</text>
+<text x="90" y="1518" font-size="24" font-weight="400" fill="#24343f">光柵分光 → CCD 等適配偵測 → 強度對位移。</text>
+<polyline points="335,1650 335,1680" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="335.0,1680.0 328.8,1668.6 341.2,1668.6" fill="#61717a"/>
+<rect x="68" y="1685" width="534" height="220" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="90" y="1726" font-size="27" font-weight="600" fill="#326991">P4／M04｜判斷與限制</text>
+<text x="90" y="1773" font-size="24" font-weight="400" fill="#24343f">比參考或用有效校正；查背景、代表性。</text>
+<rect x="670" y="770" width="570" height="1230" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="815" font-size="29" font-weight="600" fill="#286c68">FT-Raman</text>
+<text x="692" y="862" font-size="22" font-weight="400" fill="#61717a">配置／取得光譜；L1–L9</text>
+<rect x="688" y="920" width="534" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="710" y="961" font-size="27" font-weight="600" fill="#286c68">P1／M01｜目的</text>
+<text x="710" y="1008" font-size="24" font-weight="400" fill="#24343f">相同 Raman 分析；常見 1064 nm 配置。</text>
+<polyline points="955,1140 955,1170" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,1170.0 948.8,1158.6 961.2,1158.6" fill="#61717a"/>
+<rect x="688" y="1175" width="534" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="710" y="1216" font-size="27" font-weight="600" fill="#286c68">P2／M02｜作用與條件</text>
+<text x="710" y="1263" font-size="24" font-weight="400" fill="#24343f">NIR 激發；同選擇律；光學與偵測匹配。</text>
+<polyline points="955,1395 955,1425" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,1425.0 948.8,1413.6 961.2,1413.6" fill="#61717a"/>
+<rect x="688" y="1430" width="534" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="710" y="1471" font-size="27" font-weight="600" fill="#286c68">P3／M03｜取得與讀數</text>
+<text x="710" y="1518" font-size="24" font-weight="400" fill="#24343f">干涉儀 → 偵測干涉圖 → FT → Raman 譜。</text>
+<polyline points="955,1650 955,1680" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="955.0,1680.0 948.8,1668.6 961.2,1668.6" fill="#61717a"/>
+<rect x="688" y="1685" width="534" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="710" y="1726" font-size="27" font-weight="600" fill="#286c68">P4／M04｜判斷與限制</text>
+<text x="710" y="1773" font-size="24" font-weight="400" fill="#24343f">FT 非消螢光／定量保證；需校正與驗證。</text>
+<rect x="1290" y="770" width="570" height="1230" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1312" y="815" font-size="29" font-weight="600" fill="#685185">IR spectroscopy</text>
+<text x="1312" y="862" font-size="22" font-weight="400" fill="#61717a">相鄰方法／振動吸收；L3、L8</text>
+<rect x="1308" y="920" width="534" height="220" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1330" y="961" font-size="27" font-weight="600" fill="#685185">P1／M01｜目的</text>
+<text x="1330" y="1008" font-size="24" font-weight="400" fill="#24343f">官能基、指紋、固態與適合含量分析。</text>
+<polyline points="1575,1140 1575,1170" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,1170.0 1568.8,1158.6 1581.2,1158.6" fill="#61717a"/>
+<rect x="1308" y="1175" width="534" height="220" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1330" y="1216" font-size="27" font-weight="600" fill="#685185">P2／M02｜作用與條件</text>
+<text x="1330" y="1263" font-size="24" font-weight="400" fill="#24343f">振動改 μ；相容製樣，可用 ATR 等。</text>
+<polyline points="1575,1395 1575,1425" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,1425.0 1568.8,1413.6 1581.2,1413.6" fill="#61717a"/>
+<rect x="1308" y="1430" width="534" height="220" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1330" y="1471" font-size="27" font-weight="600" fill="#685185">P3／M03｜取得與讀數</text>
+<text x="1330" y="1518" font-size="24" font-weight="400" fill="#24343f">吸收光波數 cm⁻¹；T／A 或相應讀數。</text>
+<polyline points="1575,1650 1575,1680" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1575.0,1680.0 1568.8,1668.6 1581.2,1668.6" fill="#61717a"/>
+<rect x="1308" y="1685" width="534" height="220" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1330" y="1726" font-size="27" font-weight="600" fill="#685185">P4／M04｜判斷與限制</text>
+<text x="1330" y="1773" font-size="24" font-weight="400" fill="#24343f">與 Raman 互補；查製樣、接觸與參考。</text>
+<rect x="50" y="2050" width="1800" height="340" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="2091" font-size="27" font-weight="600" fill="#685185">晶型題的完整方法家族｜方法與前處理一起看</text>
+<text x="72" y="2138" font-size="24" font-weight="400" fill="#24343f">Raman：固態振動／晶格資訊；防激光加熱，低頻範圍須可用。</text>
+<text x="72" y="2172.08" font-size="24" font-weight="400" fill="#24343f">NIR／NIRA：譜差配合參考與模型；IR：Mull、DRIFT、ATR 等相容固態配置。</text>
+<text x="72" y="2206.16" font-size="24" font-weight="400" fill="#24343f">KBr 壓錠：題本解析排除；研磨、壓力、濕氣或相容性可能改譜，不是每次必轉晶。</text>
+<text x="72" y="2240.24" font-size="24" font-weight="400" fill="#24343f">固態 NMR：局部化學環境；XRD：晶格繞射。溶解後資料不能代表原晶格。</text>
+<rect x="50" y="2435" width="875" height="450" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="2476" font-size="27" font-weight="600" fill="#9e771c">題本「放射」｜答案保留</text>
+<text x="72" y="2523" font-size="24" font-weight="400" fill="#24343f">Q07（107-1）四選項依題本選 D Raman。</text>
+<text x="72" y="2557.08" font-size="24" font-weight="400" fill="#24343f">Q01（114-1）單位錯誤選 C。</text>
+<text x="72" y="2591.16" font-size="24" font-weight="400" fill="#24343f">物理機制：Raman 是非彈性散射，不能與螢光的真實激發態過程混為一談。</text>
+<rect x="975" y="2435" width="875" height="450" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="997" y="2476" font-size="27" font-weight="600" fill="#b72d4a">題本「定量」｜條件說清楚</text>
+<text x="997" y="2523" font-size="24" font-weight="400" fill="#24343f">Q04（110-1）選 C；Q08（104-1）選 B。</text>
+<text x="997" y="2557.08" font-size="24" font-weight="400" fill="#24343f">Q05（109-1）制酸錠中甘胺酸＋碳酸鈣選 B Raman；解析提 FT-Raman。</text>
+<text x="997" y="2591.16" font-size="24" font-weight="400" fill="#24343f">一般 Raman 可經校正與驗證定量，配置名稱不代替標準、取樣與適用範圍。</text>
+<text x="50" y="3052" font-size="20" font-weight="400" fill="#61717a">IR＝紅外；UV＝紫外；NIR＝近紅外；AAS／AES＝原子吸收／放射；MS＝質譜；NMR＝核磁共振；XRD＝X 射線繞射。</text>
+<text x="50" y="3088" font-size="20" font-weight="400" fill="#61717a">原題：ch30 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

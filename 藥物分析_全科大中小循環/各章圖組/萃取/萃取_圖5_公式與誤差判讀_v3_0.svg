@@ -1,0 +1,183 @@
+<svg width="1900" height="3430" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3430" role="img" aria-labelledby="ext3_g5_title ext3_g5_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ext3_g5_title">萃取法｜公式與誤差判讀總表</title><desc id="ext3_g5_desc">萃取法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線表示流體，灰箭頭的個體擴散另依標籤辨識。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3430" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH23 / EXTRACTION / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">萃取法｜公式與誤差判讀總表</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">圖中數值是自編教學資料；模型先寫條件。原題pH10.0／2.0保留，紙筆推算回C01–09。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="65" y="365" width="559" height="324" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="406" font-size="27" font-weight="600" fill="#9e771c">C01／C02｜pH → 形態比例</text>
+<text x="87" y="454.34" font-size="23" font-weight="400" fill="#24343f">酸：A⁻/HA=10^(pH−pKa)</text>
+<text x="87" y="487" font-size="23" font-weight="400" fill="#24343f">鹼：B/BH⁺=10^(pH−pKa)</text>
+<text x="87" y="519.66" font-size="23" font-weight="400" fill="#24343f">差2→100:1，約99%是形態。</text>
+<text x="87" y="552.32" font-size="23" font-weight="400" fill="#24343f">Propranolol：10−9.5=0.5</text>
+<text x="87" y="584.98" font-size="23" font-weight="400" fill="#24343f">3²&lt;10&lt;4²→中性75–80%，約76%。</text>
+<rect x="660" y="365" width="559" height="324" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="682" y="406" font-size="27" font-weight="600" fill="#286c68">C03｜單次萃取先守恆</text>
+<text x="682" y="454.34" font-size="23" font-weight="400" fill="#24343f">D=co/ca（總分析濃度）</text>
+<text x="682" y="487" font-size="23" font-weight="400" fill="#24343f">m0=caVa+coVo</text>
+<text x="682" y="519.66" font-size="23" font-weight="400" fill="#24343f">q=Va/(Va+DVo)，E=1−q</text>
+<text x="682" y="552.32" font-size="23" font-weight="400" fill="#24343f">Va100mL、Vo25mL、D4：</text>
+<text x="682" y="584.98" font-size="23" font-weight="400" fill="#24343f">q=1/2；60µg中萃30、剩30。</text>
+<rect x="1255" y="365" width="559" height="324" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1277" y="406" font-size="27" font-weight="600" fill="#326991">C04｜固定D的新份萃取</text>
+<text x="1277" y="454.34" font-size="23" font-weight="400" fill="#24343f">每份新溶劑v、共n次：</text>
+<text x="1277" y="487" font-size="23" font-weight="400" fill="#24343f">qn=[Va/(Va+Dv)]ⁿ</text>
+<text x="1277" y="519.66" font-size="23" font-weight="400" fill="#24343f">En=1−qn</text>
+<text x="1277" y="552.32" font-size="23" font-weight="400" fill="#24343f">同pH、D、Va且每次平衡；</text>
+<text x="1277" y="584.98" font-size="23" font-weight="400" fill="#24343f">搖同一份含藥溶劑，不能再乘q。</text>
+<text x="70" y="784" font-size="29" font-weight="600" fill="#286c68">C05｜先由中性K求此pH的D，再算萃取比例</text>
+<text x="70" y="827" font-size="23" font-weight="400" fill="#61717a">理想弱酸：僅中性HA進有機相，單一pKa、固定pH、無離子配對或反應。下圖是模型曲線，不是實測。</text>
+<polyline points="153,965 153,1355 793,1355" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="145,1355.0 793,1355.0" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1363" font-size="20" font-weight="400" fill="#61717a">0</text>
+<polyline points="145,1306.25 793,1306.25" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1314.25" font-size="20" font-weight="400" fill="#61717a">1</text>
+<polyline points="145,1257.5 793,1257.5" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1265.5" font-size="20" font-weight="400" fill="#61717a">2</text>
+<polyline points="145,1208.75 793,1208.75" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1216.75" font-size="20" font-weight="400" fill="#61717a">3</text>
+<polyline points="145,1160.0 793,1160.0" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1168" font-size="20" font-weight="400" fill="#61717a">4</text>
+<polyline points="145,1111.25 793,1111.25" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1119.25" font-size="20" font-weight="400" fill="#61717a">5</text>
+<polyline points="145,1062.5 793,1062.5" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1070.5" font-size="20" font-weight="400" fill="#61717a">6</text>
+<polyline points="145,1013.75 793,1013.75" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="1021.75" font-size="20" font-weight="400" fill="#61717a">7</text>
+<polyline points="145,965.0 793,965.0" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="118" y="973" font-size="20" font-weight="400" fill="#61717a">8</text>
+<polyline points="153.0,1355 153.0,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="146.0" y="1391" font-size="20" font-weight="400" fill="#61717a">1</text>
+<polyline points="259.6666666666667,1355 259.6666666666667,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="252.66666666666669" y="1391" font-size="20" font-weight="400" fill="#61717a">2</text>
+<polyline points="366.33333333333337,1355 366.33333333333337,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="359.33333333333337" y="1391" font-size="20" font-weight="400" fill="#61717a">3</text>
+<polyline points="473.0,1355 473.0,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="466.0" y="1391" font-size="20" font-weight="400" fill="#61717a">4</text>
+<polyline points="579.6666666666667,1355 579.6666666666667,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="572.6666666666667" y="1391" font-size="20" font-weight="400" fill="#61717a">5</text>
+<polyline points="686.3333333333334,1355 686.3333333333334,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="679.3333333333334" y="1391" font-size="20" font-weight="400" fill="#61717a">6</text>
+<polyline points="793.0,1355 793.0,1364" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="786.0" y="1391" font-size="20" font-weight="400" fill="#61717a">7</text>
+<polyline points="153.0,965.3896103896103 158.33333333333334,965.4370967665394 163.66666666666669,965.4903635794285 169.0,965.550112587719 174.33333333333331,965.6171302595127 179.66666666666666,965.6922978708658 185.0,965.776602776584 190.33333333333334,965.871150979928 195.66666666666666,965.9771811402414 201.0,966.096080169552 206.33333333333334,966.2294005814715 211.66666666666666,966.3788797679728 217.0,966.5464613914694 222.33333333333331,966.7343190905756 227.66666666666669,966.9448827073084 233.0,967.1808672504455 238.33333333333331,967.4453048131593 243.66666666666669,967.7415796614594 249.0,968.0734667016288 254.33333333333331,968.4451735174272 259.6666666666667,968.8613861386139 265.0,969.3273186578599 270.3333333333333,969.8487667492325 275.6666666666667,970.432165053167 281.0,971.0846482743135 286.33333333333337,971.8141156829851 291.66666666666663,972.629298510306 297.0,973.539829472811 302.33333333333337,974.556313344631 307.6666666666667,975.6903971046496 313.0,976.9548377123691 318.3333333333333,978.3635650010817 323.66666666666663,979.9317365140794 329.0,981.675780347149 334.33333333333337,983.6134212033395 339.66666666666663,985.7636839287889 345.0,988.1468678100794 350.33333333333337,990.7844839215063 355.66666666666663,993.6991468858537 361.0,996.9144116545092 366.33333333333337,1000.4545454545455 371.66666666666663,1004.344225059122 377.0,1008.6081502134656 382.33333333333337,1013.2705656168848 387.66666666666663,1018.3546865552519 393.0,1023.8820273124161 398.33333333333337,1029.871637018459 403.66666666666663,1036.33925466201 409.0,1043.2964034761096 414.3333333333333,1050.7494544426681 419.6666666666667,1058.6986986072964 425.0,1067.1374773092366 430.3333333333333,1076.0514270908125 435.6666666666667,1085.4179005582423 441.0,1095.2056244125824 446.3333333333333,1105.3746500768748 451.6666666666667,1115.8766401402743 457.0,1126.6555153179943 462.3333333333333,1137.6484628327057 467.6666666666667,1148.7872800820153 473.0,1160.0 478.3333333333333,1171.2127199179847 483.66666666666663,1182.351537167294 489.00000000000006,1193.3444846820057 494.3333333333333,1204.1233598597257 499.6666666666667,1214.6253499231252 505.0,1224.7943755874176 510.3333333333333,1234.5820994417575 515.6666666666667,1243.9485729091875 521.0,1252.8625226907634 526.3333333333333,1261.3013013927036 531.6666666666667,1269.2505455573319 537.0,1276.7035965238902 542.3333333333333,1283.66074533799 547.6666666666667,1290.128362981541 553.0,1296.117972687584 558.3333333333333,1301.6453134447481 563.6666666666667,1306.7294343831152 569.0,1311.3918497865345 574.3333333333333,1315.655774940878 579.6666666666667,1319.5454545454545 585.0,1323.0855883454908 590.3333333333333,1326.3008531141463 595.6666666666667,1329.2155160784937 601.0,1331.8531321899206 606.3333333333333,1334.2363160712111 611.6666666666667,1336.3865787966604 617.0,1338.3242196528508 622.3333333333333,1340.0682634859206 627.6666666666667,1341.6364349989183 633.0,1343.045162287631 638.3333333333333,1344.3096028953505 643.6666666666667,1345.443686655369 649.0,1346.460170527189 654.3333333333333,1347.370701489694 659.6666666666667,1348.185884317015 665.0,1348.9153517256864 670.3333333333334,1349.567834946833 675.6666666666666,1350.1512332507675 681.0,1350.67268134214 686.3333333333334,1351.1386138613861 691.6666666666666,1351.5548264825727 697.0,1351.9265332983712 702.3333333333334,1352.2584203385406 707.6666666666666,1352.5546951868407 713.0,1352.8191327495545 718.3333333333334,1353.0551172926916 723.6666666666666,1353.2656809094244 729.0,1353.4535386085306 734.3333333333334,1353.6211202320274 739.6666666666666,1353.7705994185285 745.0,1353.903919830448 750.3333333333334,1354.0228188597587 755.6666666666666,1354.128849020072 761.0,1354.223397223416 766.3333333333334,1354.3077021291342 771.6666666666666,1354.3828697404874 777.0,1354.449887412281 782.3333333333334,1354.5096364205715 787.6666666666666,1354.5629032334607 793.0,1354.6103896103896" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="473.0" cy="1160.0" r="8" fill="#326991" stroke="#326991"/>
+<polyline points="473.0,1160.0 473.0,1355" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="493.0" y="1138" font-size="24" font-weight="400" fill="#326991">pH4：D4</text>
+<text x="91" y="936" font-size="24" font-weight="400" fill="#326991">D</text>
+<text x="758" y="1432" font-size="24" font-weight="400" fill="#61717a">pH</text>
+<text x="166" y="905" font-size="25" font-weight="600" fill="#326991">K=8、pKa=4的單一弱酸</text>
+<rect x="900" y="893" width="908" height="338" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="922" y="934" font-size="27" font-weight="600" fill="#326991">D與K不要互換</text>
+<text x="922" y="982.34" font-size="23" font-weight="400" fill="#24343f">K=[HA]o/[HA]a：指定中性形態</text>
+<text x="922" y="1015" font-size="23" font-weight="400" fill="#24343f">D=co/ca：指定pH的所有形態</text>
+<text x="922" y="1047.66" font-size="23" font-weight="400" fill="#24343f">D酸=K/[1+10^(pH−pKa)]</text>
+<text x="922" y="1080.32" font-size="23" font-weight="400" fill="#24343f">D鹼=K/[1+10^(pKa−pH)]</text>
+<text x="922" y="1112.98" font-size="23" font-weight="400" fill="#24343f">酸K8、pH=pKa→D4，Va100／Vo25→E1/2。</text>
+<text x="922" y="1145.64" font-size="23" font-weight="400" fill="#24343f">pH=pKa+1：D8/11，E2/13；需上述模型。</text>
+<rect x="900" y="1260" width="908" height="183" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="922" y="1301" font-size="27" font-weight="600" fill="#9e771c">方向驗算</text>
+<text x="922" y="1349.34" font-size="23" font-weight="400" fill="#24343f">酸pH低→HA多→D趨K；pH高→D降。鹼方向相反。若帶電形態也能萃取，就重建各</text>
+<text x="922" y="1382" font-size="23" font-weight="400" fill="#24343f">形態守恆，不能硬用本式。</text>
+<text x="70" y="1523" font-size="29" font-weight="600" fill="#286c68">C04｜同總有機溶劑50mL：一次50，與兩次各25</text>
+<text x="70" y="1566" font-size="23" font-weight="400" fill="#61717a">自編：水相100mL、初量60µg、D4。兩次分開接觸與收集；濃度比D不等於兩相總量比。</text>
+<polyline points="430.0,1644 430.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="418.0" y="1944" font-size="20" font-weight="400" fill="#61717a">0</text>
+<polyline points="605.0,1644 605.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="593.0" y="1944" font-size="20" font-weight="400" fill="#61717a">10</text>
+<polyline points="780.0,1644 780.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="768.0" y="1944" font-size="20" font-weight="400" fill="#61717a">20</text>
+<polyline points="955.0,1644 955.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="943.0" y="1944" font-size="20" font-weight="400" fill="#61717a">30</text>
+<polyline points="1130.0,1644 1130.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1118.0" y="1944" font-size="20" font-weight="400" fill="#61717a">40</text>
+<polyline points="1305.0,1644 1305.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1293.0" y="1944" font-size="20" font-weight="400" fill="#61717a">50</text>
+<polyline points="1480.0,1644 1480.0,1902" fill="none" stroke="#d8dde0" stroke-width="1" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1468.0" y="1944" font-size="20" font-weight="400" fill="#61717a">60</text>
+<text x="93" y="1704" font-size="26" font-weight="400" fill="#286c68">一次50mL</text>
+<rect x="430" y="1659" width="700.0" height="77" rx="0" fill="#7bb6ac" stroke="#286c68" stroke-width="2"/>
+<rect x="1130.0" y="1659" width="350.0" height="77" rx="0" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="460" y="1706" font-size="25" font-weight="600" fill="#286c68">萃走40µg</text>
+<text x="1152.0" y="1706" font-size="24" font-weight="400" fill="#326991">剩20µg</text>
+<text x="1540" y="1702" font-size="26" font-weight="400" fill="#286c68">E=2/3</text>
+<text x="93" y="1824" font-size="26" font-weight="400" fill="#286c68">兩次25mL</text>
+<rect x="430" y="1779" width="787.5" height="77" rx="0" fill="#7bb6ac" stroke="#286c68" stroke-width="2"/>
+<rect x="1217.5" y="1779" width="262.5" height="77" rx="0" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="460" y="1826" font-size="25" font-weight="600" fill="#286c68">萃走45µg</text>
+<text x="1239.5" y="1826" font-size="24" font-weight="400" fill="#326991">剩15µg</text>
+<text x="1540" y="1822" font-size="26" font-weight="400" fill="#286c68">E=3/4</text>
+<text x="1310" y="1985" font-size="23" font-weight="400" fill="#61717a">量（µg），兩色合60</text>
+<text x="93" y="2012" font-size="24" font-weight="400" fill="#286c68">兩份新25mL：先萃30，再萃15，合45；水剩15。每次殘留1/2→(1/2)²；同量分次更有效。</text>
+<rect x="65" y="2100" width="855" height="305" rx="18" fill="#eef6ed" stroke="#356844" stroke-width="2"/>
+<text x="87" y="2141" font-size="27" font-weight="600" fill="#356844">C06｜量、回收與濃縮是三件事</text>
+<text x="87" y="2189.34" font-size="23" font-weight="400" fill="#24343f">m=c測×V終×DF；回收R=m終/m初</text>
+<text x="87" y="2222" font-size="23" font-weight="400" fill="#24343f">CF=c終/c初=R×V初/V終</text>
+<text x="87" y="2254.66" font-size="23" font-weight="400" fill="#24343f">20mL中40µg，收32µg於2mL：</text>
+<text x="87" y="2287.32" font-size="23" font-weight="400" fill="#24343f">R80%、終16µg/mL、CF8倍。</text>
+<text x="87" y="2319.98" font-size="23" font-weight="400" fill="#24343f">稀釋2倍測8µg/mL→16，不重複乘DF。</text>
+<rect x="967" y="2100" width="855" height="305" rx="18" fill="#eef6ed" stroke="#356844" stroke-width="2"/>
+<text x="989" y="2141" font-size="27" font-weight="600" fill="#356844">C07｜加標回收扣原樣</text>
+<text x="989" y="2189.34" font-size="23" font-weight="400" fill="#24343f">R加標=(m加標−m原)/m加入</text>
+<text x="989" y="2222" font-size="23" font-weight="400" fill="#24343f">三量先還原同份樣品與相同單位。</text>
+<text x="989" y="2254.66" font-size="23" font-weight="400" fill="#24343f">原4µg、加10µg後測12µg：</text>
+<text x="989" y="2287.32" font-size="23" font-weight="400" fill="#24343f">(12−4)/10=80%，不是120%。</text>
+<text x="989" y="2319.98" font-size="23" font-weight="400" fill="#24343f">加標反應含整條方法，不自動隔離MS基質效應。</text>
+<rect x="65" y="2441" width="855" height="309" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="87" y="2482" font-size="27" font-weight="600" fill="#685185">C08｜內標只抵消匹配損失</text>
+<text x="87" y="2530.34" font-size="23" font-weight="400" fill="#24343f">Ax/Ai=Fxi×mx/mi；前加且匹配</text>
+<text x="87" y="2563" font-size="23" font-weight="400" fill="#24343f">F2、內標5µg、比值4→原量10µg</text>
+<text x="87" y="2595.66" font-size="23" font-weight="400" fill="#24343f">共同60%回收→量6與3，比仍4。</text>
+<text x="87" y="2628.32" font-size="23" font-weight="400" fill="#24343f">物理回收仍60%，藥沒有找回。</text>
+<text x="87" y="2660.98" font-size="23" font-weight="400" fill="#24343f">若目標50%、內標100%，錯用簡式估5µg。</text>
+<rect x="967" y="2441" width="855" height="309" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="989" y="2482" font-size="27" font-weight="600" fill="#326991">C09｜微透析RR要用分率</text>
+<text x="989" y="2530.34" font-size="23" font-weight="400" fill="#24343f">零目標入口、條件匹配：</text>
+<text x="989" y="2563" font-size="23" font-weight="400" fill="#24343f">RR=c透析/c游離，c游離=c透析/RR</text>
+<text x="989" y="2595.66" font-size="23" font-weight="400" fill="#24343f">透析8nM、RR40%=2/5：</text>
+<text x="989" y="2628.32" font-size="23" font-weight="400" fill="#24343f">8÷(2/5)=20nM；不是8÷40。</text>
+<text x="989" y="2660.98" font-size="23" font-weight="400" fill="#24343f">估可通膜游離成分，不是組織總量。</text>
+<text x="70" y="2843" font-size="29" font-weight="600" fill="#286c68">M04｜出錯時，先辨哪種量或哪段流程</text>
+<text x="70" y="2886" font-size="23" font-weight="400" fill="#61717a">下列紅虛線是分析者回查；不是分子迴轉、流體迴流，也不是公式的運算箭頭。</text>
+<rect x="65" y="2950" width="559" height="230" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="87" y="2991" font-size="27" font-weight="600" fill="#b72d4a">分母、DF或單位錯</text>
+<text x="87" y="3039.34" font-size="23" font-weight="400" fill="#24343f">低濃度可能只是大體積；回收與CF、游離與總量分</text>
+<text x="87" y="3072" font-size="23" font-weight="400" fill="#24343f">開。</text>
+<polyline points="343,3180 343,3218" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="343.0,3218.0 336.8,3206.6 349.2,3206.6" fill="#b72d4a"/>
+<text x="87" y="3250" font-size="23" font-weight="400" fill="#b72d4a">回 M03／L24–26</text>
+<rect x="660" y="2950" width="559" height="230" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="682" y="2991" font-size="27" font-weight="600" fill="#b72d4a">真的有藥物流失</text>
+<text x="682" y="3039.34" font-size="23" font-weight="400" fill="#24343f">分段後測上樣／洗液／沖提與容器；查pH、材料、</text>
+<text x="682" y="3072" font-size="23" font-weight="400" fill="#24343f">降解、捕集。</text>
+<polyline points="938,3180 938,3218" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="938.0,3218.0 931.8,3206.6 944.2,3206.6" fill="#b72d4a"/>
+<text x="682" y="3250" font-size="23" font-weight="400" fill="#b72d4a">回 M02／L05、10、12、21</text>
+<rect x="1255" y="2950" width="559" height="230" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1277" y="2991" font-size="27" font-weight="600" fill="#b72d4a">條件或校正失配</text>
+<text x="1277" y="3039.34" font-size="23" font-weight="400" fill="#24343f">內標時機與損失、RR流速、SPME時間與塗層；重</text>
+<text x="1277" y="3072" font-size="23" font-weight="400" fill="#24343f">核基準。</text>
+<polyline points="1533,3180 1533,3218" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1533.0,3218.0 1526.8,3206.6 1539.2,3206.6" fill="#b72d4a"/>
+<text x="1277" y="3250" font-size="23" font-weight="400" fill="#b72d4a">回 M02–03／L22–26</text>
+<text x="50" y="3362" font-size="20" font-weight="400" fill="#61717a">C01–09的七階紙筆推導、量級驗算與練習在建構講義；題本沒有獨立含量計算題。本圖不是題本原始數據。</text>
+<text x="50" y="3398" font-size="20" font-weight="400" fill="#61717a">原題：CH23 PDF（內題頭CH24）；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

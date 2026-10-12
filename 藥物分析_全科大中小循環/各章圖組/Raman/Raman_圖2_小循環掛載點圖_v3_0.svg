@@ -1,0 +1,193 @@
+<svg width="1900" height="4240" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4240" role="img" aria-labelledby="rm3_g2_title rm3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="rm3_g2_title">拉曼光譜｜小循環掛載與能階圖</title><desc id="rm3_g2_desc">拉曼光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；能階子圖另標藍線為能量帳。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4240" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH30 / RAMAN / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">拉曼光譜｜小循環掛載與能階圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">全部 10 條 L 各有一個主要位置：入口／實際輸入 → 短鏈 → 出口／交回結果。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="570" height="1170" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="412" font-size="27" font-weight="600" fill="#9e771c">A｜先讀對位移</text>
+<text x="72" y="455" font-size="23" font-weight="400" fill="#24343f">位移是波數差；要算散射波長，還需雷射位置。</text>
+<rect x="68" y="530" width="534" height="440" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="85" y="565" font-size="25" font-weight="600" fill="#9e771c">L4｜位移不是絕對波長</text>
+<text x="85" y="608" font-size="22" font-weight="400" fill="#24343f">入口 M03｜雷射／散射位置、軸名與單位</text>
+<text x="85" y="694" font-size="23" font-weight="400" fill="#24343f">先辨量 → 各波長取倒數 → 入射減散射 → 核對振</text>
+<text x="85" y="726.66" font-size="23" font-weight="400" fill="#24343f">動位移</text>
+<text x="85" y="832" font-size="22" font-weight="400" fill="#9e771c">出口 M04｜有號位移與可比的峰位置</text>
+<text x="85" y="916" font-size="21" font-weight="400" fill="#61717a">條件：物態、模式、溫度不變；峰位校正正確。</text>
+<rect x="68" y="1050" width="534" height="420" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="90" y="1091" font-size="27" font-weight="600" fill="#9e771c">把這組立即用一次</text>
+<text x="90" y="1138" font-size="24" font-weight="400" fill="#24343f">500 nm 入射、+1000 cm⁻¹ 位移：</text>
+<text x="90" y="1172.08" font-size="24" font-weight="400" fill="#24343f">20000−1000=19000 cm⁻¹</text>
+<text x="90" y="1206.16" font-size="24" font-weight="400" fill="#24343f">λₛ=10000/19≈526.3 nm。</text>
+<text x="90" y="1240.24" font-size="24" font-weight="400" fill="#24343f">1000 是差值，不能直接當散射波數。</text>
+<rect x="670" y="370" width="570" height="1170" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="412" font-size="27" font-weight="600" fill="#286c68">B｜光與分子的能量帳</text>
+<text x="692" y="455" font-size="23" font-weight="400" fill="#24343f">先分誰得能；虛擬態不存真實激發人口。</text>
+<rect x="688" y="530" width="534" height="440" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="705" y="565" font-size="25" font-weight="600" fill="#286c68">L1｜誰得能、誰失能</text>
+<text x="705" y="608" font-size="22" font-weight="400" fill="#24343f">入口 M02｜入射光能量＋分子初末振動態</text>
+<text x="705" y="694" font-size="23" font-weight="400" fill="#24343f">分子得能 → 光子失能 → Stokes 長波；分子失能 </text>
+<text x="705" y="726.66" font-size="23" font-weight="400" fill="#24343f">→ 光子得能 → anti-Stokes 短波</text>
+<text x="705" y="832" font-size="22" font-weight="400" fill="#286c68">出口 M03｜散射光的能量、方向與有號位移</text>
+<text x="705" y="916" font-size="21" font-weight="400" fill="#61717a">條件：同一雷射、同一模式；anti-Stokes 需初始高振</text>
+<text x="705" y="945.82" font-size="21" font-weight="400" fill="#61717a">動態。</text>
+<rect x="688" y="1000" width="534" height="440" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="705" y="1035" font-size="25" font-weight="600" fill="#286c68">L2｜虛擬態與真實激發</text>
+<text x="705" y="1078" font-size="22" font-weight="400" fill="#24343f">入口 M02｜光的電場＋分子對外場的響應</text>
+<text x="705" y="1164" font-size="23" font-weight="400" fill="#24343f">外加電場 → 誘導偶極 → 散射響應 → 交換振動能</text>
+<text x="705" y="1196.66" font-size="23" font-weight="400" fill="#24343f">時出現 Raman</text>
+<text x="705" y="1302" font-size="22" font-weight="400" fill="#286c68">出口 M03｜散射機制與螢光的分界</text>
+<text x="705" y="1386" font-size="21" font-weight="400" fill="#61717a">條件：一般非共振自發 Raman；共振時另看電</text>
+<text x="705" y="1415.82" font-size="21" font-weight="400" fill="#61717a">子躍遷。</text>
+<rect x="1290" y="370" width="570" height="1170" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="412" font-size="27" font-weight="600" fill="#356844">C｜哪個振動會有峰</text>
+<text x="1312" y="455" font-size="23" font-weight="400" fill="#24343f">Raman 看極化率變化；IR 看偶極矩變化。</text>
+<rect x="1308" y="530" width="534" height="440" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1325" y="565" font-size="25" font-weight="600" fill="#356844">L3｜極化率與偶極矩</text>
+<text x="1325" y="608" font-size="22" font-weight="400" fill="#24343f">入口 M02｜同一正常振動沿 Q 的 α／μ 變化</text>
+<text x="1325" y="694" font-size="23" font-weight="400" fill="#24343f">沿振動檢查 α／μ → 判 Raman／IR 活性 → 得到</text>
+<text x="1325" y="726.66" font-size="23" font-weight="400" fill="#24343f">可比較的模式資訊</text>
+<text x="1325" y="832" font-size="22" font-weight="400" fill="#356844">出口 M03｜哪些模式可產生 Raman 或 IR 訊號</text>
+<text x="1325" y="916" font-size="21" font-weight="400" fill="#61717a">條件：基本振動近似；嚴格互斥須反演中心。</text>
+<rect x="1308" y="1050" width="534" height="420" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1330" y="1091" font-size="27" font-weight="600" fill="#356844">把這組立即用一次</text>
+<text x="1330" y="1138" font-size="24" font-weight="400" fill="#24343f">N₂ 伸縮可改 α 而不改 μ：</text>
+<text x="1330" y="1172.08" font-size="24" font-weight="400" fill="#24343f">Raman 可活性，基本 IR 不活性。</text>
+<text x="1330" y="1206.16" font-size="24" font-weight="400" fill="#24343f">只有具反演中心等前提，基本振動才嚴</text>
+<text x="1330" y="1240.24" font-size="24" font-weight="400" fill="#24343f">格互斥。</text>
+<text x="1330" y="1274.32" font-size="24" font-weight="400" fill="#24343f">互補不等於全峰強弱相反。</text>
+<rect x="50" y="1580" width="570" height="1170" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1622" font-size="27" font-weight="600" fill="#685185">D｜取樣與固態</text>
+<text x="72" y="1665" font-size="23" font-weight="400" fill="#24343f">先確認照到誰；晶型比較要保留原固態。</text>
+<rect x="68" y="1740" width="534" height="440" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="85" y="1775" font-size="25" font-weight="600" fill="#685185">L7｜實際照到誰</text>
+<text x="85" y="1818" font-size="22" font-weight="400" fill="#24343f">入口 M01｜分析目的、包裝與樣品不均勻性</text>
+<text x="85" y="1904" font-size="23" font-weight="400" fill="#24343f">辨背景材料／取樣深度 → 選空白與多點計畫 → </text>
+<text x="85" y="1936.66" font-size="23" font-weight="400" fill="#24343f">取得代表性檢品</text>
+<text x="85" y="2042" font-size="22" font-weight="400" fill="#685185">出口 M02｜背景對照與代表性取樣方案</text>
+<text x="85" y="2126" font-size="21" font-weight="400" fill="#61717a">條件：包裝須適用；照射功率／時間不改樣。</text>
+<rect x="68" y="2210" width="534" height="440" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="85" y="2245" font-size="25" font-weight="600" fill="#685185">L8｜固態不能先被改掉</text>
+<text x="85" y="2288" font-size="22" font-weight="400" fill="#24343f">入口 M03｜可比固態譜＋製樣／照射紀錄</text>
+<text x="85" y="2374" font-size="23" font-weight="400" fill="#24343f">先查原固態是否保留 → 比峰群與參考 → 區分環</text>
+<text x="85" y="2406.66" font-size="23" font-weight="400" fill="#24343f">境與化學組成 → 支持晶型結論</text>
+<text x="85" y="2512" font-size="22" font-weight="400" fill="#685185">出口 M04｜附製樣條件的晶型判讀及限制</text>
+<text x="85" y="2596" font-size="21" font-weight="400" fill="#61717a">條件：同化合物、可比條件；防研磨／壓力／濕氣／</text>
+<text x="85" y="2625.82" font-size="21" font-weight="400" fill="#61717a">加熱改樣。</text>
+<rect x="670" y="1580" width="570" height="1170" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="1622" font-size="27" font-weight="600" fill="#326991">E｜背景與光路</text>
+<text x="692" y="1665" font-size="23" font-weight="400" fill="#24343f">壓 Rayleigh、處理螢光，最後比較實際訊噪。</text>
+<rect x="688" y="1740" width="534" height="440" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="705" y="1775" font-size="25" font-weight="600" fill="#326991">L5｜壓彈性光、留可用峰</text>
+<text x="705" y="1818" font-size="22" font-weight="400" fill="#24343f">入口 M02｜收集光＋Rayleigh 濾片截止範圍</text>
+<text x="705" y="1904" font-size="23" font-weight="400" fill="#24343f">強彈性光壓住弱峰 → 匹配抑制濾片 → 取得可用 </text>
+<text x="705" y="1936.66" font-size="23" font-weight="400" fill="#24343f">Raman 譜窗</text>
+<text x="705" y="2042" font-size="22" font-weight="400" fill="#326991">出口 M03｜背景較可控的訊號與實際可見位移區間</text>
+<text x="705" y="2126" font-size="21" font-weight="400" fill="#61717a">條件：確認濾片截止與 Stokes／anti-Stokes 可見側。</text>
+<rect x="688" y="2210" width="534" height="440" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="705" y="2245" font-size="25" font-weight="600" fill="#326991">L6｜波長與訊噪的取捨</text>
+<text x="705" y="2288" font-size="22" font-weight="400" fill="#24343f">入口 M02｜激發波長、匹配光學與樣品背景</text>
+<text x="705" y="2374" font-size="23" font-weight="400" fill="#24343f">改激發 → 背景與 Raman 效率皆改 → 匹配光學／</text>
+<text x="705" y="2406.66" font-size="23" font-weight="400" fill="#24343f">偵測 → 比實際訊噪</text>
+<text x="705" y="2512" font-size="22" font-weight="400" fill="#326991">出口 M03｜可用量測條件與其代價</text>
+<text x="705" y="2596" font-size="21" font-weight="400" fill="#61717a">條件：固定目的與樣品；避免加熱改樣；重新匹配元</text>
+<text x="705" y="2625.82" font-size="21" font-weight="400" fill="#61717a">件。</text>
+<rect x="1290" y="1580" width="570" height="1170" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="1622" font-size="27" font-weight="600" fill="#b72d4a">F｜峰強、人口與結論</text>
+<text x="1312" y="1665" font-size="23" font-weight="400" fill="#24343f">峰高會受條件影響；含量要校正、溫度要校正。</text>
+<rect x="1308" y="1740" width="534" height="440" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1325" y="1775" font-size="25" font-weight="600" fill="#b72d4a">L9｜含量要校正與驗證</text>
+<text x="1325" y="1818" font-size="22" font-weight="400" fill="#24343f">入口 M03｜處理後訊號 S＋參考含量 C＋校正條件</text>
+<text x="1325" y="1904" font-size="23" font-weight="400" fill="#24343f">固定條件 → 對照標準響應 → 查適用範圍／驗證 </text>
+<text x="1325" y="1936.66" font-size="23" font-weight="400" fill="#24343f">→ 才報含量</text>
+<text x="1325" y="2042" font-size="22" font-weight="400" fill="#b72d4a">出口 M04｜有校正基準與適用範圍的含量</text>
+<text x="1325" y="2126" font-size="21" font-weight="400" fill="#61717a">條件：功率、聚焦、基質、取樣與處理相符；驗證有</text>
+<text x="1325" y="2155.82" font-size="21" font-weight="400" fill="#61717a">效。</text>
+<rect x="1308" y="2210" width="534" height="440" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1325" y="2245" font-size="25" font-weight="600" fill="#b72d4a">L10｜人口不等於峰高</text>
+<text x="1325" y="2288" font-size="22" font-weight="400" fill="#24343f">入口 M02｜振動間距 ΔE、溫度 T 與熱平衡人口</text>
+<text x="1325" y="2374" font-size="23" font-weight="400" fill="#24343f">T 升高 → 高振動態人口增加 → anti-Stokes 可出</text>
+<text x="1325" y="2406.66" font-size="23" font-weight="400" fill="#24343f">發者變多 → 相對訊號可增加</text>
+<text x="1325" y="2512" font-size="22" font-weight="400" fill="#b72d4a">出口 M03｜兩側訊號的相對趨勢與需校正的項目</text>
+<text x="1325" y="2596" font-size="21" font-weight="400" fill="#61717a">條件：熱平衡、同模式與可比響應；T 用 K。</text>
+<text x="50" y="2820" font-size="29" font-weight="600" fill="#24343f">L1＋L10｜三種能量帳：同一雷射的入射箭頭長度相同</text>
+<text x="50" y="2867" font-size="23" font-weight="400" fill="#61717a">虛擬態用點線；不是可儲存人口的真實激發態。anti-Stokes 起點較高，中間標記也相應較高。</text>
+<rect x="50" y="2910" width="570" height="660" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2953" font-size="28" font-weight="600" fill="#326991">Rayleigh</text>
+<polyline points="95,3375 570,3375" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="515" y="3362" font-size="21" font-weight="400" fill="#24343f">v=0</text>
+<polyline points="95,3275 570,3275" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="515" y="3262" font-size="21" font-weight="400" fill="#24343f">v=1</text>
+<polyline points="95,3135 570,3135" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="92" y="3118" font-size="20" font-weight="400" fill="#61717a">虛擬態標記</text>
+<polyline points="240,3375 240,3135" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="240.0,3135.0 246.2,3146.4 233.8,3146.4" fill="#326991"/>
+<polyline points="365,3135 365,3375" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="365.0,3375.0 358.8,3363.6 371.2,3363.6" fill="#326991"/>
+<text x="255" y="3260" font-size="21" font-weight="400" fill="#326991">入射</text>
+<text x="380" y="3280" font-size="21" font-weight="400" fill="#326991">散射</text>
+<text x="73" y="3430" font-size="23" font-weight="400" fill="#24343f">分子 v=0 → v=0；Δν̃=0</text>
+<text x="73" y="3475" font-size="24" font-weight="400" fill="#326991">Eₛ=E₀；原波長</text>
+<rect x="670" y="2910" width="570" height="660" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="692" y="2953" font-size="28" font-weight="600" fill="#326991">Stokes Raman</text>
+<polyline points="715,3375 1190,3375" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1135" y="3362" font-size="21" font-weight="400" fill="#24343f">v=0</text>
+<polyline points="715,3275 1190,3275" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1135" y="3262" font-size="21" font-weight="400" fill="#24343f">v=1</text>
+<polyline points="715,3135 1190,3135" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="712" y="3118" font-size="20" font-weight="400" fill="#61717a">虛擬態標記</text>
+<polyline points="860,3375 860,3135" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="860.0,3135.0 866.2,3146.4 853.8,3146.4" fill="#326991"/>
+<polyline points="985,3135 985,3275" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="985.0,3275.0 978.8,3263.6 991.2,3263.6" fill="#326991"/>
+<text x="875" y="3260" font-size="21" font-weight="400" fill="#326991">入射</text>
+<text x="1000" y="3180" font-size="21" font-weight="400" fill="#326991">散射</text>
+<text x="693" y="3430" font-size="23" font-weight="400" fill="#24343f">分子 v=0 → v=1；Δν̃&gt;0</text>
+<text x="693" y="3475" font-size="24" font-weight="400" fill="#326991">Eₛ=E₀−ΔE；長波</text>
+<rect x="1290" y="2910" width="570" height="660" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1312" y="2953" font-size="28" font-weight="600" fill="#326991">anti-Stokes Raman</text>
+<polyline points="1335,3375 1810,3375" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1755" y="3362" font-size="21" font-weight="400" fill="#24343f">v=0</text>
+<polyline points="1335,3275 1810,3275" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1755" y="3262" font-size="21" font-weight="400" fill="#24343f">v=1</text>
+<polyline points="1335,3035 1810,3035" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="1332" y="3018" font-size="20" font-weight="400" fill="#61717a">虛擬態標記</text>
+<polyline points="1480,3275 1480,3035" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1480.0,3035.0 1486.2,3046.4 1473.8,3046.4" fill="#326991"/>
+<polyline points="1605,3035 1605,3375" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1605.0,3375.0 1598.8,3363.6 1611.2,3363.6" fill="#326991"/>
+<text x="1495" y="3160" font-size="21" font-weight="400" fill="#326991">入射</text>
+<text x="1620" y="3280" font-size="21" font-weight="400" fill="#326991">散射</text>
+<text x="1313" y="3430" font-size="23" font-weight="400" fill="#24343f">分子 v=1 → v=0；Δν̃&lt;0</text>
+<text x="1313" y="3475" font-size="24" font-weight="400" fill="#326991">Eₛ=E₀+ΔE；短波</text>
+<text x="1313" y="3523" font-size="22" font-weight="400" fill="#b72d4a">需要初始高振動態人口。</text>
+<rect x="50" y="3610" width="1800" height="200" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="3651" font-size="27" font-weight="600" fill="#9e771c">文字能量守恆｜光與分子兩邊一起算</text>
+<text x="72" y="3698" font-size="24" font-weight="400" fill="#24343f">E₀＋E_i＝Eₛ＋E_f；hc(ν̃₀−ν̃ₛ)＝E_f−E_i。i＝分子初態，f＝分子末態。</text>
+<text x="72" y="3732.08" font-size="24" font-weight="400" fill="#24343f">同模式兩側 |Δν̃| 可相同，峰高未必相同：人口、頻率與響應都會影響。</text>
+<rect x="50" y="3850" width="1800" height="265" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="3891" font-size="27" font-weight="600" fill="#61717a">完整示範路線｜自編基本例走完四站</text>
+<text x="72" y="3938" font-size="24" font-weight="400" fill="#24343f">M01：問散射位置 → M02：500 nm 雷射、同模式 Stokes 間距 1000 cm⁻¹</text>
+<text x="72" y="3972.08" font-size="24" font-weight="400" fill="#24343f">→ M03：20000−1000＝19000 cm⁻¹ → L4：倒數得 λₛ≈526.3 nm</text>
+<text x="72" y="4006.16" font-size="24" font-weight="400" fill="#24343f">→ M04：比入射長波，方向符合；圖上的位移仍是＋1000 cm⁻¹。</text>
+<text x="50" y="4172" font-size="20" font-weight="400" fill="#61717a">α＝極化率；μ＝偶極矩；Q＝正常振動座標；v＝振動能階標號。藍箭頭表示入射／散射的能量帳，非空間光路。</text>
+<text x="50" y="4208" font-size="20" font-weight="400" fill="#61717a">原題：ch30 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

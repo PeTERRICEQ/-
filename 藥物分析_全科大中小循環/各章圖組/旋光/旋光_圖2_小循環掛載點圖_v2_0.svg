@@ -1,0 +1,74 @@
+<svg width="2000" height="1830" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1830" role="img" aria-labelledby="pol-f2-title pol-f2-desc">
+<title id="pol-f2-title">圖2｜旋光度測定法：小循環掛載圖</title>
+<desc id="pol-f2-desc">十條小循環 L1 至 L10 放回母圖正式區塊 M02 至 M07 的主要解釋位置。</desc>
+<defs><marker id="pol-f2-a0f766e" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#0f766e"/></marker><marker id="pol-f2-a15803d" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#15803d"/></marker><marker id="pol-f2-a1d4ed8" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#1d4ed8"/></marker><marker id="pol-f2-a6b7280" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#6b7280"/></marker><marker id="pol-f2-a6d28d9" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#6d28d9"/></marker><marker id="pol-f2-ab45309" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#b45309"/></marker></defs>
+<rect x="0" y="0" width="2000" height="1830" fill="#fcfcfd"/>
+<text x="60" y="70" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="42" font-weight="700" fill="#111827" text-anchor="start">圖2｜小循環掛載圖：每條 L 在母圖的哪一格作用</text>
+<text x="60" y="116" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">左欄＝母圖正式區塊（同圖1顏色）；右欄＝小循環的最短推導。L 依作用位置排列；編號＝建構講義的教學順序。</text>
+<text x="60" y="160" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#4b5563" text-anchor="start">M01 分析目的由 L4（能不能測）與 L6、L9（要算什麼）回答。</text>
+<rect x="60" y="190" width="420" height="132" rx="16" fill="#fef3c7" stroke="#b45309" stroke-width="3"/>
+<text x="84" y="266.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#b45309" text-anchor="start">M02 檢品與分析物</text>
+<polyline points="480,256.0 544,256.0" fill="none" stroke="#b45309" stroke-width="3" marker-end="url(#pol-f2-ab45309)"/>
+<rect x="550" y="190" width="1390" height="132" rx="14" fill="#ffffff" stroke="#b45309" stroke-width="3"/>
+<text x="574" y="234" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#b45309" text-anchor="start">L4｜掌性判準：誰會轉、誰淨值為零</text>
+<text x="574" y="274" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">與鏡像不能重疊 → 左右圓偏光感受不同 → 有旋光；外消旋體 (+)(−) 等量相消</text>
+<text x="574" y="308" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 淨 0；meso 內部對稱 → 0</text>
+<rect x="60" y="346" width="420" height="282" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="84" y="477.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#1d4ed8" text-anchor="start">M03 光的準備</text>
+<text x="84" y="519.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#1d4ed8" text-anchor="start">→ M05 讀數</text>
+<polyline points="480,412.0 544,412.0" fill="none" stroke="#1d4ed8" stroke-width="3" marker-end="url(#pol-f2-a1d4ed8)"/>
+<rect x="550" y="346" width="1390" height="132" rx="14" fill="#ffffff" stroke="#1d4ed8" stroke-width="3"/>
+<text x="574" y="390" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">L1｜起偏—檢偏：把「方向」變成可讀的角度</text>
+<text x="574" y="430" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">起偏鏡只放行一個振動方向 → 樣品轉 a → 檢偏鏡轉到終點（消光）</text>
+<text x="574" y="464" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 轉過的角度＝a；順時針 (+)、逆時針 (−)</text>
+<polyline points="480,562.0 544,562.0" fill="none" stroke="#1d4ed8" stroke-width="3" marker-end="url(#pol-f2-a1d4ed8)"/>
+<rect x="550" y="496" width="1390" height="132" rx="14" fill="#ffffff" stroke="#1d4ed8" stroke-width="3"/>
+<text x="574" y="540" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">L2｜半影稜鏡：把「找最暗」改成「比兩半一樣亮」</text>
+<text x="574" y="580" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">最暗點附近亮度變化極小（平底谷）→ 難定終點 → 視野分兩半、方向略錯開 → 比較兩半等亮（蹺蹺板）</text>
+<text x="574" y="614" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 終點敏銳</text>
+<rect x="60" y="652" width="420" height="282" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3"/>
+<text x="84" y="803.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#15803d" text-anchor="start">M04 光與樣品作用</text>
+<polyline points="480,718.0 544,718.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f2-a15803d)"/>
+<rect x="550" y="652" width="1390" height="132" rx="14" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<text x="574" y="696" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#15803d" text-anchor="start">L3｜圓雙折射：偏極面為什麼會轉（課外機理）</text>
+<text x="574" y="736" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">平面偏極光＝左＋右圓偏光 → chiral 介質中 n左 ≠ n右 → 兩者相位差隨路徑累積</text>
+<text x="574" y="770" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 合成偏極面轉過 a</text>
+<polyline points="480,868.0 544,868.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f2-a15803d)"/>
+<rect x="550" y="802" width="1390" height="132" rx="14" fill="#ffffff" stroke="#15803d" stroke-width="3"/>
+<text x="574" y="846" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#15803d" text-anchor="start">L5｜a ∝ l × c：遇到的分子越多轉越多</text>
+<text x="574" y="886" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">管長 l ↑ 或濃度 c ↑ → 光路上的 chiral 分子數 ↑ → a 等比例 ↑</text>
+<text x="574" y="920" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ a 不是物質常數；收益：相對誤差 ↓，代價：樣品量、氣泡</text>
+<rect x="60" y="958" width="420" height="132" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-width="3"/>
+<text x="84" y="1034.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#6d28d9" text-anchor="start">M05 讀數</text>
+<polyline points="480,1024.0 544,1024.0" fill="none" stroke="#6d28d9" stroke-width="3" marker-end="url(#pol-f2-a6d28d9)"/>
+<rect x="550" y="958" width="1390" height="132" rx="14" fill="#ffffff" stroke="#6d28d9" stroke-width="3"/>
+<text x="574" y="1002" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#6d28d9" text-anchor="start">L8｜兩套系統：D／L（定義）與 (+)／(−)（量測）無對應</text>
+<text x="574" y="1042" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">D／L 由結構圖的約定決定 → 旋轉方向由整個分子的電子結構與條件決定 → 兩者無必然對應</text>
+<text x="574" y="1076" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 維生素 C 為 L-(+)</text>
+<rect x="60" y="1114" width="420" height="282" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+<text x="84" y="1265.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#0f766e" text-anchor="start">M06 歸一與判讀</text>
+<polyline points="480,1180.0 544,1180.0" fill="none" stroke="#0f766e" stroke-width="3" marker-end="url(#pol-f2-a0f766e)"/>
+<rect x="550" y="1114" width="1390" height="132" rx="14" fill="#ffffff" stroke="#0f766e" stroke-width="3"/>
+<text x="574" y="1158" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="start">L6｜歸一化：除掉 l、c 得比旋光度</text>
+<text x="574" y="1198" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">a ＝ k·l·c′（c′：g/mL）→ [α] ＝ a／(l·c′)</text>
+<text x="574" y="1232" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ c 改用 g/100 mL（c′＝c／100）→ [α] ＝ 100a／(l·c)；可三向使用：求 [α]、a、c</text>
+<polyline points="480,1330.0 544,1330.0" fill="none" stroke="#0f766e" stroke-width="3" marker-end="url(#pol-f2-a0f766e)"/>
+<rect x="550" y="1264" width="1390" height="132" rx="14" fill="#ffffff" stroke="#0f766e" stroke-width="3"/>
+<text x="574" y="1308" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="start">L9｜鏡像加權：由讀數推比例</text>
+<text x="574" y="1348" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">混合值＝純值×f₊ ＋（−純值）×f₋ → 混合／純＝f₊ − f₋（ee）</text>
+<text x="574" y="1382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ f₊＝(1 ＋ 差)／2；「減少 x%」→ 次要者佔 x/2 %</text>
+<rect x="60" y="1420" width="420" height="282" rx="16" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="84" y="1571.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#6b7280" text-anchor="start">M07 可信度條件</text>
+<polyline points="480,1486.0 544,1486.0" fill="none" stroke="#6b7280" stroke-width="3" marker-end="url(#pol-f2-a6b7280)"/>
+<rect x="550" y="1420" width="1390" height="132" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="3"/>
+<text x="574" y="1464" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#6b7280" text-anchor="start">L7｜分母以外的條件仍會改 [α]</text>
+<text x="574" y="1504" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">λ、溫度、溶劑改變 n左 − n右 → [α] 改變</text>
+<text x="574" y="1538" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→ 必須標示上標溫度、下標 D、括號溶劑（與 c）；濕度不在列</text>
+<polyline points="480,1636.0 544,1636.0" fill="none" stroke="#6b7280" stroke-width="3" marker-end="url(#pol-f2-a6b7280)"/>
+<rect x="550" y="1570" width="1390" height="132" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="3"/>
+<text x="574" y="1614" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#6b7280" text-anchor="start">L10｜可信度：誤差如何進入讀數</text>
+<text x="574" y="1654" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">氣泡→光路偏折、終點模糊｜溫度漂移→[α] 變｜未扣空白→系統偏差｜目視判讀</text>
+<text x="574" y="1688" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">→多次平均；a 小時 0.02° 占比大</text>
+<text x="60" y="1760" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">箭頭＝「在此區塊發揮作用」（歸屬線，不是化學反應）。L3 為課外機理，用來統一解釋 L4、L5、L7；考試不要求計算。</text>
+<text x="1960" y="1806" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="20" fill="#4b5563" text-anchor="end">依據：旋光度建構講義 v2_0｜圖組 v2_0</text>
+</svg>

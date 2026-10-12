@@ -1,0 +1,196 @@
+<svg width="1900" height="3610" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3610" role="img" aria-labelledby="ce3_g4_title ce3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ce3_g4_title">CE 儀器與操作考點圖</title><desc id="ce3_g4_desc">毛細管電泳教學向量圖，v3.0。M01先定問題，M02準備與測量，M03讀訊號，M04核對結論。灰箭頭是分析流程；藍線是液流或區帶運動，金線是光路，橙線是自身電泳，紫線是聚焦運動；紅虛線僅表示分析者依品質疑點回查。所有硬體與箭頭依標籤判讀，示意不按比例；曲線依子圖標示為自編模型，非實測。</desc>
+<rect x="0" y="0" width="1900" height="3610" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH24 / CE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">CE 儀器與操作考點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先畫兩電極、偵測窗與兩種管長；再看 EOF、MEKC、CIEF、ITP 的實際移動。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="1800" height="165" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="72" y="411" font-size="27" font-weight="600" fill="#497d65">M02 裝置配置｜L26</text>
+<text x="72" y="459.34" font-size="24" font-weight="400" fill="#24343f">正常模式：左陽極＋、右陰極−；藍線為液體/區帶，金線為光路，橙線為自身EP，灰線為電路/資訊。示意不按比例。</text>
+<rect x="605" y="565" width="690" height="100" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="635" y="607" font-size="24" font-weight="400" fill="#24343f">高電壓電源｜10–30 kV（教材經驗範圍）</text>
+<text x="635" y="642" font-size="23" font-weight="400" fill="#24343f">建立電場；同時記錄電流 I 與控溫</text>
+<polyline points="605,615 240,615 240,695" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1295,615 1295,550 1670,550 1670,695" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="100" y="720" width="320" height="160" rx="18" fill="#eef5fa" stroke="#326991" stroke-width="2"/>
+<text x="125" y="765" font-size="28" font-weight="600" fill="#326991">陽極 ＋</text>
+<text x="125" y="808" font-size="24" font-weight="400" fill="#24343f">BGE 緩衝液槽</text>
+<rect x="1510" y="720" width="320" height="160" rx="18" fill="#eef5fa" stroke="#326991" stroke-width="2"/>
+<text x="1535" y="765" font-size="28" font-weight="600" fill="#326991">陰極 −</text>
+<text x="1535" y="808" font-size="24" font-weight="400" fill="#24343f">BGE 緩衝液槽</text>
+<polyline points="240,695 240,825" fill="none" stroke="#61717a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1670,695 1670,825" fill="none" stroke="#61717a" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="423" y="757" width="1080" height="36" rx="5" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<polyline points="310,775 1670,775" fill="none" stroke="#326991" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1670.0,775.0 1658.6,781.2 1658.6,768.8" fill="#326991"/>
+<text x="490" y="733" font-size="25" font-weight="400" fill="#326991">Fused silica 管內BGE與樣品區帶</text>
+<text x="520" y="832" font-size="23" font-weight="400" fill="#24343f">外壁 Polyimide 保護；偵測窗去外塗層</text>
+<rect x="1240" y="744" width="105" height="64" rx="6" fill="#fff" stroke="#9b802c" stroke-width="2"/>
+<polyline points="1250,775 1335,775" fill="none" stroke="#326991" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="1320" y="565" width="190" height="95" rx="18" fill="#fff" stroke="#9b802c" stroke-width="2"/>
+<text x="1340" y="605" font-size="26" font-weight="400" fill="#9b802c">UV/DAD</text>
+<text x="1340" y="642" font-size="21" font-weight="400" fill="#24343f">光源/光學</text>
+<polyline points="1410,660 1410,696 1290,696 1290,744" fill="none" stroke="#9b802c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1290.0,744.0 1283.8,732.6 1296.2,732.6" fill="#9b802c"/>
+<polyline points="1290,808 1290,887 1410,887" fill="none" stroke="#9b802c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,887.0 1398.6,893.2 1398.6,880.8" fill="#9b802c"/>
+<rect x="1420" y="861" width="205" height="90" rx="18" fill="#fff" stroke="#9b802c" stroke-width="2"/>
+<text x="1440" y="899" font-size="23" font-weight="400" fill="#9b802c">光電偵測器</text>
+<text x="1440" y="932" font-size="21" font-weight="400" fill="#24343f">→ 訊號/時間</text>
+<text x="1380" y="1068" font-size="23" font-weight="400" fill="#9b802c">UV 光徑 b ≈ 內徑</text>
+<polyline points="310,910 310,935 1260,935 1260,910" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="395" y="979" font-size="24" font-weight="400" fill="#24343f">Leff：進樣起點到偵測窗（時間走的路）</text>
+<polyline points="310,1000 310,1025 1670,1025 1670,1000" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="605" y="1068" font-size="24" font-weight="400" fill="#24343f">Ltot：兩電極間總管長（E=V/Ltot）</text>
+<rect x="50" y="1140" width="875" height="620" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="75" y="1188" font-size="27" font-weight="600" fill="#326991">L04／L05｜負壁如何把水往陰極帶</text>
+<polyline points="95,1250 875,1250" fill="none" stroke="#61717a" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="145" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="255" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="365" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="475" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="585" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="695" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="805" y="1240" font-size="27" font-weight="400" fill="#24343f">−</text>
+<text x="105" y="1293" font-size="23" font-weight="400" fill="#24343f">負壁 Si–O⁻；ζ 在滑移面，不是表面本身</text>
+<circle cx="145" cy="1365" r="25" fill="#edf3f9" stroke="#326991"/>
+<text x="137" y="1373" font-size="24" font-weight="400" fill="#326991">+</text>
+<polyline points="180,1365 280,1365" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="280.0,1365.0 268.6,1371.2 268.6,1358.8" fill="#326991"/>
+<circle cx="335" cy="1365" r="25" fill="#edf3f9" stroke="#326991"/>
+<text x="327" y="1373" font-size="24" font-weight="400" fill="#326991">+</text>
+<polyline points="370,1365 470,1365" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="470.0,1365.0 458.6,1371.2 458.6,1358.8" fill="#326991"/>
+<circle cx="525" cy="1365" r="25" fill="#edf3f9" stroke="#326991"/>
+<text x="517" y="1373" font-size="24" font-weight="400" fill="#326991">+</text>
+<polyline points="560,1365 660,1365" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="660.0,1365.0 648.6,1371.2 648.6,1358.8" fill="#326991"/>
+<text x="105" y="1440" font-size="25" font-weight="400" fill="#326991">可動反離子朝陰極 → 拖動液體</text>
+<polyline points="135,1495 830,1495" fill="none" stroke="#326991" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="830.0,1495.0 818.6,1501.2 818.6,1488.8" fill="#326991"/>
+<text x="105" y="1544" font-size="24" font-weight="400" fill="#24343f">主體 EOF 向右；中性物也跟着水走</text>
+<text x="105" y="1610" font-size="22" font-weight="400" fill="#24343f">μEOF = −εζ/η：裸石英 ζ&lt;0、E&gt;0 → EOF&gt;0</text>
+<text x="105" y="1665" font-size="23" font-weight="400" fill="#24343f">薄雙層、均溫近似；體積流量還要乘截面積。</text>
+<rect x="975" y="1140" width="875" height="620" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1000" y="1188" font-size="27" font-weight="600" fill="#765a8c">L17｜MEKC 的微胞也在移動</text>
+<polyline points="1040,1290 1780,1290" fill="none" stroke="#326991" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1780.0,1290.0 1768.6,1296.2 1768.6,1283.8" fill="#326991"/>
+<text x="1040" y="1260" font-size="24" font-weight="400" fill="#326991">水相／EOF：較快向陰極</text>
+<circle cx="1310" cy="1390" r="70" fill="#f2eef8" stroke="#75558c"/>
+<circle cx="1380.0" cy="1390.0" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1366.6311896062464" cy="1431.1449676604732" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1331.6311896062464" cy="1456.5739561406608" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1288.3688103937536" cy="1456.5739561406608" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1253.3688103937536" cy="1431.1449676604732" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1240.0" cy="1390.0" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1253.3688103937536" cy="1348.8550323395268" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1288.3688103937536" cy="1323.4260438593392" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1331.6311896062464" cy="1323.4260438593392" r="10" fill="#fff" stroke="#75558c"/>
+<circle cx="1366.6311896062464" cy="1348.8550323395268" r="10" fill="#fff" stroke="#75558c"/>
+<text x="1298" y="1398" font-size="24" font-weight="400" fill="#75558c">M</text>
+<text x="1040" y="1395" font-size="23" font-weight="400" fill="#24343f">中性物</text>
+<polyline points="1140,1400 1230,1400" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1230.0,1400.0 1218.6,1406.2 1218.6,1393.8" fill="#61717a"/>
+<polyline points="1218,1440 1135,1440" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1135.0,1440.0 1146.4,1433.8 1146.4,1446.2" fill="#61717a"/>
+<polyline points="1375,1420 1580,1420" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1580.0,1420.0 1568.6,1426.2 1568.6,1413.8" fill="#326991"/>
+<text x="1450" y="1480" font-size="23" font-weight="400" fill="#24343f">微胞總速仍向陰極，較水慢</text>
+<polyline points="1330,1530 1180,1530" fill="none" stroke="#ad6733" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1180.0,1530.0 1191.4,1523.8 1191.4,1536.2" fill="#ad6733"/>
+<text x="1040" y="1577" font-size="23" font-weight="400" fill="#24343f">SDS 微胞自身EP朝陽極；EOF可以帶它向右。</text>
+<text x="1040" y="1640" font-size="23" font-weight="400" fill="#24343f">中性物水/微胞分配比例不同 → 平均速度不同。</text>
+<text x="1040" y="1699" font-size="23" font-weight="400" fill="#24343f">須達實際CMC；0.05mM原題疑點見F16。</text>
+<rect x="50" y="1830" width="875" height="560" rx="18" fill="#fff" stroke="#75558c" stroke-width="2"/>
+<text x="75" y="1878" font-size="27" font-weight="600" fill="#75558c">L20｜CIEF 聚焦：左右都朝自己的 pI</text>
+<text x="105" y="1940" font-size="25" font-weight="400" fill="#24343f">陽極＋／低pH</text>
+<text x="590" y="1940" font-size="25" font-weight="400" fill="#24343f">陰極−／高pH</text>
+<polyline points="120,1995 830,1995" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="830.0,1995.0 818.6,2001.2 818.6,1988.8" fill="#61717a"/>
+<text x="125" y="2040" font-size="23" font-weight="400" fill="#24343f">局部 pH 6</text>
+<text x="400" y="2040" font-size="23" font-weight="400" fill="#24343f">pH 7 = pI</text>
+<text x="660" y="2040" font-size="23" font-weight="400" fill="#24343f">pH 8</text>
+<circle cx="200" cy="2115" r="24" fill="#f2eef8" stroke="#75558c"/>
+<text x="192" y="2123" font-size="24" font-weight="400" fill="#75558c">+</text>
+<circle cx="750" cy="2115" r="24" fill="#f2eef8" stroke="#75558c"/>
+<text x="742" y="2123" font-size="24" font-weight="400" fill="#75558c">−</text>
+<polyline points="234,2115 435,2115" fill="none" stroke="#75558c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="435.0,2115.0 423.6,2121.2 423.6,2108.8" fill="#75558c"/>
+<polyline points="716,2115 485,2115" fill="none" stroke="#75558c" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="485.0,2115.0 496.4,2108.8 496.4,2121.2" fill="#75558c"/>
+<polyline points="460,2080 460,2149" fill="none" stroke="#75558c" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="105" y="2215" font-size="23" font-weight="400" fill="#24343f">偏離pI → 重新帶電 → 自身EP拉回；這是物理聚焦。</text>
+<text x="105" y="2283" font-size="23" font-weight="400" fill="#24343f">聚焦時抑制EOF；之後可動化或整柱成像。</text>
+<rect x="975" y="1830" width="875" height="560" rx="18" fill="#fff" stroke="#476c79" stroke-width="2"/>
+<text x="1000" y="1878" font-size="27" font-weight="600" fill="#476c79">L21｜ITP 等速：領隊在前方</text>
+<polyline points="1080,1940 1775,1940" fill="none" stroke="#326991" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1775.0,1940.0 1763.6,1946.2 1763.6,1933.8" fill="#326991"/>
+<text x="1090" y="1982" font-size="23" font-weight="400" fill="#24343f">全區帶向右，空間左→右：TE｜樣品｜LE</text>
+<rect x="1045" y="2025" width="220" height="130" rx="18" fill="#fcf2e4" stroke="#61717a" stroke-width="2"/>
+<text x="1070" y="2073" font-size="26" font-weight="400" fill="#24343f">TE 終止</text>
+<polyline points="1075,2120 1215,2120" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1215.0,2120.0 1203.6,2126.2 1203.6,2113.8" fill="#326991"/>
+<rect x="1285" y="2025" width="220" height="130" rx="18" fill="#f2eef8" stroke="#61717a" stroke-width="2"/>
+<text x="1310" y="2073" font-size="26" font-weight="400" fill="#24343f">sample</text>
+<polyline points="1315,2120 1455,2120" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1455.0,2120.0 1443.6,2126.2 1443.6,2113.8" fill="#326991"/>
+<rect x="1525" y="2025" width="220" height="130" rx="18" fill="#edf3f9" stroke="#61717a" stroke-width="2"/>
+<text x="1550" y="2073" font-size="26" font-weight="400" fill="#24343f">LE 前導</text>
+<polyline points="1555,2120 1695,2120" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1695.0,2120.0 1683.6,2126.2 1683.6,2113.8" fill="#326991"/>
+<text x="1045" y="2210" font-size="24" font-weight="400" fill="#24343f">|μLE| &gt; |μsample| &gt; |μTE|；穩態 v 近相同。</text>
+<text x="1045" y="2272" font-size="24" font-weight="400" fill="#24343f">μ較小區 E 較大，補償為 v=|μ|E。</text>
+<text x="1045" y="2331" font-size="23" font-weight="400" fill="#24343f">原題C的「速度不同」應區分為淌度不同。</text>
+<rect x="50" y="2460" width="875" height="540" rx="18" fill="#fff" stroke="#37668b" stroke-width="2"/>
+<text x="75" y="2508" font-size="27" font-weight="600" fill="#37668b">L13｜速度剖面：空圓管模型</text>
+<text x="105" y="2571" font-size="23" font-weight="400" fill="#61717a">壓力流：拋物線</text>
+<polyline points="105,2855 105,2580" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="105.0,2580.0 111.2,2591.4 98.8,2591.4" fill="#61717a"/>
+<polyline points="105,2725 405,2725" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="405.0,2725.0 393.6,2731.2 393.6,2718.8" fill="#61717a"/>
+<text x="110" y="2605" font-size="20" font-weight="400" fill="#24343f">r/R=1</text>
+<text x="110" y="2860" font-size="20" font-weight="400" fill="#24343f">−1</text>
+<text x="320" y="2760" font-size="20" font-weight="400" fill="#24343f">v/vmax</text>
+<polyline points="105.0,2825.0 115.29600000000002,2823.0 125.38400000000001,2821.0 135.264,2819.0 144.93599999999998,2817.0 154.39999999999998,2815.0 163.656,2813.0 172.704,2811.0 181.54400000000004,2809.0 190.176,2807.0 198.59999999999997,2805.0 206.81599999999997,2803.0 214.824,2801.0 222.62400000000002,2799.0 230.216,2797.0 237.6,2795.0 244.776,2793.0 251.74400000000003,2791.0 258.504,2789.0 265.056,2787.0 271.4,2785.0 277.536,2783.0 283.46399999999994,2781.0 289.18399999999997,2779.0 294.696,2777.0 300.0,2775.0 305.096,2773.0 309.98400000000004,2771.0 314.664,2769.0 319.13599999999997,2767.0 323.4,2765.0 327.456,2763.0 331.30400000000003,2761.0 334.944,2759.0 338.376,2757.0 341.59999999999997,2755.0 344.616,2753.0 347.424,2751.0 350.024,2749.0 352.416,2747.0 354.6,2745.0 356.576,2743.0 358.344,2741.0 359.904,2739.0 361.25600000000003,2737.0 362.4,2735.0 363.336,2733.0 364.06399999999996,2731.0 364.584,2729.0 364.896,2727.0 365.0,2725.0 364.896,2723.0 364.584,2721.0 364.06399999999996,2719.0 363.336,2717.0 362.4,2715.0 361.256,2713.0 359.904,2711.0 358.34400000000005,2709.0 356.576,2707.0 354.6,2705.0 352.416,2703.0 350.024,2701.0 347.424,2699.0 344.616,2697.0 341.59999999999997,2695.0 338.376,2693.0 334.94399999999996,2691.0 331.304,2689.0 327.456,2687.0 323.40000000000003,2685.0 319.136,2683.0 314.664,2681.0 309.98400000000004,2679.0 305.096,2677.0 300.0,2675.0 294.696,2673.0 289.18399999999997,2671.0 283.46399999999994,2669.0 277.536,2667.0 271.4,2665.0 265.056,2663.0 258.504,2661.0 251.74400000000003,2659.0 244.776,2657.0 237.6,2655.0 230.216,2653.0 222.62400000000002,2651.0 214.824,2649.0 206.81599999999997,2647.0 198.59999999999997,2645.0 190.176,2643.0 181.54399999999998,2641.0 172.70399999999995,2639.0 163.65600000000003,2637.0 154.40000000000003,2635.0 144.93600000000004,2633.0 135.264,2631.0 125.38400000000001,2629.0 115.29600000000002,2627.0 105.0,2625.0" fill="none" stroke="#61717a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="505" y="2571" font-size="23" font-weight="400" fill="#326991">薄雙層EOF：主體近平坦</text>
+<polyline points="505,2855 505,2580" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,2580.0 511.2,2591.4 498.8,2591.4" fill="#61717a"/>
+<polyline points="505,2725 805,2725" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="805.0,2725.0 793.6,2731.2 793.6,2718.8" fill="#61717a"/>
+<text x="510" y="2605" font-size="20" font-weight="400" fill="#24343f">r/R=1</text>
+<text x="510" y="2860" font-size="20" font-weight="400" fill="#24343f">−1</text>
+<text x="720" y="2760" font-size="20" font-weight="400" fill="#24343f">v/vmax</text>
+<polyline points="505,2825.0 670.3158831773496,2823.0 731.22969368427,2821.0 753.2140110942105,2819.0 760.9787162837207,2817.0 763.6600184460967,2815.0 764.564380857815,2813.0 764.8619946540371,2811.0 764.9574462682976,2809.0 764.9872454257265,2807.0 764.996289155999,2805.0 764.9989535861421,2803.0 764.9997144692001,2801.0 764.9999247408456,2799.0 764.9999808751443,2797.0 764.9999953239909,2795.0 764.9999989024634,2793.0 764.9999997532994,2791.0 764.999999947037,2789.0 764.9999999891718,2787.0 764.9999999978984,2785.0 764.9999999996141,2783.0 764.9999999999333,2781.0 764.9999999999892,2779.0 764.9999999999984,2777.0 764.9999999999998,2775.0 765.0,2773.0 765.0,2771.0 765.0,2769.0 765.0,2767.0 765.0,2765.0 765.0,2763.0 765.0,2761.0 765.0,2759.0 765.0,2757.0 765.0,2755.0 765.0,2753.0 765.0,2751.0 765.0,2749.0 765.0,2747.0 765.0,2745.0 765.0,2743.0 765.0,2741.0 765.0,2739.0 765.0,2737.0 765.0,2735.0 765.0,2733.0 765.0,2731.0 765.0,2729.0 765.0,2727.0 765.0,2725.0 765.0,2723.0 765.0,2721.0 765.0,2719.0 765.0,2717.0 765.0,2715.0 765.0,2713.0 765.0,2711.0 765.0,2709.0 765.0,2707.0 765.0,2705.0 765.0,2703.0 765.0,2701.0 765.0,2699.0 765.0,2697.0 765.0,2695.0 765.0,2693.0 765.0,2691.0 765.0,2689.0 765.0,2687.0 765.0,2685.0 765.0,2683.0 765.0,2681.0 765.0,2679.0 765.0,2677.0 764.9999999999998,2675.0 764.9999999999984,2673.0 764.9999999999892,2671.0 764.9999999999333,2669.0 764.9999999996141,2667.0 764.9999999978984,2665.0 764.9999999891718,2663.0 764.999999947037,2661.0 764.9999997532994,2659.0 764.9999989024634,2657.0 764.9999953239909,2655.0 764.9999808751443,2653.0 764.9999247408456,2651.0 764.9997144692001,2649.0 764.9989535861421,2647.0 764.996289155999,2645.0 764.9872454257265,2643.0 764.9574462682976,2641.0 764.8619946540371,2639.0 764.564380857815,2637.0 763.6600184460967,2635.0 760.9787162837207,2633.0 753.2140110942105,2631.0 731.22969368427,2629.0 670.3158831773496,2627.0 505,2625.0" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="100" y="2934" font-size="22" font-weight="400" fill="#24343f">曲線為歸一化示意；不把填充HPLC床當此空管。</text>
+<rect x="975" y="2460" width="875" height="540" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="997" y="2501" font-size="27" font-weight="600" fill="#b72d4a">L14–L16／L19｜操作症狀 → 回 M02</text>
+<text x="997" y="2549.34" font-size="24" font-weight="400" fill="#24343f">熱／電流異常：查V、κ、內徑與冷卻；固定V比較小管低熱。</text>
+<text x="997" y="2583.42" font-size="24" font-weight="400" fill="#24343f">長塞／過載：查注入量，導電差符合才做stacking。</text>
+<text x="997" y="2617.5" font-size="24" font-weight="400" fill="#24343f">拖尾：列吸附、電分散、端部損傷等原因，分別驗證。</text>
+<text x="997" y="2651.58" font-size="24" font-weight="400" fill="#24343f">CGE：固定膠與可置換聚合物進樣規則不同，不能全禁壓力進樣。</text>
+<rect x="50" y="3070" width="1800" height="280" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="72" y="3111" font-size="27" font-weight="600" fill="#90632e">M03 → M04｜L23–L27 訊號與品質出口</text>
+<text x="72" y="3159.34" font-size="24" font-weight="400" fill="#24343f">UV：光源→管窗→光電偵測器，記錄吸光對時間；LIF需天然螢光或標記，另可接MS/電化學。</text>
+<text x="72" y="3193.42" font-size="24" font-weight="400" fill="#24343f">間接UV：非吸光區帶置換吸光背景 → 原始吸光下降；軟體可以反相顯示。</text>
+<text x="72" y="3227.5" font-size="24" font-weight="400" fill="#24343f">時間用於條件匹配，面積須校正；EOF漂移與微量注入影響再現性，時間變短不能單獨指認原因。</text>
+<text x="50" y="3542" font-size="20" font-weight="400" fill="#61717a">所有藍/橙/紫運動線依標籤判讀。紅色框列分析者的回查條件；絕不用紅回線代替CIEF物理聚焦。</text>
+<text x="50" y="3578" font-size="20" font-weight="400" fill="#61717a">來源：CH24題本／雙筆記。EP＝自身電泳，EOF＝電滲流，BGE＝背景電解質；M大站／L理解／P方法／C紙筆。圖文同源v3.0。</text>
+</svg>

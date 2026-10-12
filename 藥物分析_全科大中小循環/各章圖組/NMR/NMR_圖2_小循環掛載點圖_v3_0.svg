@@ -1,0 +1,134 @@
+<svg width="1900" height="1770" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1770" role="img" aria-labelledby="nmr3l-title nmr3l-desc">
+<title id="nmr3l-title">NMR 小循環掛載點圖｜六個存檔點 × 24 條短鏈</title><desc id="nmr3l-desc">A／B 先讓你會讀圖；C／D 補測量與複雜題；E／F 接分類、應用與回查。每條 L 都有練習題。</desc>
+<defs><marker id="nmr3l-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="nmr3l-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1770" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">NMR 小循環掛載點圖｜六個存檔點 × 24 條短鏈</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">A／B 先讓你會讀圖；C／D 補測量與複雜題；E／F 接分類、應用與回查。每條 L 都有練習題。</text>
+<rect x="40" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第1站｜先定問題</text>
+<text x="64" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">看結構？含量？混合物？</text>
+<path d="M 472 220 L 500 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3l-arrow)"/>
+<rect x="504" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="528" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第2站｜準備與測量</text>
+<text x="528" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">核種、溶媒、參考、RF</text>
+<path d="M 936 220 L 964 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3l-arrow)"/>
+<rect x="968" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="992" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第3站｜讀訊號</text>
+<text x="992" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">組數／位置／面積／分裂</text>
+<path d="M 1400 220 L 1428 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3l-arrow)"/>
+<rect x="1432" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="1456" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第4站｜核對答案</text>
+<text x="1456" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">證據一致？條件可靠？</text>
+<rect x="40" y="335" width="590" height="575" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="64" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">A｜先會讀圖  L01–L04</text>
+<text x="62" y="427.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L01 NMR 在幫我們回答什麼</text>
+<text x="62" y="464.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">選擇要看的核 → 測它在分子中的環境 → 讀訊號 → 檢查候</text>
+<text x="62" y="494.4" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">選結構</text>
+<path d="M 62 514 L 608 514" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="539.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L02 先數訊號組，不數每條細線</text>
+<text x="62" y="576.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">比較氫的化學環境 → 同環境先分一組 → 一組可能再裂分</text>
+<text x="62" y="606.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">→ 記錄組數</text>
+<path d="M 62 626 L 608 626" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="651.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L03 位置先告訴我們氫處在什麼環境</text>
+<text x="62" y="688.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">附近基團改變電子環境 → 氫受到的有效磁場改變 → 共振位</text>
+<text x="62" y="718.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">置改變 → δ 改變</text>
+<path d="M 62 738 L 608 738" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="763.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#9e771c">L04 面積給氫數比例，峰高不能代替</text>
+<text x="62" y="800.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">把同一組所有線的面積加總 → 比較各組面積 → 得到氫數比</text>
+<text x="62" y="830.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">例 → 核對結構</text>
+<text x="62" y="880.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#9e771c">掛回：問題 → 組數 → 位置 → 面積</text>
+<rect x="660" y="335" width="590" height="575" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="684" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">B｜把峰接成片段  L05–L08</text>
+<text x="682" y="427.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L05 鄰近氫使訊號裂分</text>
+<text x="682" y="464.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">找有可見偶合的鄰近氫 → 數同一組鄰居 n → 簡單一級譜用</text>
+<text x="682" y="494.4" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">n＋1 → 得到裂分</text>
+<path d="M 682 514 L 1228 514" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="539.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L06 J 是裂線距離，要用 Hz</text>
+<text x="682" y="576.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">選相鄰裂線 → 讀 ppm 差 → 乘工作頻率 MHz → 得到 J 的</text>
+<text x="682" y="606.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">Hz</text>
+<path d="M 682 626 L 1228 626" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="651.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L07 換高場儀器，哪些變、哪些不變</text>
+<text x="682" y="688.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">磁場提高 → 共振頻率提高 → 同環境頻率差也放大 → δ 的</text>
+<text x="682" y="718.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">ppm 比值近似不變</text>
+<path d="M 682 738 L 1228 738" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="763.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#286c68">L08 把四項資訊合起來認結構</text>
+<text x="682" y="800.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">記三組訊號 → 核對 2：3：3 面積 → q／t 接出 CH₂CH₃</text>
+<text x="682" y="830.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">→ 用位置確定接氧端 → 比對選項</text>
+<text x="682" y="880.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#286c68">掛回：鄰氫 → 裂分 → J → 完整判圖</text>
+<rect x="1280" y="335" width="590" height="575" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="1304" y="378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">C｜知道儀器在做什麼  L09–L12</text>
+<text x="1302" y="427.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L09 哪些核能測，先看 I 是否為零</text>
+<text x="1302" y="464.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">查核自旋量子數 I → I＝0 沒有一般 NMR 訊號 → I≠0 再選</text>
+<text x="1302" y="494.4" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">適合的測法</text>
+<path d="M 1302 514 L 1848 514" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="539.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L10 磁場建立能階差，射頻用來激發</text>
+<text x="1302" y="576.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">原子核放入磁場 → 核自旋能階分開 → 用適合射頻脈衝作用</text>
+<text x="1302" y="606.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">→ 產生可測響應</text>
+<path d="M 1302 626 L 1848 626" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="651.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L11 先收到時間訊號，FT 才變成峰圖</text>
+<text x="1302" y="688.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">RF 脈衝 → 接收隨時間變化的訊號 FID → 做 FT → 得到頻</text>
+<text x="1302" y="718.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">率／ppm 的峰圖</text>
+<path d="M 1302 738 L 1848 738" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="763.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#356844">L12 TMS、氘代溶媒與重水各有工作</text>
+<text x="1302" y="800.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">準備適合溶媒 → 減少溶媒氫背景 → 建立 δ 參考 → 必要時</text>
+<text x="1302" y="830.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">做 D₂O 交換</text>
+<text x="1302" y="880.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#356844">掛回：核種 → 磁場／RF → FID／FT → 溶媒</text>
+<rect x="40" y="950" width="590" height="575" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="64" y="993.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">D｜解較複雜的題  L13–L16</text>
+<text x="62" y="1042.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L13 兩個氫是否等價，用替換表判斷</text>
+<text x="62" y="1079.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">分別把兩個 H 換成同一標記 → 比較兩個產物 → 判等位關</text>
+<text x="62" y="1109.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">係 → 再判測量環境</text>
+<path d="M 62 1129 L 608 1129" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="1154.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L14 多組鄰居、F 與 D 要分開處理</text>
+<text x="62" y="1191.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">先分鄰居組與 J → 各組分別裂分 → 線數相乘或因重疊合併</text>
+<text x="62" y="1221.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">→ 核對實際條件</text>
+<path d="M 62 1241 L 608 1241" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="1266.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L15 J 可以幫忙判斷角度與構形</text>
+<text x="62" y="1303.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">找 H–C–C–H 路徑 → 讀二面角 → 用 ³J 的角度趨勢 → 支持</text>
+<text x="62" y="1333.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">構形判斷</text>
+<path d="M 62 1353 L 608 1353" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="62" y="1378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#685185">L16 峰太近時，先別硬套 n＋1</text>
+<text x="62" y="1415.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">比較兩組中心的 Hz 差 Δν → 再比較這兩核的 J → 判它們</text>
+<text x="62" y="1445.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">相近或相遠 → 選自旋系統</text>
+<text x="62" y="1495.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#685185">掛回：等價 → 多組裂分 → 角度 → ABX</text>
+<rect x="660" y="950" width="590" height="575" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2.5"/>
+<text x="684" y="993.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#326991">E｜碳譜與二維配對  L17–L20</text>
+<text x="682" y="1042.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L17 碳譜先數碳環境，再看位置</text>
+<text x="682" y="1079.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">選 ¹³C 測量 → 常做 ¹H 去偶 → 數可分辨碳環境 → 用 δ 分</text>
+<text x="682" y="1109.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">區核對結構</text>
+<path d="M 682 1129 L 1228 1129" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="1154.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L18 DEPT 問的是碳直接接幾個氫</text>
+<text x="682" y="1191.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">先看一般 ¹³C 譜 → 比對 DEPT-90 與 DEPT-135 → 判直</text>
+<text x="682" y="1221.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">接附氫數 → 接回候選結構</text>
+<path d="M 682 1241 L 1228 1241" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="1266.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L19 二維光譜用來查誰和誰有關</text>
+<text x="682" y="1303.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">先問要連 H–H 還是 H–C → 再問直接接還是隔多鍵 → 選測</text>
+<text x="682" y="1333.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">法 → 讀交叉峰</text>
+<path d="M 682 1353 L 1228 1353" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="682" y="1378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#326991">L20 空間靠近與沿鍵偶合要分清</text>
+<text x="682" y="1415.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">指定要看空間距離 → 查 NOESY／ROESY 相關 → 配合其</text>
+<text x="682" y="1445.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">他證據 → 判相對立體或構形</text>
+<text x="682" y="1495.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#326991">掛回：碳環境 → DEPT → 沿鍵 → 空間</text>
+<rect x="1280" y="950" width="590" height="575" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="1304" y="993.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">F｜含量、混合物與品質  L21–L24</text>
+<text x="1302" y="1042.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L21 qNMR 先除氫數，再比物質量</text>
+<text x="1302" y="1079.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">選各成分不重疊峰 → 面積各除代表氫數 → 比物質量 → 用</text>
+<text x="1302" y="1109.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">已知內標換算含量</text>
+<path d="M 1302 1129 L 1848 1129" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="1154.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L22 DOSY 按擴散差異整理訊號</text>
+<text x="1302" y="1191.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">改變梯度條件 → 量每個峰的訊號衰減 → 算擴散係數 D →</text>
+<text x="1302" y="1221.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">比較混合物成分</text>
+<path d="M 1302 1241 L 1848 1241" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="1266.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L23 峰圖不可靠，要回查哪一步</text>
+<text x="1302" y="1303.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">先辨認哪個讀數不可靠 → 查樣品／條件／處理 → 修正後重</text>
+<text x="1302" y="1333.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">測 → 才下結論</text>
+<path d="M 1302 1353 L 1848 1353" fill="none" stroke="#9aaba8" stroke-width="3"/>
+<text x="1302" y="1378.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="bold" fill="#b72d4a">L24 把案例與方法範圍接回大循環</text>
+<text x="1302" y="1415.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">先辨題目問什麼 → 選適合方法 → 讀對應資料 → 看是否超</text>
+<text x="1302" y="1445.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="21" font-weight="normal" fill="#24343f">出方法能支持的結論</text>
+<text x="1302" y="1495.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="20" font-weight="normal" fill="#b72d4a">掛回：qNMR／DOSY → 檢查條件 → 回查</text>
+<rect x="40" y="1582" width="1820" height="120" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="1625.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">串起來做題｜每條鏈都接回判讀</text>
+<text x="64" y="1670.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：Q22 Ethyl acetate → A 讀組數／位置／面積 → B 接裂分／J → 第4站核對；不符就回 F 查條件。</text>
+<text x="40" y="1732.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 NMR｜v3.0｜先會讀圖 → 理解原因 → 做題驗證</text>
+</svg>

@@ -1,0 +1,72 @@
+<svg width="1900" height="1860" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1860" role="img" aria-labelledby="nmr3f-title nmr3f-desc">
+<title id="nmr3f-title">NMR 讀圖與公式｜先分清量，再做四則運算</title><desc id="nmr3f-desc">藥分不使用計算機。以下只列題目需要的規則；較深的磁化方程放講義延伸區。</desc>
+<defs><marker id="nmr3f-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="nmr3f-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1860" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">NMR 讀圖與公式｜先分清量，再做四則運算</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">藥分不使用計算機。以下只列題目需要的規則；較深的磁化方程放講義延伸區。</text>
+<rect x="40" y="156" width="1820" height="355" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="64" y="199.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">教學示意｜Ethyl acetate：CH₃C(=O)OCH₂CH₃</text>
+<text x="64" y="237.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="26" font-weight="bold" fill="#24343f">OCH₂｜約 4.1 ppm</text>
+<text x="64" y="279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">2H；q，四條</text>
+<path d="M 112 389 L 574 389" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 279.0 389 L 279.0 364.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<path d="M 321.0 389 L 321.0 314.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<path d="M 363.0 389 L 363.0 314.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<path d="M 405.0 389 L 405.0 364.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<text x="64" y="438.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">鄰 CH₃ 有 3H → 4 條</text>
+<text x="669" y="237.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="26" font-weight="bold" fill="#24343f">CH₃C(=O)｜約 2.0 ppm</text>
+<text x="669" y="279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">3H；s，一條</text>
+<path d="M 717 389 L 1179 389" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 947.0 389 L 947.0 314.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<text x="669" y="438.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">此例沒有強偶合氫鄰居</text>
+<text x="1274" y="237.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="26" font-weight="bold" fill="#24343f">末端 CH₃｜約 1.2 ppm</text>
+<text x="1274" y="279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">3H；t，三條</text>
+<path d="M 1322 389 L 1784 389" fill="none" stroke="#61717a" stroke-width="3"/>
+<path d="M 1510.0 389 L 1510.0 351.5" fill="none" stroke="#286c68" stroke-width="3"/>
+<path d="M 1552.0 389 L 1552.0 314.0" fill="none" stroke="#286c68" stroke-width="3"/>
+<path d="M 1594.0 389 L 1594.0 351.5" fill="none" stroke="#286c68" stroke-width="3"/>
+<text x="1274" y="438.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#24343f">鄰 CH₂ 有 2H → 3 條</text>
+<text x="64" y="483.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#61717a">示意線高用來辨識線數；整組氫數看積分。三組面積比 2：3：3，不由此示意線高推算。</text>
+<rect x="40" y="555" width="895" height="286" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="64" y="598.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">① 裂成幾條？｜L05／L14</text>
+<text x="64" y="643.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">同組等價、同 J 的 ¹H 鄰居：n＋1</text>
+<text x="64" y="685.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：CH₃ 鄰 2H → 2＋1＝3 條</text>
+<text x="64" y="728.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">其他核：2nI＋1；D 的 I＝1</text>
+<text x="64" y="771.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">兩組不同 J：各自裂分，最大線數相乘</text>
+<rect x="965" y="555" width="895" height="286" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="989" y="598.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">② J 多大？｜L06</text>
+<text x="989" y="643.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">J（Hz）＝鄰線差（ppm）× ν₀（MHz）</text>
+<text x="989" y="685.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：0.02×270＝5.4 Hz</text>
+<text x="989" y="728.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">四重峰頭尾跨 3 格＝3J</text>
+<text x="989" y="771.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">先用鄰線，不拿頭尾距直接當 J</text>
+<rect x="40" y="882" width="895" height="286" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="64" y="925.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">③ δ 在哪？｜L07</text>
+<text x="64" y="970.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">δ（ppm）＝相對參考頻率差（Hz）÷ MHz</text>
+<text x="64" y="1012.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：600÷300＝2 ppm</text>
+<text x="64" y="1055.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">換高場：中心 δ 近似不變</text>
+<text x="64" y="1098.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">相鄰裂線距（ppm）＝J（Hz）÷ MHz</text>
+<rect x="965" y="882" width="895" height="286" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2.5"/>
+<text x="989" y="925.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#326991">④ 相對氫數？｜L04</text>
+<text x="989" y="970.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">各組整組面積 → 化成最簡比例</text>
+<text x="989" y="1012.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：4：6：6 → 2：3：3</text>
+<text x="989" y="1055.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">線比 1：3：3：1 是 q 的組內比例</text>
+<text x="989" y="1098.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">不等於這組有 8H</text>
+<rect x="40" y="1209" width="895" height="286" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="64" y="1252.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">⑤ 分子含量？｜L21</text>
+<text x="64" y="1297.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">物質量比＝(面積A／HA)：(面積S／HS)</text>
+<text x="64" y="1340.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：(12÷2)：(8÷4)＝3：1</text>
+<text x="64" y="1382.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">要換質量，再乘各自分子量</text>
+<text x="64" y="1425.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">前提：峰不重疊、恢復與基線可靠</text>
+<rect x="965" y="1209" width="895" height="286" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="989" y="1252.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">⑥ 加掃描有多大用？｜L23</text>
+<text x="989" y="1297.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">隨機雜訊下 S/N 約隨掃描數開根號</text>
+<text x="989" y="1340.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">掃描 4 倍 → S/N 約 2 倍</text>
+<text x="989" y="1382.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">掃描 9 倍 → S/N 約 3 倍</text>
+<text x="989" y="1425.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">它不能自動修好重疊或錯基線</text>
+<rect x="40" y="1560" width="1820" height="206" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="64" y="1603.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">換機器必分中心與兩線｜105-1-23</text>
+<text x="64" y="1648.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">100 MHz：兩線 2.10／2.20，中心 2.15；J＝0.10×100＝10 Hz。</text>
+<text x="64" y="1691.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">500 MHz：中心仍 2.15；兩線全距＝10÷500＝0.02 → 兩線 2.14／2.16。</text>
+<text x="64" y="1733.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">問「整組化學位移」選中心；問「兩條線位置」才回答兩個數字。</text>
+<text x="40" y="1822.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 NMR｜v3.0｜先會讀圖 → 理解原因 → 做題驗證</text>
+</svg>

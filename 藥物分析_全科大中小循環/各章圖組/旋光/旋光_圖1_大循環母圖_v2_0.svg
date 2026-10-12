@@ -1,0 +1,72 @@
+<svg width="2000" height="1480" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1480" role="img" aria-labelledby="pol-f1-title pol-f1-desc">
+<title id="pol-f1-title">圖1｜旋光度測定法：分析全流程母圖</title>
+<desc id="pol-f1-desc">從分析目的、檢品、光的準備、光與樣品作用、讀數到歸一判讀的大循環，底部為可信度條件支線。</desc>
+<defs><marker id="pol-f1-a111827" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#111827"/></marker></defs>
+<rect x="0" y="0" width="2000" height="1480" fill="#fcfcfd"/>
+<text x="60" y="70" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="42" font-weight="700" fill="#111827" text-anchor="start">圖1｜旋光度測定法：分析全流程母圖（大循環）</text>
+<text x="60" y="116" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">檢品如何變成可判讀、可相信的結果。實線＝操作先後／因果；灰虛線＝條件影響；M 編號與講義母圖登記表相同。</text>
+<rect x="60" y="150" width="1880" height="150" rx="16" fill="#f1f5f9" stroke="#334155" stroke-width="3"/>
+<text x="84" y="203" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#334155" text-anchor="start">M01 分析目的</text>
+<text x="84" y="246" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="26" font-weight="400" fill="#111827" text-anchor="start">鑑別真偽、純雜｜含量定量（例：葡萄糖注射液）｜鏡像異構物個別比例（光學純度）</text>
+<text x="84" y="282" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="26" font-weight="400" fill="#b91c1c" text-anchor="start">前提：分析物必須具光學活性（chirality，掌性）；沒有就沒有訊號，換別的方法</text>
+<rect x="60" y="390" width="580" height="310" rx="16" fill="#fef3c7" stroke="#b45309" stroke-width="3"/>
+<text x="84" y="443" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#b45309" text-anchor="start">M02 檢品與分析物</text>
+<text x="84" y="485" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">液體檢品（溶液；純液體見講義課外）</text>
+<text x="84" y="520" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">分析物：chiral 分子</text>
+<text x="84" y="555" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">考場判準：有不對稱碳</text>
+<text x="84" y="590" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#b91c1c" text-anchor="start">界線：外消旋體、meso → 淨旋光 0</text>
+<text x="84" y="625" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">條件：溶劑種類、濃度 c</text>
+<text x="84" y="660" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">c 單位：g/100 mL（％ w/v）</text>
+<rect x="710" y="390" width="580" height="310" rx="16" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="734" y="443" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#1d4ed8" text-anchor="start">M03 光的準備</text>
+<text x="734" y="485" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">鈉光 D 射線 589 nm（單一波長）</text>
+<text x="734" y="520" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">↓ 非偏極光</text>
+<text x="734" y="555" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">起偏鏡 Nicol prism</text>
+<text x="734" y="590" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">↓ 平面偏極光</text>
+<text x="734" y="625" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">半影稜鏡（石英薄片）</text>
+<text x="734" y="660" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">在起偏鏡後、儲液管前</text>
+<rect x="1360" y="390" width="580" height="310" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3"/>
+<text x="1384" y="443" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#15803d" text-anchor="start">M04 光與樣品作用</text>
+<text x="1384" y="485" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">平面偏極光穿過儲液管</text>
+<text x="1384" y="520" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">管長 l：常用 1、2 dm；不可含氣泡</text>
+<text x="1384" y="555" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">chiral 分子使偏極面旋轉</text>
+<text x="1384" y="590" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">（課外機理：左右圓偏光速度不同）</text>
+<text x="1384" y="625" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#15803d" text-anchor="start">轉角 ∝ l × c（遇到的分子數）</text>
+<polyline points="350,300 350,384" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<text x="370" y="352" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="22" font-weight="600" fill="#111827" text-anchor="start">決定要測什麼、檢品怎麼配</text>
+<polyline points="640,545.0 704,545.0" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<polyline points="1290,545.0 1354,545.0" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<rect x="1360" y="800" width="580" height="290" rx="16" fill="#ede9fe" stroke="#6d28d9" stroke-width="3"/>
+<text x="1384" y="853" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#6d28d9" text-anchor="start">M05 讀數</text>
+<text x="1384" y="895" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">轉動檢偏鏡（Nicol prism）到終點</text>
+<text x="1384" y="930" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">讀出旋光度 a（單位：度 °）</text>
+<text x="1384" y="965" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">順時針 (+) 右旋</text>
+<text x="1384" y="1000" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">逆時針 (−) 左旋</text>
+<text x="1384" y="1035" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#b91c1c" text-anchor="start">a 會隨 l、c 改變 → 不是物質常數</text>
+<rect x="710" y="800" width="580" height="290" rx="16" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+<text x="734" y="853" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#0f766e" text-anchor="start">M06 歸一與判讀</text>
+<text x="734" y="895" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#0f766e" text-anchor="start">[α] = 100a ／ (l·c)</text>
+<text x="734" y="930" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">除掉 l、c → 相同條件下的物質常數</text>
+<text x="734" y="965" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">① 與文獻比對：真偽、純雜</text>
+<text x="734" y="1000" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">② 已知 [α] → 求 c：含量</text>
+<text x="734" y="1035" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">③ 混合值／純值 → f₊ − f₋：比例</text>
+<rect x="60" y="800" width="580" height="290" rx="16" fill="#f1f5f9" stroke="#334155" stroke-width="3"/>
+<text x="84" y="853" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#334155" text-anchor="start">結論與可信度</text>
+<text x="84" y="895" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">回答 M01：真偽、純度、含量、</text>
+<text x="84" y="930" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">鏡像比例</text>
+<text x="84" y="965" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">附上表示法：[α]D²⁵ ＝數值</text>
+<text x="84" y="1000" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">（c＝濃度, 溶劑）</text>
+<text x="84" y="1035" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">反推：同一個 a 可能有多種原因</text>
+<polyline points="1650,700 1650,794" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<polyline points="1360,945.0 1296,945.0" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<polyline points="710,945.0 646,945.0" fill="none" stroke="#111827" stroke-width="4" marker-end="url(#pol-f1-a111827)"/>
+<rect x="60" y="1190" width="1880" height="190" rx="16" fill="#f3f4f6" stroke="#6b7280" stroke-width="3" stroke-dasharray="12 8"/>
+<text x="84" y="1243" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#6b7280" text-anchor="start">M07 可信度條件（不在分母：會改變 [α]；操作：會改變 a 的可信度）</text>
+<text x="84" y="1285" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">溫度 25°C（上標）｜波長：鈉光 D 線（下標）｜溶劑（括號）｜濃度也寫進括號（部分物質 [α] 隨 c 微變）</text>
+<text x="84" y="1320" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">不可含氣泡｜精確度至少 0.02°｜目視旋光計測 ≥ 5 次求平均｜以溶劑空白校正｜濕度不是 [α] 的因子</text>
+<polyline points="1000,1190 1000,1090" fill="none" stroke="#6b7280" stroke-width="3" stroke-dasharray="10 8"/>
+<polyline points="1650,1190 1650,1090" fill="none" stroke="#6b7280" stroke-width="3" stroke-dasharray="10 8"/>
+<text x="1030" y="1150" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="22" font-weight="400" fill="#4b5563" text-anchor="start">M07 也作用於 M03（波長）、M04（溫度、溶劑、氣泡）</text>
+<text x="60" y="1430" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">圖例：藍＝光的準備｜綠＝作用｜紫＝讀數｜青＝歸一判讀｜黃＝檢品｜灰虛框＝條件；紅字＝易錯界線。</text>
+<text x="1960" y="1456" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="20" fill="#4b5563" text-anchor="end">依據：旋光度建構講義 v2_0｜圖組 v2_0｜示意，非實測</text>
+</svg>

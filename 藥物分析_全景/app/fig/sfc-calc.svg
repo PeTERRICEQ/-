@@ -1,0 +1,180 @@
+<svg width="1900" height="4020" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4020" role="img" aria-labelledby="sfc3_g5_title sfc3_g5_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sfc3_g5_title">公式與誤差｜相態、相對保留、分離與含量</title><desc id="sfc3_g5_desc">超臨界流體層析與萃取教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4流體路線，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4020" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH22 / SFC &amp; SFE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">公式與誤差｜相態、相對保留、分離與含量</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">定義、近似與示意分開標；所有紙筆數字為自編例，附件6題沒有獨立數值計算。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<text x="50" y="385" font-size="31" font-weight="600" fill="#24343f">L03／C01–02｜純CO₂相圖：兩道門與正確單位</text>
+<rect x="50" y="450" width="1120" height="745" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<rect x="930" y="515" width="165" height="150" rx="0" fill="#d9eeea" stroke="#d9eeea" stroke-width="2"/>
+<polyline points="160,1090 1120,1090" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1120.0,1090.0 1108.6,1096.2 1108.6,1083.8" fill="#24343f"/>
+<polyline points="160,1090 160,495" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="160.0,495.0 166.2,506.4 153.8,506.4" fill="#24343f"/>
+<text x="167" y="490" font-size="24" font-weight="400" fill="#24343f">P／bar</text>
+<text x="1025" y="1150" font-size="24" font-weight="400" fill="#24343f">T／°C</text>
+<path d="M 170,1075 C 280,1060 340,1030 420,990 C 590,940 760,830 930,665" fill="none" stroke="#24343f" stroke-width="3"/>
+<polyline points="420,990 460,785 480,510" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="930,1090 930,500" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polyline points="160,665 1120,665" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polyline points="160,990 420,990" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polyline points="420,1090 420,990" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<circle cx="420" cy="990" r="7" fill="#9e771c" stroke="#9e771c"/>
+<circle cx="930" cy="665" r="8" fill="#286c68" stroke="#286c68"/>
+<text x="195" y="695" font-size="27" font-weight="400" fill="#24343f">固體</text>
+<text x="585" y="680" font-size="27" font-weight="400" fill="#24343f">液體</text>
+<text x="700" y="990" font-size="27" font-weight="400" fill="#24343f">氣體</text>
+<text x="947" y="576" font-size="25" font-weight="400" fill="#286c68">超臨界區</text>
+<text x="210" y="653" font-size="23" font-weight="400" fill="#24343f">Pc≈73.8</text>
+<text x="190" y="974" font-size="23" font-weight="400" fill="#24343f">P三相≈5.18</text>
+<text x="370" y="1138" font-size="23" font-weight="400" fill="#24343f">−56.6</text>
+<text x="899" y="1138" font-size="23" font-weight="400" fill="#24343f">31.1</text>
+<text x="468" y="1026" font-size="23" font-weight="400" fill="#9e771c">三相點</text>
+<text x="945" y="718" font-size="23" font-weight="400" fill="#286c68">臨界點</text>
+<text x="180" y="1180" font-size="23" font-weight="400" fill="#24343f">相界與軸刻度為定位示意，不按比例；液–氣共存曲線止於臨界點。</text>
+<rect x="1230" y="450" width="620" height="245" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1252" y="491" font-size="27" font-weight="600" fill="#9e771c">純CO₂｜T與P都要過</text>
+<text x="1252" y="539.34" font-size="24" font-weight="400" fill="#24343f">T&gt;Tc 且 P&gt;Pc；不是「或」</text>
+<text x="1252" y="573.42" font-size="24" font-weight="400" fill="#24343f">40°C、100bar：通過</text>
+<text x="1252" y="607.5" font-size="24" font-weight="400" fill="#24343f">40°C、50bar：壓力不過</text>
+<text x="1252" y="641.58" font-size="24" font-weight="400" fill="#24343f">20°C、100bar：溫度不過</text>
+<rect x="1230" y="730" width="620" height="205" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1252" y="771" font-size="27" font-weight="600" fill="#286c68">混合物｜不能只套純物門檻</text>
+<text x="1252" y="819.34" font-size="24" font-weight="400" fill="#24343f">CO₂＋Methanol等的相界會改</text>
+<text x="1252" y="853.42" font-size="24" font-weight="400" fill="#24343f">SFC名稱也涵蓋部分次臨界操作</text>
+<text x="1252" y="887.5" font-size="24" font-weight="400" fill="#24343f">先核組成與相態／裝置條件</text>
+<rect x="1230" y="972" width="620" height="225" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1252" y="1013" font-size="27" font-weight="600" fill="#b72d4a">單位與來源差異</text>
+<text x="1252" y="1061.34" font-size="23" font-weight="400" fill="#24343f">1atm=1.01325bar；1bar=0.1MPa</text>
+<text x="1252" y="1094" font-size="23" font-weight="400" fill="#24343f">舊73atm≈74bar≈7.4MPa</text>
+<text x="1252" y="1126.66" font-size="23" font-weight="400" fill="#24343f">三相舊−56.4°C，常用約−56.6°C</text>
+<text x="1252" y="1159.32" font-size="23" font-weight="400" fill="#24343f">1atm約−78.5°C昇華</text>
+<text x="50" y="1270" font-size="31" font-weight="600" fill="#24343f">L04｜CO₂永久淨偶極零，不是「完全沒有作用」</text>
+<rect x="50" y="1335" width="680" height="285" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="245" y="1480" font-size="43" font-weight="400" fill="#286c68">O</text>
+<text x="385" y="1480" font-size="43" font-weight="400" fill="#9e771c">C</text>
+<text x="525" y="1480" font-size="43" font-weight="400" fill="#286c68">O</text>
+<polyline points="290,1451 366,1451" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430,1451 507,1451" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="290,1461 366,1461" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="430,1461 507,1461" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="245" y="1410" font-size="25" font-weight="400" fill="#24343f">δ−</text>
+<text x="385" y="1410" font-size="25" font-weight="400" fill="#24343f">δ+</text>
+<text x="525" y="1410" font-size="25" font-weight="400" fill="#24343f">δ−</text>
+<polyline points="375,1515 270,1515" fill="none" stroke="#286c68" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="270.0,1515.0 281.4,1508.8 281.4,1521.2" fill="#286c68"/>
+<polyline points="425,1515 535,1515" fill="none" stroke="#286c68" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="535.0,1515.0 523.6,1521.2 523.6,1508.8" fill="#286c68"/>
+<text x="90" y="1570" font-size="23" font-weight="400" fill="#24343f">對稱、線性：等大反向的鍵偶極抵消；淨偶極為零。</text>
+<rect x="780" y="1335" width="1070" height="285" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="802" y="1376" font-size="27" font-weight="600" fill="#9e771c">讀題出口｜Q002選C；Q005選D；Q006選B</text>
+<text x="802" y="1424.34" font-size="24" font-weight="400" fill="#24343f">CO₂是常用主流體：經濟、不可燃、低Tc與可取得</text>
+<text x="802" y="1458.42" font-size="24" font-weight="400" fill="#24343f">它不是高極性溶媒；Methanol可作有機改質劑</text>
+<text x="802" y="1492.5" font-size="24" font-weight="400" fill="#24343f">NO₂=二氧化氮；N₂O=一氧化二氮，不是同物</text>
+<text x="802" y="1526.58" font-size="24" font-weight="400" fill="#24343f">Q004解析的NO₂疑似誤植，題本答案D保留。</text>
+<text x="50" y="1690" font-size="31" font-weight="600" fill="#24343f">L06–10／C03–05｜時間、相對保留與峰寬分開</text>
+<rect x="50" y="1760" width="870" height="320" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1801" font-size="27" font-weight="600" fill="#685185">定義｜k與α需穩定等組成</text>
+<text x="72" y="1849.34" font-size="24" font-weight="400" fill="#24343f">k=(tR−t₀)/t₀；tR=t₀(1+k)</text>
+<text x="72" y="1883.42" font-size="24" font-weight="400" fill="#24343f">α=k2/k1=(tR2−t₀)/(tR1−t₀)</text>
+<text x="72" y="1917.5" font-size="24" font-weight="400" fill="#24343f">k1&gt;0，k2≥k1，同柱／相容條件；無單位</text>
+<text x="72" y="1951.58" font-size="24" font-weight="400" fill="#24343f">t₀=2、tR=6與10 → α=8/4=2</text>
+<text x="72" y="1985.66" font-size="24" font-weight="400" fill="#24343f">變4與6、t₀仍2 → α=4/2=2：更快≠α更大</text>
+<rect x="980" y="1760" width="870" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1002" y="1801" font-size="27" font-weight="600" fill="#326991">定義｜Rs需相應基線峰寬</text>
+<text x="1002" y="1849.34" font-size="24" font-weight="400" fill="#24343f">Rs=2(tR2−tR1)/(Wb1+Wb2)</text>
+<text x="1002" y="1883.42" font-size="24" font-weight="400" fill="#24343f">時間同單位；Wb≠Wh；Rs無單位</text>
+<text x="1002" y="1917.5" font-size="24" font-weight="400" fill="#24343f">中心6與10、Wb各4 → Rs=1</text>
+<text x="1002" y="1951.58" font-size="24" font-weight="400" fill="#24343f">中心不變、Wb各2 → Rs=2；α可以不變</text>
+<text x="1002" y="1985.66" font-size="24" font-weight="400" fill="#24343f">梯度觀測時間比，不直接當固定平衡α。</text>
+<rect x="50" y="2140" width="1050" height="365" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="72" y="2180" font-size="26" font-weight="600" fill="#685185">示意：相同中心，峰寬不同 → Rs不同</text>
+<polyline points="160,2430 760,2430" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="760.0,2430.0 748.6,2436.2 748.6,2423.8" fill="#24343f"/>
+<polyline points="160,2430 160,2230" fill="none" stroke="#24343f" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="160.0,2230.0 166.2,2241.4 153.8,2241.4" fill="#24343f"/>
+<polyline points="160.0,2424.999998477002 164.0,2424.9999972387577 168.0,2424.9999950435945 172.0,2424.9999911918208 176.0,2424.9999845024686 180.0,2424.999973004215 184.0,2424.999953442843 188.0,2424.999920506064 192.0,2424.999865618772 196.0,2424.9997750944035 200.0,2424.999627334683 204.0,2424.9993886432035 208.0,2424.9990070495696 212.0,2424.99840332161 216.0,2424.9974580653484 220.0,2424.9959934702606 224.0,2424.9937478496227 228.0,2424.9903406586277 232.0,2424.9852251639763 236.0,2424.977625420627 240.0,2424.9664537372087 244.0,2424.9502044578467 248.0,2424.926819758106 252.0,2424.89352337632 256.0,2424.846618932039 260.0,2424.7812508881207 264.0,2424.691128459048 268.0,2424.5682159989688 272.0,2424.402397709946 276.0,2424.181129897431 280.0,2423.889100343886 284.0,2423.507921388505 288.0,2423.0158905164617 292.0,2422.3878589967326 296.0,2421.5952544917814 300.0,2420.6063065707435 304.0,2419.3865235890457 308.0,2417.899464385364 312.0,2416.1078378044263 316.0,2413.974946637881 320.0,2411.4664701533407 324.0,2408.5525515810423 328.0,2405.2101251352333 332.0,2401.4253835362347 336.0,2397.1962544571493 340.0,2392.53472626838 344.0,2387.4688435577027 348.0,2382.04418468499 352.0,2376.324640022775 356.0,2370.3923324304324 360.0,2364.3465613634194 364.0,2358.301707557356 368.0,2352.3841033422004 372.0,2346.727949497423 376.0,2341.4704369242213 380.0,2336.746303211801 384.0,2332.682113210959 388.0,2329.3905924753176 392.0,2326.9653578333014 396.0,2325.47637750136 400.0,2324.9664537372096 404.0,2325.4489565385816 408.0,2326.9069524274364 412.0,2329.293775193023 416.0,2332.534984293404 420.0,2336.531560629722 424.0,2341.164107318049 428.0,2346.2977621750497 432.0,2351.78749400313 436.0,2357.4834488127153 440.0,2363.2360343749124 444.0,2368.9004787291224 448.0,2374.3406649295657 452.0,2379.432123193534 456.0,2384.0641446414 460.0,2388.141059901824 464.0,2391.582793671267 468.0,2394.32485697045 472.0,2396.3179683456997 476.0,2397.527501811836 480.0,2397.9329433526773 484.0,2397.527501811836 488.0,2396.3179683457 492.0,2394.32485697045 496.0,2391.582793671267 500.0,2388.141059901824 504.0,2384.0641446414 508.0,2379.432123193534 512.0,2374.3406649295657 516.0,2368.9004787291224 520.0,2363.2360343749124 524.0,2357.4834488127153 528.0,2351.78749400313 532.0,2346.2977621750497 536.0,2341.164107318049 540.0,2336.531560629722 544.0,2332.534984293404 548.0,2329.293775193023 552.0,2326.9069524274364 556.0,2325.4489565385816 560.0,2324.9664537372096 564.0,2325.47637750136 568.0,2326.9653578333014 572.0,2329.390592475318 576.0,2332.682113210959 580.0,2336.746303211801 584.0,2341.4704369242213 588.0,2346.727949497423 592.0,2352.3841033422004 596.0,2358.301707557356 600.0,2364.3465613634194 604.0,2370.3923324304324 608.0,2376.324640022775 612.0,2382.04418468499 616.0,2387.4688435577027 620.0,2392.53472626838 624.0,2397.1962544571493 628.0,2401.425383536234 632.0,2405.2101251352333 636.0,2408.5525515810423 640.0,2411.4664701533407 644.0,2413.974946637881 648.0,2416.1078378044263 652.0,2417.899464385364 656.0,2419.3865235890457 660.0,2420.6063065707435 664.0,2421.5952544917814 668.0,2422.3878589967326 672.0,2423.0158905164617 676.0,2423.507921388505 680.0,2423.889100343886 684.0,2424.181129897431 688.0,2424.402397709946 692.0,2424.5682159989688 696.0,2424.691128459048 700.0,2424.7812508881207 704.0,2424.846618932039 708.0,2424.89352337632 712.0,2424.926819758106 716.0,2424.9502044578467 720.0,2424.9664537372087" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="160.0,2425.0 164.0,2425.0 168.0,2425.0 172.0,2425.0 176.0,2425.0 180.0,2425.0 184.0,2425.0 188.0,2425.0 192.0,2425.0 196.0,2425.0 200.0,2425.0 204.0,2425.0 208.0,2425.0 212.0,2425.0 216.0,2425.0 220.0,2425.0 224.0,2425.0 228.0,2425.0 232.0,2425.0 236.0,2424.9999999999995 240.0,2424.9999999999986 244.0,2424.9999999999936 248.0,2424.9999999999714 252.0,2424.9999999998713 256.0,2424.9999999994466 260.0,2424.9999999977103 264.0,2424.9999999908987 268.0,2424.999999965241 272.0,2424.9999998724593 276.0,2424.999999550365 280.0,2424.999998477002 284.0,2424.9999950435945 288.0,2424.9999845024686 292.0,2424.999953442843 296.0,2424.999865618772 300.0,2424.999627334683 304.0,2424.9990070495696 308.0,2424.9974580653484 312.0,2424.9937478496227 316.0,2424.985225163977 320.0,2424.9664537372096 324.0,2424.926819758112 328.0,2424.8466189320675 332.0,2424.6911284591765 336.0,2424.4023977104994 340.0,2423.889100346176 344.0,2423.015890525563 348.0,2421.59525452654 352.0,2419.3865237165865 356.0,2416.1078382540613 360.0,2411.4664716763386 364.0,2405.2101300916383 368.0,2397.1962699546807 372.0,2387.46889011486 376.0,2376.3247744040027 380.0,2364.3469340287365 384.0,2352.385096292631 388.0,2341.472978858873 392.0,2332.6883653613363 396.0,2326.980132669324 400.0,2324.9999999999986 404.0,2326.980132669318 408.0,2332.6883653613077 412.0,2341.472978858744 416.0,2352.3850962920774 420.0,2364.346934026447 424.0,2376.3247743949014 428.0,2387.468890080101 432.0,2397.19626982714 436.0,2405.2101296420037 440.0,2411.4664701533407 444.0,2416.107833297656 448.0,2419.3865082190555 452.0,2421.595207969383 456.0,2423.0157561443352 460.0,2423.8887276808587 464.0,2424.401404760069 468.0,2424.688586524525 472.0,2424.84036678169 476.0,2424.9120449220886 480.0,2424.9329074744196 484.0,2424.9120449220886 488.0,2424.84036678169 492.0,2424.688586524525 496.0,2424.401404760069 500.0,2423.8887276808587 504.0,2423.0157561443352 508.0,2421.595207969383 512.0,2419.386508219055 516.0,2416.107833297656 520.0,2411.4664701533407 524.0,2405.2101296420037 528.0,2397.19626982714 532.0,2387.468890080101 536.0,2376.3247743949014 540.0,2364.346934026447 544.0,2352.3850962920774 548.0,2341.472978858744 552.0,2332.6883653613077 556.0,2326.980132669318 560.0,2324.9999999999986 564.0,2326.980132669324 568.0,2332.6883653613363 572.0,2341.472978858873 576.0,2352.385096292631 580.0,2364.3469340287365 584.0,2376.3247744040027 588.0,2387.46889011486 592.0,2397.1962699546807 596.0,2405.2101300916383 600.0,2411.4664716763386 604.0,2416.1078382540613 608.0,2419.3865237165865 612.0,2421.59525452654 616.0,2423.015890525563 620.0,2423.889100346176 624.0,2424.4023977104994 628.0,2424.6911284591765 632.0,2424.8466189320675 636.0,2424.926819758112 640.0,2424.9664537372096 644.0,2424.985225163977 648.0,2424.9937478496227 652.0,2424.9974580653484 656.0,2424.9990070495696 660.0,2424.999627334683 664.0,2424.999865618772 668.0,2424.999953442843 672.0,2424.9999845024686 676.0,2424.9999950435945 680.0,2424.999998477002 684.0,2424.999999550365 688.0,2424.9999998724593 692.0,2424.999999965241 696.0,2424.9999999908987 700.0,2424.9999999977103 704.0,2424.9999999994466 708.0,2424.9999999998713 712.0,2424.9999999999714 716.0,2424.9999999999936 720.0,2424.9999999999986" fill="none" stroke="#685185" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="79" y="2223" font-size="23" font-weight="400" fill="#24343f">訊號</text>
+<text x="745" y="2475" font-size="23" font-weight="400" fill="#24343f">t／min</text>
+<polyline points="160,2430 160,2442" fill="none" stroke="#24343f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="153" y="2470" font-size="23" font-weight="400" fill="#24343f">0</text>
+<polyline points="240,2430 240,2442" fill="none" stroke="#24343f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="233" y="2470" font-size="23" font-weight="400" fill="#24343f">2</text>
+<polyline points="400,2430 400,2442" fill="none" stroke="#24343f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="393" y="2470" font-size="23" font-weight="400" fill="#24343f">6</text>
+<polyline points="560,2430 560,2442" fill="none" stroke="#24343f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="553" y="2470" font-size="23" font-weight="400" fill="#24343f">10</text>
+<polyline points="720,2430 720,2442" fill="none" stroke="#24343f" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="713" y="2470" font-size="23" font-weight="400" fill="#24343f">14</text>
+<text x="825" y="2255" font-size="24" font-weight="400" fill="#685185">紫：較窄</text>
+<text x="825" y="2310" font-size="24" font-weight="400" fill="#b72d4a">紅：較寬</text>
+<text x="825" y="2372" font-size="23" font-weight="400" fill="#24343f">t₀=2min</text>
+<text x="825" y="2425" font-size="23" font-weight="400" fill="#24343f">兩中心6、10</text>
+<text x="78" y="2490" font-size="23" font-weight="400" fill="#24343f">峰形為示意，非實測；以上Wb數字為獨立算例，不從此曲線量。</text>
+<rect x="1160" y="2140" width="690" height="365" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1182" y="2181" font-size="27" font-weight="600" fill="#b72d4a">方向不能逆推成唯一原因</text>
+<text x="1182" y="2229.34" font-size="24" font-weight="400" fill="#24343f">固定T、組成：P↑→ρ常↑→k常↓</text>
+<text x="1182" y="2263.42" font-size="24" font-weight="400" fill="#24343f">t₀相容才進一步說tR常↓</text>
+<text x="1182" y="2297.5" font-size="24" font-weight="400" fill="#24343f">T改密度與分析物平衡，方向需數據</text>
+<text x="1182" y="2331.58" font-size="24" font-weight="400" fill="#24343f">α變大也可能被峰變寬抵消</text>
+<text x="1182" y="2365.66" font-size="24" font-weight="400" fill="#24343f">tR漂移列候選，用P／T／比例／t₀區分</text>
+<text x="1182" y="2399.74" font-size="24" font-weight="400" fill="#24343f">不得自動判BPR壞。</text>
+<text x="50" y="2580" font-size="31" font-weight="600" fill="#24343f">L12–13／C06–07｜比例與壓力：先說參考位置</text>
+<rect x="50" y="2645" width="870" height="300" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="2686" font-size="27" font-weight="600" fill="#286c68">泵送比例定義｜不是柱內實際體積分率</text>
+<text x="72" y="2734.34" font-size="24" font-weight="400" fill="#24343f">φmod=Fmod/(FCO₂+Fmod)</text>
+<text x="72" y="2768.42" font-size="24" font-weight="400" fill="#24343f">供液總2mL/min、改質10% → 0.2與1.8mL/min</text>
+<text x="72" y="2802.5" font-size="24" font-weight="400" fill="#24343f">需指定泵送參考條件；非莫耳比</text>
+<text x="72" y="2836.58" font-size="24" font-weight="400" fill="#24343f">ρ、壓縮與混合體積未知，不能由此精算柱內線速</text>
+<text x="72" y="2870.66" font-size="24" font-weight="400" fill="#24343f">純CO₂門檻也不能替混合物相界。</text>
+<rect x="980" y="2645" width="870" height="300" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1002" y="2686" font-size="27" font-weight="600" fill="#326991">壓降定義｜背壓不是驅動壓差</text>
+<text x="1002" y="2734.34" font-size="24" font-weight="400" fill="#24343f">ΔP=Pin−Pout；Pin=Pout+ΔP</text>
+<text x="1002" y="2768.42" font-size="24" font-weight="400" fill="#24343f">Pout=100bar、ΔP=30bar → Pin=130bar</text>
+<text x="1002" y="2802.5" font-size="24" font-weight="400" fill="#24343f">同流動條件若ΔP近似不變，Pout=140 → Pin≈170</text>
+<text x="1002" y="2836.58" font-size="24" font-weight="400" fill="#24343f">升背壓不自動使流速變快；t₀要實測</text>
+<text x="1002" y="2870.66" font-size="24" font-weight="400" fill="#24343f">實際ΔP也可能因物性改變。</text>
+<text x="50" y="3015" font-size="31" font-weight="600" fill="#24343f">L17–19／C08｜校正後，才還原總量與回收</text>
+<rect x="50" y="3080" width="870" height="320" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="3121" font-size="27" font-weight="600" fill="#356844">定義｜萃取液濃度 → 原檢品含量</text>
+<text x="72" y="3169.34" font-size="24" font-weight="400" fill="#24343f">m=c×V×DF；含量=m/原檢品質量</text>
+<text x="72" y="3203.42" font-size="24" font-weight="400" fill="#24343f">c=4μg/mL、V=25mL、DF=1</text>
+<text x="72" y="3237.5" font-size="24" font-weight="400" fill="#24343f">m=4×25=100μg</text>
+<text x="72" y="3271.58" font-size="24" font-weight="400" fill="#24343f">原檢品0.50g → 100/0.50=200μg/g</text>
+<text x="72" y="3305.66" font-size="24" font-weight="400" fill="#24343f">訊號／面積先經相容標準校正成c。</text>
+<rect x="980" y="3080" width="870" height="320" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1002" y="3121" font-size="27" font-weight="600" fill="#9e771c">定義｜加標回收獨立核對</text>
+<text x="1002" y="3169.34" font-size="24" font-weight="400" fill="#24343f">回收率=(加標後−原測)/加標量×100%</text>
+<text x="1002" y="3203.42" font-size="24" font-weight="400" fill="#24343f">原測20μg、加標10μg、加後29μg</text>
+<text x="1002" y="3237.5" font-size="24" font-weight="400" fill="#24343f">回收=(29−20)/10×100%=90%</text>
+<text x="1002" y="3271.58" font-size="24" font-weight="400" fill="#24343f">等量平行檢品在製樣前加標；同質量基準</text>
+<text x="1002" y="3305.66" font-size="24" font-weight="400" fill="#24343f">萃取後加標不足以判前段萃取損失</text>
+<text x="1002" y="3339.74" font-size="24" font-weight="400" fill="#24343f">未經驗證，不把全部結果一律除0.90。</text>
+<rect x="50" y="3470" width="1800" height="365" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="3511" font-size="27" font-weight="600" fill="#b72d4a">M04品質出口｜容易混淆的量先切開</text>
+<text x="72" y="3559.34" font-size="24" font-weight="400" fill="#24343f">相態：純物與混合物；壓力：atm／bar／MPa、入口／出口／ΔP；流動：泵送量與柱內量</text>
+<text x="72" y="3593.42" font-size="24" font-weight="400" fill="#24343f">時間：t₀／tR／峰寬；分離：α與Rs；訊號：峰高／面積／m/z；定量：c／總量／μg/g</text>
+<text x="72" y="3627.5" font-size="24" font-weight="400" fill="#24343f">優先回M03重核單位、峰寬定義、校正與稀釋；供液、析出或回收異常再按證據回M02</text>
+<text x="72" y="3661.58" font-size="24" font-weight="400" fill="#24343f">舊淨米例的去金屬／免洗／營养聲稱來源不足，不由以上公式推成通用加工結論。</text>
+<text x="50" y="3952" font-size="20" font-weight="400" fill="#61717a">圖5公式為定義／明示條件的關系；相界與峰形為示意。ρ要物性或合適EOS，不能用理想氣體式硬套。</text>
+<text x="50" y="3988" font-size="20" font-weight="400" fill="#61717a">原題：CH22 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

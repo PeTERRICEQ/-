@@ -1,0 +1,125 @@
+<svg width="2000" height="1650" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1650" role="img" aria-labelledby="pol-f3-title pol-f3-desc">
+<title id="pol-f3-title">圖3｜旋光度測定法：方法分類與大小循環對照圖</title>
+<desc id="pol-f3-desc">原理分類到應用模式，再對應小循環、固定輸入與母圖位置；另列本章方法與相鄰章方法的邊界。</desc>
+<defs><marker id="pol-f3-a15803d" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="userSpaceOnUse"><path d="M0,0 L12,6 L0,12 Z" fill="#15803d"/></marker></defs>
+<rect x="0" y="0" width="2000" height="1650" fill="#fcfcfd"/>
+<text x="60" y="70" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="42" font-weight="700" fill="#111827" text-anchor="start">圖3｜方法分類與大小循環對照：原理 → 應用模式 → L → F → 母圖</text>
+<text x="60" y="116" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">實線＝分類歸屬；灰虛線＝章節邊界（非本章方法）。本章只有一種原理，第二軸比較它的三種用法與一個前置判定。</text>
+<rect x="60" y="150" width="380" height="60" rx="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="78" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#111827" text-anchor="start">原理分類</text>
+<rect x="470" y="150" width="520" height="60" rx="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="488" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#111827" text-anchor="start">應用模式（實作軸）</text>
+<rect x="1020" y="150" width="300" height="60" rx="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="1038" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#111827" text-anchor="start">主要 L</text>
+<rect x="1350" y="150" width="330" height="60" rx="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="1368" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#111827" text-anchor="start">固定輸入 F</text>
+<rect x="1710" y="150" width="230" height="60" rx="10" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="1728" y="190" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#111827" text-anchor="start">母圖位置</text>
+<rect x="60" y="240" width="380" height="820" rx="16" fill="#dcfce7" stroke="#15803d" stroke-width="3"/>
+<text x="84" y="293" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#15803d" text-anchor="start">旋光（偏極面方位量測）</text>
+<text x="84" y="335" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">量的是「角度」，不是</text>
+<text x="84" y="370" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">強度、也不是波長</text>
+<text x="84" y="405" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start"></text>
+<text x="84" y="440" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">機理：chiral 介質的</text>
+<text x="84" y="475" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">圓雙折射（課外）</text>
+<text x="84" y="510" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start"></text>
+<text x="84" y="545" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">訊號：a（°）</text>
+<text x="84" y="580" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start">常數：[α]</text>
+<text x="84" y="615" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#111827" text-anchor="start"></text>
+<text x="84" y="650" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">對照：吸收／放射／</text>
+<text x="84" y="685" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">散射光譜量強度或</text>
+<text x="84" y="720" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">波長位置</text>
+<polyline points="440,314.0 464,314.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f3-a15803d)"/>
+<rect x="470" y="240" width="520" height="148" rx="14" fill="#fef3c7" stroke="#b45309" stroke-width="3"/>
+<text x="492" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#b45309" text-anchor="start">前置判定：能不能測</text>
+<text x="492" y="332" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">有無光學活性；淨值是否為 0</text>
+<polyline points="990,314.0 1020,314.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1020" y="260" width="300" height="108" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="2"/>
+<text x="1036" y="323.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">L4、L8</text>
+<polyline points="1320,314.0 1350,314.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1350" y="260" width="330" height="108" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="2"/>
+<text x="1366" y="308.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">POL02、POL03、POL04、</text>
+<text x="1366" y="342.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">POL14、POL15</text>
+<polyline points="1680,314.0 1710,314.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1710" y="260" width="230" height="108" rx="10" fill="#ffffff" stroke="#b45309" stroke-width="2"/>
+<text x="1726" y="323.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">M02、M05</text>
+<polyline points="440,482.0 464,482.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f3-a15803d)"/>
+<rect x="470" y="408" width="520" height="148" rx="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+<text x="492" y="458" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="start">① 比旋光度鑑別</text>
+<text x="492" y="500" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">真偽、純雜：[α] 與規格比對</text>
+<polyline points="990,482.0 1020,482.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1020" y="428" width="300" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1036" y="491.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">L5、L6、L7</text>
+<polyline points="1320,482.0 1350,482.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1350" y="428" width="330" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1366" y="491.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">POL05～POL09</text>
+<polyline points="1680,482.0 1710,482.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1710" y="428" width="230" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1726" y="491.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">M06</text>
+<polyline points="440,650.0 464,650.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f3-a15803d)"/>
+<rect x="470" y="576" width="520" height="148" rx="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+<text x="492" y="626" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="start">② 旋光度定量</text>
+<text x="492" y="668" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">已知 [α] → c＝100a／([α]·l)；</text>
+<text x="492" y="702" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">葡萄糖注射液</text>
+<polyline points="990,650.0 1020,650.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1020" y="596" width="300" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1036" y="659.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">L5、L6、L10</text>
+<polyline points="1320,650.0 1350,650.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1350" y="596" width="330" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1366" y="659.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">POL06、POL13</text>
+<polyline points="1680,650.0 1710,650.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1710" y="596" width="230" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1726" y="659.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">M06</text>
+<polyline points="440,818.0 464,818.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f3-a15803d)"/>
+<rect x="470" y="744" width="520" height="148" rx="14" fill="#ccfbf1" stroke="#0f766e" stroke-width="3"/>
+<text x="492" y="794" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#0f766e" text-anchor="start">③ 光學純度／鏡像比例</text>
+<text x="492" y="836" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">混合／純＝f₊ − f₋</text>
+<polyline points="990,818.0 1020,818.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1020" y="764" width="300" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1036" y="827.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">L9、L4</text>
+<polyline points="1320,818.0 1350,818.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1350" y="764" width="330" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1366" y="827.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">POL12、POL13</text>
+<polyline points="1680,818.0 1710,818.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1710" y="764" width="230" height="108" rx="10" fill="#ffffff" stroke="#0f766e" stroke-width="2"/>
+<text x="1726" y="827.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">M06</text>
+<polyline points="440,986.0 464,986.0" fill="none" stroke="#15803d" stroke-width="3" marker-end="url(#pol-f3-a15803d)"/>
+<rect x="470" y="912" width="520" height="148" rx="14" fill="#dbeafe" stroke="#1d4ed8" stroke-width="3"/>
+<text x="492" y="962" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="28" font-weight="700" fill="#1d4ed8" text-anchor="start">操作與可信度</text>
+<text x="492" y="1004" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">光路配置、終點判讀、規範</text>
+<polyline points="990,986.0 1020,986.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1020" y="932" width="300" height="108" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="1036" y="995.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">L1、L2、L10</text>
+<polyline points="1320,986.0 1350,986.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1350" y="932" width="330" height="108" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="1366" y="980.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">POL01、</text>
+<text x="1366" y="1014.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">POL09～POL11</text>
+<polyline points="1680,986.0 1710,986.0" fill="none" stroke="#6b7280" stroke-width="2"/>
+<rect x="1710" y="932" width="230" height="108" rx="10" fill="#ffffff" stroke="#1d4ed8" stroke-width="2"/>
+<text x="1726" y="995.0" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">M03、M05、M07</text>
+<text x="60" y="1110" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="30" font-weight="700" fill="#b91c1c" text-anchor="start">章節邊界：同題出現的其他方法（不測偏極面轉角 → 不屬本章原理）</text>
+<rect x="60" y="1140" width="455" height="200" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="80" y="1186" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start">氣相層析法 GC</text>
+<text x="80" y="1228" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">不純物、殘留溶劑、揮發性物質限量</text>
+<text x="80" y="1316" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="21" font-weight="400" fill="#4b5563" text-anchor="start">題源：108-1 #3｜POL16</text>
+<rect x="535" y="1140" width="455" height="200" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="555" y="1186" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start">紫外光光譜法 UV</text>
+<text x="555" y="1228" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">pKa、溶解度、分配係數</text>
+<text x="555" y="1316" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="21" font-weight="400" fill="#4b5563" text-anchor="start">題源：108-1 #3｜POL16</text>
+<rect x="1010" y="1140" width="455" height="200" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="1030" y="1186" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start">原子吸收光譜 AAS</text>
+<text x="1030" y="1228" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">製程中的金屬殘留物</text>
+<text x="1030" y="1316" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="21" font-weight="400" fill="#4b5563" text-anchor="start">題源：108-1 #3｜POL16</text>
+<rect x="1485" y="1140" width="455" height="200" rx="14" fill="#ffffff" stroke="#6b7280" stroke-width="2" stroke-dasharray="10 8"/>
+<text x="1505" y="1186" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="27" font-weight="700" fill="#111827" text-anchor="start">熔點／IR／元素分析</text>
+<text x="1505" y="1228" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">一對純對映體給相同結果</text>
+<text x="1505" y="1262" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">→ 分不開 (+)(−)</text>
+<text x="1505" y="1316" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="21" font-weight="400" fill="#4b5563" text-anchor="start">題源：113-2 #16｜POL16</text>
+<rect x="60" y="1370" width="1880" height="190" rx="16" fill="#fee2e2" stroke="#b91c1c" stroke-width="3"/>
+<text x="84" y="1423" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="29" font-weight="700" fill="#b91c1c" text-anchor="start">作答規則與界線</text>
+<text x="84" y="1464" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">「最適合測鏡像異構物個別比例」＝在該題四個選項中最適合；課外：chiral HPLC、chiral GC 等方法也能分離鏡像異構物。</text>
+<text x="84" y="1498" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">外消旋體（如 atropine＝(±)-hyoscyamine）與 meso 化合物有不對稱碳，卻淨旋光為 0 → 「有不對稱碳」是考場捷徑，不是充要條件。</text>
+<text x="84" y="1532" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="24" font-weight="400" fill="#111827" text-anchor="start">同一藥的旋光方向可隨溶劑改變（課外：chloramphenicol 在乙醇為 +、在乙酸乙酯為 −）→ 左右旋清單要連同溶劑理解。</text>
+<text x="60" y="1605" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">F 代碼沿用 v1.0 的 POL01～POL16；L 與圖2相同。</text>
+<text x="1960" y="1626" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="20" fill="#4b5563" text-anchor="end">依據：旋光度建構講義 v2_0｜圖組 v2_0</text>
+</svg>

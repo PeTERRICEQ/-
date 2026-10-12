@@ -1,0 +1,145 @@
+<svg width="1900" height="3490" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3490" role="img" aria-labelledby="hplc3_g4_title hplc3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="hplc3_g4_title">HPLC｜儀器流路與操作考點</title><desc id="hplc3_g4_desc">高效能液相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4液體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3490" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH20 / HPLC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">HPLC｜儀器流路與操作考點</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">藍實線是液體；灰實線是訊號／資料；紅虛線是分析者回查。所選偵測器只有一個方法路徑。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="410" width="420" height="205" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="451" font-size="27" font-weight="600" fill="#326991">儲液瓶</text>
+<text x="72" y="499.34" font-size="24" font-weight="400" fill="#24343f">相組成、pH與鹽</text>
+<text x="72" y="533.42" font-size="24" font-weight="400" fill="#24343f">防分層／析鹽</text>
+<polyline points="470,510 506,510" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,510.0 494.6,516.2 494.6,503.8" fill="#326991"/>
+<rect x="510" y="410" width="420" height="205" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="532" y="451" font-size="27" font-weight="600" fill="#326991">Degasser</text>
+<text x="532" y="499.34" font-size="24" font-weight="400" fill="#24343f">去氣泡</text>
+<text x="532" y="533.42" font-size="24" font-weight="400" fill="#24343f">減少流量／基線異常</text>
+<polyline points="930,510 966,510" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,510.0 954.6,516.2 954.6,503.8" fill="#326991"/>
+<rect x="970" y="410" width="420" height="205" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="451" font-size="27" font-weight="600" fill="#326991">Pump</text>
+<text x="992" y="499.34" font-size="24" font-weight="400" fill="#24343f">設定F體積流量</text>
+<text x="992" y="533.42" font-size="24" font-weight="400" fill="#24343f">壓力由阻力形成</text>
+<polyline points="1390,510 1426,510" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,510.0 1414.6,516.2 1414.6,503.8" fill="#326991"/>
+<rect x="1430" y="410" width="420" height="205" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1452" y="451" font-size="27" font-weight="600" fill="#326991">Injector</text>
+<text x="1452" y="499.34" font-size="24" font-weight="400" fill="#24343f">控制進樣體積</text>
+<text x="1452" y="533.42" font-size="24" font-weight="400" fill="#24343f">防溶劑不匹配與過載</text>
+<rect x="1430" y="740" width="420" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1452" y="781" font-size="27" font-weight="600" fill="#286c68">Guard column</text>
+<text x="1452" y="829.34" font-size="23" font-weight="400" fill="#24343f">截留污染、保護分析柱</text>
+<text x="1452" y="862" font-size="23" font-weight="400" fill="#24343f">粒徑與相按產品相容性</text>
+<rect x="970" y="740" width="420" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="992" y="781" font-size="27" font-weight="600" fill="#286c68">Analytical column</text>
+<text x="992" y="829.34" font-size="23" font-weight="400" fill="#24343f">不同模式與保留機制</text>
+<text x="992" y="862" font-size="23" font-weight="400" fill="#24343f">dp粒徑、dc內徑、L柱長</text>
+<rect x="510" y="740" width="420" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="781" font-size="27" font-weight="600" fill="#286c68">Selected detector</text>
+<text x="532" y="829.34" font-size="23" font-weight="400" fill="#24343f">只走已選且相容的偵測路徑</text>
+<text x="532" y="862" font-size="23" font-weight="400" fill="#24343f">流出物變成可量訊號</text>
+<rect x="50" y="740" width="420" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="781" font-size="27" font-weight="600" fill="#286c68">廢液／收集</text>
+<text x="72" y="829.34" font-size="23" font-weight="400" fill="#24343f">依偵測器是否耗樣</text>
+<text x="72" y="862" font-size="23" font-weight="400" fill="#24343f">ELSD/CAD不作普通無損前端</text>
+<polyline points="1850,510 1877,510 1877,690 1640,690 1640,740" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1640.0,740.0 1633.8,728.6 1646.2,728.6" fill="#326991"/>
+<polyline points="1430,850 1390,850" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,850.0 1401.4,843.8 1401.4,856.2" fill="#326991"/>
+<polyline points="970,850 930,850" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="930.0,850.0 941.4,843.8 941.4,856.2" fill="#326991"/>
+<polyline points="510,850 470,850" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="470.0,850.0 481.4,843.8 481.4,856.2" fill="#326991"/>
+<rect x="1020" y="1045" width="830" height="215" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1042" y="1086" font-size="27" font-weight="600" fill="#9e771c">Data system｜資料處理，不是液體出口</text>
+<text x="1042" y="1134.34" font-size="24" font-weight="400" fill="#24343f">收取隨時間的訊號 → 積分／校正／峰寬 → tR、含量、Rs及品質。</text>
+<text x="1042" y="1168.42" font-size="24" font-weight="400" fill="#24343f">L03、L23–24；單位與處理錯誤回M03。</text>
+<polyline points="930,925 950,925 950,1155 1020,1155" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1020.0,1155.0 1008.6,1161.2 1008.6,1148.8" fill="#61717a"/>
+<rect x="50" y="1045" width="865" height="215" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="1086" font-size="27" font-weight="600" fill="#9e771c">控制條件｜對應部件而非一律找幫浦</text>
+<text x="72" y="1134.34" font-size="24" font-weight="400" fill="#24343f">波長 → 偵測器；溫度 → 柱溫控制；注入量 → 進樣器。</text>
+<text x="72" y="1168.42" font-size="24" font-weight="400" fill="#24343f">F／壓力 → 泵及阻力；Q058只把pump連到tR。</text>
+<text x="50" y="1370" font-size="31" font-weight="600" fill="#24343f">M03 的九種讀數條目｜先問分析物能改變什麼</text>
+<rect x="50" y="1420" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1461" font-size="27" font-weight="600" fill="#326991">UV / Vis</text>
+<text x="72" y="1509.34" font-size="24" font-weight="400" fill="#24343f">吸收，AU／mAU</text>
+<text x="72" y="1543.42" font-size="24" font-weight="400" fill="#24343f">須足夠發色性。常見UV氘燈、可見鎢燈。</text>
+<text x="72" y="1577.5" font-size="24" font-weight="400" fill="#24343f">不是通用。L19</text>
+<rect x="660" y="1420" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="682" y="1461" font-size="27" font-weight="600" fill="#326991">DAD</text>
+<text x="682" y="1509.34" font-size="24" font-weight="400" fill="#24343f">多波長吸收／光譜</text>
+<text x="682" y="1543.42" font-size="24" font-weight="400" fill="#24343f">支持比對與峰純度，不單獨唯一確認未知結構。</text>
+<text x="682" y="1577.5" font-size="24" font-weight="400" fill="#24343f">L19</text>
+<rect x="1270" y="1420" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1292" y="1461" font-size="27" font-weight="600" fill="#326991">Fluorescence</text>
+<text x="1292" y="1509.34" font-size="24" font-weight="400" fill="#24343f">激發後讀發射光</text>
+<text x="1292" y="1543.42" font-size="24" font-weight="400" fill="#24343f">B2／aflatoxins常考；需有效螢光與相容波長。</text>
+<text x="1292" y="1577.5" font-size="24" font-weight="400" fill="#24343f">L20</text>
+<rect x="50" y="1825" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1866" font-size="27" font-weight="600" fill="#326991">Electrochemical</text>
+<text x="72" y="1914.34" font-size="24" font-weight="400" fill="#24343f">電極反應電流，nA等</text>
+<text x="72" y="1948.42" font-size="24" font-weight="400" fill="#24343f">Adrenaline／catechol可用；選電位與電極。</text>
+<text x="72" y="1982.5" font-size="24" font-weight="400" fill="#24343f">不是GC電子捕捉。L21</text>
+<rect x="660" y="1825" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="682" y="1866" font-size="27" font-weight="600" fill="#326991">PAD</text>
+<text x="682" y="1914.34" font-size="24" font-weight="400" fill="#24343f">脈衝電位下的電流</text>
+<text x="682" y="1948.42" font-size="24" font-weight="400" fill="#24343f">糖／polyol可用並更新電極表面。</text>
+<text x="682" y="1982.5" font-size="24" font-weight="400" fill="#24343f">不是電導。L21</text>
+<rect x="1270" y="1825" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1292" y="1866" font-size="27" font-weight="600" fill="#326991">Conductivity</text>
+<text x="1292" y="1914.34" font-size="24" font-weight="400" fill="#24343f">導電訊號，µS等</text>
+<text x="1292" y="1948.42" font-size="24" font-weight="400" fill="#24343f">無機離子IC常用；氯常配抑制型電導。</text>
+<text x="1292" y="1982.5" font-size="24" font-weight="400" fill="#24343f">L21</text>
+<rect x="50" y="2230" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2271" font-size="27" font-weight="600" fill="#326991">RI / RID</text>
+<text x="72" y="2319.34" font-size="24" font-weight="400" fill="#24343f">分析流與參考流的折射差</text>
+<text x="72" y="2353.42" font-size="24" font-weight="400" fill="#24343f">控制溫度與組成；一般不配梯度。</text>
+<text x="72" y="2387.5" font-size="24" font-weight="400" fill="#24343f">L22</text>
+<rect x="660" y="2230" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="682" y="2271" font-size="27" font-weight="600" fill="#326991">ELSD</text>
+<text x="682" y="2319.34" font-size="24" font-weight="400" fill="#24343f">霧化 → 蒸發 → 殘粒散射</text>
+<text x="682" y="2353.42" font-size="24" font-weight="400" fill="#24343f">非揮發物＋揮發相；可適當梯度。</text>
+<text x="682" y="2387.5" font-size="24" font-weight="400" fill="#24343f">糖／PEG／UDCA。L22</text>
+<rect x="1270" y="2230" width="580" height="375" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1292" y="2271" font-size="27" font-weight="600" fill="#326991">CAD</text>
+<text x="1292" y="2319.34" font-size="24" font-weight="400" fill="#24343f">霧化 → 蒸發 → 粒子充電</text>
+<text x="1292" y="2353.42" font-size="24" font-weight="400" fill="#24343f">電暈氣體帶電，讀粒子電荷電流。</text>
+<text x="1292" y="2387.5" font-size="24" font-weight="400" fill="#24343f">相容性與校正不可省。L22</text>
+<rect x="50" y="2690" width="875" height="540" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="2731" font-size="27" font-weight="600" fill="#b72d4a">M02 回查｜峰形、漂移與管路異常</text>
+<text x="72" y="2779.34" font-size="24" font-weight="400" fill="#24343f">拖尾／峰寬：查殘餘silanol、負載、樣品溶劑、流路展寬；不是只靠封端一</text>
+<text x="72" y="2813.42" font-size="24" font-weight="400" fill="#24343f">招。</text>
+<text x="72" y="2847.5" font-size="24" font-weight="400" fill="#24343f">tR漂移：核對F、配液、pH、溫度與平衡。</text>
+<text x="72" y="2881.58" font-size="24" font-weight="400" fill="#24343f">高壓：查黏度、粒徑、堵塞與相容性；不任意升壓。</text>
+<text x="72" y="2915.66" font-size="24" font-weight="400" fill="#24343f">移動相與萃取：均相配液≠兩相除基質。</text>
+<rect x="975" y="2690" width="875" height="540" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="997" y="2731" font-size="27" font-weight="600" fill="#b72d4a">M03／M04 回查｜訊號與結論</text>
+<text x="997" y="2779.34" font-size="24" font-weight="400" fill="#24343f">梯度基線：RI一般不適合；ELSD/CAD亦需組成響應校正。</text>
+<text x="997" y="2813.42" font-size="24" font-weight="400" fill="#24343f">無訊號：查發色性／螢光／可電極反應／揮發性，不先宣告無分析物。</text>
+<text x="997" y="2847.5" font-size="24" font-weight="400" fill="#24343f">含量不符：核對內標加入時點、校正範圍、稀釋與回收。</text>
+<text x="997" y="2881.58" font-size="24" font-weight="400" fill="#24343f">九台不是整串液路；毀樣與支路依方法。</text>
+<polyline points="50,2780 22,2780 22,690 1180,690 1180,740" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1180.0,740.0 1173.8,728.6 1186.2,728.6" fill="#b72d4a"/>
+<text x="50" y="672" font-size="22" font-weight="400" fill="#b72d4a">峰形／漂移不符 → 修正條件，回M02再測</text>
+<text x="50" y="3422" font-size="20" font-weight="400" fill="#61717a">操作配對與歷史數值見F01；高pH、溶劑與溫度上限查具體產品，不把舊恆溫槽100–150°C當通用設定。</text>
+<text x="50" y="3458" font-size="20" font-weight="400" fill="#61717a">原題：CH20 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

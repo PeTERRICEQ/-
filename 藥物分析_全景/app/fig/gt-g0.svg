@@ -1,0 +1,292 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1900" height="3144" viewBox="0 0 1900 3144" role="img" aria-labelledby="pa0-title pa0-desc" font-family="Noto Sans CJK TC, Noto Sans TC, PingFang TC, Microsoft JhengHei, WenQuanYi Zen Hei, Droid Sans Fallback, sans-serif">
+<title id="pa0-title">藥物分析全科｜Ni 總圖：翻譯＋驗證</title>
+<desc id="pa0-desc">藥物分析 17 章的 Ni：把分子之間的一個差異翻譯成座標上的距離（探針、把柄、座標三格，每章不同），再用兩條全科共用的式子驗證讀數（寬度、誰在騙讀數）。四站 M01–M04 以淡色泳道留在背景。深灰實線為資訊流程，紅虛線為驗證不過時分析者的回查。示意，不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3144" fill="#f8f6ee"/>
+<text x="50.0" y="62.0" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">PHARMACEUTICAL ANALYSIS / 全科 17 章 / Ni＝翻譯＋驗證 / v2.0</text>
+<text x="50.0" y="120.0" font-size="40" font-weight="700" fill="#24343f" xml:space="preserve">藥物分析全科｜Ni 總圖：翻譯＋驗證</text>
+<text x="50.0" y="165.8" font-size="25" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">母句：把分子之間的一個差異，翻譯成一條座標上的距離，再證明這個數字沒有騙你。</tspan>前半「翻譯」把 17 章分開；後半「驗證」是全科共用的。</text>
+<rect id="pa0-b1" x="50.0" y="208.2" width="586.7" height="144.3" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="68.0" y="250.0" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b1" xml:space="preserve">藥理／藥化</text>
+<text x="68.0" y="285.6" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b1" xml:space="preserve">Ni 在問：藥物進去後，<tspan font-weight="700">系統長什麼形狀</tspan>？</text>
+<text x="68.0" y="323.5" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b1" xml:space="preserve"><tspan font-weight="700" fill="#61717a">自然形式：系統原型（回饋、增益、開關）</tspan></text>
+<rect id="pa0-b2" x="656.7" y="208.2" width="586.7" height="144.3" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="674.7" y="250.0" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b2" xml:space="preserve">生物藥劑</text>
+<text x="674.7" y="285.6" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b2" xml:space="preserve">Ni 在問：藥量<tspan font-weight="700">怎麼流動、怎麼守恆</tspan>？</text>
+<text x="674.7" y="323.5" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b2" xml:space="preserve"><tspan font-weight="700" fill="#61717a">自然形式：存量、流量、速率常數</tspan></text>
+<rect id="pa0-b3" x="1263.3" y="208.2" width="586.7" height="144.3" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1281.3" y="250.0" font-size="25" font-weight="700" fill="#b72d4a" data-b="pa0-b3" xml:space="preserve">藥物分析</text>
+<text x="1281.3" y="285.6" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b3" xml:space="preserve">Ni 在問：看不見的分子，<tspan font-weight="700">怎麼變成可信的數字</tspan>？</text>
+<text x="1281.3" y="323.5" font-size="22" font-weight="400" fill="#24343f" data-b="pa0-b3" xml:space="preserve">自然形式：<tspan font-weight="700">翻譯＋驗證</tspan>（本圖）</text>
+<text x="50.0" y="387.4" font-size="22" font-weight="400" fill="#61717a" xml:space="preserve">四站 M01–M04 是 17 章共用的工作流程，每章長得都一樣，當 Ni 會沒有資訊量，所以這版把它退到背景；真正把 17 章分開的，是翻譯的三格。</text>
+<line x1="58.0" y1="462.4" x2="1388.0" y2="462.4" stroke="#24343f" stroke-width="3"/>
+<line x1="58.0" y1="452.4" x2="58.0" y2="472.4" stroke="#24343f" stroke-width="3"/>
+<line x1="1388.0" y1="452.4" x2="1388.0" y2="472.4" stroke="#24343f" stroke-width="3"/>
+<text x="725.0" y="446.4" font-size="27" font-weight="700" fill="#24343f" text-anchor="middle" xml:space="preserve">翻譯：①②③ 每章不同</text>
+<line x1="1412.0" y1="462.4" x2="1842.0" y2="462.4" stroke="#b72d4a" stroke-width="3"/>
+<line x1="1412.0" y1="452.4" x2="1412.0" y2="472.4" stroke="#b72d4a" stroke-width="3"/>
+<line x1="1842.0" y1="452.4" x2="1842.0" y2="472.4" stroke="#b72d4a" stroke-width="3"/>
+<text x="1625.0" y="446.4" font-size="27" font-weight="700" fill="#b72d4a" text-anchor="middle" xml:space="preserve">驗證：④⑤ 全科共用</text>
+<rect id="pa0-b7" x="1400.0" y="488.4" width="450.0" height="776.7" rx="0" fill="#f3f1e8" stroke="#f3f1e8" stroke-width="0"/>
+<rect id="pa0-b6" x="950.0" y="488.4" width="450.0" height="776.7" rx="0" fill="#efede3" stroke="#efede3" stroke-width="0"/>
+<rect id="pa0-b5" x="500.0" y="488.4" width="450.0" height="776.7" rx="0" fill="#f3f1e8" stroke="#f3f1e8" stroke-width="0"/>
+<rect id="pa0-b4" x="50.0" y="488.4" width="450.0" height="776.7" rx="0" fill="#efede3" stroke="#efede3" stroke-width="0"/>
+<text x="275.0" y="524.5" font-size="21" font-weight="400" fill="#61717a" text-anchor="middle" data-b="pa0-b4" xml:space="preserve">背景 M01 先定問題</text>
+<text x="725.0" y="524.5" font-size="21" font-weight="400" fill="#61717a" text-anchor="middle" data-b="pa0-b5" xml:space="preserve">背景 M02 準備與測量</text>
+<text x="1175.0" y="524.5" font-size="21" font-weight="400" fill="#61717a" text-anchor="middle" data-b="pa0-b6" xml:space="preserve">背景 M03 讀訊號</text>
+<text x="1625.0" y="524.5" font-size="21" font-weight="400" fill="#61717a" text-anchor="middle" data-b="pa0-b7" xml:space="preserve">背景 M04 核對結論</text>
+<rect id="pa0-b8" x="70.0" y="550.5" width="410.0" height="202.3" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="88.0" y="592.2" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b8" xml:space="preserve">問題</text>
+<text x="88.0" y="626.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b8" xml:space="preserve">要知道什麼？身分、含量、雜質、結構、</text>
+<text x="88.0" y="657.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b8" xml:space="preserve">晶型、元素？</text>
+<text x="88.0" y="693.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b8" xml:space="preserve"><tspan font-weight="700">先決定要保留什麼</tspan>：溶解就失去晶型；</text>
+<text x="88.0" y="724.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b8" xml:space="preserve">GC 要能氣化；旋光要保留掌性。</text>
+<polyline class="arrow" points="275.0,754.8 275.0,793.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="275.0,793.8 268.9,783.4 281.1,783.4" fill="#61717a"/>
+<rect id="pa0-b9" x="70.0" y="796.8" width="410.0" height="232.8" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="88.0" y="838.5" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b9" xml:space="preserve">找一個差異</text>
+<text x="88.0" y="873.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b9" xml:space="preserve">兩個分子之間，或分子與背景之間，<tspan font-weight="700">哪</tspan></text>
+<text x="88.0" y="903.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b9" xml:space="preserve"><tspan font-weight="700">裡不一樣</tspan>？</text>
+<text x="88.0" y="940.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b9" xml:space="preserve">能階、極化率、光速、分配、電荷、質</text>
+<text x="88.0" y="970.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b9" xml:space="preserve">量……這個差異就是接下來要放大的東</text>
+<text x="88.0" y="1001.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b9" xml:space="preserve">西。</text>
+<rect id="pa0-b10" x="520.0" y="550.5" width="410.0" height="236.8" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="538.0" y="592.2" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b10" xml:space="preserve">① 探針：用什麼碰？</text>
+<text x="538.0" y="624.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b10" xml:space="preserve">光子（含雷射、偏極光）</text>
+<text x="538.0" y="659.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b10" xml:space="preserve">第二相（液、固、氣、超臨界）</text>
+<text x="538.0" y="693.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b10" xml:space="preserve">電場</text>
+<text x="538.0" y="728.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b10" xml:space="preserve">先游離，再用電場、磁場或飛行時間分</text>
+<text x="538.0" y="758.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b10" xml:space="preserve">選</text>
+<polyline class="arrow" points="725.0,789.2 725.0,828.2" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="725.0,828.2 718.9,817.9 731.1,817.9" fill="#61717a"/>
+<text x="737.0" y="817.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">去碰</text>
+<rect id="pa0-b11" x="520.0" y="831.2" width="410.0" height="163.8" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="538.0" y="873.0" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b11" xml:space="preserve">② 把柄：碰到哪個差異？</text>
+<text x="538.0" y="905.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b11" xml:space="preserve">能階差｜極化率改變｜光速差（n、左右</text>
+<text x="538.0" y="936.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b11" xml:space="preserve">圓偏光）｜相間分配｜電荷與大小｜質</text>
+<text x="538.0" y="966.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b11" xml:space="preserve">量與電荷</text>
+<polyline class="arrow" points="482.0,913.1 510.0,913.1 510.0,668.8 517.0,668.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="517.0,668.8 506.7,674.9 506.7,662.7" fill="#61717a"/>
+<rect id="pa0-b12" x="970.0" y="550.5" width="410.0" height="309.6" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="988.0" y="592.2" font-size="25" font-weight="700" fill="#24343f" data-b="pa0-b12" xml:space="preserve">③ 座標：讀哪條軸？</text>
+<text x="988.0" y="624.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve">能量軸：λ、ṽ、δ</text>
+<text x="988.0" y="659.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve">時間或距離：tR、Rf、tm</text>
+<text x="988.0" y="693.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve">m／z</text>
+<text x="988.0" y="728.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve">單一數值：n、a</text>
+<text x="988.0" y="762.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve"><tspan font-weight="700">位置</tspan> → 是誰（只支持，不證明）</text>
+<text x="988.0" y="797.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve"><tspan font-weight="700">大小</tspan> → 多少（校正後才是濃度）</text>
+<text x="988.0" y="831.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b12" xml:space="preserve"><tspan font-weight="700">形狀</tspan> → 環境或品質</text>
+<polyline class="arrow" points="932.0,913.1 960.0,913.1 960.0,705.3 967.0,705.3" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="967.0,705.3 956.7,711.4 956.7,699.2" fill="#61717a"/>
+<rect id="pa0-b13" x="1420.0" y="550.5" width="410.0" height="202.3" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1438.0" y="592.2" font-size="25" font-weight="700" fill="#9e771c" data-b="pa0-b13" xml:space="preserve">④ 寬度：分得開嗎？</text>
+<text x="1438.0" y="626.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b13" xml:space="preserve"><tspan font-weight="700">解析度＝位置差 ÷ 寬度</tspan></text>
+<text x="1438.0" y="663.4" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b13" xml:space="preserve">拉大位置差：選擇性 α、換固定相或模</text>
+<text x="1438.0" y="693.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b13" xml:space="preserve">式。縮小寬度：效率 N、控溫、減少展</text>
+<text x="1438.0" y="724.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b13" xml:space="preserve">寬。</text>
+<polyline class="arrow" points="1625.0,754.8 1625.0,789.8" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1625.0,789.8 1618.9,779.4 1631.1,779.4" fill="#61717a"/>
+<rect id="pa0-b14" x="1420.0" y="792.8" width="410.0" height="202.3" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1438.0" y="834.5" font-size="25" font-weight="700" fill="#b72d4a" data-b="pa0-b14" xml:space="preserve">⑤ 誰在騙讀數：量得準嗎？</text>
+<text x="1438.0" y="869.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b14" xml:space="preserve"><tspan font-weight="700">讀數＝斜率 × 量＋背景</tspan></text>
+<text x="1438.0" y="905.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b14" xml:space="preserve">扣背景（空白、斬光）；量斜率（外標、</text>
+<text x="1438.0" y="936.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b14" xml:space="preserve">內標、標準添加）；找第二個獨立讀數</text>
+<text x="1438.0" y="966.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b14" xml:space="preserve">（DAD、MS、二維）。</text>
+<polyline class="arrow" points="1625.0,997.0 1625.0,1032.0" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1625.0,1032.0 1618.9,1021.7 1631.1,1021.7" fill="#61717a"/>
+<rect id="pa0-b15" x="1420.0" y="1035.0" width="410.0" height="130.1" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1436.0" y="1073.8" font-size="24" font-weight="700" fill="#356844" data-b="pa0-b15" xml:space="preserve">符合 → 有條件的答案</text>
+<text x="1436.0" y="1108.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b15" xml:space="preserve">寫明方法、條件與範圍；身分只說證據支</text>
+<text x="1436.0" y="1138.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b15" xml:space="preserve">持到哪裡。</text>
+<polyline class="arrow" points="1382.0,705.3 1410.0,705.3 1410.0,651.6 1417.0,651.6" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon class="arrowhead" points="1417.0,651.6 1406.7,657.7 1406.7,645.5" fill="#61717a"/>
+<polyline class="arrow" points="1418.0,923.9 1392.0,923.9 1392.0,1205.1 725.0,1205.1 725.0,998.1" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon class="arrowhead" points="725.0,998.1 731.1,1008.4 718.9,1008.4" fill="#b72d4a"/>
+<text x="741.0" y="1239.1" font-size="21" font-weight="400" fill="#b72d4a" xml:space="preserve">驗證不過 → 改條件、換探針或換把柄（紅虛線＝分析者回查，不是分子繞圈）</text>
+<text x="50.0" y="1333.1" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">翻譯表：17 章＝六組「探針 × 把柄 → 座標」</text>
+<rect id="pa0-b16" x="50.0" y="1353.1" width="230.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1386.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa0-b16" xml:space="preserve">中循環</text>
+<rect id="pa0-b17" x="280.0" y="1353.1" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1386.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa0-b17" xml:space="preserve">① 探針</text>
+<rect id="pa0-b18" x="610.0" y="1353.1" width="450.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1386.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa0-b18" xml:space="preserve">② 把柄（被利用的差異）</text>
+<rect id="pa0-b19" x="1060.0" y="1353.1" width="330.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1386.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa0-b19" xml:space="preserve">③ 座標</text>
+<rect id="pa0-b20" x="1390.0" y="1353.1" width="460.0" height="54.8" rx="0" fill="#eef0ec" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1386.0" font-size="22" font-weight="700" fill="#24343f" data-b="pa0-b20" xml:space="preserve">章</text>
+<rect id="pa0-b21" x="50.0" y="1407.9" width="230.0" height="82.8" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1439.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b21" xml:space="preserve"><tspan font-weight="700">Ⅰ 能量帳</tspan></text>
+<rect id="pa0-b22" x="280.0" y="1407.9" width="330.0" height="82.8" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1439.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b22" xml:space="preserve">光子</text>
+<rect id="pa0-b23" x="610.0" y="1407.9" width="450.0" height="82.8" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1439.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b23" xml:space="preserve">能階差：核自旋、振動、價電子、原子外層電</text>
+<text x="622.0" y="1469.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b23" xml:space="preserve">子、晶格</text>
+<rect id="pa0-b24" x="1060.0" y="1407.9" width="330.0" height="82.8" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1439.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b24" xml:space="preserve">能量軸：δ（ppm）、ṽ</text>
+<text x="1072.0" y="1469.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b24" xml:space="preserve">（cm⁻¹）、λ（nm）</text>
+<rect id="pa0-b25" x="1390.0" y="1407.9" width="460.0" height="82.8" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1439.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b25" xml:space="preserve">光譜概論、NMR、IR、UV-Vis、螢光、原子</text>
+<text x="1402.0" y="1469.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b25" xml:space="preserve">光譜</text>
+<rect id="pa0-b26" x="50.0" y="1490.7" width="230.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1522.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b26" xml:space="preserve"><tspan font-weight="700">Ⅰ 能量帳（散射）</tspan></text>
+<rect id="pa0-b27" x="280.0" y="1490.7" width="330.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1522.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b27" xml:space="preserve">雷射光子</text>
+<rect id="pa0-b28" x="610.0" y="1490.7" width="450.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1522.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b28" xml:space="preserve">振動時極化率改變</text>
+<rect id="pa0-b29" x="1060.0" y="1490.7" width="330.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1522.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b29" xml:space="preserve">Raman 位移（cm⁻¹）</text>
+<rect id="pa0-b30" x="1390.0" y="1490.7" width="460.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1522.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b30" xml:space="preserve">Raman</text>
+<rect id="pa0-b31" x="50.0" y="1544.1" width="230.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1576.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b31" xml:space="preserve"><tspan font-weight="700">Ⅰ 能量帳（光速）</tspan></text>
+<rect id="pa0-b32" x="280.0" y="1544.1" width="330.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1576.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b32" xml:space="preserve">不被吸收的光</text>
+<rect id="pa0-b33" x="610.0" y="1544.1" width="450.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1576.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b33" xml:space="preserve">光速差：n；左右圓偏光速度差</text>
+<rect id="pa0-b34" x="1060.0" y="1544.1" width="330.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1576.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b34" xml:space="preserve">單一數值：n、a</text>
+<rect id="pa0-b35" x="1390.0" y="1544.1" width="460.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1576.1" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b35" xml:space="preserve">折光、旋光</text>
+<rect id="pa0-b36" x="50.0" y="1597.5" width="230.0" height="82.8" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1629.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b36" xml:space="preserve"><tspan font-weight="700">Ⅱ 時間帳</tspan></text>
+<rect id="pa0-b37" x="280.0" y="1597.5" width="330.0" height="82.8" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1629.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b37" xml:space="preserve">第二相</text>
+<rect id="pa0-b38" x="610.0" y="1597.5" width="450.0" height="82.8" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1629.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b38" xml:space="preserve">相間分配：極性、疏水、電荷、大小、揮發、</text>
+<text x="622.0" y="1658.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b38" xml:space="preserve">掌性</text>
+<rect id="pa0-b39" x="1060.0" y="1597.5" width="330.0" height="82.8" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1629.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b39" xml:space="preserve">時間 tR、距離比 Rf、相量比 D</text>
+<rect id="pa0-b40" x="1390.0" y="1597.5" width="460.0" height="82.8" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1629.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b40" xml:space="preserve">萃取、層析概論、TLC、HPLC、GC、SFC／</text>
+<text x="1402.0" y="1658.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b40" xml:space="preserve">SFE</text>
+<rect id="pa0-b41" x="50.0" y="1680.3" width="230.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1712.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b41" xml:space="preserve"><tspan font-weight="700">Ⅱ 時間帳（電場）</tspan></text>
+<rect id="pa0-b42" x="280.0" y="1680.3" width="330.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1712.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b42" xml:space="preserve">電場</text>
+<rect id="pa0-b43" x="610.0" y="1680.3" width="450.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1712.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b43" xml:space="preserve">電荷與大小（淌度）</text>
+<rect id="pa0-b44" x="1060.0" y="1680.3" width="330.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1712.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b44" xml:space="preserve">遷移時間 tm</text>
+<rect id="pa0-b45" x="1390.0" y="1680.3" width="460.0" height="53.4" rx="0" fill="#ffffff" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1712.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b45" xml:space="preserve">CE</text>
+<rect id="pa0-b46" x="50.0" y="1733.8" width="230.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="62.0" y="1765.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b46" xml:space="preserve"><tspan font-weight="700">Ⅲ 質荷帳</tspan></text>
+<rect id="pa0-b47" x="280.0" y="1733.8" width="330.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="292.0" y="1765.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b47" xml:space="preserve">先游離，再用電場或磁場</text>
+<rect id="pa0-b48" x="610.0" y="1733.8" width="450.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="622.0" y="1765.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b48" xml:space="preserve">質量與電荷</text>
+<rect id="pa0-b49" x="1060.0" y="1733.8" width="330.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1072.0" y="1765.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b49" xml:space="preserve">m／z</text>
+<rect id="pa0-b50" x="1390.0" y="1733.8" width="460.0" height="53.4" rx="0" fill="#fbfaf5" stroke="#61717a" stroke-width="1.2"/>
+<text x="1402.0" y="1765.7" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b50" xml:space="preserve">MS</text>
+<text x="50.0" y="1855.2" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">你的 Ni → Ti → 小循環，在藥分改成這樣走</text>
+<rect id="pa0-b51" x="50.0" y="1877.2" width="436.5" height="166.6" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="66.0" y="1916.0" font-size="24" font-weight="700" fill="#b72d4a" data-b="pa0-b51" xml:space="preserve">1｜Ni：整科一張</text>
+<text x="66.0" y="1950.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b51" xml:space="preserve">就是本圖的母句：翻譯＋驗證。</text>
+<text x="66.0" y="1986.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b51" xml:space="preserve">不再每章各畫一個四站當 Ni。</text>
+<rect id="pa0-b52" x="504.5" y="1877.2" width="436.5" height="166.6" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="520.5" y="1916.0" font-size="24" font-weight="700" fill="#326991" data-b="pa0-b52" xml:space="preserve">2｜中層：五格指紋</text>
+<text x="520.5" y="1950.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b52" xml:space="preserve">每章一張卡：①②③ 翻譯、④⑤ 驗證。</text>
+<text x="520.5" y="1986.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b52" xml:space="preserve">17 張在「五格指紋卡」資料夾；並排比較</text>
+<text x="520.5" y="2017.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b52" xml:space="preserve">看圖6。</text>
+<rect id="pa0-b53" x="959.0" y="1877.2" width="436.5" height="166.6" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="975.0" y="1916.0" font-size="24" font-weight="700" fill="#9e771c" data-b="pa0-b53" xml:space="preserve">3｜Ti：橫向接線</text>
+<text x="975.0" y="1950.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b53" xml:space="preserve">不沿四站接，改沿共用變數接：下排六條</text>
+<text x="975.0" y="1980.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b53" xml:space="preserve">線。</text>
+<text x="975.0" y="2017.2" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b53" xml:space="preserve">圖6 直讀一欄，就是一條 Ti 線。</text>
+<rect id="pa0-b54" x="1413.5" y="1877.2" width="436.5" height="166.6" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1429.5" y="1916.0" font-size="24" font-weight="700" fill="#356844" data-b="pa0-b54" xml:space="preserve">4｜小循環：標格號</text>
+<text x="1429.5" y="1950.3" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b54" xml:space="preserve">每條 L 標它在回答五格的哪一格。</text>
+<text x="1429.5" y="1986.8" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b54" xml:space="preserve">答錯先問：錯在翻譯，還是錯在驗證？</text>
+<rect id="pa0-b55" x="50.0" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="64.0" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b55" xml:space="preserve">Ti 線｜pH 開關</text>
+<text x="64.0" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve">pKa 兩側物種不同 → 吸收、</text>
+<text x="64.0" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve">螢光、保留、萃取、遷移方向</text>
+<text x="64.0" y="2192.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve">與離子化一起改。</text>
+<text x="64.0" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve"><tspan font-weight="700" fill="#61717a">UV L11–12｜螢光 L10｜</tspan></text>
+<text x="64.0" y="2253.9" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve"><tspan font-weight="700" fill="#61717a">TLC L08｜HPLC L09–10｜</tspan></text>
+<text x="64.0" y="2281.4" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve"><tspan font-weight="700" fill="#61717a">萃取 L03–04｜CE L08–09</tspan></text>
+<text x="64.0" y="2309.0" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b55" xml:space="preserve"><tspan font-weight="700" fill="#61717a">｜MS [M＋H]⁺</tspan></text>
+<rect id="pa0-b56" x="352.7" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="366.7" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b56" xml:space="preserve">Ti 線｜溫度</text>
+<text x="366.7" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b56" xml:space="preserve">同時動到平衡、擴散與黏度；</text>
+<text x="366.7" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b56" xml:space="preserve">只讀一個數的方法最怕溫度。</text>
+<text x="366.7" y="2198.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b56" xml:space="preserve"><tspan font-weight="700" fill="#61717a">折光 L4｜旋光 L7｜螢光 L7</tspan></text>
+<text x="366.7" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b56" xml:space="preserve"><tspan font-weight="700" fill="#61717a">｜GC L04–06｜SFC L07｜</tspan></text>
+<text x="366.7" y="2253.9" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b56" xml:space="preserve"><tspan font-weight="700" fill="#61717a">CE L14｜層析 L14</tspan></text>
+<rect id="pa0-b57" x="655.3" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="669.3" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b57" xml:space="preserve">Ti 線｜背景與空白</text>
+<text x="669.3" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b57" xml:space="preserve">讀數＝目標訊號＋別人的訊</text>
+<text x="669.3" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b57" xml:space="preserve">號；先量別人，再扣掉。</text>
+<text x="669.3" y="2198.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b57" xml:space="preserve"><tspan font-weight="700" fill="#61717a">UV L01｜原子 L06｜Raman</tspan></text>
+<text x="669.3" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b57" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L5–6｜螢光 L12｜GC L06</tspan></text>
+<text x="669.3" y="2253.9" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b57" xml:space="preserve"><tspan font-weight="700" fill="#61717a">｜CE L24｜SFC L20</tspan></text>
+<rect id="pa0-b58" x="958.0" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="972.0" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b58" xml:space="preserve">Ti 線｜歸一化</text>
+<text x="972.0" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve">把儀器條件除掉，剩下的才是</text>
+<text x="972.0" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve">物質指紋。</text>
+<text x="972.0" y="2198.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve"><tspan font-weight="700" fill="#61717a">NMR δ（L07）｜Raman 位</tspan></text>
+<text x="972.0" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve"><tspan font-weight="700" fill="#61717a">移（L4）｜旋光 [α]（L6）</tspan></text>
+<text x="972.0" y="2253.9" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve"><tspan font-weight="700" fill="#61717a">｜層析 k′（L04）｜TLC Rf</tspan></text>
+<text x="972.0" y="2281.4" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b58" xml:space="preserve"><tspan font-weight="700" fill="#61717a">（L02）</tspan></text>
+<rect id="pa0-b59" x="1260.7" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1274.7" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b59" xml:space="preserve">Ti 線｜校正與內標</text>
+<text x="1274.7" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve">斜率要用標準量出來；內標用</text>
+<text x="1274.7" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve">比值抵消共同變動。</text>
+<text x="1274.7" y="2198.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve"><tspan font-weight="700" fill="#61717a">UV L03｜螢光 L20｜原子 </tspan></text>
+<text x="1274.7" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L13｜HPLC L23｜GC </tspan></text>
+<text x="1274.7" y="2253.9" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L24–25｜萃取 L26｜MS </tspan></text>
+<text x="1274.7" y="2281.4" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b59" xml:space="preserve"><tspan font-weight="700" fill="#61717a">L30｜NMR L21</tspan></text>
+<rect id="pa0-b60" x="1563.3" y="2069.7" width="286.7" height="262.8" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1577.3" y="2105.6" font-size="23" font-weight="700" fill="#9e771c" data-b="pa0-b60" xml:space="preserve">Ti 線｜晶型保留</text>
+<text x="1577.3" y="2137.7" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b60" xml:space="preserve">要問固態就不能先溶解；選能</text>
+<text x="1577.3" y="2165.2" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b60" xml:space="preserve">直接看固體的方法。</text>
+<text x="1577.3" y="2198.8" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b60" xml:space="preserve"><tspan font-weight="700" fill="#61717a">光譜概論 L12｜IR L10｜</tspan></text>
+<text x="1577.3" y="2226.3" font-size="19" font-weight="400" fill="#24343f" data-b="pa0-b60" xml:space="preserve"><tspan font-weight="700" fill="#61717a">Raman L8｜UV18｜XRD</tspan></text>
+<text x="50.0" y="2400.5" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">怎麼確認這個 Ni 是真的：填一個講義沒教的方法</text>
+<rect id="pa0-b61" x="50.0" y="2422.5" width="586.7" height="197.0" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="66.0" y="2461.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa0-b61" xml:space="preserve">圓二色光譜 CD（講義外）</text>
+<text x="66.0" y="2495.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b61" xml:space="preserve">① 左、右圓偏光　② 掌性分子對兩者吸收不同　③ λ 軸上</text>
+<text x="66.0" y="2526.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b61" xml:space="preserve">的吸收差 ΔA</text>
+<text x="66.0" y="2562.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b61" xml:space="preserve">推得出：要有掌性，也要有發色基；它是 UV 和旋光的交</text>
+<text x="66.0" y="2592.9" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b61" xml:space="preserve">集。</text>
+<rect id="pa0-b62" x="656.7" y="2422.5" width="586.7" height="197.0" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="672.7" y="2461.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa0-b62" xml:space="preserve">離子遷移譜 IMS（講義外）</text>
+<text x="672.7" y="2495.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b62" xml:space="preserve">① 電場＋氣體　② 大小與電荷　③ 漂移時間</text>
+<text x="672.7" y="2532.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b62" xml:space="preserve">推得出：它就是在氣體裡跑的 CE；④ 寬度來自擴散，⑤ 要</text>
+<text x="672.7" y="2562.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b62" xml:space="preserve">防共存離子。</text>
+<rect id="pa0-b63" x="1263.3" y="2422.5" width="586.7" height="197.0" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1279.3" y="2461.3" font-size="24" font-weight="700" fill="#24343f" data-b="pa0-b63" xml:space="preserve">最後一步：外部檢查</text>
+<text x="1279.3" y="2495.6" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b63" xml:space="preserve">Ni 和 Ti 都在腦內，容易自己繞圈。</text>
+<text x="1279.3" y="2532.0" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b63" xml:space="preserve">填完五格後，一定拿沒做過的國考題測：答得出、也說得出</text>
+<text x="1279.3" y="2562.5" font-size="21" font-weight="400" fill="#24343f" data-b="pa0-b63" xml:space="preserve">限制，才算抓到生成規則。</text>
+<text x="50.0" y="2687.5" font-size="27" font-weight="700" fill="#24343f" xml:space="preserve">圖組地圖：Ni → 中層 → 小循環</text>
+<rect id="pa0-b64" x="50.0" y="2709.5" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="64.0" y="2745.3" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b64" xml:space="preserve">圖0 本圖 v2.0</text>
+<text x="64.0" y="2780.4" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b64" xml:space="preserve">Ni：翻譯＋驗證；四站在背景。</text>
+<rect id="pa0-b65" x="504.0" y="2709.5" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="518.0" y="2745.3" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b65" xml:space="preserve">五格指紋卡 ×17</text>
+<text x="518.0" y="2780.4" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b65" xml:space="preserve">每章一張：①②③ 翻譯、④⑤ 驗證。</text>
+<rect id="pa0-b66" x="958.0" y="2709.5" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="972.0" y="2745.3" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b66" xml:space="preserve">圖6 五格指紋矩陣</text>
+<text x="972.0" y="2780.4" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b66" xml:space="preserve">17 章 × 5 格；直讀一欄＝Ti 線。</text>
+<rect id="pa0-b67" x="1412.0" y="2709.5" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1426.0" y="2745.3" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b67" xml:space="preserve">圖1 能量帳</text>
+<text x="1426.0" y="2780.4" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b67" xml:space="preserve">光譜 9 章的中循環卡與能量梯子。</text>
+<rect id="pa0-b68" x="50.0" y="2820.4" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="64.0" y="2856.2" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b68" xml:space="preserve">圖2 時間帳</text>
+<text x="64.0" y="2891.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b68" xml:space="preserve">分離 7 章與共同引擎 k′→α→N→Rs。</text>
+<rect id="pa0-b69" x="504.0" y="2820.4" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="518.0" y="2856.2" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b69" xml:space="preserve">圖3 質荷帳＋接點</text>
+<text x="518.0" y="2891.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b69" xml:space="preserve">MS 與偵測器接點表。</text>
+<rect id="pa0-b70" x="958.0" y="2820.4" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="972.0" y="2856.2" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b70" xml:space="preserve">圖4 讀數與回查</text>
+<text x="972.0" y="2891.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b70" xml:space="preserve">三讀數、定量六法、污染型、錯題路由。</text>
+<rect id="pa0-b71" x="1412.0" y="2820.4" width="438.0" height="94.9" rx="18" fill="#ffffff" stroke="#61717a" stroke-width="2"/>
+<text x="1426.0" y="2856.2" font-size="23" font-weight="700" fill="#24343f" data-b="pa0-b71" xml:space="preserve">圖5 跨科類比</text>
+<text x="1426.0" y="2891.3" font-size="20" font-weight="400" fill="#24343f" data-b="pa0-b71" xml:space="preserve">藥理型別 ⑪–⑯ 與藥動同構。</text>
+<text x="50.0" y="2961.2" font-size="21" font-weight="400" fill="#24343f" xml:space="preserve"><tspan font-weight="700">小循環共 328 條</tspan>（沿用各章 L 編號）：光譜概論 12｜UV-Vis 20｜螢光 20｜IR 14｜Raman 10｜NMR 24｜原子光譜 16｜折光 9｜旋光 10　‖　萃取 27｜層析概論 16｜TLC 18｜HPLC 24</text>
+<text x="50.0" y="2991.7" font-size="21" font-weight="400" fill="#24343f" xml:space="preserve">｜GC 27｜SFC／SFE 20｜CE 28　‖　MS 33</text>
+<text x="50.0" y="3037.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">v2.0 改動：主幹由四站大循環改為「翻譯＋驗證」，四站退為背景泳道；新增五格指紋卡 17 張與圖6。圖1–5 內容不變。</text>
+<text x="50.0" y="3069.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">旋光章原用 M01–M07，本組併入四站。CD、IMS 兩例在講義範圍外，只用來測試 Ni 能否生成新方法。</text>
+<text x="50.0" y="3101.2" font-size="20" font-weight="400" fill="#61717a" xml:space="preserve">來源：17 章建構講義（光譜 9 章 v2.0、分離與 MS 8 章 v3.0）與大小循環編譯器 v3.0；藥理型別名取自你的「大循環對撞台」頁面。示意，不按比例。</text>
+</svg>

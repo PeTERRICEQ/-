@@ -1,0 +1,111 @@
+<svg width="1900" height="2750" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2750" role="img" aria-labelledby="sfc3_g1_title sfc3_g1_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sfc3_g1_title">超臨界流體｜從目的到可支持的結論</title><desc id="sfc3_g1_desc">超臨界流體層析與萃取教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4流體路線，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="2750" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH22 / SFC &amp; SFE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">超臨界流體｜從目的到可支持的結論</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先分SFE萃取與SFC柱分離；兩條任務可以串接，最後都需要合適的分析證據。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<text x="50" y="385" font-size="31" font-weight="600" fill="#24343f">M01｜先問要做哪件事</text>
+<text x="50" y="428" font-size="24" font-weight="400" fill="#24343f">檢品、目標物、基質 → 可溶、穩定、可轉移嗎？L01–04；熱敏不揮發不自動保證適用。</text>
+<rect x="530" y="463" width="840" height="165" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="552" y="504" font-size="27" font-weight="600" fill="#9e771c">目的是取出成分，還是分開後測量？</text>
+<text x="552" y="552.34" font-size="24" font-weight="400" fill="#24343f">錠劑維生素／殘留等：先說清楚要交出的結果。</text>
+<text x="552" y="586.42" font-size="24" font-weight="400" fill="#24343f">需要萃取再定量時，兩段任務都要安排。</text>
+<polyline points="790,628 790,676 480,676 480,706" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="480.0,706.0 473.8,694.6 486.2,694.6" fill="#61717a"/>
+<polyline points="1110,628 1110,676 1380,676 1380,706" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1380.0,706.0 1373.8,694.6 1386.2,694.6" fill="#61717a"/>
+<text x="260" y="689" font-size="23" font-weight="400" fill="#9e771c">先從基質取出</text>
+<text x="1010" y="713" font-size="23" font-weight="400" fill="#9e771c">已有相容溶液，做分離分析</text>
+<text x="50" y="740" font-size="31" font-weight="600" fill="#24343f">M02｜準備與測量：各部件有自己的作用</text>
+<rect x="85" y="795" width="815" height="225" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="107" y="836" font-size="27" font-weight="600" fill="#356844">SFE支線｜基質 → 萃取物</text>
+<text x="107" y="884.34" font-size="24" font-weight="400" fill="#24343f">製樣 → 加壓流體溶解／解吸 → 傳質 → 減壓或捕集</text>
+<text x="107" y="918.42" font-size="24" font-weight="400" fill="#24343f">L17：T、P、改質、接觸時間、基質影響回收。</text>
+<text x="107" y="952.5" font-size="24" font-weight="400" fill="#24343f">收集物可能仍是混合物；未必已測含量。</text>
+<rect x="1000" y="795" width="815" height="225" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1022" y="836" font-size="27" font-weight="600" fill="#326991">SFC支線｜可溶檢品 → 色譜訊號</text>
+<text x="1022" y="884.34" font-size="24" font-weight="400" fill="#24343f">相容供液／進樣 → 恆溫柱分離 → 適合偵測</text>
+<text x="1022" y="918.42" font-size="24" font-weight="400" fill="#24343f">L05–13：密度、改質、表面作用與流動條件。</text>
+<text x="1022" y="952.5" font-size="24" font-weight="400" fill="#24343f">L14–16：UV、MS、FID依相容介面配置。</text>
+<polyline points="900,940 1000,940" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1000.0,940.0 988.6,946.2 988.6,933.8" fill="#61717a"/>
+<text x="920" y="1068" font-size="23" font-weight="400" fill="#61717a">可作後續分析／線上SFE–SFC轉移；依相容</text>
+<text x="920" y="1100.66" font-size="23" font-weight="400" fill="#61717a">方法</text>
+<polyline points="850,1020 850,1210" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="850.0,1210.0 843.8,1198.6 856.2,1198.6" fill="#61717a"/>
+<polyline points="1407,1020 1407,1210" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1407.0,1210.0 1400.8,1198.6 1413.2,1198.6" fill="#61717a"/>
+<text x="50" y="1163" font-size="31" font-weight="600" fill="#24343f">M03｜量與單位：不同目的使用不同讀數</text>
+<rect x="85" y="1210" width="815" height="240" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="107" y="1251" font-size="27" font-weight="600" fill="#356844">SFE出口還需要什麼？</text>
+<text x="107" y="1299.34" font-size="24" font-weight="400" fill="#24343f">萃取液／捕集物 → 適合的後測校正 → c（μg/mL）</text>
+<text x="107" y="1333.42" font-size="24" font-weight="400" fill="#24343f">再讀定容V（mL）、稀釋DF、原檢品質量（g）。</text>
+<text x="107" y="1367.5" font-size="24" font-weight="400" fill="#24343f">L19：還原總量與含量；加標回收獨立核對。</text>
+<text x="107" y="1401.58" font-size="24" font-weight="400" fill="#24343f">沒有後測，不直接宣布原檢品含量。</text>
+<rect x="1000" y="1210" width="815" height="240" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1022" y="1251" font-size="27" font-weight="600" fill="#685185">SFC讀數分三類</text>
+<text x="1022" y="1299.34" font-size="24" font-weight="400" fill="#24343f">t₀、tR（min）→ k與α；Wb（min）→ Rs</text>
+<text x="1022" y="1333.42" font-size="24" font-weight="400" fill="#24343f">峰面積（訊號×min）＋標準 → 校正濃度</text>
+<text x="1022" y="1367.5" font-size="24" font-weight="400" fill="#24343f">m/z、光譜、標準保留等 → 鑑別線索</text>
+<text x="1022" y="1401.58" font-size="24" font-weight="400" fill="#24343f">L09–10、14–16、19：時間不是量多量少。</text>
+<polyline points="490,1450 490,1520 950,1520 950,1595" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,1595.0 943.8,1583.6 956.2,1583.6" fill="#61717a"/>
+<polyline points="1407,1450 1407,1520 950,1520" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,1520.0 961.4,1513.8 961.4,1526.2" fill="#61717a"/>
+<text x="50" y="1568" font-size="31" font-weight="600" fill="#24343f">M04｜核對結論：確認品質，再交付結果</text>
+<rect x="430" y="1630" width="1040" height="230" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="452" y="1671" font-size="27" font-weight="600" fill="#b72d4a">讀數是否支持最初目的？</text>
+<text x="452" y="1719.34" font-size="24" font-weight="400" fill="#24343f">分離／積分、空白、標準、校正範圍、回收與條件重現</text>
+<text x="452" y="1753.42" font-size="24" font-weight="400" fill="#24343f">全部相容 → 報身分線索／含量／萃取效果及限制</text>
+<text x="452" y="1787.5" font-size="24" font-weight="400" fill="#24343f">不通過 → L20列候選原因，用另一讀數區分後修正重測。</text>
+<polyline points="1470,1710 1710,1710 1710,1900" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1710.0,1900.0 1703.8,1888.6 1716.2,1888.6" fill="#61717a"/>
+<rect x="1150" y="1910" width="650" height="185" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1172" y="1951" font-size="27" font-weight="600" fill="#356844">正常出口｜可支持的結論</text>
+<text x="1172" y="1999.34" font-size="24" font-weight="400" fill="#24343f">結果＋單位＋條件＋品質證據</text>
+<text x="1172" y="2033.42" font-size="24" font-weight="400" fill="#24343f">有界線的報告／收集物／後續分析</text>
+<polyline points="430,1695 38,1695 38,520 530,520" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="530.0,520.0 518.6,526.2 518.6,513.8" fill="#b72d4a"/>
+<rect x="80" y="1910" width="965" height="185" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="102" y="1951" font-size="27" font-weight="600" fill="#9e771c">回M01｜目的或適用性錯了</text>
+<text x="102" y="1999.34" font-size="24" font-weight="400" fill="#24343f">不是想要的分析物，或樣品在條件下不溶／不穩定</text>
+<text x="102" y="2033.42" font-size="24" font-weight="400" fill="#24343f">→ 回定問題與方法候選；不能只靠「低Tc」放行。</text>
+<polyline points="520,1860 520,1885 250,1885 250,1910" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="250.0,1910.0 243.8,1898.6 256.2,1898.6" fill="#b72d4a"/>
+<rect x="80" y="2180" width="790" height="190" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="102" y="2221" font-size="27" font-weight="600" fill="#326991">回M02｜條件／操作證據不相容</text>
+<text x="102" y="2269.34" font-size="24" font-weight="400" fill="#24343f">析出、回收不足、壓力／比例／T異常、共洗脫</text>
+<text x="102" y="2303.42" font-size="24" font-weight="400" fill="#24343f">→ 按查得原因修供液、製樣、柱或相容介面。</text>
+<rect x="970" y="2180" width="830" height="190" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="2221" font-size="27" font-weight="600" fill="#685185">回M03｜量與基準讀錯</text>
+<text x="992" y="2269.34" font-size="24" font-weight="400" fill="#24343f">錯把Wh當Wb、tR直接相除、稀釋未還原</text>
+<text x="992" y="2303.42" font-size="24" font-weight="400" fill="#24343f">→ 重核讀數、單位與校正；不必先換零件。</text>
+<polyline points="760,1860 760,1880 1090,1880 1090,2150 475,2150 475,2180" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="475.0,2180.0 468.8,2168.6 481.2,2168.6" fill="#b72d4a"/>
+<polyline points="1160,1860 1160,1880 1830,1880 1830,2140 1385,2140 1385,2180" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1385.0,2180.0 1378.8,2168.6 1391.2,2168.6" fill="#b72d4a"/>
+<rect x="80" y="2430" width="1720" height="190" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="102" y="2471" font-size="27" font-weight="600" fill="#286c68">一遍重建EX01｜兩峰更早，不等於α更大</text>
+<text x="102" y="2519.34" font-size="24" font-weight="400" fill="#24343f">M01比相對保留 → M02穩定等組成且t₀都2min → M03扣t₀：6／10變4／6，α都2</text>
+<text x="102" y="2553.42" font-size="24" font-weight="400" fill="#24343f">M04只報保留下降、α不變；Rs缺峰寬，含量缺面積校正。</text>
+<text x="50" y="2682" font-size="20" font-weight="400" fill="#61717a">灰線＝分析資訊；紅虛線＝分析者依具體問題回查。圖中步驟是教學主線，非流體接管圖。</text>
+<text x="50" y="2718" font-size="20" font-weight="400" fill="#61717a">原題：CH22 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

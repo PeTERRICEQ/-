@@ -1,0 +1,325 @@
+<svg width="1900" height="6550" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 6550" role="img" aria-labelledby="gc3_g2_title gc3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="gc3_g2_title">GC｜小循環掛載點圖</title><desc id="gc3_g2_desc">氣相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4氣體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="6550" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH21 / GC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">GC｜小循環掛載點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">27條模組各自有前站輸入、短推理及交還的資訊；完整條件與題解見同號L／R。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="570" height="2920" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="422" font-size="27" font-weight="600" fill="#9e771c">A｜先決定能不能測</text>
+<text x="72" y="476" font-size="23" font-weight="400" fill="#24343f">能完整氣化，才談用哪條分離路徑。</text>
+<g id="gc3_g2_l01">
+<rect x="66" y="560" width="538" height="490" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="601" font-size="27" font-weight="600" fill="#9e771c">L01｜這個檢品能完整氣化嗎？</text>
+<text x="88" y="649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M01〕｜分析目標、分析物及基質</text>
+<text x="88" y="683.42" font-size="24" font-weight="400" fill="#24343f">L01｜可氣化＋耐熱 → 能完整通過 GC → 再選</text>
+<text x="88" y="717.5" font-size="24" font-weight="400" fill="#24343f">製樣與偵測</text>
+<text x="88" y="751.58" font-size="24" font-weight="400" fill="#24343f">條件｜先辨實際分析物，非只看製劑名稱。</text>
+<text x="88" y="785.66" font-size="24" font-weight="400" fill="#24343f">輸出→M02｜適用方法／需衍生化／改用 LC</text>
+</g>
+<g id="gc3_g2_l02">
+<rect x="66" y="1090" width="538" height="490" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="1131" font-size="27" font-weight="600" fill="#9e771c">L02｜氣態分子為什麼分批抵達？</text>
+<text x="88" y="1179.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜固定相是液膜或固體表面</text>
+<text x="88" y="1213.42" font-size="24" font-weight="400" fill="#24343f">L02｜分配／吸附程度不同 → 固定相停留不同</text>
+<text x="88" y="1247.5" font-size="24" font-weight="400" fill="#24343f">→ 出峰時間不同</text>
+<text x="88" y="1281.58" font-size="24" font-weight="400" fill="#24343f">條件｜相同柱與條件下比較；GLC／GSC不</text>
+<text x="88" y="1315.66" font-size="24" font-weight="400" fill="#24343f">同。</text>
+<text x="88" y="1349.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜分離機制與保留依據</text>
+</g>
+<g id="gc3_g2_l03">
+<rect x="66" y="1620" width="538" height="490" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="1661" font-size="27" font-weight="600" fill="#9e771c">L03｜載氣、保留和流速各管什麼？</text>
+<text x="88" y="1709.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜柱溫、固定相、載氣種類與線</text>
+<text x="88" y="1743.42" font-size="24" font-weight="400" fill="#24343f">性流速</text>
+<text x="88" y="1777.5" font-size="24" font-weight="400" fill="#24343f">L03｜平衡條件決定 k → 流速決定通過時間 →</text>
+<text x="88" y="1811.58" font-size="24" font-weight="400" fill="#24343f">同時改變峰寬</text>
+<text x="88" y="1845.66" font-size="24" font-weight="400" fill="#24343f">條件｜等溫且非反應性時，k才可近似不變。</text>
+<text x="88" y="1879.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜分清保留因子、時間及效率</text>
+</g>
+<text x="72" y="3258" font-size="22" font-weight="400" fill="#9e771c">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<rect x="665" y="380" width="570" height="2920" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="687" y="422" font-size="27" font-weight="600" fill="#286c68">B｜把保留差異變成分離</text>
+<text x="687" y="476" font-size="23" font-weight="400" fill="#24343f">看溫度、固定相及同條件的保留資料。</text>
+<g id="gc3_g2_l04">
+<rect x="681" y="560" width="538" height="490" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="703" y="601" font-size="27" font-weight="600" fill="#286c68">L04｜提高柱溫，保留通常怎麼變？</text>
+<text x="703" y="649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜相同固定相與分析物、柱溫變</text>
+<text x="703" y="683.42" font-size="24" font-weight="400" fill="#24343f">化</text>
+<text x="703" y="717.5" font-size="24" font-weight="400" fill="#24343f">L04｜柱溫升高 → 氣相比例通常增 → k 常下降</text>
+<text x="703" y="751.58" font-size="24" font-weight="400" fill="#24343f">→ 較早出峰</text>
+<text x="703" y="785.66" font-size="24" font-weight="400" fill="#24343f">條件｜未超溫限；變早不等於Rs必增加。</text>
+<text x="703" y="819.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜保留方向與條件</text>
+</g>
+<g id="gc3_g2_l05">
+<rect x="681" y="1090" width="538" height="490" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="703" y="1131" font-size="27" font-weight="600" fill="#286c68">L05｜沸點跨度大，為什麼常用程式升</text>
+<text x="703" y="1169.34" font-size="27" font-weight="600" fill="#286c68">溫？</text>
+<text x="703" y="1217.68" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜混合物揮發性範圍、柱爐溫程</text>
+<text x="703" y="1251.76" font-size="24" font-weight="400" fill="#24343f">L05｜低溫保留早峰 → 逐步升溫帶出晚峰 →</text>
+<text x="703" y="1285.84" font-size="24" font-weight="400" fill="#24343f">兼顧分離與時間</text>
+<text x="703" y="1319.92" font-size="24" font-weight="400" fill="#24343f">條件｜Rs須同時看峰距與寬；非所有峰必改</text>
+<text x="703" y="1354" font-size="24" font-weight="400" fill="#24343f">善。</text>
+<text x="703" y="1388.08" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜合適溫程與需驗證的分離品質</text>
+</g>
+<g id="gc3_g2_l06">
+<rect x="681" y="1620" width="538" height="490" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="703" y="1661" font-size="27" font-weight="600" fill="#286c68">L06｜基線隨升溫上升，先查什麼？</text>
+<text x="703" y="1709.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M03〕｜空白、基線與溫程、使用溫限</text>
+<text x="703" y="1743.42" font-size="24" font-weight="400" fill="#24343f">L06｜受熱／氧化等使固定相流失 → 背景增加</text>
+<text x="703" y="1777.5" font-size="24" font-weight="400" fill="#24343f">→ 查空白與柱狀態</text>
+<text x="703" y="1811.58" font-size="24" font-weight="400" fill="#24343f">條件｜先用空白／標準排查，不唯一診斷。</text>
+<text x="703" y="1845.66" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜候選干擾與修正 M02 的方向</text>
+</g>
+<g id="gc3_g2_l07">
+<rect x="681" y="2150" width="538" height="490" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="703" y="2191" font-size="27" font-weight="600" fill="#286c68">L07｜怎麼選能放大差異的固定相？</text>
+<text x="703" y="2239.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜分子特徵、候選固定相及已知</text>
+<text x="703" y="2273.42" font-size="24" font-weight="400" fill="#24343f">分離</text>
+<text x="703" y="2307.5" font-size="24" font-weight="400" fill="#24343f">L07｜換相的交互作用 → 相對保留改變 → 檢</text>
+<text x="703" y="2341.58" font-size="24" font-weight="400" fill="#24343f">查 α 與 Rs</text>
+<text x="703" y="2375.66" font-size="24" font-weight="400" fill="#24343f">條件｜揮發性及多種作用共同存在，非只比分</text>
+<text x="703" y="2409.74" font-size="24" font-weight="400" fill="#24343f">子量。</text>
+<text x="703" y="2443.82" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜選柱理由及限制</text>
+</g>
+<g id="gc3_g2_l08">
+<rect x="681" y="2680" width="538" height="490" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="703" y="2721" font-size="27" font-weight="600" fill="#286c68">L08｜I 值是時間，還是相對刻度？</text>
+<text x="703" y="2769.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M03〕｜同相、同條件的 n-alkane 參考</text>
+<text x="703" y="2803.42" font-size="24" font-weight="400" fill="#24343f">與 I 值</text>
+<text x="703" y="2837.5" font-size="24" font-weight="400" fill="#24343f">L08｜正烷類建立刻度 → 比較相對保留 → 大 I</text>
+<text x="703" y="2871.58" font-size="24" font-weight="400" fill="#24343f">常對應晚峰</text>
+<text x="703" y="2905.66" font-size="24" font-weight="400" fill="#24343f">條件｜同相與相容溫度模式；I無單位且不等於</text>
+<text x="703" y="2939.74" font-size="24" font-weight="400" fill="#24343f">Rs。</text>
+<text x="703" y="2973.82" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜有條件的保留順序／定性線索</text>
+</g>
+<text x="687" y="3258" font-size="22" font-weight="400" fill="#286c68">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<rect x="1280" y="380" width="570" height="2920" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1302" y="422" font-size="27" font-weight="600" fill="#356844">C｜讓樣品帶窄而且可重現</text>
+<text x="1302" y="476" font-size="23" font-weight="400" fill="#24343f">管柱、載氣與進樣共同決定峰寬。</text>
+<g id="gc3_g2_l09">
+<rect x="1296" y="560" width="538" height="490" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1318" y="601" font-size="27" font-weight="600" fill="#356844">L09｜中空柱少了哪種展寬？</text>
+<text x="1318" y="649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜Packed、WCOT、SCOT 的結構</text>
+<text x="1318" y="683.42" font-size="24" font-weight="400" fill="#24343f">L09｜無填充顆粒多重路徑 → 理想 A≈0 → 仍</text>
+<text x="1318" y="717.5" font-size="24" font-weight="400" fill="#24343f">有擴散與質傳展寬</text>
+<text x="1318" y="751.58" font-size="24" font-weight="400" fill="#24343f">條件｜中空仍有擴散／質傳；材質另作分類。</text>
+<text x="1318" y="785.66" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜效率、負載與材質的比較</text>
+</g>
+<g id="gc3_g2_l10">
+<rect x="1296" y="1090" width="538" height="490" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1318" y="1131" font-size="27" font-weight="600" fill="#356844">L10｜為什麼 N₂ 不適合一路催快？</text>
+<text x="1318" y="1179.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜相同分析物、各載氣的擴散與</text>
+<text x="1318" y="1213.42" font-size="24" font-weight="400" fill="#24343f">u</text>
+<text x="1318" y="1247.5" font-size="24" font-weight="400" fill="#24343f">L10｜擴散慢 → 氣相質傳跟不上高速 → H 升</text>
+<text x="1318" y="1281.58" font-size="24" font-weight="400" fill="#24343f">高 → 峰效率下降</text>
+<text x="1318" y="1315.66" font-size="24" font-weight="400" fill="#24343f">條件｜同分析物；高速比較，不指各氣體各自</text>
+<text x="1318" y="1349.74" font-size="24" font-weight="400" fill="#24343f">最佳點。</text>
+<text x="1318" y="1383.82" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜載氣與流速的相容選擇</text>
+</g>
+<g id="gc3_g2_l11">
+<rect x="1296" y="1620" width="538" height="490" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1318" y="1661" font-size="27" font-weight="600" fill="#356844">L11｜分流進柱的是哪一份？</text>
+<text x="1318" y="1709.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜濃度、進樣量、流量比與負載</text>
+<text x="1318" y="1743.42" font-size="24" font-weight="400" fill="#24343f">L11｜濃樣易超載 → 分掉大部分 → 少量進柱</text>
+<text x="1318" y="1777.5" font-size="24" font-weight="400" fill="#24343f">→ 峰形可改善</text>
+<text x="1318" y="1811.58" font-size="24" font-weight="400" fill="#24343f">條件｜S=排氣/柱流量；理想均勻氣化，忽略其</text>
+<text x="1318" y="1845.66" font-size="24" font-weight="400" fill="#24343f">他損失。</text>
+<text x="1318" y="1879.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜進柱量與分流選擇</text>
+</g>
+<g id="gc3_g2_l12">
+<rect x="1296" y="2150" width="538" height="490" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1318" y="2191" font-size="27" font-weight="600" fill="#356844">L12｜PTV 升溫在進樣口，還是柱爐？</text>
+<text x="1318" y="2239.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜進樣口溫度／時間與待測物</text>
+<text x="1318" y="2273.42" font-size="24" font-weight="400" fill="#24343f">L12｜先低溫控制注入 → 受控升溫轉移 → 形</text>
+<text x="1318" y="2307.5" font-size="24" font-weight="400" fill="#24343f">成較集中樣品帶</text>
+<text x="1318" y="2341.58" font-size="24" font-weight="400" fill="#24343f">條件｜入口與柱爐分開；GC揮發／耐熱門檻仍</text>
+<text x="1318" y="2375.66" font-size="24" font-weight="400" fill="#24343f">在。</text>
+<text x="1318" y="2409.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜合適進樣與轉移條件</text>
+</g>
+<g id="gc3_g2_l13">
+<rect x="1296" y="2680" width="538" height="490" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1318" y="2721" font-size="27" font-weight="600" fill="#356844">L13｜隔膜氣洗和分流排氣有何不同？</text>
+<text x="1318" y="2769.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜隔膜受熱背景、進樣口氣路</text>
+<text x="1318" y="2803.42" font-size="24" font-weight="400" fill="#24343f">L13｜隔膜可能釋出污染 → 少量氣流帶走 →</text>
+<text x="1318" y="2837.5" font-size="24" font-weight="400" fill="#24343f">減少進柱背景</text>
+<text x="1318" y="2871.58" font-size="24" font-weight="400" fill="#24343f">條件｜隔膜purge與split vent是不同支路。</text>
+<text x="1318" y="2905.66" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜背景控制與正確部件角色</text>
+</g>
+<text x="1302" y="3258" font-size="22" font-weight="400" fill="#356844">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<rect x="50" y="3380" width="570" height="2920" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="3422" font-size="27" font-weight="600" fill="#685185">D｜把分析物送進 GC</text>
+<text x="72" y="3476" font-size="23" font-weight="400" fill="#24343f">取揮發部分、萃取中性態或先衍生化。</text>
+<g id="gc3_g2_l14">
+<rect x="66" y="3560" width="538" height="490" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="3601" font-size="27" font-weight="600" fill="#685185">L14｜頂空取的是哪個容器上方？</text>
+<text x="88" y="3649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜密封瓶、基質、氣液平衡與溫</text>
+<text x="88" y="3683.42" font-size="24" font-weight="400" fill="#24343f">控</text>
+<text x="88" y="3717.5" font-size="24" font-weight="400" fill="#24343f">L14｜瓶內達穩定分配 → 取上方氣體 → 揮發</text>
+<text x="88" y="3751.58" font-size="24" font-weight="400" fill="#24343f">物進 GC</text>
+<text x="88" y="3785.66" font-size="24" font-weight="400" fill="#24343f">條件｜穩定氣液平衡；匹配基質、相比與溫</text>
+<text x="88" y="3819.74" font-size="24" font-weight="400" fill="#24343f">度。</text>
+<text x="88" y="3853.82" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜低基質的揮發物測量</text>
+</g>
+<g id="gc3_g2_l15">
+<rect x="66" y="4090" width="538" height="490" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="4131" font-size="27" font-weight="600" fill="#685185">L15｜SPME 與吹氣捕捉如何增加送入的</text>
+<text x="88" y="4169.34" font-size="27" font-weight="600" fill="#685185">量？</text>
+<text x="88" y="4217.68" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜揮發物、基質與選擇的萃取方</text>
+<text x="88" y="4251.76" font-size="24" font-weight="400" fill="#24343f">式</text>
+<text x="88" y="4285.84" font-size="24" font-weight="400" fill="#24343f">L15｜先萃取／捕捉濃縮 → 熱脫附 → 較集中</text>
+<text x="88" y="4319.92" font-size="24" font-weight="400" fill="#24343f">送入 GC</text>
+<text x="88" y="4354" font-size="24" font-weight="400" fill="#24343f">條件｜SPME可HS或DI；富集／脫附仍需校</text>
+<text x="88" y="4388.08" font-size="24" font-weight="400" fill="#24343f">正。</text>
+<text x="88" y="4422.16" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜富集訊號與前處理選擇</text>
+</g>
+<g id="gc3_g2_l16">
+<rect x="66" y="4620" width="538" height="490" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="4661" font-size="27" font-weight="600" fill="#685185">L16｜弱鹼進入非極性溶劑前，為何先鹼</text>
+<text x="88" y="4699.34" font-size="27" font-weight="600" fill="#685185">化？</text>
+<text x="88" y="4747.68" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜弱鹼 B/BH⁺、pH及萃取溶劑</text>
+<text x="88" y="4781.76" font-size="24" font-weight="400" fill="#24343f">L16｜pH 升 → 中性 B 比例升 → 較易進有機相</text>
+<text x="88" y="4815.84" font-size="24" font-weight="400" fill="#24343f">→ 回收可改善</text>
+<text x="88" y="4849.92" font-size="24" font-weight="400" fill="#24343f">條件｜先判弱鹼；中性比例不直接等於萃取</text>
+<text x="88" y="4884" font-size="24" font-weight="400" fill="#24343f">率。</text>
+<text x="88" y="4918.08" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜萃取方向與候選前處理</text>
+</g>
+<g id="gc3_g2_l17">
+<rect x="66" y="5150" width="538" height="490" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="5191" font-size="27" font-weight="600" fill="#685185">L17｜衍生化到底改了什麼？</text>
+<text x="88" y="5239.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜官能基、揮發性與偵測需求</text>
+<text x="88" y="5273.42" font-size="24" font-weight="400" fill="#24343f">L17｜改官能基／裝偵測特徵 → 揮發／吸附／</text>
+<text x="88" y="5307.5" font-size="24" font-weight="400" fill="#24343f">響應改變 → 核對產物</text>
+<text x="88" y="5341.58" font-size="24" font-weight="400" fill="#24343f">條件｜核對真正試劑、產物、反應率與空白。</text>
+<text x="88" y="5375.66" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜可分析衍生物及校正前提</text>
+</g>
+<g id="gc3_g2_l18">
+<rect x="66" y="5680" width="538" height="490" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="5721" font-size="27" font-weight="600" fill="#685185">L18｜油脂怎麼轉成可分離的甲酯？</text>
+<text x="88" y="5769.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜油脂、脂肪酸與反應路徑</text>
+<text x="88" y="5803.42" font-size="24" font-weight="400" fill="#24343f">L18｜選正確甲酯化路徑 → FAME → GC 分離</text>
+<text x="88" y="5837.5" font-size="24" font-weight="400" fill="#24343f">與校正</text>
+<text x="88" y="5871.58" font-size="24" font-weight="400" fill="#24343f">條件｜皂化得鹽；酯交換／甲酯化需適當條</text>
+<text x="88" y="5905.66" font-size="24" font-weight="400" fill="#24343f">件。</text>
+<text x="88" y="5939.74" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜脂肪酸組成資料</text>
+</g>
+<text x="72" y="6258" font-size="22" font-weight="400" fill="#685185">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<rect x="665" y="3380" width="570" height="2920" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="687" y="3422" font-size="27" font-weight="600" fill="#326991">E｜選能回答問題的偵測器</text>
+<text x="687" y="3476" font-size="23" font-weight="400" fill="#24343f">反應範圍、讀數與鑑別證據一起選。</text>
+<g id="gc3_g2_l19">
+<rect x="681" y="3560" width="538" height="490" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="703" y="3601" font-size="27" font-weight="600" fill="#326991">L19｜FID 為什麼常測一般有機物？</text>
+<text x="703" y="3649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜分析物、氫氣／空氣火焰與電</text>
+<text x="703" y="3683.42" font-size="24" font-weight="400" fill="#24343f">極</text>
+<text x="703" y="3717.5" font-size="24" font-weight="400" fill="#24343f">L19｜有機物在火焰中形成帶電物 → 收集離子</text>
+<text x="703" y="3751.58" font-size="24" font-weight="400" fill="#24343f">電流 → 積分與校正</text>
+<text x="703" y="3785.66" font-size="24" font-weight="400" fill="#24343f">條件｜有效有機碳響應；不可只數C–H鍵。</text>
+<text x="703" y="3819.74" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜有機物的響應與限制</text>
+</g>
+<g id="gc3_g2_l20">
+<rect x="681" y="4090" width="538" height="490" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="703" y="4131" font-size="27" font-weight="600" fill="#326991">L20｜ECD 為什麼是電子電流變小？</text>
+<text x="703" y="4179.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜放射源、載氣與電子捕捉能力</text>
+<text x="703" y="4213.42" font-size="24" font-weight="400" fill="#24343f">L20｜Ni-63 產生電子背景 → 分析物捕捉電子</text>
+<text x="703" y="4247.5" font-size="24" font-weight="400" fill="#24343f">→ 電子電流下降</text>
+<text x="703" y="4281.58" font-size="24" font-weight="400" fill="#24343f">條件｜原始電子電流下降；軟體可顯正峰。</text>
+<text x="703" y="4315.66" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜電子捕捉訊號與選擇性</text>
+</g>
+<g id="gc3_g2_l21">
+<rect x="681" y="4620" width="538" height="490" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="703" y="4661" font-size="27" font-weight="600" fill="#326991">L21｜TCD 怎麼從熱傳導讀出成分？</text>
+<text x="703" y="4709.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜氣體熱傳導差異、熱絲與參考</text>
+<text x="703" y="4743.42" font-size="24" font-weight="400" fill="#24343f">氣</text>
+<text x="703" y="4777.5" font-size="24" font-weight="400" fill="#24343f">L21｜混合氣體熱傳導改變 → 熱絲溫度／電阻</text>
+<text x="703" y="4811.58" font-size="24" font-weight="400" fill="#24343f">改變 → 電橋訊號</text>
+<text x="703" y="4845.66" font-size="24" font-weight="400" fill="#24343f">條件｜He時多數物散熱下降→絲更熱；方向看</text>
+<text x="703" y="4879.74" font-size="24" font-weight="400" fill="#24343f">組合。</text>
+<text x="703" y="4913.82" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜通用且非破壞的讀數</text>
+</g>
+<g id="gc3_g2_l22">
+<rect x="681" y="5150" width="538" height="490" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="703" y="5191" font-size="27" font-weight="600" fill="#326991">L22｜含 N/P 的低量物，為何考慮 NPD？</text>
+<text x="703" y="5239.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M02〕｜分析物的 N/P 特徵與背景</text>
+<text x="703" y="5273.42" font-size="24" font-weight="400" fill="#24343f">L22｜熱離子源選擇性響應 N/P → 降低部分背</text>
+<text x="703" y="5307.5" font-size="24" font-weight="400" fill="#24343f">景影響 → 校正低量物</text>
+<text x="703" y="5341.58" font-size="24" font-weight="400" fill="#24343f">條件｜有N／P不解除GC適用門檻。</text>
+<text x="703" y="5375.66" font-size="24" font-weight="400" fill="#24343f">輸出→M03｜選擇性偵測選擇</text>
+</g>
+<g id="gc3_g2_l23">
+<rect x="681" y="5680" width="538" height="490" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="703" y="5721" font-size="27" font-weight="600" fill="#326991">L23｜要知道身分，該讀質譜還是普通面</text>
+<text x="703" y="5759.34" font-size="27" font-weight="600" fill="#326991">積？</text>
+<text x="703" y="5807.68" font-size="24" font-weight="400" fill="#24343f">輸入〔M01〕｜鑑別目的與可用偵測器配置</text>
+<text x="703" y="5841.76" font-size="24" font-weight="400" fill="#24343f">L23｜分離後取得光譜／質譜 → 同條件比對 →</text>
+<text x="703" y="5875.84" font-size="24" font-weight="400" fill="#24343f">增加鑑別證據</text>
+<text x="703" y="5909.92" font-size="24" font-weight="400" fill="#24343f">條件｜譜庫只支持鑑別；需保留、標準等證</text>
+<text x="703" y="5944" font-size="24" font-weight="400" fill="#24343f">據。</text>
+<text x="703" y="5978.08" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜適合目的的證據組合</text>
+</g>
+<text x="687" y="6258" font-size="22" font-weight="400" fill="#326991">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<rect x="1280" y="3380" width="570" height="2920" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1302" y="3422" font-size="27" font-weight="600" fill="#b72d4a">F｜把訊號換成可信結果</text>
+<text x="1302" y="3476" font-size="23" font-weight="400" fill="#24343f">校正、完整性、精密度與低量能力都要核對。</text>
+<g id="gc3_g2_l24">
+<rect x="1296" y="3560" width="538" height="490" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1318" y="3601" font-size="27" font-weight="600" fill="#b72d4a">L24｜內標怎麼補掉共同變動？</text>
+<text x="1318" y="3649.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M03〕｜分析物／內標峰與校正關系</text>
+<text x="1318" y="3683.42" font-size="24" font-weight="400" fill="#24343f">L24｜共同波動 → 面積比抵消一部分 → 依校</text>
+<text x="1318" y="3717.5" font-size="24" font-weight="400" fill="#24343f">正算含量</text>
+<text x="1318" y="3751.58" font-size="24" font-weight="400" fill="#24343f">條件｜適時加入且共同經歷，僅抵消已驗證的</text>
+<text x="1318" y="3785.66" font-size="24" font-weight="400" fill="#24343f">變動。</text>
+<text x="1318" y="3819.74" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜已校正含量與補償範圍</text>
+</g>
+<g id="gc3_g2_l25">
+<rect x="1296" y="4090" width="538" height="490" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1318" y="4131" font-size="27" font-weight="600" fill="#b72d4a">L25｜面積百分比何時可當組成百分比？</text>
+<text x="1318" y="4179.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M03〕｜全部峰、響應因子及缺失成分</text>
+<text x="1318" y="4213.42" font-size="24" font-weight="400" fill="#24343f">L25｜確認皆測到 → 響應相等或校正 → 規整</text>
+<text x="1318" y="4247.5" font-size="24" font-weight="400" fill="#24343f">化 → 定義組成基準</text>
+<text x="1318" y="4281.58" font-size="24" font-weight="400" fill="#24343f">條件｜完整峰集合＋相近或校正響應；FID也可</text>
+<text x="1318" y="4315.66" font-size="24" font-weight="400" fill="#24343f">用。</text>
+<text x="1318" y="4349.74" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜可報告的組成與限制</text>
+</g>
+<g id="gc3_g2_l26">
+<rect x="1296" y="4620" width="538" height="490" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1318" y="4661" font-size="27" font-weight="600" fill="#b72d4a">L26｜不同天量測，驗的是哪層精密度？</text>
+<text x="1318" y="4709.34" font-size="24" font-weight="400" fill="#24343f">輸入〔M04〕｜重複量測設計、已知量與變動</text>
+<text x="1318" y="4743.42" font-size="24" font-weight="400" fill="#24343f">條件</text>
+<text x="1318" y="4777.5" font-size="24" font-weight="400" fill="#24343f">L26｜同短期／同實驗室變動／跨實驗室 → 定</text>
+<text x="1318" y="4811.58" font-size="24" font-weight="400" fill="#24343f">精密度層次 → 查完整流程</text>
+<text x="1318" y="4845.66" font-size="24" font-weight="400" fill="#24343f">條件｜不同天同實驗室為中間精密度。</text>
+<text x="1318" y="4879.74" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜準確度與精密度的區別</text>
+</g>
+<g id="gc3_g2_l27">
+<rect x="1296" y="5150" width="538" height="490" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1318" y="5191" font-size="27" font-weight="600" fill="#b72d4a">L27｜訊號大、斜率高、檢出限低是同一</text>
+<text x="1318" y="5229.34" font-size="27" font-weight="600" fill="#b72d4a">件事嗎？</text>
+<text x="1318" y="5277.68" font-size="24" font-weight="400" fill="#24343f">輸入〔M03〕｜校正、背景雜訊與進柱量</text>
+<text x="1318" y="5311.76" font-size="24" font-weight="400" fill="#24343f">L27｜增送入量／適當響應 → 訊噪比可改善 →</text>
+<text x="1318" y="5345.84" font-size="24" font-weight="400" fill="#24343f">仍驗證檢出／定量能力</text>
+<text x="1318" y="5379.92" font-size="24" font-weight="400" fill="#24343f">條件｜分清進柱量、校正斜率、雜訊與基質。</text>
+<text x="1318" y="5414" font-size="24" font-weight="400" fill="#24343f">輸出→M04｜區分系統響應、方法低量能力</text>
+</g>
+<text x="1302" y="6258" font-size="22" font-weight="400" fill="#b72d4a">同號L：推理／條件；同號R：先閉卷再核對。</text>
+<text x="50" y="6390" font-size="23" font-weight="400" fill="#24343f">Q048：M01題給條件 → M03 I 值 → L08相對保留 → M04最大1686＝Menthol；疑義回查條件／資料。</text>
+<text x="50" y="6482" font-size="20" font-weight="400" fill="#61717a">A–F是六次學習存檔點，不是六種互斥方法。L26由M04讀品質設計；判讀不合格才回具體前站。</text>
+<text x="50" y="6518" font-size="20" font-weight="400" fill="#61717a">原題：CH21 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

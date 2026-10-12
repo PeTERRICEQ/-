@@ -1,0 +1,183 @@
+<svg width="1900" height="4857" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4857" role="img" aria-labelledby="ext3_g2_title ext3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ext3_g2_title">萃取法｜小循環掛載點圖</title><desc id="ext3_g2_desc">萃取法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線表示流體，灰箭頭的個體擴散另依標籤辨識。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4857" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH23 / EXTRACTION / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">萃取法｜小循環掛載點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">每條L都從來源M取用資訊，經短鏈交回目的M；同號R卡在複習導航。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="60" y="362" width="1778" height="84" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="82" y="397" font-size="27" font-weight="600" fill="#9e771c">A｜先認相，再用pH改分配</text>
+<text x="82" y="431" font-size="23" font-weight="400" fill="#9e771c">能說出收誰、在哪一相；比例與層位分開。</text>
+<rect x="70" y="467" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="508" font-size="27" font-weight="600" fill="#9e771c">L01｜先說要取誰、排除誰，再選方法</text>
+<text x="92" y="556.34" font-size="23" font-weight="400" fill="#24343f">M01輸入：製劑或生物檢體、目標與後續分析</text>
+<text x="92" y="589" font-size="23" font-weight="400" fill="#24343f">目的與基質 → 需要的選擇性 → 安排前處理 → 交給後測</text>
+<text x="92" y="621.66" font-size="23" font-weight="400" fill="#24343f">交回M02：以目標與基質為理由的方法計畫</text>
+<rect x="976" y="467" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="998" y="508" font-size="27" font-weight="600" fill="#9e771c">L02｜兩相會交換分子；平衡不是全部搬走</text>
+<text x="998" y="556.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：可形成兩相的溶劑、體積與目標物</text>
+<text x="998" y="589" font-size="23" font-weight="400" fill="#24343f">兩相接觸 → 分子雙向轉移 → 平衡分布 → 收指定相</text>
+<text x="998" y="621.66" font-size="23" font-weight="400" fill="#24343f">交回M03：可收集的兩相與各相成分證據</text>
+<rect x="70" y="691" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="732" font-size="27" font-weight="600" fill="#9e771c">L03｜帶電改變水合，但不是唯一決定因素</text>
+<text x="92" y="780.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：同一藥的中性與帶電形態、溶劑與表面</text>
+<text x="92" y="813" font-size="23" font-weight="400" fill="#24343f">質子化改變 → 水合與相作用改變 → 分布傾向改變 → 選保留機制</text>
+<text x="92" y="845.66" font-size="23" font-weight="400" fill="#24343f">交回M02：可調pH／中性／永久帶電的形態判斷</text>
+<rect x="976" y="691" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="998" y="732" font-size="27" font-weight="600" fill="#9e771c">L04｜pH要和pKa比較，不只看酸鹼標籤</text>
+<text x="998" y="780.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：單一弱酸HA／A⁻或弱鹼BH⁺／B及pKa</text>
+<text x="998" y="813" font-size="23" font-weight="400" fill="#24343f">pH−pKa → 10的指數比例 → 主要形態 → 指定相中的去向</text>
+<text x="998" y="845.66" font-size="23" font-weight="400" fill="#24343f">交回M02：有條件的pH方向與形態比例</text>
+<rect x="70" y="915" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="956" font-size="27" font-weight="600" fill="#9e771c">L05｜哪一相有藥，與哪一層在上是兩題</text>
+<text x="92" y="1004.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：兩相身分、實際密度與分析物分布</text>
+<text x="92" y="1037" font-size="23" font-weight="400" fill="#24343f">先判分布 → 再認相身分 → 辨上下位置 → 收正確層</text>
+<text x="92" y="1069.66" font-size="23" font-weight="400" fill="#24343f">交回M03：被收集相的身分與來源紀錄</text>
+<rect x="976" y="915" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="998" y="956" font-size="27" font-weight="600" fill="#9e771c">L06｜換pH可洗基質；與同pH多次萃取不同</text>
+<text x="998" y="1004.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：可解離的目標藥、不同性質雜質與每次保留相</text>
+<text x="998" y="1037" font-size="23" font-weight="400" fill="#24343f">酸化留藥於水 → 有機相洗掉油 → 鹼化轉中性 → 收新有機萃取液</text>
+<text x="998" y="1069.66" font-size="23" font-weight="400" fill="#24343f">交回M02：每一步目標去向與收／棄清單</text>
+<rect x="70" y="1139" width="854" height="202" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="1180" font-size="27" font-weight="600" fill="#9e771c">L07｜鹽析與破乳化要各自驗證</text>
+<text x="92" y="1228.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：有機酸或中性溶質、界面與鹽量</text>
+<text x="92" y="1261" font-size="23" font-weight="400" fill="#24343f">界面不清／水中溶解偏高 → 試相容鹽與條件 → 靜置分層並測回收 → 選處理</text>
+<text x="92" y="1293.66" font-size="23" font-weight="400" fill="#24343f">交回M04：分層、回收與藥品穩定性的實測判定</text>
+<rect x="60" y="1389" width="1778" height="84" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="82" y="1424" font-size="27" font-weight="600" fill="#286c68">B｜把SPE四步接到保留機制</text>
+<text x="82" y="1458" font-size="23" font-weight="400" fill="#286c68">上樣與洗液保留目標，沖提才收；材料限制先查。</text>
+<rect x="70" y="1494" width="854" height="202" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="92" y="1535" font-size="27" font-weight="600" fill="#286c68">L08｜SPE先選抓藥還是抓雜質的模式</text>
+<text x="92" y="1583.34" font-size="23" font-weight="400" fill="#24343f">M01輸入：分析物、基質與吸附劑容量</text>
+<text x="92" y="1616" font-size="23" font-weight="400" fill="#24343f">選表面作用 → 配上樣條件 → 決定收集段 → 檢查容量與回收</text>
+<text x="92" y="1648.66" font-size="23" font-weight="400" fill="#24343f">交回M02：填料與收集模式；相容的上樣計畫</text>
+<rect x="976" y="1494" width="854" height="202" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="998" y="1535" font-size="27" font-weight="600" fill="#286c68">L09｜四步的先後由任務推出，不由編號背</text>
+<text x="998" y="1583.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：保留藥模式SPE的乾淨填料、檢品與溶液</text>
+<text x="998" y="1616" font-size="23" font-weight="400" fill="#24343f">先潤濕平衡 → 上樣保留目標 → 洗基質仍留目標 → 改條件沖提收目標</text>
+<text x="998" y="1648.66" font-size="23" font-weight="400" fill="#24343f">交回M02：可重現的保留、洗滌、沖提時序</text>
+<rect x="70" y="1718" width="854" height="202" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="92" y="1759" font-size="27" font-weight="600" fill="#286c68">L10｜找失落藥物，要查上樣、洗液、沖提液三段</text>
+<text x="92" y="1807.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：各段流出液、填料容量、流速與沖提強度</text>
+<text x="92" y="1840" font-size="23" font-weight="400" fill="#24343f">分段收集後測 → 確認流穿或洗失 → 調容量／流速／洗力 → 驗證回收</text>
+<text x="92" y="1872.66" font-size="23" font-weight="400" fill="#24343f">交回M04：損失發生段及針對性修正</text>
+<rect x="976" y="1718" width="854" height="202" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="998" y="1759" font-size="27" font-weight="600" fill="#286c68">L11｜逆相以疏水作用保留；pH與有機比例共同決定</text>
+<text x="998" y="1807.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：逆相表面、藥骨架／形態與上樣、洗、沖提溶液</text>
+<text x="998" y="1840" font-size="23" font-weight="400" fill="#24343f">降低水中親和／保留 → 溫和洗基質 → 提高有機比例或改形態 → 沖提目標</text>
+<text x="998" y="1872.66" font-size="23" font-weight="400" fill="#24343f">交回M02：有理由的保留與沖提條件</text>
+<rect x="70" y="1942" width="854" height="202" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="92" y="1983" font-size="27" font-weight="600" fill="#286c68">L12｜pH方向對，仍可能傷到矽膠或藥</text>
+<text x="92" y="2031.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：矽膠或聚合物基材、殘留矽醇基與pH</text>
+<text x="92" y="2064" font-size="23" font-weight="400" fill="#24343f">條件與基材 → 溶解／附加吸附風險 → 選相容操作 → 後測回收</text>
+<text x="92" y="2096.66" font-size="23" font-weight="400" fill="#24343f">交回M04：基材與分析物均相容的操作界線</text>
+<rect x="60" y="2192" width="1778" height="84" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="2227" font-size="27" font-weight="600" fill="#685185">C｜電荷、局部結構與尺寸選擇</text>
+<text x="82" y="2261" font-size="23" font-weight="400" fill="#685185">先找真正把柄，再選表面與釋放條件。</text>
+<rect x="70" y="2297" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="92" y="2338" font-size="27" font-weight="600" fill="#685185">L13｜離子交換的名字說抓誰；表面電荷與名字相反</text>
+<text x="92" y="2386.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：分析物電荷、交換基與溶液pH</text>
+<text x="92" y="2419" font-size="23" font-weight="400" fill="#24343f">先定藥電性 → 配相反表面 → 置換對離子 → 選擇性保留</text>
+<text x="92" y="2451.66" font-size="23" font-weight="400" fill="#24343f">交回M02：交換器種類與上樣pH</text>
+<rect x="976" y="2297" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="998" y="2338" font-size="27" font-weight="600" fill="#685185">L14｜平衡離子是在讓位；不是所有氯鹽都不能用</text>
+<text x="998" y="2386.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：指定交換器、對離子種類／濃度與上樣pH</text>
+<text x="998" y="2419" font-size="23" font-weight="400" fill="#24343f">準備對離子形式 → 配低競爭上樣條件 → 藥置換對離子 → 保留目標</text>
+<text x="998" y="2451.66" font-size="23" font-weight="400" fill="#24343f">交回M02：指定交換管的對離子與平衡設計</text>
+<rect x="70" y="2521" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="92" y="2562" font-size="27" font-weight="600" fill="#685185">L15｜離子交換沖提可競爭，也可關掉有效電荷</text>
+<text x="92" y="2610.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：已保留的藥、交換基、競爭離子與pH</text>
+<text x="92" y="2643" font-size="23" font-weight="400" fill="#24343f">提高競爭或改電荷 → 減弱有效交換 → 目標釋放 → 收沖提液</text>
+<text x="92" y="2675.66" font-size="23" font-weight="400" fill="#24343f">交回M02：鹽競爭／分析物或交換基電荷控制的沖提路徑</text>
+<rect x="976" y="2521" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="998" y="2562" font-size="27" font-weight="600" fill="#685185">L16｜正相抓極性作用；材質名稱不唯一決定模式</text>
+<text x="998" y="2610.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：非極性上樣介質、極性目標與極性表面</text>
+<text x="998" y="2643" font-size="23" font-weight="400" fill="#24343f">非極性介質上樣 → 極性作用保留 → 改相容溶媒強度 → 沖提極性目標</text>
+<text x="998" y="2675.66" font-size="23" font-weight="400" fill="#24343f">交回M02：相容極性保留／沖提條件與模式辨識</text>
+<rect x="70" y="2745" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="92" y="2786" font-size="27" font-weight="600" fill="#685185">L17｜Borate gel辨的是可配位二醇，不是蛋白質名字</text>
+<text x="92" y="2834.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：可接近的二醇結構、硼酸親和表面與pH</text>
+<text x="92" y="2867" font-size="23" font-weight="400" fill="#24343f">二醇與硼酸位點 → 可逆親和結合 → 改條件釋放 → 糖化／未糖化訊號</text>
+<text x="92" y="2899.66" font-size="23" font-weight="400" fill="#24343f">交回M03：按指定方法取得糖化相關或二醇成分訊號</text>
+<rect x="976" y="2745" width="854" height="202" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="998" y="2786" font-size="27" font-weight="600" fill="#685185">L18｜親和認結構；RAM先限大分子，再保留小分子</text>
+<text x="998" y="2834.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：特定配體／抗體或RAM內外表面、生物基質</text>
+<text x="998" y="2867" font-size="23" font-weight="400" fill="#24343f">選匹配辨識／排除表面 → 保留目標而排基質 → 洗滌沖提 → 後續分析</text>
+<text x="998" y="2899.66" font-size="23" font-weight="400" fill="#24343f">交回M02：有明確辨識依據的前處理與相容目標液</text>
+<rect x="60" y="2995" width="1778" height="84" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="82" y="3030" font-size="27" font-weight="600" fill="#326991">D｜特殊需求如何取樣與轉移</text>
+<text x="82" y="3064" font-size="23" font-weight="400" fill="#326991">配對、反應、高壓溶解、膜與纖維各有不同出口。</text>
+<rect x="70" y="3100" width="854" height="202" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3141" font-size="27" font-weight="600" fill="#326991">L19｜永久離子不必去電荷；可找疏水配對夥伴</text>
+<text x="92" y="3189.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：永久帶電或高極性離子、反電荷試劑與溶劑</text>
+<text x="92" y="3222" font-size="23" font-weight="400" fill="#24343f">加反電荷夥伴 → 形成可萃離子對 → 有機相轉移 → 後測與校正</text>
+<text x="92" y="3254.66" font-size="23" font-weight="400" fill="#24343f">交回M02：指定試劑、電荷平衡與可萃離子對</text>
+<rect x="976" y="3100" width="854" height="202" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="998" y="3141" font-size="27" font-weight="600" fill="#326991">L20｜衍生化改共價結構，定量要連反應效率一起算</text>
+<text x="998" y="3189.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：原分析物、反應試劑、後續萃取或偵測需求</text>
+<text x="998" y="3222" font-size="23" font-weight="400" fill="#24343f">選性質缺口 → 共價反應生成衍生物 → 合適轉移／偵測 → 匹配標準定量</text>
+<text x="998" y="3254.66" font-size="23" font-weight="400" fill="#24343f">交回M03：可量測的衍生物與反應／校正條件</text>
+<rect x="70" y="3324" width="854" height="202" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3365" font-size="27" font-weight="600" fill="#326991">L21｜SFE用加壓流體取出成分，還須收集與後測</text>
+<text x="92" y="3413.34" font-size="23" font-weight="400" fill="#24343f">M01輸入：基質、目標溶解／穩定性與高壓設備</text>
+<text x="92" y="3446" font-size="23" font-weight="400" fill="#24343f">選T／P／組成 → 基質溶解與傳質 → 受控減壓捕集 → 後測量與回收</text>
+<text x="92" y="3478.66" font-size="23" font-weight="400" fill="#24343f">交回M02：相容的SFE條件、捕集物與後測計畫</text>
+<rect x="976" y="3324" width="854" height="202" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="998" y="3365" font-size="27" font-weight="600" fill="#326991">L22｜微透析量到灌流液；組織游離濃度需回收校正</text>
+<text x="998" y="3413.34" font-size="23" font-weight="400" fill="#24343f">M01輸入：活體細胞外液、目標小分子、半透膜、灌流流速</text>
+<text x="998" y="3446" font-size="23" font-weight="400" fill="#24343f">游離分子擴散過膜 → 灌流液帶走 → 分時收集後測 → 以相對回收解讀</text>
+<text x="998" y="3478.66" font-size="23" font-weight="400" fill="#24343f">交回M03：有採樣時間與回收基準的透析液濃度</text>
+<rect x="70" y="3548" width="854" height="202" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="92" y="3589" font-size="27" font-weight="600" fill="#326991">L23｜SPME取一部分到塗層；頂空與直接浸入都可</text>
+<text x="92" y="3637.34" font-size="23" font-weight="400" fill="#24343f">M02輸入：目標揮發性、基質、纖維塗層與時間／溫度</text>
+<text x="92" y="3670" font-size="23" font-weight="400" fill="#24343f">直接浸入／頂空 → 分配或吸附至塗層 → 熱／溶劑脫附 → 儀器校正</text>
+<text x="92" y="3702.66" font-size="23" font-weight="400" fill="#24343f">交回M03：標準化纖維採樣後的儀器訊號</text>
+<rect x="60" y="3798" width="1778" height="84" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="82" y="3833" font-size="27" font-weight="600" fill="#356844">E｜濃縮、回收與品質帳</text>
+<text x="82" y="3867" font-size="23" font-weight="400" fill="#356844">濃度變高不等於回收變高；內標與後測需校正。</text>
+<rect x="70" y="3903" width="854" height="202" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="92" y="3944" font-size="27" font-weight="600" fill="#356844">L24｜分配比是濃度比；總量還要乘體積</text>
+<text x="92" y="3992.34" font-size="23" font-weight="400" fill="#24343f">M03輸入：指定相的濃度、相體積、形態與pH</text>
+<text x="92" y="4025" font-size="23" font-weight="400" fill="#24343f">D與體積 → 各相質量 → 水相殘留比例q → 萃取量與次數</text>
+<text x="92" y="4057.66" font-size="23" font-weight="400" fill="#24343f">交回M04：有條件的殘留／萃取比例、相量與方向檢查</text>
+<rect x="976" y="3903" width="854" height="202" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="998" y="3944" font-size="27" font-weight="600" fill="#356844">L25｜濃縮看濃度；回收看量，兩者可以同時升降</text>
+<text x="998" y="3992.34" font-size="23" font-weight="400" fill="#24343f">M03輸入：收集液濃度、定容／稀釋體積與原來或加入量</text>
+<text x="998" y="4025" font-size="23" font-weight="400" fill="#24343f">訊號校正成c → cVDF還原量 → 對原有／加標量 → 回收與濃縮分開報</text>
+<text x="998" y="4057.66" font-size="23" font-weight="400" fill="#24343f">交回M04：各自有基準的量、回收及濃縮結果</text>
+<rect x="70" y="4127" width="854" height="202" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="92" y="4168" font-size="27" font-weight="600" fill="#356844">L26｜內標可以抵消匹配損失，不能找回失去的藥</text>
+<text x="92" y="4216.34" font-size="23" font-weight="400" fill="#24343f">M03輸入：分析物／內標的加入時機、訊號比與校正</text>
+<text x="92" y="4249" font-size="23" font-weight="400" fill="#24343f">先加匹配內標 → 共同經前處理 → 訊號比校正 → 評估偏差與精密度</text>
+<text x="92" y="4281.66" font-size="23" font-weight="400" fill="#24343f">交回M04：依加入時機與匹配程度成立的比值估量</text>
+<rect x="976" y="4127" width="854" height="202" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="998" y="4168" font-size="27" font-weight="600" fill="#356844">L27｜品質不合格才回查；先定位原因再重做</text>
+<text x="998" y="4216.34" font-size="23" font-weight="400" fill="#24343f">M04輸入：空白、標準、分段回收、基質、穩定性與目的</text>
+<text x="998" y="4249" font-size="23" font-weight="400" fill="#24343f">異常證據 → 分辨基質／損失／計算 → 修正對應站 → 再驗證後報告</text>
+<text x="998" y="4281.66" font-size="23" font-weight="400" fill="#24343f">交回M02：依證據回到可修的前處理；若只是單位錯則回M03</text>
+<rect x="60" y="4377" width="1778" height="330" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="82" y="4418" font-size="27" font-weight="600" fill="#b72d4a">底部完整路線｜EX01與來源Q007的取相動作</text>
+<text x="82" y="4466.34" font-size="24" font-weight="400" fill="#24343f">M01：要保留Hydrocortisone acetate、減少油性基質</text>
+<text x="82" y="4500.42" font-size="24" font-weight="400" fill="#24343f">→ M02／L05：確認甲醇／己烷兩相；本例甲醇富集下層，己烷富集上層</text>
+<text x="82" y="4534.5" font-size="24" font-weight="400" fill="#24343f">→ M03：自編資料下層藥90µg、上層10µg；收下層，100µg中收90µg</text>
+<text x="82" y="4568.58" font-size="24" font-weight="400" fill="#24343f">→ M04／L25、L27：回收90%是本例量比；不是純度，也不保證所有乳膏都同分布。</text>
+<text x="50" y="4789" font-size="20" font-weight="400" fill="#61717a">L＝理解模組，不必畫成圓；短鏈可以開放。入口、條件與出口的完整解釋回建構講義同號L。</text>
+<text x="50" y="4825" font-size="20" font-weight="400" fill="#61717a">原題：CH23 PDF（內題頭CH24）；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

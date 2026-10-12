@@ -1,0 +1,161 @@
+<svg width="1900" height="2880" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2880" role="img" aria-labelledby="tlc3_g2_title tlc3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="tlc3_g2_title">薄層層析 TLC｜小循環掛載圖</title><desc id="tlc3_g2_desc">薄層層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線為溶劑前進與前緣，灰線為分析程序；斑點與UV子圖另附圖例。圖5板上距離採同刻度，其餘示意不按比例。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="2880" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH19 / THIN-LAYER CHROMATOGRAPHY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">薄層層析 TLC｜小循環掛載圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">六個存檔點；每條L都有「來源M＋輸入 → 短鏈 → 交回M＋結果」。先讀A，再接B與D。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="375" width="570" height="980" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="419" font-size="27" font-weight="600" fill="#9e771c">A｜先會走流程、讀位置</text>
+<text x="72" y="467" font-size="23" font-weight="400" fill="#24343f">前緣是尺，斑點中心是讀數；同位置仍需比對。</text>
+<rect x="66" y="541" width="538" height="249" rx="12" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="81" y="577" font-size="25" font-weight="600" fill="#9e771c">L01｜毛細作用推進</text>
+<text x="81" y="620.5" font-size="22" font-weight="400" fill="#24343f">M02：多孔板與液面 →</text>
+<text x="81" y="651.5" font-size="22" font-weight="400" fill="#24343f">潤濕細孔 → 毛細前進 → 成分分開</text>
+<text x="81" y="682.5" font-size="22" font-weight="400" fill="#24343f">→ M03：合格板面與前緣</text>
+<text x="81" y="713.5" font-size="22" font-weight="400" fill="#24343f">條件：起始線須高於槽內液面</text>
+<rect x="66" y="806" width="538" height="249" rx="12" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="81" y="842" font-size="25" font-weight="600" fill="#9e771c">L02｜共同起點算Rf</text>
+<text x="81" y="885.5" font-size="22" font-weight="400" fill="#24343f">M03：起始線、中心、前緣 →</text>
+<text x="81" y="916.5" font-size="22" font-weight="400" fill="#24343f">量a、b → a/b → 無單位Rf</text>
+<text x="81" y="947.5" font-size="22" font-weight="400" fill="#24343f">→ M04：可比的位置比</text>
+<text x="81" y="978.5" font-size="22" font-weight="400" fill="#24343f">條件：同單位、b&gt;0、前緣已標記</text>
+<rect x="66" y="1071" width="538" height="249" rx="12" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="81" y="1107" font-size="25" font-weight="600" fill="#9e771c">L03｜同位置還需證據</text>
+<text x="81" y="1150.5" font-size="22" font-weight="400" fill="#24343f">M04：同板參考與訊號 →</text>
+<text x="81" y="1181.5" font-size="22" font-weight="400" fill="#24343f">比位置與色彩 → 支持相符 → 查共同移行</text>
+<text x="81" y="1212.5" font-size="22" font-weight="400" fill="#24343f">→ M04：限定的鑑別結論</text>
+<text x="81" y="1243.5" font-size="22" font-weight="400" fill="#24343f">條件：一斑點不保證唯一成分</text>
+<rect x="665" y="375" width="570" height="980" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="687" y="419" font-size="27" font-weight="600" fill="#286c68">B｜先看固定相，再比保留</text>
+<text x="687" y="467" font-size="23" font-weight="400" fill="#24343f">固定相與當下作用決定保留；不要背單一極性口</text>
+<text x="687" y="499.66" font-size="23" font-weight="400" fill="#24343f">號。</text>
+<rect x="681" y="541" width="538" height="249" rx="12" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="696" y="577" font-size="25" font-weight="600" fill="#286c68">L04｜矽膠留住較強作用者</text>
+<text x="696" y="620.5" font-size="22" font-weight="400" fill="#24343f">M02：矽膠與分析物 →</text>
+<text x="696" y="651.5" font-size="22" font-weight="400" fill="#24343f">表面作用較強 → 保留較多 → Rf較小</text>
+<text x="696" y="682.5" font-size="22" font-weight="400" fill="#24343f">→ M04：正相相對次序</text>
+<text x="696" y="713.5" font-size="22" font-weight="400" fill="#24343f">條件：固定溶劑、解離與可比性</text>
+<rect x="681" y="806" width="538" height="249" rx="12" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="696" y="842" font-size="25" font-weight="600" fill="#286c68">L05｜液態石蠟留住疏水者</text>
+<text x="696" y="885.5" font-size="22" font-weight="400" fill="#24343f">M02：非極性塗層與分析物 →</text>
+<text x="696" y="916.5" font-size="22" font-weight="400" fill="#24343f">較偏向石蠟 → 保留較多 → Rf較小</text>
+<text x="696" y="947.5" font-size="22" font-weight="400" fill="#24343f">→ M04：題指定逆相次序</text>
+<text x="696" y="978.5" font-size="22" font-weight="400" fill="#24343f">條件：先辨保留相，非只看承載物</text>
+<rect x="681" y="1071" width="538" height="249" rx="12" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="696" y="1107" font-size="25" font-weight="600" fill="#286c68">L06｜結構先比電荷與OH</text>
+<text x="696" y="1150.5" font-size="22" font-weight="400" fill="#24343f">M02：鹽型、可作用部位 →</text>
+<text x="696" y="1181.5" font-size="22" font-weight="400" fill="#24343f">辨電荷／氫鍵 → 比表面作用 → 判Rf</text>
+<text x="696" y="1212.5" font-size="22" font-weight="400" fill="#24343f">→ M04：有條件的結構比較</text>
+<text x="696" y="1243.5" font-size="22" font-weight="400" fill="#24343f">條件：官能基不能作全系統總排名</text>
+<rect x="1280" y="375" width="570" height="980" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1302" y="419" font-size="27" font-weight="600" fill="#356844">C｜把操作條件控制好</text>
+<text x="1302" y="467" font-size="23" font-weight="400" fill="#24343f">溶劑、解離、點樣與槽況都能改斑點。</text>
+<rect x="1296" y="541" width="538" height="249" rx="12" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1311" y="577" font-size="25" font-weight="600" fill="#356844">L07｜溶劑為了拉開斑點</text>
+<text x="1311" y="620.5" font-size="22" font-weight="400" fill="#24343f">M02：正相、配方與位置 →</text>
+<text x="1311" y="651.5" font-size="22" font-weight="400" fill="#24343f">適當洗脫力↑ → 多數Rf↑ → 再查分離</text>
+<text x="1311" y="682.5" font-size="22" font-weight="400" fill="#24343f">→ M03：新位置與斑點寬度</text>
+<text x="1311" y="713.5" font-size="22" font-weight="400" fill="#24343f">條件：位置高不代表分離更好</text>
+<rect x="1296" y="806" width="538" height="249" rx="12" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1311" y="842" font-size="25" font-weight="600" fill="#356844">L08｜酸鹼不只改一件事</text>
+<text x="1311" y="885.5" font-size="22" font-weight="400" fill="#24343f">M02：藥物、表面與配方 →</text>
+<text x="1311" y="916.5" font-size="22" font-weight="400" fill="#24343f">解離與競爭皆可變 → 固定條件 → 測Rf</text>
+<text x="1311" y="947.5" font-size="22" font-weight="400" fill="#24343f">→ M04：有條件的原因說明</text>
+<text x="1311" y="978.5" font-size="22" font-weight="400" fill="#24343f">條件：不單用水相pH保證非水Rf</text>
+<rect x="1296" y="1071" width="538" height="249" rx="12" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1311" y="1107" font-size="25" font-weight="600" fill="#356844">L09｜控制點樣、槽與板</text>
+<text x="1311" y="1150.5" font-size="22" font-weight="400" fill="#24343f">M02：量、乾燥、蒸氣與水分 →</text>
+<text x="1311" y="1181.5" font-size="22" font-weight="400" fill="#24343f">受控點樣／展開 → 少過載擴散 → 讀板</text>
+<text x="1311" y="1212.5" font-size="22" font-weight="400" fill="#24343f">→ M03：可比較的斑點</text>
+<text x="1311" y="1243.5" font-size="22" font-weight="400" fill="#24343f">條件：拖尾先列候選原因再區分</text>
+<rect x="50" y="1400" width="570" height="980" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1444" font-size="27" font-weight="600" fill="#685185">D｜分離後，選方法看見它</text>
+<text x="72" y="1492" font-size="23" font-weight="400" fill="#24343f">UV、呈色與回收各有條件；配對需要精準記。</text>
+<rect x="66" y="1566" width="538" height="249" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="81" y="1602" font-size="25" font-weight="600" fill="#685185">L10｜UV暗點與螢光分清</text>
+<text x="81" y="1645.5" font-size="22" font-weight="400" fill="#24343f">M03：指示劑、波長、物質 →</text>
+<text x="81" y="1676.5" font-size="22" font-weight="400" fill="#24343f">254背景受遮弱 → 暗點；合適長波 → 亮點</text>
+<text x="81" y="1707.5" font-size="22" font-weight="400" fill="#24343f">→ M04：依指定條件比訊號</text>
+<text x="81" y="1738.5" font-size="22" font-weight="400" fill="#24343f">條件：沒有訊號不等於沒有物質</text>
+<rect x="66" y="1831" width="538" height="249" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="81" y="1867" font-size="25" font-weight="600" fill="#685185">L11｜依反應對象選呈色</text>
+<text x="81" y="1910.5" font-size="22" font-weight="400" fill="#24343f">M02：分析物與指定試劑 →</text>
+<text x="81" y="1941.5" font-size="22" font-weight="400" fill="#24343f">合適試劑 → 反應／加熱 → 色或螢光</text>
+<text x="81" y="1972.5" font-size="22" font-weight="400" fill="#24343f">→ M03：可見位置與反應訊號</text>
+<text x="81" y="2003.5" font-size="22" font-weight="400" fill="#24343f">條件：精確配對看F03–10，不硬推</text>
+<rect x="66" y="2096" width="538" height="249" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="81" y="2132" font-size="25" font-weight="600" fill="#685185">L12｜回收先避破壞反應</text>
+<text x="81" y="2175.5" font-size="22" font-weight="400" fill="#24343f">M01：回收需求與穩定性 →</text>
+<text x="81" y="2206.5" font-size="22" font-weight="400" fill="#24343f">選較少破壞定位 → 取物 → 查完整性</text>
+<text x="81" y="2237.5" font-size="22" font-weight="400" fill="#24343f">→ M02：回收配置與操作</text>
+<text x="81" y="2268.5" font-size="22" font-weight="400" fill="#24343f">條件：Iodine通常可逆，非零損失</text>
+<rect x="665" y="1400" width="570" height="980" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="687" y="1444" font-size="27" font-weight="600" fill="#326991">E｜分清位置、量與活性</text>
+<text x="687" y="1492" font-size="23" font-weight="400" fill="#24343f">Rf不等於含量；比較濃度前先核對體積與反應。</text>
+<rect x="681" y="1566" width="538" height="249" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="696" y="1602" font-size="25" font-weight="600" fill="#326991">L13｜限量先比點樣質量</text>
+<text x="696" y="1645.5" font-size="22" font-weight="400" fill="#24343f">M03：C、V及反應條件 →</text>
+<text x="696" y="1676.5" font-size="22" font-weight="400" fill="#24343f">m=C×V → m標/m檢 → 百分比</text>
+<text x="696" y="1707.5" font-size="22" font-weight="400" fill="#24343f">→ M04：名目比較線與限量</text>
+<text x="696" y="1738.5" font-size="22" font-weight="400" fill="#24343f">條件：同V才約分；不是通用LOD</text>
+<rect x="681" y="1831" width="538" height="249" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="696" y="1867" font-size="25" font-weight="600" fill="#326991">L14｜求含量要校正</text>
+<text x="696" y="1910.5" font-size="22" font-weight="400" fill="#24343f">M03：同物質強度與標準 →</text>
+<text x="696" y="1941.5" font-size="22" font-weight="400" fill="#24343f">位置與量分開 → 有效校正 → 求量</text>
+<text x="696" y="1972.5" font-size="22" font-weight="400" fill="#24343f">→ M04：定量或限定比較</text>
+<text x="696" y="2003.5" font-size="22" font-weight="400" fill="#24343f">條件：不能用Rf或跨物質亮度比量</text>
+<rect x="681" y="2096" width="538" height="249" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="696" y="2132" font-size="25" font-weight="600" fill="#326991">L15｜放射純度讀活性</text>
+<text x="696" y="2175.5" font-size="22" font-weight="400" fill="#24343f">M03：已分離各形式活性 →</text>
+<text x="696" y="2206.5" font-size="22" font-weight="400" fill="#24343f">目的形式／總活性 → ×100% → RCP</text>
+<text x="696" y="2237.5" font-size="22" font-weight="400" fill="#24343f">→ M04：放射化學純度</text>
+<text x="696" y="2268.5" font-size="22" font-weight="400" fill="#24343f">條件：放射偵測不等於普通UV</text>
+<rect x="1280" y="1400" width="570" height="980" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1302" y="1444" font-size="27" font-weight="600" fill="#b72d4a">F｜選用途，決定是否升級</text>
+<text x="1302" y="1492" font-size="23" font-weight="400" fill="#24343f">方法要配目的；更窄斑點、第二方向與新證據有不</text>
+<text x="1302" y="1524.66" font-size="23" font-weight="400" fill="#24343f">同用途。</text>
+<rect x="1296" y="1566" width="538" height="249" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1311" y="1602" font-size="25" font-weight="600" fill="#b72d4a">L16｜先選分析目的</text>
+<text x="1311" y="1645.5" font-size="22" font-weight="400" fill="#24343f">M01：揮發、雜質與選項 →</text>
+<text x="1311" y="1676.5" font-size="22" font-weight="400" fill="#24343f">查損失風險 → 查分離／偵測 → 選配置</text>
+<text x="1311" y="1707.5" font-size="22" font-weight="400" fill="#24343f">→ M02：合適方法與樣品準備</text>
+<text x="1311" y="1738.5" font-size="22" font-weight="400" fill="#24343f">條件：GMP不是所有雜質只準TLC</text>
+<rect x="1296" y="1831" width="538" height="249" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1311" y="1867" font-size="25" font-weight="600" fill="#b72d4a">L17｜HPTLC改善受控斑點</text>
+<text x="1311" y="1910.5" font-size="22" font-weight="400" fill="#24343f">M02：均一粒子與操作 →</text>
+<text x="1311" y="1941.5" font-size="22" font-weight="400" fill="#24343f">斑點較窄 → 適合掃描 → 校正求量</text>
+<text x="1311" y="1972.5" font-size="22" font-weight="400" fill="#24343f">→ M03：受控定量訊號</text>
+<text x="1311" y="2003.5" font-size="22" font-weight="400" fill="#24343f">條件：數字依材料；自動化仍驗證</text>
+<rect x="1296" y="2096" width="538" height="249" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1311" y="2132" font-size="25" font-weight="600" fill="#b72d4a">L18｜二維再加選擇性</text>
+<text x="1311" y="2175.5" font-size="22" font-weight="400" fill="#24343f">M02：第一方向與第二溶劑 →</text>
+<text x="1311" y="2206.5" font-size="22" font-weight="400" fill="#24343f">展開、乾燥 → 轉90° → 第二次展開</text>
+<text x="1311" y="2237.5" font-size="22" font-weight="400" fill="#24343f">→ M03：兩方向位置／分離</text>
+<text x="1311" y="2268.5" font-size="22" font-weight="400" fill="#24343f">條件：第二方向仍共移行就未分開</text>
+<rect x="50" y="2485" width="1800" height="215" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="2528" font-size="27" font-weight="600" fill="#9e771c">完整示範｜EX01只先走一條主路</text>
+<text x="74" y="2578.34" font-size="24" font-weight="400" fill="#24343f">M01：同板檢品與參考 → M02：受控展開、標前緣與偵測 → L02：4/8=0.50交回M04。</text>
+<text x="74" y="2612.42" font-size="24" font-weight="400" fill="#24343f">L03：0.50與參考相符，仍不能唯一確認；再看另一點0.25與其他證據。</text>
+<text x="74" y="2646.5" font-size="24" font-weight="400" fill="#24343f">下一輪：B解釋為何位置不同，D決定怎麼看見；E處理量，F決定升級用途。</text>
+<text x="50" y="2776" font-size="20" font-weight="400" fill="#61717a">縮寫：Rf＝比移值；UV＝紫外光；HPTLC＝高效能薄層層析；2D＝二維；RCP＝放射化學純度；F254＝254 nm螢光指示劑。</text>
+<text x="50" y="2812" font-size="20" font-weight="400" fill="#61717a">L＝可重用的教學短鏈，可為開放因果／計算模組；未畫成分子自行產生的回饋環。</text>
+<text x="50" y="2848" font-size="20" font-weight="400" fill="#61717a">來源：CH19 PDF；建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法／配置。圖5板面距離同刻度，其餘示意不按比例。</text>
+</svg>

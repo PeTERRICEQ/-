@@ -1,0 +1,104 @@
+<svg width="1900" height="2670" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2670" role="img" aria-labelledby="ext3_g1_title ext3_g1_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ext3_g1_title">萃取法｜分析全流程母圖</title><desc id="ext3_g1_desc">萃取法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線表示流體，灰箭頭的個體擴散另依標籤辨識。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="2670" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH23 / EXTRACTION / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">萃取法｜分析全流程母圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先寫收誰與棄誰；各方法交出不同檢品，再以相容後測與校正回答目的。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="65" y="365" width="1740" height="190" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="406" font-size="27" font-weight="600" fill="#9e771c">M01｜目的與基質 → L01方法計畫</text>
+<text x="87" y="454.34" font-size="24" font-weight="400" fill="#24343f">去油／去蛋白、濃縮微量目標、取活體游離成分，都先寫分析物、基質、穩定性與後測方式。輸出：有理由的方法與收集模式。</text>
+<polyline points="920,555 920,596" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="920.0,596.0 913.8,584.6 926.2,584.6" fill="#61717a"/>
+<rect x="65" y="610" width="1740" height="835" rx="18" fill="#f2f8f5" stroke="#286c68" stroke-width="2"/>
+<text x="88" y="654" font-size="27" font-weight="600" fill="#286c68">M02｜選相與條件；下面是可選或可串接的分支，不是全部串聯</text>
+<rect x="92" y="696" width="540" height="284" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="114" y="737" font-size="27" font-weight="600" fill="#9e771c">P01／P09｜LLE或離子配對</text>
+<text x="114" y="785.34" font-size="24" font-weight="400" fill="#24343f">兩相接觸、pH／配對改分布 → 靜置辨相 → 收</text>
+<text x="114" y="819.42" font-size="24" font-weight="400" fill="#24343f">目標相。L02–07、L19；乳化先查。</text>
+<rect x="659" y="696" width="540" height="284" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="681" y="737" font-size="27" font-weight="600" fill="#286c68">P02–08｜SPE不同表面</text>
+<text x="681" y="785.34" font-size="24" font-weight="400" fill="#24343f">選疏水／極性／電荷／親和或限進材料 → 留藥</text>
+<text x="681" y="819.42" font-size="24" font-weight="400" fill="#24343f">後沖提，或留基質收流穿。L08–18。</text>
+<rect x="1226" y="696" width="540" height="284" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1248" y="737" font-size="27" font-weight="600" fill="#326991">P11｜SFE</text>
+<text x="1248" y="785.34" font-size="24" font-weight="400" fill="#24343f">選T／P／改質劑 → 基質溶解與傳質 → 受控減</text>
+<text x="1248" y="819.42" font-size="24" font-weight="400" fill="#24343f">壓捕集。收集不全仍會失藥。L21。</text>
+<rect x="92" y="1014" width="540" height="284" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="114" y="1055" font-size="27" font-weight="600" fill="#326991">P12｜微透析</text>
+<text x="114" y="1103.34" font-size="24" font-weight="400" fill="#24343f">半透膜＋灌流 → 可通膜游離成分進透析液 →</text>
+<text x="114" y="1137.42" font-size="24" font-weight="400" fill="#24343f">分時收集。需相對回收與時間基準。L22。</text>
+<rect x="659" y="1014" width="540" height="284" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="681" y="1055" font-size="27" font-weight="600" fill="#685185">P13｜SPME：HS／DI</text>
+<text x="681" y="1103.34" font-size="24" font-weight="400" fill="#24343f">塗層只取一部分 → 熱或溶劑脫附至GC／LC →</text>
+<text x="681" y="1137.42" font-size="24" font-weight="400" fill="#24343f">匹配採樣校正。L23。</text>
+<rect x="1226" y="1014" width="540" height="284" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1248" y="1055" font-size="27" font-weight="600" fill="#685185">P10｜可串接的衍生化</text>
+<text x="1248" y="1103.34" font-size="24" font-weight="400" fill="#24343f">反應改共價性質 → 接LLE、SPME等 → 同步標</text>
+<text x="1248" y="1137.42" font-size="24" font-weight="400" fill="#24343f">準反應。離子配對則是非共價轉移。L19–20。</text>
+<text x="91" y="1359" font-size="24" font-weight="400" fill="#286c68">共用輸出：收集液／沖提液／透析液／塗層上的成分＋完整條件；確認收集段與後測相容。</text>
+<polyline points="362,1298 362,1319 1764,1319 1764,1421" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="929,1298 929,1319 1764,1319 1764,1421" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1496,1298 1496,1319 1764,1319 1764,1421" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="920,1445 920,1498" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="920.0,1498.0 913.8,1486.6 926.2,1486.6" fill="#61717a"/>
+<rect x="65" y="1513" width="1740" height="178" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="87" y="1554" font-size="27" font-weight="600" fill="#326991">M02 → M03｜相容後測與匹配標準</text>
+<text x="87" y="1602.34" font-size="24" font-weight="400" fill="#24343f">HPLC／GC-MS、滴定或比色等取得讀數；用標準校正成濃度或量。萃取本身不等於分析物含量已知。流體的體積與儀器的訊號要分開記。</text>
+<polyline points="920,1691 920,1728" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="920.0,1728.0 913.8,1716.6 926.2,1716.6" fill="#61717a"/>
+<rect x="65" y="1741" width="1740" height="319" rx="18" fill="#eef6ed" stroke="#356844" stroke-width="2"/>
+<text x="90" y="1787" font-size="27" font-weight="600" fill="#356844">M03｜把讀數轉成各自有分母的量：L24–26、C01–09</text>
+<rect x="90" y="1815" width="540" height="212" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="112" y="1856" font-size="27" font-weight="600" fill="#356844">相量／萃取比例</text>
+<text x="112" y="1904.34" font-size="23" font-weight="400" fill="#24343f">D是濃度比，量還要乘體積；q由Va、D、Vo守</text>
+<text x="112" y="1937" font-size="23" font-weight="400" fill="#24343f">恆；同條件新份溶劑才用qⁿ。</text>
+<rect x="655" y="1815" width="540" height="212" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="677" y="1856" font-size="27" font-weight="600" fill="#356844">回收／濃縮／原樣量</text>
+<text x="677" y="1904.34" font-size="23" font-weight="400" fill="#24343f">cVDF還原量；R看量，CF看濃度。加標後先扣原</text>
+<text x="677" y="1937" font-size="23" font-weight="400" fill="#24343f">樣，稀釋只還原一次。</text>
+<rect x="1220" y="1815" width="540" height="212" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1242" y="1856" font-size="27" font-weight="600" fill="#356844">部分取樣／內標</text>
+<text x="1242" y="1904.34" font-size="23" font-weight="400" fill="#24343f">微透析RR只估相容游離基準；SPME需校正。內</text>
+<text x="1242" y="1937" font-size="23" font-weight="400" fill="#24343f">標前加且損失匹配才抵消比值。</text>
+<polyline points="920,2060 920,2100" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="920.0,2100.0 913.8,2088.6 926.2,2088.6" fill="#61717a"/>
+<rect x="65" y="2115" width="1740" height="250" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="87" y="2156" font-size="27" font-weight="600" fill="#b72d4a">M04｜L27：核對目的、空白、標準、回收與干擾</text>
+<text x="87" y="2204.34" font-size="24" font-weight="400" fill="#24343f">先確認藥與基質分得夠、藥穩定、收集與後測可靠，再報有限定的結論。低峰不直接診斷吸附；先查上樣／洗失／沖不足、降解、校正與基質。合格→報告；不</text>
+<text x="87" y="2238.42" font-size="24" font-weight="400" fill="#24343f">合格→依證據回具體站。</text>
+<polyline points="1805,2274 1824,2274 1824,470 1805,470" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1805.0,470.0 1816.4,463.8 1816.4,476.2" fill="#b72d4a"/>
+<polyline points="1805,2274 1842,2274 1842,750 1805,750" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1805.0,750.0 1816.4,743.8 1816.4,756.2" fill="#b72d4a"/>
+<polyline points="1805,2274 1860,2274 1860,1850 1805,1850" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1805.0,1850.0 1816.4,1843.8 1816.4,1856.2" fill="#b72d4a"/>
+<rect x="65" y="2420" width="574" height="132" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="87" y="2461" font-size="27" font-weight="600" fill="#b72d4a">若目的／基質不合 → M01</text>
+<text x="87" y="2509.34" font-size="23" font-weight="400" fill="#24343f">重選需求與方法，不是把分子畫回起點。</text>
+<rect x="648" y="2420" width="574" height="132" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="670" y="2461" font-size="27" font-weight="600" fill="#b72d4a">若分離／回收不合 → M02</text>
+<text x="670" y="2509.34" font-size="23" font-weight="400" fill="#24343f">定位損失段，調條件與收集再驗證。</text>
+<rect x="1231" y="2420" width="574" height="132" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1253" y="2461" font-size="27" font-weight="600" fill="#b72d4a">若校正／單位錯 → M03</text>
+<text x="1253" y="2509.34" font-size="23" font-weight="400" fill="#24343f">核對分母、體積、DF與訊號基準。</text>
+<text x="50" y="2602" font-size="20" font-weight="400" fill="#61717a">讀法：灰箭頭是分析資訊；紅虛線只在不符合條件時回查。方法可串接，但各分支不必全部做。</text>
+<text x="50" y="2638" font-size="20" font-weight="400" fill="#61717a">原題：CH23 PDF（內題頭CH24）；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

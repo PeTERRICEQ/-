@@ -1,0 +1,72 @@
+<svg width="1900" height="1660" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1660" role="img" aria-labelledby="nmr3i-title nmr3i-desc">
+<title id="nmr3i-title">NMR 儀器與操作｜每個步驟只記一件工作</title><desc id="nmr3i-desc">先讀測量順序；遇到峰位、峰寬或面積問題，再回查對應步驟。</desc>
+<defs><marker id="nmr3i-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="nmr3i-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1660" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">NMR 儀器與操作｜每個步驟只記一件工作</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">先讀測量順序；遇到峰位、峰寬或面積問題，再回查對應步驟。</text>
+<rect x="40" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="64" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第1站｜先定問題</text>
+<text x="64" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">看結構？含量？混合物？</text>
+<path d="M 472 220 L 500 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="504" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="528" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第2站｜準備與測量</text>
+<text x="528" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">核種、溶媒、參考、RF</text>
+<path d="M 936 220 L 964 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="968" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="992" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第3站｜讀訊號</text>
+<text x="992" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">組數／位置／面積／分裂</text>
+<path d="M 1400 220 L 1428 220" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="1432" y="158" width="430" height="124" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="1456" y="201.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">第4站｜核對答案</text>
+<text x="1456" y="246.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">證據一致？條件可靠？</text>
+<rect x="40" y="340" width="590" height="290" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="64" y="383.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">① 樣品與溶媒｜L12</text>
+<text x="64" y="428.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">常用氘代溶媒，減少強 ¹H 背景</text>
+<text x="64" y="470.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">仍可能有殘餘溶媒氫與水峰</text>
+<text x="64" y="513.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">D₂O 交換：查 OH／NH 的氫</text>
+<path d="M 632 485 L 655 485" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="660" y="340" width="590" height="290" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="684" y="383.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">② 先穩場與勻場｜L23</text>
+<text x="684" y="428.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">lock：減少場隨時間漂移</text>
+<text x="684" y="470.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">shim：改善場的空間均勻度</text>
+<text x="684" y="513.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">兩者不同；先讓測量條件可靠</text>
+<path d="M 1252 485 L 1275 485" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="1280" y="340" width="590" height="290" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="1304" y="383.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">③ 磁場與射頻｜L09／L10</text>
+<text x="1304" y="428.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">I≠0 的核才有一般 NMR 響應</text>
+<text x="1304" y="470.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">場增強 → ν↑、ΔE↑</text>
+<text x="1304" y="513.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">MHz 是頻率；B₀ 的單位是 T</text>
+<rect x="40" y="677" width="590" height="290" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="64" y="720.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">④ 接收與轉換｜L11</text>
+<text x="64" y="765.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">RF 脈衝後，先採集 FID</text>
+<text x="64" y="807.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">FID：隨時間記錄的電訊號</text>
+<text x="64" y="850.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">FT：整理成頻率／ppm 的峰圖</text>
+<path d="M 632 822 L 655 822" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="660" y="677" width="590" height="290" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2.5"/>
+<text x="684" y="720.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#326991">⑤ 定參考與讀圖｜L03／L12</text>
+<text x="684" y="765.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">TMS 常設 δ＝0 作參考</text>
+<text x="684" y="807.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">δ：左大右小；去遮蔽常往左</text>
+<text x="684" y="850.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">核對組數／位置／面積／分裂</text>
+<path d="M 1252 822 L 1275 822" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="1280" y="677" width="590" height="290" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="1304" y="720.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">⑥ 面積可信｜L21／L23</text>
+<text x="1304" y="765.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">足夠等待，讓各組恢復</text>
+<text x="1304" y="807.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">校正相位與基線，再積分</text>
+<text x="1304" y="850.7" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">qNMR 先把面積除以 H 數</text>
+<path d="M 1575 630 L 1575 652 L 335 652 L 335 677" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#nmr3i-arrow)"/>
+<rect x="40" y="1055" width="1820" height="276" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="64" y="1098.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">遇到問題就回查｜L23</text>
+<text x="64" y="1138.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#24343f">位置不對</text>
+<text x="320" y="1138.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">→ 先查參考、溶媒、溫度與結構環境。</text>
+<text x="64" y="1185.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#24343f">峰太寬</text>
+<text x="320" y="1185.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">→ 查勻場、交換與弛豫；不只怪一個原因。</text>
+<text x="64" y="1232.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#24343f">面積不對</text>
+<text x="320" y="1232.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">→ 查重疊、交換、等待、相位與基線。</text>
+<text x="64" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="bold" fill="#24343f">訊號太弱</text>
+<text x="320" y="1279.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">→ 查核種／含量；增加掃描須付出時間。</text>
+<rect x="40" y="1365" width="1820" height="196" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="64" y="1408.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">兩種弛豫，用白話先分開</text>
+<text x="64" y="1453.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">T₁：縱向磁化恢復；等太短，各組面積可能失真。</text>
+<text x="64" y="1496.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">T₂*：有效橫向訊號衰減；衰減很快，常伴較寬峰。這與分析者的回查虛線不同。</text>
+<text x="40" y="1622.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 NMR｜v3.0｜先會讀圖 → 理解原因 → 做題驗證</text>
+</svg>

@@ -1,0 +1,155 @@
+<svg width="1900" height="3350" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3350" role="img" aria-labelledby="ri3_g2_title ri3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ri3_g2_title">折光度測定法｜小循環掛載圖</title><desc id="ri3_g2_desc">折光度測定法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；綠線表示液體流路。紅虛線表示條件不符的分析者回查。示意不按比例；角度從法線量起。</desc>
+<rect x="0" y="0" width="1900" height="3350" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH33 / REFRACTOMETRY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">折光度測定法｜小循環掛載圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">六組存檔點，九條 L 各有一次主要掛載；入口帶條件，短鏈產生資訊，出口交回具名的站。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="570" height="1225" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="425" font-size="29" font-weight="600" fill="#9e771c">A｜先認清比值與角度</text>
+<text x="72" y="470" font-size="23" font-weight="400" fill="#24343f">先說參考介質；角度一律從法線量。</text>
+<rect x="68" y="530" width="534" height="500" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="572" font-size="27" font-weight="600" fill="#9e771c">L1｜速度比與基準</text>
+<text x="88" y="622" font-size="23" font-weight="400" fill="#24343f">入口 M02｜同條件的空氣與檢品相速度；先認清</text>
+<text x="88" y="654.66" font-size="23" font-weight="400" fill="#24343f">參考基準。</text>
+<text x="88" y="728" font-size="24" font-weight="400" fill="#24343f">固定參考速度 → 檢品速度下降 → 速度比上升 </text>
+<text x="88" y="762.08" font-size="24" font-weight="400" fill="#24343f">→ n 上升</text>
+<text x="88" y="837" font-size="23" font-weight="400" fill="#9e771c">出口 M03｜方向及單位正確的相對折射率 n。</text>
+<text x="88" y="940" font-size="21" font-weight="400" fill="#61717a">條件：同頻率、同參考基準；空氣與真空不可精確混</text>
+<text x="88" y="969.82" font-size="21" font-weight="400" fill="#61717a">用。</text>
+<rect x="68" y="1055" width="534" height="500" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="88" y="1097" font-size="27" font-weight="600" fill="#9e771c">L2｜Snell 介質角色</text>
+<text x="88" y="1147" font-size="23" font-weight="400" fill="#24343f">入口 M02｜出發及到達介質 n₁、n₂；各角皆從法</text>
+<text x="88" y="1179.66" font-size="23" font-weight="400" fill="#24343f">線量。</text>
+<text x="88" y="1253" font-size="24" font-weight="400" fill="#24343f">標出兩邊介質 → 寫 Snell 母式 → 依角色移項 </text>
+<text x="88" y="1287.08" font-size="24" font-weight="400" fill="#24343f">→ 檢查方向</text>
+<text x="88" y="1362" font-size="23" font-weight="400" fill="#9e771c">出口 M03｜介質角色正確的正弦比及折射方向。</text>
+<text x="88" y="1465" font-size="21" font-weight="400" fill="#61717a">條件：平面、靜止界面；正入射 i＝r＝0，不轉彎。</text>
+<rect x="670" y="380" width="570" height="1225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="425" font-size="29" font-weight="600" fill="#286c68">B｜用邊界讀 n</text>
+<text x="692" y="470" font-size="23" font-weight="400" fill="#24343f">同一界面，正向極限角與反向臨界角要分角色。</text>
+<rect x="688" y="530" width="534" height="500" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="708" y="572" font-size="27" font-weight="600" fill="#286c68">L3｜極限角與邊界</text>
+<text x="708" y="622" font-size="23" font-weight="400" fill="#24343f">入口 M02｜檢品 n&lt;N、已知稜鏡 N；同 T、λ 與</text>
+<text x="708" y="654.66" font-size="23" font-weight="400" fill="#24343f">參考基準。</text>
+<text x="708" y="728" font-size="24" font-weight="400" fill="#24343f">檢品入射角趨近 90° → sin i 趨近 1 → 形成極</text>
+<text x="708" y="762.08" font-size="24" font-weight="400" fill="#24343f">限邊界 → 由角度求 n</text>
+<text x="708" y="837" font-size="23" font-weight="400" fill="#286c68">出口 M03｜可讀邊界、極限折射角 r_c 及 n＝N s</text>
+<text x="708" y="869.66" font-size="23" font-weight="400" fill="#286c68">in r_c。</text>
+<text x="708" y="940" font-size="21" font-weight="400" fill="#61717a">條件：r_c 是正向折射角；θ_c 是反向入射角；θ&gt;θ_c </text>
+<text x="708" y="969.82" font-size="21" font-weight="400" fill="#61717a">才全反射。</text>
+<rect x="688" y="1080" width="534" height="455" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="710" y="1121" font-size="27" font-weight="600" fill="#286c68">把這組立即用一次</text>
+<text x="710" y="1168" font-size="25" font-weight="400" fill="#24343f">正向：檢品 n→稜鏡 N，i→90°。</text>
+<text x="710" y="1203.5" font-size="25" font-weight="400" fill="#24343f">r_c 是稜鏡內的極限折射角。</text>
+<text x="710" y="1239" font-size="25" font-weight="400" fill="#24343f">反向：稜鏡→檢品，θ_c 是入射角。</text>
+<text x="710" y="1274.5" font-size="25" font-weight="400" fill="#24343f">θ_c＝r_c；θ&gt;θ_c 才全反射。</text>
+<rect x="1290" y="380" width="570" height="1225" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="425" font-size="29" font-weight="600" fill="#356844">C｜把比較條件固定</text>
+<text x="1312" y="470" font-size="23" font-weight="400" fill="#24343f">成分相同仍需同溫度、同波長才能比較。</text>
+<rect x="1308" y="530" width="534" height="500" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1328" y="572" font-size="27" font-weight="600" fill="#356844">L4｜溫度與比較</text>
+<text x="1328" y="622" font-size="23" font-weight="400" fill="#24343f">入口 M02｜固定組成與波長；檢品及稜鏡達指定</text>
+<text x="1328" y="654.66" font-size="23" font-weight="400" fill="#24343f">溫度。</text>
+<text x="1328" y="728" font-size="24" font-weight="400" fill="#24343f">溫度升高 → 常見液體熱膨脹 → n 通常下降 → </text>
+<text x="1328" y="762.08" font-size="24" font-weight="400" fill="#24343f">未控溫會誤判成分</text>
+<text x="1328" y="837" font-size="23" font-weight="400" fill="#356844">出口 M03｜帶溫度條件、可與標準比較的 n 及變</text>
+<text x="1328" y="869.66" font-size="23" font-weight="400" fill="#356844">化方向。</text>
+<text x="1328" y="940" font-size="21" font-weight="400" fill="#61717a">條件：限常見液體與適用溫區；水斜率不能套全部檢</text>
+<text x="1328" y="969.82" font-size="21" font-weight="400" fill="#61717a">品。</text>
+<rect x="1308" y="1055" width="534" height="500" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1328" y="1097" font-size="27" font-weight="600" fill="#356844">L5｜波長與補償</text>
+<text x="1328" y="1147" font-size="23" font-weight="400" fill="#24343f">入口 M02｜指定波長及 T；依光源配置選單色或</text>
+<text x="1328" y="1179.66" font-size="23" font-weight="400" fill="#24343f">色散補償。</text>
+<text x="1328" y="1253" font-size="24" font-weight="400" fill="#24343f">波長改變 → n 及邊界位置改變 → 選線或補償 </text>
+<text x="1328" y="1287.08" font-size="24" font-weight="400" fill="#24343f">→ 同條件比較</text>
+<text x="1328" y="1362" font-size="23" font-weight="400" fill="#356844">出口 M03｜指定或等效 D 線條件下的清楚邊界與</text>
+<text x="1328" y="1394.66" font-size="23" font-weight="400" fill="#356844"> n。</text>
+<text x="1328" y="1465" font-size="21" font-weight="400" fill="#61717a">條件：短波通常 n 較大限正常色散區；RI 光源另依型</text>
+<text x="1328" y="1494.82" font-size="21" font-weight="400" fill="#61717a">號。</text>
+<rect x="50" y="1660" width="570" height="1225" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1705" font-size="29" font-weight="600" fill="#685185">D｜讓檢品確實接觸</text>
+<text x="72" y="1750" font-size="23" font-weight="400" fill="#24343f">理想式沒有厚度，不表示氣泡與空隙無妨。</text>
+<rect x="68" y="1810" width="534" height="500" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="88" y="1852" font-size="27" font-weight="600" fill="#685185">L6｜完整光學接觸</text>
+<text x="88" y="1902" font-size="23" font-weight="400" fill="#24343f">入口 M02｜代表性液膜或合適固體；潔淨、覆蓋</text>
+<text x="88" y="1934.66" font-size="23" font-weight="400" fill="#24343f">及光學接觸。</text>
+<text x="88" y="2008" font-size="24" font-weight="400" fill="#24343f">氣泡或空隙 → 多出界面與散射 → 邊界失真不</text>
+<text x="88" y="2042.08" font-size="24" font-weight="400" fill="#24343f">穩 → 修接觸後再讀</text>
+<text x="88" y="2117" font-size="23" font-weight="400" fill="#685185">出口 M03｜有效被測界面與可判讀邊界；不合先</text>
+<text x="88" y="2149.66" font-size="23" font-weight="400" fill="#685185">回 M02。</text>
+<text x="88" y="2220" font-size="21" font-weight="400" fill="#61717a">條件：接觸液 n、表面及相容性需合適；不可溶解或</text>
+<text x="88" y="2249.82" font-size="21" font-weight="400" fill="#61717a">改樣。</text>
+<rect x="68" y="2360" width="534" height="455" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="90" y="2401" font-size="27" font-weight="600" fill="#685185">把這組立即用一次</text>
+<text x="90" y="2448" font-size="25" font-weight="400" fill="#24343f">公式沒有吸收光程 b。</text>
+<text x="90" y="2483.5" font-size="25" font-weight="400" fill="#24343f">仍須覆蓋、無氣泡與有效接觸。</text>
+<text x="90" y="2519" font-size="25" font-weight="400" fill="#24343f">固體接觸液用來填空隙。</text>
+<text x="90" y="2554.5" font-size="25" font-weight="400" fill="#24343f">不可溶解、反應或改變檢品。</text>
+<rect x="670" y="1660" width="570" height="1225" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="1705" font-size="29" font-weight="600" fill="#326991">E｜校正與濃度結論</text>
+<text x="692" y="1750" font-size="23" font-weight="400" fill="#24343f">穩定不等於準確；濃度要有可靠對應。</text>
+<rect x="688" y="1810" width="534" height="500" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="708" y="1852" font-size="27" font-weight="600" fill="#326991">L7｜校正與重複</text>
+<text x="708" y="1902" font-size="23" font-weight="400" fill="#24343f">入口 M03｜標準指示與參考值、同條件重複讀數</text>
+<text x="708" y="1934.66" font-size="23" font-weight="400" fill="#24343f">及程序。</text>
+<text x="708" y="2008" font-size="24" font-weight="400" fill="#24343f">核對標準 → 查共同偏差 → 看重複離散 → 合格</text>
+<text x="708" y="2042.08" font-size="24" font-weight="400" fill="#24343f">後報平均</text>
+<text x="708" y="2117" font-size="23" font-weight="400" fill="#326991">出口 M04｜系統偏差查驗、重複性及附條件的合</text>
+<text x="708" y="2149.66" font-size="23" font-weight="400" fill="#326991">格平均值。</text>
+<text x="708" y="2220" font-size="21" font-weight="400" fill="#61717a">條件：至少三次與 ±0.0001 是題本條件；解析度不等</text>
+<text x="708" y="2249.82" font-size="21" font-weight="400" fill="#61717a">於準確度。</text>
+<rect x="688" y="2335" width="534" height="500" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="708" y="2377" font-size="27" font-weight="600" fill="#326991">L8｜濃度與結論</text>
+<text x="708" y="2427" font-size="23" font-weight="400" fill="#24343f">入口 M03｜n、已知組成系統與指定 T、λ 的有效</text>
+<text x="708" y="2459.66" font-size="23" font-weight="400" fill="#24343f">校正關係。</text>
+<text x="708" y="2533" font-size="24" font-weight="400" fill="#24343f">有可唯一反推的對應 → 比 n → 在有效區間求 </text>
+<text x="708" y="2567.08" font-size="24" font-weight="400" fill="#24343f">C → 核對結論範圍</text>
+<text x="708" y="2642" font-size="23" font-weight="400" fill="#326991">出口 M04｜適用區間內的濃度或有限物性查驗結</text>
+<text x="708" y="2674.66" font-size="23" font-weight="400" fill="#326991">論。</text>
+<text x="708" y="2745" font-size="21" font-weight="400" fill="#61717a">條件：不能只用兩點證明線性；同 n 不證明同物質或</text>
+<text x="708" y="2774.82" font-size="21" font-weight="400" fill="#61717a">絕對純。</text>
+<rect x="1290" y="1660" width="570" height="1225" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="1705" font-size="29" font-weight="600" fill="#b72d4a">F｜兩池讀 HPLC 訊號</text>
+<text x="1312" y="1750" font-size="23" font-weight="400" fill="#24343f">參考池是移動相；樣品池是管柱流出液。</text>
+<rect x="1308" y="1810" width="534" height="500" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1328" y="1852" font-size="27" font-weight="600" fill="#b72d4a">L9｜RI 兩池差</text>
+<text x="1328" y="1902" font-size="23" font-weight="400" fill="#24343f">入口 M02｜樣品池管柱流出液、移動相參考池及</text>
+<text x="1328" y="1934.66" font-size="23" font-weight="400" fill="#24343f">穩定溫度。</text>
+<text x="1328" y="2008" font-size="24" font-weight="400" fill="#24343f">兩池 n 不同 → 光偏折／差動訊號改變 → 出現</text>
+<text x="1328" y="2042.08" font-size="24" font-weight="400" fill="#24343f">峰或漂移 → 分清分析物與背景</text>
+<text x="1328" y="2117" font-size="23" font-weight="400" fill="#b72d4a">出口 M03｜有號 Δn 與隨時間的差動訊號；記錄</text>
+<text x="1328" y="2149.66" font-size="23" font-weight="400" fill="#b72d4a">背景條件。</text>
+<text x="1328" y="2220" font-size="21" font-weight="400" fill="#61717a">條件：常規 RI 宜固定移動相組成；通用不保證每物質</text>
+<text x="1328" y="2249.82" font-size="21" font-weight="400" fill="#61717a">都夠靈敏。</text>
+<rect x="1308" y="2360" width="534" height="455" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1330" y="2401" font-size="27" font-weight="600" fill="#b72d4a">把這組立即用一次</text>
+<text x="1330" y="2448" font-size="25" font-weight="400" fill="#24343f">樣品池＝移動相＋洗脫分析物。</text>
+<text x="1330" y="2483.5" font-size="25" font-weight="400" fill="#24343f">參考池＝移動相。</text>
+<text x="1330" y="2519" font-size="25" font-weight="400" fill="#24343f">固定相留在管柱內。</text>
+<text x="1330" y="2554.5" font-size="25" font-weight="400" fill="#24343f">Δn 可正、可零、可負。</text>
+<rect x="50" y="2960" width="1800" height="245" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="3001" font-size="27" font-weight="600" fill="#9e771c">完整基本例｜速度比走完四站</text>
+<text x="72" y="3048" font-size="25" font-weight="400" fill="#24343f">M01：求相對空氣 n，未問化學身分 → M02：同頻率與條件，題給近似速度</text>
+<text x="72" y="3083.5" font-size="25" font-weight="400" fill="#24343f">→ M03：n＝(3.0×10⁸ m/s)／(2.0×10⁸ m/s)＝3／2＝1.50，單位相消</text>
+<text x="72" y="3119" font-size="25" font-weight="400" fill="#24343f">→ M04：檢品慢、n&gt;1 方向相符；結果不單獨指認藥物、雜質或濃度。</text>
+<text x="50" y="3282" font-size="20" font-weight="400" fill="#61717a">L1–L6、L9：M02→M03；L7、L8：M03→M04。L 的編號是學習定位，不是光必須逐項通過的部件。</text>
+<text x="50" y="3318" font-size="20" font-weight="400" fill="#61717a">原題：ch33 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例；角度從法線量起。</text>
+</svg>

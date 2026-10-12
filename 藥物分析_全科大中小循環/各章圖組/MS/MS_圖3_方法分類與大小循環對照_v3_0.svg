@@ -1,0 +1,211 @@
+<svg width="1900" height="6140" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 6140" role="img" aria-labelledby="ms3_g3_title ms3_g3_desc">
+<title id="ms3_g3_title">方法分類與大小循環對照｜離子源、分析器、配置分層</title>
+<desc id="ms3_g3_desc">質譜法v3.0，原生可編輯向量圖。M01先定問題、M02準備與測量、M03讀訊號、M04核對結論。深灰實線為資訊或具條件的因果；紅色虛線為分析者遇到不符時的回查，非分子物理回饋。</desc>
+<defs><marker id="ms3_g3_arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#61717a"/></marker><marker id="ms3_g3_red" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#b72d4a"/></marker></defs>
+<rect width="1900" height="6140" fill="#f8f6ee"/>
+<g font-family="Droid Sans Fallback, Noto Sans CJK TC, PingFang TC, Microsoft JhengHei, sans-serif" fill="#24343f">
+<text x="55" y="78" font-size="38" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">方法分類與大小循環對照｜離子源、分析器、配置分層</tspan></text>
+<text x="55" y="126" font-size="24" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">質譜法 v3.0｜先看用途與條件，再沿入口 → 短鏈 → 出口判讀。</tspan></text>
+<text x="55" y="161" font-size="20" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">m/z：離子質量的Da數值 ÷ |z|；Da：質量單位；z：電荷整數。</tspan></text>
+<rect x="55" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">M01｜先定問題</tspan></text>
+<path d="M475,219 L502,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g3_arrow)"/>
+<rect x="510" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="530" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="530" dy="0">M02｜準備與測量</tspan></text>
+<path d="M930,219 L957,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g3_arrow)"/>
+<rect x="965" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="985" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="985" dy="0">M03｜讀訊號</tspan></text>
+<path d="M1385,219 L1412,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g3_arrow)"/>
+<rect x="1420" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="1440" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="1440" dy="0">M04｜核對結論</tspan></text>
+<text x="55" y="325" font-size="29" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">第一層：12種源／介面｜在M01選檢品，在M02改成可量的離子</tspan></text>
+<rect x="50" y="375" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="415" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I01 EI｜Electron ionization（電子游離）</tspan></text>
+<text x="74" y="462" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜可汽化、熱穩定小分子；碎片鑑別</tspan></text>
+<text x="74" y="500" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜電子游離，常70 eV</tspan></text>
+<text x="74" y="538" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜GC／真空源；M⁺•、碎片m/z與強度</tspan></text>
+<text x="74" y="576" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜M峰可能弱；不適合完整蛋白質汽化</tspan></text>
+<text x="74" y="711" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L08｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="375" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="415" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I02 PICI｜Positive-ion chemical ionization（正離子化學游離）</tspan></text>
+<text x="999" y="462" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜可汽化檢品的質量資訊</tspan></text>
+<text x="999" y="500" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜試劑離子反應；氣體依方法選</tspan></text>
+<text x="999" y="538" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜試劑氣體／電子源；[M+H]⁺及加合</tspan></text>
+<text x="999" y="576" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜不能假設僅一種產物</tspan></text>
+<text x="999" y="711" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L09｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="50" y="755" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="795" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I03 NICI｜Negative-ion chemical ionization（負離子化學游離）</tspan></text>
+<text x="74" y="842" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜可產負離子的可汽化檢品</tspan></text>
+<text x="74" y="880" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜電子捕捉／去質子等</tspan></text>
+<text x="74" y="918" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜負模式；M⁻•、[M−H]⁻等</tspan></text>
+<text x="74" y="956" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜依電子親和力與背景；非一律M−1</tspan></text>
+<text x="74" y="1091" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L09｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="755" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="795" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I04 ESI｜Electrospray ionization（電噴灑游離）</tspan></text>
+<text x="999" y="842" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜溶液中可帶電大／小分子</tspan></text>
+<text x="999" y="880" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜帶電微滴、脫溶劑、氣相離子形成</tspan></text>
+<text x="999" y="918" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜高電壓噴頭／差壓介面；多價／加合</tspan></text>
+<text x="999" y="956" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜鹽與共洗出物可能抑制；可源內裂解</tspan></text>
+<text x="999" y="1091" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L10｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="50" y="1135" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="1175" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I05 APCI｜Atmospheric pressure chemical ionization（常壓化學游離）</tspan></text>
+<text x="74" y="1222" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜可汽化較小、較低極性分子</tspan></text>
+<text x="74" y="1260" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜電暈放電造試劑離子</tspan></text>
+<text x="74" y="1298" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜汽化器／電暈針；多常單價</tspan></text>
+<text x="74" y="1336" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜大分子／熱不穩定物受汽化限制</tspan></text>
+<text x="74" y="1471" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L11｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="1135" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="1175" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I06 APPI｜Atmospheric pressure photoionization（常壓光游離）</tspan></text>
+<text x="999" y="1222" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜較低極性可汽化小分子</tspan></text>
+<text x="999" y="1260" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜光子直接或摻雜物促進游離</tspan></text>
+<text x="999" y="1298" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜光子源／汽化器；離子m/z與強度</tspan></text>
+<text x="999" y="1336" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜響應看光子能量、摻雜與樣品</tspan></text>
+<text x="999" y="1471" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L11｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="50" y="1515" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="1555" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I07 MALDI｜Matrix-assisted laser desorption/ionization（基質輔助雷射脫</tspan><tspan x="74" dy="33">附游離）</tspan></text>
+<text x="74" y="1635" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜靶板大分子、聚合物、組織影像</tspan></text>
+<text x="74" y="1673" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜基質吸收雷射能量、協助脫附游離</tspan></text>
+<text x="74" y="1711" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜雷射／靶板／基質；常主要單價</tspan></text>
+<text x="74" y="1749" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜點靶異質性；定量需驗證，LC多分餾後點靶</tspan></text>
+<text x="74" y="1851" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L12｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="1515" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="1555" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I08 FAB｜Fast atom bombardment（快速原子轟擊）</tspan></text>
+<text x="999" y="1602" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜液體基質、非揮發性／極性物</tspan></text>
+<text x="999" y="1640" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜快中性Xe／Ar撞擊基質</tspan></text>
+<text x="999" y="1678" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜快原子束／glycerol等；正負離子</tspan></text>
+<text x="999" y="1716" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜基質背景；不限定親脂物</tspan></text>
+<text x="999" y="1851" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L13｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="50" y="1895" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="1935" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I09 DESI｜Desorption electrospray ionization（脫附電噴灑游離）</tspan></text>
+<text x="74" y="1982" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜物質表面／分佈研究</tspan></text>
+<text x="74" y="2020" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜帶電噴灑脫附表面檢品</tspan></text>
+<text x="74" y="2058" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜表面噴灑源；離子及位置資訊</tspan></text>
+<text x="74" y="2096" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜表面條件、溶劑與離子效率影響</tspan></text>
+<text x="74" y="2231" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L13｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="1895" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="1935" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I10 TSP｜Thermospray（熱噴灑）</tspan></text>
+<text x="999" y="1982" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜歷史LC–MS液體介面</tspan></text>
+<text x="999" y="2020" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜加熱霧化／汽化、形成離子</tspan></text>
+<text x="999" y="2058" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜加熱毛細管與源；m/z及強度</tspan></text>
+<text x="999" y="2096" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜舊題適用；不是現代通用最差排名</tspan></text>
+<text x="999" y="2231" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L13｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="50" y="2275" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="2315" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">I11 PB｜Particle-beam interface（粒子束介面）</tspan></text>
+<text x="74" y="2362" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件｜歷史LC–MS介面</tspan></text>
+<text x="74" y="2400" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02作用｜霧化、脫溶劑後送粒子進汽化源</tspan></text>
+<text x="74" y="2438" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03裝置／讀數｜介面＋EI／CI；m/z與強度</tspan></text>
+<text x="74" y="2476" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜不等同游離本身；可有LC–EI歷史例外</tspan></text>
+<text x="74" y="2611" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">主鏈 L13｜各類平行比較，不是串接順序。</tspan></text>
+<rect x="975" y="2275" width="875" height="360" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="999" y="2315" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">I12 ICP｜Inductively coupled plasma（感應耦合電漿）</tspan></text>
+<text x="999" y="2362" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件｜金屬／元素濃度與同位素</tspan></text>
+<text x="999" y="2400" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02作用｜Ar電漿原子化游離</tspan></text>
+<text x="999" y="2438" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03裝置／讀數｜霧化器／電漿／介面錐；元素m/z</tspan></text>
+<text x="999" y="2476" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜多原子／等質量幹擾；不保留完整分子結構</tspan></text>
+<text x="999" y="2611" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">主鏈 L32｜各類平行比較，不是串接順序。</tspan></text>
+<text x="55" y="2710" font-size="29" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">第二層：7種分析器｜源先造離子，再按m/z相關資訊分析</tspan></text>
+<rect x="50" y="2760" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="2800" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">A01｜Magnetic sector（磁扇形）</tspan></text>
+<text x="74" y="2847" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01目的｜氣相離子的m/z</tspan></text>
+<text x="74" y="2883" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02原理｜磁場使帶電離子轉彎</tspan></text>
+<text x="74" y="2919" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜磁鐵／狹縫；軌跡與m/z</tspan></text>
+<text x="74" y="2955" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜能量與角度散佈；不是一律含靜電段</tspan></text>
+<text x="74" y="3049" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L15</tspan></text>
+<rect x="975" y="2760" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="999" y="2800" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">A02｜Double focusing（雙聚焦）</tspan></text>
+<text x="999" y="2847" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01目的｜高解析質量／組成候選</tspan></text>
+<text x="999" y="2883" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02原理｜靜電＋磁場補償能量與角度散佈</tspan></text>
+<text x="999" y="2919" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜靜電扇形＋磁扇形；m/z與峰寬</tspan></text>
+<text x="999" y="2955" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜需校正／聚焦與同一峰寬判準</tspan></text>
+<text x="999" y="3049" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L16</tspan></text>
+<rect x="50" y="3095" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="3135" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">A03｜Quadrupole（四極柱）</tspan></text>
+<text x="74" y="3182" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01目的｜選定離子／快速定量</tspan></text>
+<text x="74" y="3218" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02原理｜DC＋RF穩定軌跡過濾</tspan></text>
+<text x="74" y="3254" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜四電極；下游強度</tspan></text>
+<text x="74" y="3290" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜一般單位質量解析；不能只靠名稱保證準確質量</tspan></text>
+<text x="74" y="3384" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L17</tspan></text>
+<rect x="975" y="3095" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="999" y="3135" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">A04｜RF ion trap（射頻離子阱）</tspan></text>
+<text x="999" y="3182" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01目的｜逐級結構線索、MSⁿ</tspan></text>
+<text x="999" y="3218" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02原理｜儲存、選／激發／碰撞、再選</tspan></text>
+<text x="999" y="3254" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜RF阱／He等；逐級碎片</tspan></text>
+<text x="999" y="3290" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜空間電荷、掃描設定與機型限制</tspan></text>
+<text x="999" y="3384" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L18</tspan></text>
+<rect x="50" y="3430" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="3470" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">A05｜Time of flight（飛行時間）</tspan></text>
+<text x="74" y="3517" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01目的｜較大m/z範圍、高解析配置</tspan></text>
+<text x="74" y="3553" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02原理｜相同加速／路徑，時間與√(m/z)相關</tspan></text>
+<text x="74" y="3589" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜飛行管／可有reflectron；到達時間</tspan></text>
+<text x="74" y="3625" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜計時偏置、能量散佈需處理</tspan></text>
+<text x="74" y="3719" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L19</tspan></text>
+<rect x="975" y="3430" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="999" y="3470" font-size="25" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">A06｜Orbitrap（軌道阱）</tspan></text>
+<text x="999" y="3517" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01目的｜高解析、準確質量</tspan></text>
+<text x="999" y="3553" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02原理｜靜電場內軸向振盪頻率</tspan></text>
+<text x="999" y="3589" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜電極、image current、FT；m/z</tspan></text>
+<text x="999" y="3625" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04限制｜不等於RF阱；碎裂需額外整機配置</tspan></text>
+<text x="999" y="3719" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L19</tspan></text>
+<rect x="50" y="3765" width="875" height="315" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="74" y="3805" font-size="25" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">A07｜Fourier transform ion cyclotron resonance（傅立葉轉換離子迴旋共</tspan><tspan x="74" dy="33">振）</tspan></text>
+<text x="74" y="3885" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01目的｜高解析、準確質量</tspan></text>
+<text x="74" y="3921" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02原理｜磁場內迴旋頻率</tspan></text>
+<text x="74" y="3957" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜強磁場、感應電極、FT；m/z</tspan></text>
+<text x="74" y="3993" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04限制｜需要適當真空、校正與取得時間</tspan></text>
+<text x="74" y="4054" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L19</tspan></text>
+<text x="55" y="4155" font-size="29" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">第三層：7種完整配置｜分離、游離、分析層次與讀出一起選</tspan></text>
+<rect x="50" y="4205" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="74" y="4245" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">K01｜GC–MS</tspan></text>
+<text x="74" y="4291" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件／目的｜可汽化且熱穩定小分子</tspan></text>
+<text x="74" y="4329" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02路徑｜GC → EI／CI → 分析器</tspan></text>
+<text x="74" y="4367" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜保留時間＋m/z／強度</tspan></text>
+<text x="74" y="4405" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04判讀／限制｜圖譜庫／碎片與質量；大分子不直接汽化</tspan></text>
+<text x="74" y="4498" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L33</tspan></text>
+<rect x="975" y="4205" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="999" y="4245" font-size="27" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">K02｜LC–MS</tspan></text>
+<text x="999" y="4291" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件／目的｜溶液中大、小分子</tspan></text>
+<text x="999" y="4329" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02路徑｜LC → ESI／APCI／APPI → 分析器</tspan></text>
+<text x="999" y="4367" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜保留時間＋m/z／強度</tspan></text>
+<text x="999" y="4405" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04判讀／限制｜源選擇、流動相與基質效應</tspan></text>
+<text x="999" y="4498" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L33</tspan></text>
+<rect x="50" y="4545" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="74" y="4585" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">K03｜MALDI–TOF</tspan></text>
+<text x="74" y="4631" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件／目的｜靶板蛋白質／聚合物</tspan></text>
+<text x="74" y="4669" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02路徑｜點靶＋基質＋雷射 → TOF</tspan></text>
+<text x="74" y="4707" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜飛行時間校正成m/z</tspan></text>
+<text x="74" y="4745" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04判讀／限制｜質量／影像用途；不是自動MS/MS</tspan></text>
+<text x="74" y="4838" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L12</tspan></text>
+<rect x="975" y="4545" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="999" y="4585" font-size="27" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">K04｜QqQ</tspan></text>
+<text x="999" y="4631" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件／目的｜已知藥物的定量／母子關係研究</tspan></text>
+<text x="999" y="4669" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02路徑｜Q1選母 → q2碰撞 → Q3選／掃子</tspan></text>
+<text x="999" y="4707" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜轉換強度、面積或子譜</tspan></text>
+<text x="999" y="4745" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04判讀／限制｜典型MS²／MRM，仍需校正與品質</tspan></text>
+<text x="999" y="4838" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L29</tspan></text>
+<rect x="50" y="4885" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="74" y="4925" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">K05｜Q–TOF</tspan></text>
+<text x="74" y="4971" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件／目的｜準確質量與子離子資訊</tspan></text>
+<text x="74" y="5009" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02路徑｜Q選母 → 碰撞區 → TOF</tspan></text>
+<text x="74" y="5047" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜子離子m/z、準確質量／強度</tspan></text>
+<text x="74" y="5085" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04判讀／限制｜高解析與母子資訊；配置決定模式</tspan></text>
+<text x="74" y="5178" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L27</tspan></text>
+<rect x="975" y="4885" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="999" y="4925" font-size="27" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">K06｜離子阱／FT混合MSⁿ</tspan></text>
+<text x="999" y="4971" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M01物件／目的｜反覆選離子、碎裂的結構問題</tspan></text>
+<text x="999" y="5009" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M02路徑｜阱選／碎多輪 → 阱或FT分析器讀出</tspan></text>
+<text x="999" y="5047" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03讀數｜各層母子關係與譜</tspan></text>
+<text x="999" y="5085" font-size="22" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M04判讀／限制｜不是裸Orbitrap本身反覆CID</tspan></text>
+<text x="999" y="5178" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">回查 L18</tspan></text>
+<rect x="50" y="5225" width="875" height="320" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="74" y="5265" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">K07｜ICP–MS</tspan></text>
+<text x="74" y="5311" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M01物件／目的｜元素／金屬濃度</tspan></text>
+<text x="74" y="5349" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M02路徑｜前處理 → ICP → 介面／可有池 → 分析器</tspan></text>
+<text x="74" y="5387" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03讀數｜元素m/z、同位素與強度</tspan></text>
+<text x="74" y="5425" font-size="22" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M04判讀／限制｜元素校正、等質量／多原子幹擾</tspan></text>
+<text x="74" y="5518" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">回查 L32</tspan></text>
+<rect x="50" y="5610" width="1800" height="160" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="74" y="5652" font-size="27" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">同一ESI，不同題目選不同分析器</tspan></text>
+<text x="74" y="5703.15" font-size="24" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">抗體完整質量比較 → ESI＋高解析TOF；已知血中藥物定量 → LC–ESI–QqQ；逐級MS³ → 有選／碎功能的阱配置。</tspan></text>
+<text x="55" y="6066" font-size="21" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">MALDI–TOF是源＋分析器，名稱本身不等於MS/MS；PB是介面，非游離定義。分類依據原講義與題本並校正。</tspan></text>
+</g>
+</svg>

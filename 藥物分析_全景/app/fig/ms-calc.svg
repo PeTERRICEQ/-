@@ -1,0 +1,182 @@
+<svg width="1900" height="4420" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4420" role="img" aria-labelledby="ms3_g5_title ms3_g5_desc">
+<title id="ms3_g5_title">公式與誤差判讀｜先問哪個量，再選母式與條件</title>
+<desc id="ms3_g5_desc">質譜法v3.0，原生可編輯向量圖。M01先定問題、M02準備與測量、M03讀訊號、M04核對結論。深灰實線為資訊或具條件的因果；紅色虛線為分析者遇到不符時的回查，非分子物理回饋。</desc>
+<defs><marker id="ms3_g5_arrow" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#61717a"/></marker><marker id="ms3_g5_red" viewBox="0 0 12 12" refX="10" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M1,1 L11,6 L1,11 Z" fill="#b72d4a"/></marker></defs>
+<rect width="1900" height="4420" fill="#f8f6ee"/>
+<g font-family="Droid Sans Fallback, Noto Sans CJK TC, PingFang TC, Microsoft JhengHei, sans-serif" fill="#24343f">
+<text x="55" y="78" font-size="38" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">公式與誤差判讀｜先問哪個量，再選母式與條件</tspan></text>
+<text x="55" y="126" font-size="24" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">質譜法 v3.0｜先看用途與條件，再沿入口 → 短鏈 → 出口判讀。</tspan></text>
+<text x="55" y="161" font-size="20" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">m/z：離子質量的Da數值 ÷ |z|；Da：質量單位；z：電荷整數。</tspan></text>
+<rect x="55" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="75" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">M01｜先定問題</tspan></text>
+<path d="M475,219 L502,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g5_arrow)"/>
+<rect x="510" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="530" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="530" dy="0">M02｜準備與測量</tspan></text>
+<path d="M930,219 L957,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g5_arrow)"/>
+<rect x="965" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="985" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="985" dy="0">M03｜讀訊號</tspan></text>
+<path d="M1385,219 L1412,219" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#ms3_g5_arrow)"/>
+<rect x="1420" y="180" width="420" height="77" rx="18" fill="#eeeade" stroke="#61717a" stroke-width="2"/>
+<text x="1440" y="226" font-size="27" fill="#24343f" font-weight="bold"><tspan x="1440" dy="0">M04｜核對結論</tspan></text>
+<rect x="50" y="320" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="361" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C01｜單價離子回推中性質量</tspan></text>
+<text x="74" y="404" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L03選式 → M04驗算</tspan></text>
+<text x="74" y="450" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M=x−a</tspan></text>
+<text x="74" y="498" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">單價辨加合；[M+Na]⁺203−23=180 Da。</tspan></text>
+<text x="74" y="564" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">x為m/z數值；M、a用Da數值。z=1，a帶加／減號。</tspan></text>
+<text x="74" y="618" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C01／導航EX01。</tspan></text>
+<rect x="975" y="320" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="361" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C02｜多價離子：已知電荷與相鄰峰</tspan></text>
+<text x="999" y="404" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L06選式 → M04驗算</tspan></text>
+<text x="999" y="450" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">x=M/z+p；z=(y−p)/(x−y)；M=z(x−p)</tspan></text>
+<text x="999" y="498" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">x大、y小且相鄰；1101／1001 → z=10、M=11000。</tspan></text>
+<text x="999" y="564" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M、p用Da數值；z為整數。同一M、質子加合且相鄰。</tspan></text>
+<text x="999" y="618" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C02／導航EX02。</tspan></text>
+<rect x="50" y="655" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="696" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C03｜同位素細峰間距辨電荷</tspan></text>
+<text x="74" y="739" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L07選式 → M04驗算</tspan></text>
+<text x="74" y="785" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">Δx ≈ 1.00335/|z|</tspan></text>
+<text x="74" y="833" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">¹³C細峰：0.50 → 約2+；不可用電荷態大間距套此式。</tspan></text>
+<text x="74" y="899" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">Δx為m/z間距；同一電荷的¹³C系列。Cl／Br約2/|z|。</tspan></text>
+<text x="74" y="953" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C03／導航EX03。</tspan></text>
+<rect x="975" y="655" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="696" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C04｜名目質量與平均質量</tspan></text>
+<text x="999" y="739" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L04選式 → M04驗算</tspan></text>
+<text x="999" y="785" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">名目M=ΣA；平均M=Σ平均原子質量</tspan></text>
+<text x="999" y="833" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">CH₃⁷⁹Br名目94、⁸¹Br96；平均94.939不等於單峰。</tspan></text>
+<text x="999" y="899" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M用Da；A為質量數。先指定同位素／自然豐度。</tspan></text>
+<text x="999" y="953" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C04／導航EX04。</tspan></text>
+<rect x="50" y="990" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="1031" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C05｜同位素強度與組合比例</tspan></text>
+<text x="74" y="1074" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L22選式 → M04驗算</tspan></text>
+<text x="74" y="1120" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">I(M+1)/I(M)=np/(1−p) ≈ n×1.1%</tspan></text>
+<text x="74" y="1168" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">碳主要貢獻才估n；2Cl 9:6:1；2Br 1:2:1。</tspan></text>
+<text x="74" y="1234" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">I為峰強度，n為碳數；p為¹³C分率，碳主要貢獻才估n。</tspan></text>
+<text x="74" y="1288" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C05／導航EX05。</tspan></text>
+<rect x="975" y="990" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="1031" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C06｜中性脫失要乘電荷</tspan></text>
+<text x="999" y="1074" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L24選式 → M04驗算</tspan></text>
+<text x="999" y="1120" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">中性脫失 ΔM=|z|×Δ(m/z)</tspan></text>
+<text x="999" y="1168" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">母子同電荷；600→591、2+ → 18 Da，H₂O候選。</tspan></text>
+<text x="999" y="1234" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">ΔM用Da；同電荷母子。相差18仍需結構支援H₂O。</tspan></text>
+<text x="999" y="1288" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C06／導航EX06。</tspan></text>
+<rect x="50" y="1325" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="1366" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C07｜磁扇形用比例，少做大數</tspan></text>
+<text x="74" y="1409" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L15選式 → M04驗算</tspan></text>
+<text x="74" y="1455" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">mphys/(|z|e)=B²r²/(2V)；x=eB²r²/(2uV)</tspan></text>
+<text x="74" y="1503" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">B用T；慣用x與kg/C分清。固定B、V：r加倍→x四倍。</tspan></text>
+<text x="74" y="1569" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">B:T，r:m，V:V；mphys:kg，e:C，u:kg；x為慣用m/z。</tspan></text>
+<text x="74" y="1623" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C07／導航EX07。</tspan></text>
+<rect x="975" y="1325" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="1366" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C08｜TOF比較平方根，先扣計時偏置</tspan></text>
+<text x="999" y="1409" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L19選式 → M04驗算</tspan></text>
+<text x="999" y="1455" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">t=L√[mphys/(2|z|eV)]；x比=(扣偏置t比)²</tspan></text>
+<text x="999" y="1503" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">同L、V；100→400質荷比4倍，飛行時間2倍。</tspan></text>
+<text x="999" y="1569" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">L:m，V:V，t:s；mphys:kg，e:C。固定L、V並先扣t₀。</tspan></text>
+<text x="999" y="1623" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C08／導航EX08。</tspan></text>
+<rect x="50" y="1660" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="1701" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C09｜解析能力：先辨Δ是峰寬還是分離差</tspan></text>
+<text x="74" y="1744" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L20選式 → M04驗算</tspan></text>
+<text x="74" y="1790" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">R=x/Δx</tspan></text>
+<text x="74" y="1838" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">同峰寬判準；500／0.01=50000；不等於準確度。</tspan></text>
+<text x="74" y="1904" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">x、Δx均為m/z讀數；R無單位。先指定峰寬／分離判準。</tspan></text>
+<text x="74" y="1958" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C09／導航EX09。</tspan></text>
+<rect x="975" y="1660" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="1701" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C10｜ppm：先取差，再除參考值</tspan></text>
+<text x="999" y="1744" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L20選式 → M04驗算</tspan></text>
+<text x="999" y="1790" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">誤差ppm=(xobs−xref)/xref×10⁶</tspan></text>
+<text x="999" y="1838" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">500.001對500.000 → +2 ppm；先辨同離子式與電荷。</tspan></text>
+<text x="999" y="1904" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">xobs、xref為同離子式與電荷的m/z值；ppm是相對偏差。</tspan></text>
+<text x="999" y="1958" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C10／導航EX10。</tspan></text>
+<rect x="50" y="1995" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="74" y="2036" font-size="26" fill="#24343f" font-weight="bold"><tspan x="74" dy="0">C11｜內標校正：截距、比值與稀釋各走一步</tspan></text>
+<text x="74" y="2079" font-size="21" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">M03已知 → L30選式 → M04驗算</tspan></text>
+<text x="74" y="2125" font-size="26" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">r=k(CA/CIS)+b；CA=[(r−b)/k]CIS</tspan></text>
+<text x="74" y="2173" font-size="23" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">先減截距、再除斜率、乘內標；原濃度另乘稀釋D。</tspan></text>
+<text x="74" y="2239" font-size="20" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">r、k、b無單位；CA與CIS濃度單位相同；D為稀釋倍數。</tspan></text>
+<text x="74" y="2293" font-size="18" fill="#24343f" font-weight="normal"><tspan x="74" dy="0">逐步移項、驗算與練習 → 講義C11／導航EX11。</tspan></text>
+<rect x="975" y="1995" width="875" height="315" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="999" y="2036" font-size="26" fill="#24343f" font-weight="bold"><tspan x="999" dy="0">C12｜濃度乘體積才是質量</tspan></text>
+<text x="999" y="2079" font-size="21" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">M03已知 → L30選式 → M04驗算</tspan></text>
+<text x="999" y="2125" font-size="26" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">質量m=濃度C×體積V</tspan></text>
+<text x="999" y="2173" font-size="23" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">0.5 ng/mL×0.01 mL=0.005 ng=5 pg；先換體積單位。</tspan></text>
+<text x="999" y="2239" font-size="20" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">C:ng/mL，V:mL，m:ng；1 ng=1000 pg。柱上量另看回收。</tspan></text>
+<text x="999" y="2293" font-size="18" fill="#24343f" font-weight="normal"><tspan x="999" dy="0">逐步移項、驗算與練習 → 講義C12／導航EX12。</tspan></text>
+<text x="55" y="2420" font-size="29" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">三種峰群分開看｜均為自編示意，位置依標示模型計算</tspan></text>
+<rect x="50" y="2475" width="570" height="500" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="73" y="2517" font-size="25" fill="#24343f" font-weight="bold"><tspan x="73" dy="0">單價加合：同一M=180</tspan></text>
+<text x="73" y="2588" font-size="22" fill="#24343f" font-weight="normal"><tspan x="73" dy="0">181為[M+H]⁺；203為[M+Na]⁺。</tspan></text>
+<path d="M112,2698 L112,2848 L570,2848" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="77" y="2668" font-size="19" fill="#24343f" font-weight="normal"><tspan x="77" dy="0">相對強度</tspan></text>
+<text x="492" y="2889" font-size="21" fill="#24343f" font-weight="normal"><tspan x="492" dy="0">m/z</tspan></text>
+<path d="M227,2848 L227,2728" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="203" y="2880" font-size="21" fill="#24343f" font-weight="normal"><tspan x="203" dy="0">181</tspan></text>
+<path d="M447,2848 L447,2773" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="423" y="2880" font-size="21" fill="#24343f" font-weight="normal"><tspan x="423" dy="0">203</tspan></text>
+<text x="73" y="2937" font-size="20" fill="#24343f" font-weight="normal"><tspan x="73" dy="0">高度僅示意，不據此推濃度。</tspan></text>
+<rect x="665" y="2475" width="570" height="500" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="688" y="2517" font-size="25" fill="#24343f" font-weight="bold"><tspan x="688" dy="0">ESI電荷態：M=11000、p=1</tspan></text>
+<text x="688" y="2588" font-size="22" fill="#24343f" font-weight="normal"><tspan x="688" dy="0">較大電荷 → 較小m/z；峰群不等間距。</tspan></text>
+<path d="M727,2698 L727,2848 L1185,2848" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="692" y="2668" font-size="19" fill="#24343f" font-weight="normal"><tspan x="692" dy="0">相對強度</tspan></text>
+<text x="1107" y="2889" font-size="21" fill="#24343f" font-weight="normal"><tspan x="1107" dy="0">m/z</tspan></text>
+<path d="M1114.1349,2848 L1114.1349,2783" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1100.1349" y="2763" font-size="18" fill="#24343f" font-weight="normal"><tspan x="1100.1349" dy="0">9+</tspan></text>
+<path d="M1000.6428571428571,2848 L1000.6428571428571,2748" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="986.6428571428571" y="2728" font-size="18" fill="#24343f" font-weight="normal"><tspan x="986.6428571428571" dy="0">10+</tspan></text>
+<path d="M907.7857142857142,2848 L907.7857142857142,2708" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="893.7857142857142" y="2688" font-size="18" fill="#24343f" font-weight="normal"><tspan x="893.7857142857142" dy="0">11+</tspan></text>
+<path d="M830.4047928571429,2848 L830.4047928571429,2753" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="816.4047928571429" y="2733" font-size="18" fill="#24343f" font-weight="normal"><tspan x="816.4047928571429" dy="0">12+</tspan></text>
+<path d="M764.9285285714286,2848 L764.9285285714286,2788" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="750.9285285714286" y="2768" font-size="18" fill="#24343f" font-weight="normal"><tspan x="750.9285285714286" dy="0">13+</tspan></text>
+<text x="688" y="2937" font-size="20" fill="#24343f" font-weight="normal"><tspan x="688" dy="0">每一峰是同一分子，不是五個碎片。</tspan></text>
+<rect x="1280" y="2475" width="570" height="500" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1303" y="2517" font-size="25" fill="#24343f" font-weight="bold"><tspan x="1303" dy="0">同電荷細峰：2+、¹³C</tspan></text>
+<text x="1303" y="2588" font-size="22" fill="#24343f" font-weight="normal"><tspan x="1303" dy="0">細峰約差0.50；不是相鄰電荷態。</tspan></text>
+<path d="M1342,2698 L1342,2848 L1800,2848" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1307" y="2668" font-size="19" fill="#24343f" font-weight="normal"><tspan x="1307" dy="0">相對強度</tspan></text>
+<text x="1722" y="2889" font-size="21" fill="#24343f" font-weight="normal"><tspan x="1722" dy="0">m/z</tspan></text>
+<path d="M1422,2848 L1422,2708" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1395" y="2880" font-size="18" fill="#24343f" font-weight="normal"><tspan x="1395" dy="0">500.0</tspan></text>
+<path d="M1527,2848 L1527,2778" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1500" y="2880" font-size="18" fill="#24343f" font-weight="normal"><tspan x="1500" dy="0">500.5</tspan></text>
+<path d="M1632,2848 L1632,2818" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1605" y="2880" font-size="18" fill="#24343f" font-weight="normal"><tspan x="1605" dy="0">501.0</tspan></text>
+<text x="1303" y="2937" font-size="20" fill="#24343f" font-weight="normal"><tspan x="1303" dy="0">此數字示意用1 Da同位素增量近似。</tspan></text>
+<text x="55" y="3060" font-size="29" fill="#24343f" font-weight="bold"><tspan x="55" dy="0">常見錯誤 → 具體回查站</tspan></text>
+<rect x="50" y="3110" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3153" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">181直接當M</tspan></text>
+<path d="M600,3165 L675,3165" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3157" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M03辨[M+H]⁺ → L03；M04減1與第二峰迴驗。</tspan></text>
+<rect x="50" y="3240" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3283" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">把ESI所有峰差當固定1/z</tspan></text>
+<path d="M600,3295 L675,3295" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3287" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M03先辨包絡與細峰 → L06／L07。</tspan></text>
+<rect x="50" y="3370" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3413" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">只用28就證明CO</tspan></text>
+<path d="M600,3425 L675,3425" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3417" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M04列四候選 → L24；需要結構／準確質量。</tspan></text>
+<rect x="50" y="3500" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3543" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">峰窄就說質量一定準</tspan></text>
+<path d="M600,3555 L675,3555" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3547" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M03分R與ppm → L20；M02檢查校正。</tspan></text>
+<rect x="50" y="3630" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3673" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">同位素比就唯一確定分子式</tspan></text>
+<path d="M600,3685 L675,3685" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3677" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M04加同位素組成與結構證據 → L21／L22。</tspan></text>
+<rect x="50" y="3760" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3803" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">濃度直接當pg檢出限</tspan></text>
+<path d="M600,3815 L675,3815" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3807" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M03補體積與回收 → C12；不要換名不換量。</tspan></text>
+<rect x="50" y="3890" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="3933" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">比值校正忘截距／稀釋</tspan></text>
+<path d="M600,3945 L675,3945" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="3937" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M04先逐步反算 → C11；基準不同不重乘。</tspan></text>
+<rect x="50" y="4020" width="1800" height="110" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="4063" font-size="25" fill="#24343f" font-weight="bold"><tspan x="75" dy="0">來源峰彼此不一致</tspan></text>
+<path d="M600,4075 L675,4075" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 8" marker-end="url(#ms3_g5_red)"/>
+<text x="700" y="4067" font-size="23" fill="#24343f" font-weight="normal"><tspan x="700" dy="0">M03查原峰與電荷 → Q12／Q57；保留異常不偷偷改圖。</tspan></text>
+<text x="55" y="4346" font-size="21" fill="#24343f" font-weight="normal"><tspan x="55" dy="0">公式適用條件是解題的一部分；α斷裂、McLafferty、同位素與氮規則不能只憑單峰硬猜。</tspan></text>
+</g>
+</svg>

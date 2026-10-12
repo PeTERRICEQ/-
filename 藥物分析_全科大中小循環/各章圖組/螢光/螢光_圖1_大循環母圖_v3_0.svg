@@ -1,0 +1,91 @@
+<svg width="1900" height="1810" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 1810" role="img" aria-labelledby="fluor3m-title fluor3m-desc">
+<title id="fluor3m-title">螢光光譜大循環母圖｜先選路徑，再讀波長與亮度</title><desc id="fluor3m-desc">同一條分析主線：先定問題 → 準備與測量 → 讀訊號 → 核對結論。紅線只在條件不符時回查。</desc>
+<defs><marker id="fluor3m-arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#61717a"/></marker><marker id="fluor3m-red" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto"><path d="M 0 0 L 10 5 L 0 10 z" fill="#b72d4a"/></marker></defs>
+<rect x="0" y="0" width="1900" height="1810" fill="#f8f6ee"/>
+<text x="40" y="64.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="38" font-weight="bold" fill="#24343f">螢光光譜大循環母圖｜先選路徑，再讀波長與亮度</text>
+<text x="40" y="112.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">同一條分析主線：先定問題 → 準備與測量 → 讀訊號 → 核對結論。紅線只在條件不符時回查。</text>
+<rect x="40" y="156" width="265" height="1265" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="64" y="199.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">先確認條件</text>
+<text x="64" y="244.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">分析物能直接亮嗎？</text>
+<text x="64" y="286.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">反應與標準匹配</text>
+<text x="64" y="329.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">pH／溶媒／溫度</text>
+<text x="64" y="372.6" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">相同波長與設定</text>
+<text x="64" y="415.4" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">空白與共存物</text>
+<text x="64" y="458.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">稀釋／工作範圍</text>
+<text x="64" y="501.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">先圈題目正確／錯誤</text>
+<text x="64" y="543.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L02 結構兩關</text>
+<text x="64" y="586.5" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L07–L10 影響因子</text>
+<text x="64" y="629.3" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L12 散射辨認</text>
+<rect x="335" y="156" width="1525" height="145" rx="12" fill="#e8ece9" stroke="#61717a" stroke-width="2.5"/>
+<text x="359" y="199.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#61717a">M01｜先定問題：這次要知道誰的量？</text>
+<text x="359" y="244.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L01 微量與選擇性；L03 分清分析物、試劑、標準、空白，再選下面三條路。</text>
+<path d="M 1097 301 L 1097 328 L 577 328 L 577 356" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="335" y="356" width="485" height="225" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2.5"/>
+<text x="359" y="399.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#9e771c">原物 F｜原本就會亮</text>
+<text x="359" y="444.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">例：Riboflavin、Quinine</text>
+<text x="359" y="486.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">直接讀原物的螢光</text>
+<text x="359" y="529.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">有背景時仍須扣空白</text>
+<path d="M 1097 301 L 1097 328 L 1097 328 L 1097 356" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="855" y="356" width="485" height="225" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2.5"/>
+<text x="879" y="399.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#326991">產物 F｜先做出可測訊號</text>
+<text x="879" y="444.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L15：B₁ → Thiochrome</text>
+<text x="879" y="486.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L17：Digoxin 脫水、氧化</text>
+<text x="879" y="529.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L18：Al／Zn 形成錯合物</text>
+<path d="M 1097 301 L 1097 328 L 1617 328 L 1617 356" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="1375" y="356" width="485" height="225" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2.5"/>
+<text x="1399" y="399.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#685185">ΔF｜先量，再消去目標光</text>
+<text x="1399" y="444.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L16：B₂ 還原前後</text>
+<text x="1399" y="486.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">目標差＝前光 − 後光</text>
+<text x="1399" y="529.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">另扣試劑空白的前後差</text>
+<rect x="335" y="620" width="1525" height="170" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="359" y="663.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">M02｜準備與測量：可發光物種與條件先對齊</text>
+<text x="359" y="708.1" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">三路匯合：標準與檢品同程序、同溶液條件 → 選 λex → 照樣品 → 側向收集發出的光。</text>
+<text x="359" y="750.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">L04–L06 補發光／效率理由；L11 兩個選波長模組。修正條件後重新量測。</text>
+<path d="M 577 581 L 577 620" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<path d="M 1097 581 L 1097 620" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<path d="M 1617 581 L 1617 620" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="335" y="832" width="1525" height="290" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="359" y="875.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">M03｜讀訊號：這四種量不要混在一起</text>
+<rect x="365" y="910" width="346" height="183" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="389" y="953.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">波長｜L04／L13</text>
+<text x="383" y="991.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">λex：照進去；nm</text>
+<text x="383" y="1022.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">λem：放出來；nm</text>
+<text x="383" y="1054.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">通常 em 比 ex 長</text>
+<rect x="735" y="910" width="346" height="183" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="759" y="953.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">F｜L11／L14</text>
+<text x="753" y="991.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">儀器收到的相對光</text>
+<text x="753" y="1022.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">本例用 a.u.</text>
+<text x="753" y="1054.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">先扣背景、查範圍</text>
+<rect x="1105" y="910" width="346" height="183" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="1129" y="953.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">ΔF｜L16</text>
+<text x="1123" y="991.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">前後讀數的差</text>
+<text x="1123" y="1022.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">扣掉空白差</text>
+<text x="1123" y="1054.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">利用目標光的消失</text>
+<rect x="1475" y="910" width="346" height="183" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2.5"/>
+<text x="1499" y="953.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#286c68">Φ｜L05</text>
+<text x="1493" y="991.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">螢光光子／吸收光子</text>
+<text x="1493" y="1022.9" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">無量綱；效率</text>
+<text x="1493" y="1054.8" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="22" font-weight="normal" fill="#24343f">不是濃度或儀器 F</text>
+<path d="M 1097 790 L 1097 832" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="335" y="1162" width="1525" height="190" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="359" y="1205.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">M04｜核對結論：讀數能支持這個答案嗎？</text>
+<text x="359" y="1250.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">定量：淨 F／ΔF → 同條件標準或校正曲線 → 檢品量 → 回推稀釋。L20 核對可比性。</text>
+<text x="359" y="1293.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">比較：L19 譜形／強度提供環境證據；不是只見變亮就證明濃度增加或特定機制。</text>
+<path d="M 1097 1122 L 1097 1162" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<rect x="335" y="1403" width="755" height="142" rx="12" fill="#dcecdc" stroke="#356844" stroke-width="2.5"/>
+<text x="359" y="1446.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#356844">條件可靠 → 交出結論</text>
+<text x="359" y="1491.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">報含量／指定差值／有條件的比較結果。</text>
+<rect x="1120" y="1403" width="740" height="168" rx="12" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2.5"/>
+<text x="1144" y="1446.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="27" font-weight="bold" fill="#b72d4a">不符 → 找原因，再回正確站</text>
+<text x="1144" y="1491.2" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">路徑不合回 M01；條件不合回 M02。</text>
+<text x="1144" y="1534.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#24343f">波長／背景讀錯回 M03；判準重查 M04。</text>
+<path d="M 855 1352 L 855 1378 L 712 1378 L 712 1403" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<path d="M 1335 1352 L 1335 1378 L 1490 1378 L 1490 1403" fill="none" stroke="#61717a" stroke-width="3" marker-end="url(#fluor3m-arrow)"/>
+<path d="M 1490 1571 L 1490 1610 L 319 1610 L 319 225 L 335 225" fill="none" stroke="#b72d4a" stroke-width="3" marker-end="url(#fluor3m-red)" stroke-dasharray="10 7"/>
+<path d="M 319 705 L 335 705" fill="none" stroke="#b72d4a" stroke-width="3" marker-end="url(#fluor3m-red)" stroke-dasharray="10 7"/>
+<path d="M 319 984 L 335 984" fill="none" stroke="#b72d4a" stroke-width="3" marker-end="url(#fluor3m-red)" stroke-dasharray="10 7"/>
+<path d="M 1840 1403 L 1840 1377 L 1820 1377 L 1820 1352" fill="none" stroke="#b72d4a" stroke-width="3" marker-end="url(#fluor3m-red)" stroke-dasharray="10 7"/>
+<text x="335" y="1672.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="24" font-weight="normal" fill="#b72d4a">大循環的閉合：查明不符 → 修正具體站點 → 重測／重讀 → 再核對；不是分子自行產生回饋。</text>
+<text x="335" y="1728.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="23" font-weight="normal" fill="#61717a">第一次就走：兩個波長 → 扣空白的 F → 比標準求含量。小循環只補這條主線上當下需要的理由。</text>
+<text x="40" y="1772.0" font-family="Droid Sans Fallback, DejaVu Sans, sans-serif" font-size="19" font-weight="normal" fill="#61717a">藥物分析 螢光光譜｜v3.0｜先讀波長與亮度 → 理解原因 → 作答與回查</text>
+</svg>

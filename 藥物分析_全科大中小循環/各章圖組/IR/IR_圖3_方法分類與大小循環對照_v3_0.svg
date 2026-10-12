@@ -1,0 +1,200 @@
+<svg width="1900" height="3400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3400" role="img" aria-labelledby="ir3_g3_title ir3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ir3_g3_title">紅外光譜｜全章方法分類與大小循環對照</title><desc id="ir3_g3_desc">紅外光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路，紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3400" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH28 / IR / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">紅外光譜｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">八個 P 條目有不同分類身分；每項都用四站比較目的、條件、讀數與判定。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="1800" height="225" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="411" font-size="27" font-weight="600" fill="#61717a">先分層，避免把全部名稱放成同一層方法</text>
+<text x="72" y="458" font-size="24" font-weight="400" fill="#24343f">波段：MIR（中紅外）／NIR（近紅外）。取得光譜：色散式／FT-IR（傅立葉轉換紅外）。</text>
+<text x="72" y="492.08" font-size="24" font-weight="400" fill="#24343f">取樣：穿透／ATR（衰減全反射）／DRIFT（漫反射紅外）；穿透再分 P01–P05 製樣。</text>
+<text x="72" y="526.16" font-size="24" font-weight="400" fill="#24343f">可組合例：MIR＋FT-IR＋ATR。NIRA（近紅外分析）另含模型與校正路徑。</text>
+<rect x="50" y="635" width="870" height="610" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="675" font-size="27" font-weight="600" fill="#685185">P01｜KBr pellet｜溴化鉀錠</text>
+<text x="72" y="713" font-size="22" font-weight="400" fill="#61717a">穿透製樣；入口：L09、L10</text>
+<rect x="70" y="736" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="773" font-size="25" font-weight="600" fill="#685185">M01 目的</text>
+<text x="240" y="772" font-size="24" font-weight="400" fill="#24343f">固體；身分／晶形</text>
+<polyline points="871,840 871,856" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,856.0 864.8,844.6 877.2,844.6" fill="#61717a"/>
+<rect x="70" y="858" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="895" font-size="25" font-weight="600" fill="#685185">M02 條件</text>
+<text x="240" y="894" font-size="24" font-weight="400" fill="#24343f">乾燥 KBr 稀釋、細磨、抽氣壓錠</text>
+<polyline points="871,962 871,978" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,978.0 864.8,966.6 877.2,966.6" fill="#61717a"/>
+<rect x="70" y="980" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1017" font-size="25" font-weight="600" fill="#685185">M03 讀數</text>
+<text x="240" y="1016" font-size="24" font-weight="400" fill="#24343f">T 或 A（皆無因次）</text>
+<polyline points="871,1084 871,1100" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,1100.0 864.8,1088.6 877.2,1088.6" fill="#61717a"/>
+<rect x="70" y="1102" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1139" font-size="25" font-weight="600" fill="#685185">M04 核對</text>
+<text x="240" y="1138" font-size="24" font-weight="400" fill="#24343f">同法標準比對；查水分、壓力、鹽交換</text>
+<rect x="980" y="635" width="870" height="610" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1002" y="675" font-size="27" font-weight="600" fill="#685185">P02｜Mull｜糊漿法</text>
+<text x="1002" y="713" font-size="22" font-weight="400" fill="#61717a">穿透製樣；入口：L09、L10</text>
+<rect x="1000" y="736" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="773" font-size="25" font-weight="600" fill="#685185">M01 目的</text>
+<text x="1170" y="772" font-size="24" font-weight="400" fill="#24343f">固體；可比較原固態</text>
+<polyline points="1801,840 1801,856" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,856.0 1794.8,844.6 1807.2,844.6" fill="#61717a"/>
+<rect x="1000" y="858" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="895" font-size="25" font-weight="600" fill="#685185">M02 條件</text>
+<text x="1170" y="894" font-size="24" font-weight="400" fill="#24343f">以少量 Nujol 分散，控制厚度</text>
+<polyline points="1801,962 1801,978" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,978.0 1794.8,966.6 1807.2,966.6" fill="#61717a"/>
+<rect x="1000" y="980" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1017" font-size="25" font-weight="600" fill="#685185">M03 讀數</text>
+<text x="1170" y="1016" font-size="24" font-weight="400" fill="#24343f">T 或 A；峰位 cm⁻¹</text>
+<polyline points="1801,1084 1801,1100" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,1100.0 1794.8,1088.6 1807.2,1088.6" fill="#61717a"/>
+<rect x="1000" y="1102" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1139" font-size="25" font-weight="600" fill="#685185">M04 核對</text>
+<text x="1170" y="1138" font-size="24" font-weight="400" fill="#24343f">查 Nujol 遮蔽、研磨與飽和</text>
+<rect x="50" y="1285" width="870" height="610" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1325" font-size="27" font-weight="600" fill="#685185">P03｜Solution｜溶液法</text>
+<text x="72" y="1363" font-size="22" font-weight="400" fill="#61717a">穿透製樣；入口：L09、L14</text>
+<rect x="70" y="1386" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1423" font-size="25" font-weight="600" fill="#685185">M01 目的</text>
+<text x="240" y="1422" font-size="24" font-weight="400" fill="#24343f">可溶物；定性／定量</text>
+<polyline points="871,1490 871,1506" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,1506.0 864.8,1494.6 877.2,1494.6" fill="#61717a"/>
+<rect x="70" y="1508" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1545" font-size="25" font-weight="600" fill="#685185">M02 條件</text>
+<text x="240" y="1544" font-size="24" font-weight="400" fill="#24343f">相容窗片、可用溶劑、短光徑</text>
+<polyline points="871,1612 871,1628" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,1628.0 864.8,1616.6 877.2,1616.6" fill="#61717a"/>
+<rect x="70" y="1630" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1667" font-size="25" font-weight="600" fill="#685185">M03 讀數</text>
+<text x="240" y="1666" font-size="24" font-weight="400" fill="#24343f">相對溶劑背景的 T 或 A</text>
+<polyline points="871,1734 871,1750" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,1750.0 864.8,1738.6 877.2,1738.6" fill="#61717a"/>
+<rect x="70" y="1752" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="1789" font-size="25" font-weight="600" fill="#685185">M04 核對</text>
+<text x="240" y="1788" font-size="24" font-weight="400" fill="#24343f">定量需校正；不回推原晶格</text>
+<rect x="980" y="1285" width="870" height="610" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1002" y="1325" font-size="27" font-weight="600" fill="#685185">P04｜Film｜液膜／薄膜</text>
+<text x="1002" y="1363" font-size="22" font-weight="400" fill="#61717a">穿透製樣；入口：L09、L10</text>
+<rect x="1000" y="1386" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1423" font-size="25" font-weight="600" fill="#685185">M01 目的</text>
+<text x="1170" y="1422" font-size="24" font-weight="400" fill="#24343f">液體、油狀物、可成膜材料</text>
+<polyline points="1801,1490 1801,1506" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,1506.0 1794.8,1494.6 1807.2,1494.6" fill="#61717a"/>
+<rect x="1000" y="1508" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1545" font-size="25" font-weight="600" fill="#685185">M02 條件</text>
+<text x="1170" y="1544" font-size="24" font-weight="400" fill="#24343f">薄層置於窗片間或製成透光膜</text>
+<polyline points="1801,1612 1801,1628" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,1628.0 1794.8,1616.6 1807.2,1616.6" fill="#61717a"/>
+<rect x="1000" y="1630" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1667" font-size="25" font-weight="600" fill="#685185">M03 讀數</text>
+<text x="1170" y="1666" font-size="24" font-weight="400" fill="#24343f">T 或 A；峰位 cm⁻¹</text>
+<polyline points="1801,1734 1801,1750" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,1750.0 1794.8,1738.6 1807.2,1738.6" fill="#61717a"/>
+<rect x="1000" y="1752" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="1016" y="1789" font-size="25" font-weight="600" fill="#685185">M04 核對</text>
+<text x="1170" y="1788" font-size="24" font-weight="400" fill="#24343f">厚度過大會飽和；加工可能改固態</text>
+<rect x="50" y="1935" width="870" height="610" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1975" font-size="27" font-weight="600" fill="#685185">P05｜Gas cell｜氣體槽</text>
+<text x="72" y="2013" font-size="22" font-weight="400" fill="#61717a">穿透製樣；入口：L01、L09</text>
+<rect x="70" y="2036" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="2073" font-size="25" font-weight="600" fill="#685185">M01 目的</text>
+<text x="240" y="2072" font-size="24" font-weight="400" fill="#24343f">有 IR 活性的氣體</text>
+<polyline points="871,2140 871,2156" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,2156.0 864.8,2144.6 877.2,2144.6" fill="#61717a"/>
+<rect x="70" y="2158" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="2195" font-size="25" font-weight="600" fill="#685185">M02 條件</text>
+<text x="240" y="2194" font-size="24" font-weight="400" fill="#24343f">相容窗片；選足夠氣體光徑</text>
+<polyline points="871,2262 871,2278" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,2278.0 864.8,2266.6 877.2,2266.6" fill="#61717a"/>
+<rect x="70" y="2280" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="2317" font-size="25" font-weight="600" fill="#685185">M03 讀數</text>
+<text x="240" y="2316" font-size="24" font-weight="400" fill="#24343f">T 或 A；可見轉動－振動結構</text>
+<polyline points="871,2384 871,2400" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,2400.0 864.8,2388.6 877.2,2388.6" fill="#61717a"/>
+<rect x="70" y="2402" width="830" height="104" rx="12" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="86" y="2439" font-size="25" font-weight="600" fill="#685185">M04 核對</text>
+<text x="240" y="2438" font-size="24" font-weight="400" fill="#24343f">5–10 cm 是題例，非所有槽長度</text>
+<rect x="980" y="1935" width="870" height="610" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1002" y="1975" font-size="27" font-weight="600" fill="#326991">P06｜ATR｜衰減全反射</text>
+<text x="1002" y="2013" font-size="22" font-weight="400" fill="#61717a">反射取樣配置；入口：L11、L14</text>
+<rect x="1000" y="2036" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1016" y="2073" font-size="25" font-weight="600" fill="#326991">M01 目的</text>
+<text x="1170" y="2072" font-size="24" font-weight="400" fill="#24343f">表面、液體、霜劑、高濃度樣品</text>
+<polyline points="1801,2140 1801,2156" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,2156.0 1794.8,2144.6 1807.2,2144.6" fill="#61717a"/>
+<rect x="1000" y="2158" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1016" y="2195" font-size="25" font-weight="600" fill="#326991">M02 條件</text>
+<text x="1170" y="2194" font-size="24" font-weight="400" fill="#24343f">晶體內全反射；緊密接觸樣品</text>
+<polyline points="1801,2262 1801,2278" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,2278.0 1794.8,2266.6 1807.2,2266.6" fill="#61717a"/>
+<rect x="1000" y="2280" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1016" y="2317" font-size="25" font-weight="600" fill="#326991">M03 讀數</text>
+<text x="1170" y="2316" font-size="24" font-weight="400" fill="#24343f">反射束衰減 → ATR 光譜</text>
+<polyline points="1801,2384 1801,2400" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,2400.0 1794.8,2388.6 1807.2,2388.6" fill="#61717a"/>
+<rect x="1000" y="2402" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1016" y="2439" font-size="25" font-weight="600" fill="#326991">M04 核對</text>
+<text x="1170" y="2438" font-size="24" font-weight="400" fill="#24343f">查接觸、表面代表性及穿透深度</text>
+<rect x="50" y="2585" width="870" height="610" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2625" font-size="27" font-weight="600" fill="#326991">P07｜DRIFT｜漫反射紅外</text>
+<text x="72" y="2663" font-size="22" font-weight="400" fill="#61717a">反射取樣配置；入口：L11、L10</text>
+<rect x="70" y="2686" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="86" y="2723" font-size="25" font-weight="600" fill="#326991">M01 目的</text>
+<text x="240" y="2722" font-size="24" font-weight="400" fill="#24343f">粉末；定性／晶形／條件定量</text>
+<polyline points="871,2790 871,2806" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,2806.0 864.8,2794.6 877.2,2794.6" fill="#61717a"/>
+<rect x="70" y="2808" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="86" y="2845" font-size="25" font-weight="600" fill="#326991">M02 條件</text>
+<text x="240" y="2844" font-size="24" font-weight="400" fill="#24343f">控制粒徑、填裝、稀釋與散射</text>
+<polyline points="871,2912 871,2928" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,2928.0 864.8,2916.6 877.2,2916.6" fill="#61717a"/>
+<rect x="70" y="2930" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="86" y="2967" font-size="25" font-weight="600" fill="#326991">M03 讀數</text>
+<text x="240" y="2966" font-size="24" font-weight="400" fill="#24343f">R∞ 或 F(R∞)（無因次）</text>
+<polyline points="871,3034 871,3050" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="871.0,3050.0 864.8,3038.6 877.2,3038.6" fill="#61717a"/>
+<rect x="70" y="3052" width="830" height="104" rx="12" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="86" y="3089" font-size="25" font-weight="600" fill="#326991">M04 核對</text>
+<text x="240" y="3088" font-size="24" font-weight="400" fill="#24343f">F=K/S；散射 S 不固定會影響定量</text>
+<rect x="980" y="2585" width="870" height="610" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1002" y="2625" font-size="27" font-weight="600" fill="#b72d4a">P08｜NIRA｜近紅外分析</text>
+<text x="1002" y="2663" font-size="22" font-weight="400" fill="#61717a">波段與分析路徑；入口：L13、L14</text>
+<rect x="1000" y="2686" width="830" height="104" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="2723" font-size="25" font-weight="600" fill="#b72d4a">M01 目的</text>
+<text x="1170" y="2722" font-size="24" font-weight="400" fill="#24343f">水分、成分、均勻度等</text>
+<polyline points="1801,2790 1801,2806" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,2806.0 1794.8,2794.6 1807.2,2794.6" fill="#61717a"/>
+<rect x="1000" y="2808" width="830" height="104" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="2845" font-size="25" font-weight="600" fill="#b72d4a">M02 條件</text>
+<text x="1170" y="2844" font-size="24" font-weight="400" fill="#24343f">弱倍頻／組合帶；固定取樣條件</text>
+<polyline points="1801,2912 1801,2928" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,2928.0 1794.8,2916.6 1807.2,2916.6" fill="#61717a"/>
+<rect x="1000" y="2930" width="830" height="104" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="2967" font-size="25" font-weight="600" fill="#b72d4a">M03 讀數</text>
+<text x="1170" y="2966" font-size="24" font-weight="400" fill="#24343f">光譜 → 模型預測值及參考單位</text>
+<polyline points="1801,3034 1801,3050" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1801.0,3050.0 1794.8,3038.6 1807.2,3038.6" fill="#61717a"/>
+<rect x="1000" y="3052" width="830" height="104" rx="12" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="3089" font-size="25" font-weight="600" fill="#b72d4a">M04 核對</text>
+<text x="1170" y="3088" font-size="24" font-weight="400" fill="#24343f">參考方法校正＋獨立驗證＋適用範圍</text>
+<text x="50" y="3332" font-size="20" font-weight="400" fill="#61717a">T＝小數穿透率；A＝吸光度；R∞＝足夠厚樣品的漫反射率；F＝Kubelka–Munk 函數；K／S＝吸收／散射係數。</text>
+<text x="50" y="3368" font-size="20" font-weight="400" fill="#61717a">原題：ch28 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

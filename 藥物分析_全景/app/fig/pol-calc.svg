@@ -1,0 +1,211 @@
+<svg width="2000" height="1960" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 1960" role="img" aria-labelledby="pol-f5-title pol-f5-desc">
+<title id="pol-f5-title">圖5｜旋光度測定法：公式與誤差判讀總表</title>
+<desc id="pol-f5-desc">五條公式的用途、單位、條件、方向與易錯點；六個因素對旋光度與比旋光度的影響；常見讀數異常的候選原因與區分證據。</desc>
+<defs></defs>
+<rect x="0" y="0" width="2000" height="1960" fill="#fcfcfd"/>
+<text x="60" y="70" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="42" font-weight="700" fill="#111827" text-anchor="start">圖5｜公式與誤差判讀總表</text>
+<text x="60" y="116" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="400" fill="#4b5563" text-anchor="start">A 公式護照（紙筆）→ B 因素矩陣（它在不在分母）→ C 讀數異常的反推（觀察 → 候選原因 → 區分證據）。</text>
+<text x="60" y="180" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="32" font-weight="700" fill="#0f766e" text-anchor="start">A｜公式護照</text>
+<rect x="60" y="200" width="1880" height="56" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="74" y="238" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">公式</text>
+<text x="504" y="238" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">求什麼</text>
+<text x="834" y="238" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">單位與成立條件</text>
+<text x="1254" y="238" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">方向判讀</text>
+<text x="1584" y="238" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">易錯｜題源</text>
+<rect x="60" y="256" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#0f766e" text-anchor="start">F1  [α] ＝ 100a／(l·c)</text>
+<text x="74" y="323" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">比旋光度（歸一化）</text>
+<text x="504" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">由讀數 a 換成</text>
+<text x="504" y="323" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">物質常數</text>
+<text x="834" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">a：°｜l：dm｜c：g/100 mL</text>
+<text x="834" y="323" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">T、溶劑、λ 固定；無氣泡</text>
+<text x="1254" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">a 加倍而 l、c 不變</text>
+<text x="1254" y="323" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">→ [α] 加倍；a 負 → [α] 負</text>
+<text x="1584" y="290" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">c 代 g/mL（111-1）</text>
+<text x="1584" y="323" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">l 代 cm｜114-1、112-1</text>
+<polyline points="490,256 490,348" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="820,256 820,348" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1240,256 1240,348" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,256 1570,348" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="348" width="1880" height="92" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#0f766e" text-anchor="start">F2  a ＝ [α]·l·c／100</text>
+<text x="74" y="415" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">（F1 移項）</text>
+<text x="504" y="382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">預期讀數</text>
+<text x="504" y="415" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">（鑑別規格）</text>
+<text x="834" y="382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">同 F1；[α] 給區間時</text>
+<text x="834" y="415" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">兩端各算一次</text>
+<text x="1254" y="382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">[α] 150～160、l＝1、c＝0.4</text>
+<text x="1254" y="415" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">→ a＝0.60～0.64</text>
+<text x="1584" y="382" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">400 mg 忘記換 0.4 g</text>
+<text x="1584" y="415" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">→ 差 1000 倍｜110-2</text>
+<polyline points="490,348 490,440" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="820,348 820,440" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1240,348 1240,440" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,348 1570,440" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="440" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="474" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#0f766e" text-anchor="start">F3  c ＝ 100a／([α]·l)</text>
+<text x="74" y="507" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">（F1 移項）</text>
+<text x="504" y="474" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">含量</text>
+<text x="504" y="507" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">（葡萄糖注射液）</text>
+<text x="834" y="474" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">[α] 為已知規格值；</text>
+<text x="834" y="507" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">課外：葡萄糖須達變旋平衡</text>
+<text x="1254" y="474" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">a 加倍 → c 加倍</text>
+<text x="1254" y="507" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">l 加倍 → 同一 a 表示 c 減半</text>
+<text x="1584" y="474" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">把 [α] 與 a 對調</text>
+<text x="1584" y="507" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">108-1 #3（方法選擇）</text>
+<polyline points="490,440 490,532" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="820,440 820,532" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1240,440 1240,532" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,440 1570,532" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="532" width="1880" height="92" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="566" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#0f766e" text-anchor="start">F4  混／純 ＝ f₊ − f₋</text>
+<text x="74" y="599" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">     f₊ ＝ (1＋差)／2</text>
+<text x="504" y="566" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">鏡像比例</text>
+<text x="504" y="599" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">（光學純度、ee）</text>
+<text x="834" y="566" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">兩對映體純值等大反號；</text>
+<text x="834" y="599" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">無其他光學活性雜質</text>
+<text x="1254" y="566" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">各半 → 0（外消旋）</text>
+<text x="1254" y="599" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">全 (+) → 1</text>
+<text x="1584" y="566" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#b91c1c" text-anchor="start">「減少 5%」≠ 佔 5%</text>
+<text x="1584" y="599" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">→ 97.5：2.5｜113-1、109-1</text>
+<polyline points="490,532 490,624" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="820,532 820,624" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1240,532 1240,624" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,532 1570,624" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="624" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="658" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#c2410c" text-anchor="start">F5  θ ＝ π·l·(n左 − n右)／λ</text>
+<text x="74" y="691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">（課外機理，θ 為弧度）</text>
+<text x="504" y="658" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">為什麼 a ∝ l</text>
+<text x="504" y="691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">為什麼 λ 會影響</text>
+<text x="834" y="658" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">l 與 λ 同單位；</text>
+<text x="834" y="691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">只用來推方向，不考計算</text>
+<text x="1254" y="658" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">l ↑ → θ ↑</text>
+<text x="1254" y="691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">n左＝n右（非 chiral）→ 0</text>
+<text x="1584" y="658" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">非國考公式；</text>
+<text x="1584" y="691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">用於解釋 L3、L5、L7</text>
+<polyline points="490,624 490,716" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="820,624 820,716" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1240,624 1240,716" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,624 1570,716" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<text x="60" y="766" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="32" font-weight="700" fill="#0f766e" text-anchor="start">B｜因素矩陣：問一句「它在不在分母」</text>
+<rect x="60" y="786" width="1880" height="56" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="74" y="824" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">因素</text>
+<text x="404" y="824" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">影響 a？</text>
+<text x="664" y="824" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">影響 [α]？</text>
+<text x="964" y="824" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">理由</text>
+<text x="1584" y="824" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">題源</text>
+<rect x="60" y="842" width="1880" height="59" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="876" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">儲液管長度 l</text>
+<text x="404" y="876" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">會（正比）</text>
+<text x="664" y="876" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#15803d" text-anchor="start">不會</text>
+<text x="964" y="876" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">在分母，被除掉（a 會變，[α] 不變）</text>
+<text x="1584" y="876" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">113-2 #23、108-1 #1</text>
+<polyline points="390,842 390,901" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,842 650,901" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,842 950,901" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,842 1570,901" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="901" width="1880" height="59" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="935" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">濃度 c</text>
+<text x="404" y="935" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">會（近似正比）</text>
+<text x="664" y="935" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#15803d" text-anchor="start">不會（近似）</text>
+<text x="964" y="935" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">在分母；部分物質 [α] 隨 c 微變 → 仍要註明 c</text>
+<text x="1584" y="935" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">112-2 #20</text>
+<polyline points="390,901 390,960" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,901 650,960" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,901 950,960" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,901 1570,960" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="960" width="1880" height="59" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="994" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">溫度</text>
+<text x="404" y="994" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">會</text>
+<text x="664" y="994" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#b91c1c" text-anchor="start">會</text>
+<text x="964" y="994" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">不在分母 → 寫上標（25）</text>
+<text x="1584" y="994" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">111-2 #15、109-1 #21</text>
+<polyline points="390,960 390,1019" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,960 650,1019" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,960 950,1019" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,960 1570,1019" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1019" width="1880" height="59" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1053" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">溶劑</text>
+<text x="404" y="1053" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">會</text>
+<text x="664" y="1053" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#b91c1c" text-anchor="start">會</text>
+<text x="964" y="1053" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">不在分母 → 寫括號；可改正負號（課外例）</text>
+<text x="1584" y="1053" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">112-2 #20、111-2 #15</text>
+<polyline points="390,1019 390,1078" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,1019 650,1078" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,1019 950,1078" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,1019 1570,1078" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1078" width="1880" height="59" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1112" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">波長 λ</text>
+<text x="404" y="1112" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">會</text>
+<text x="664" y="1112" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#b91c1c" text-anchor="start">會</text>
+<text x="964" y="1112" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">不在分母 → 寫下標 D；短波長旋光較大</text>
+<text x="1584" y="1112" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">110-1 #17、109-1 #21</text>
+<polyline points="390,1078 390,1137" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,1078 650,1137" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,1078 950,1137" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,1078 1570,1137" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1137" width="1880" height="59" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1171" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">濕度</text>
+<text x="404" y="1171" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">—</text>
+<text x="664" y="1171" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">不是因子</text>
+<text x="964" y="1171" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">來源未列入；不是比旋光度的標示條件</text>
+<text x="1584" y="1171" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">109-1 #21</text>
+<polyline points="390,1137 390,1196" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="650,1137 650,1196" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="950,1137 950,1196" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1570,1137 1570,1196" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<text x="60" y="1246" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="32" font-weight="700" fill="#b91c1c" text-anchor="start">C｜讀數異常的反推（不把「可能原因」寫成「唯一原因」）</text>
+<rect x="60" y="1266" width="1880" height="56" fill="#e5e7eb" stroke="#6b7280" stroke-width="2"/>
+<text x="74" y="1304" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">觀察</text>
+<text x="544" y="1304" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">候選原因</text>
+<text x="1264" y="1304" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="25" font-weight="700" fill="#111827" text-anchor="start">區分所需的證據</text>
+<rect x="60" y="1322" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1356" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">[α] 與文獻正負相反</text>
+<text x="74" y="1389" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">（−13 vs +20）</text>
+<text x="544" y="1356" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">溶劑不同（題本答案）</text>
+<text x="544" y="1389" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">溫度或波長不同｜檢品不是同一物質</text>
+<text x="1264" y="1356" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">核對表示法的溶劑、上標溫度、下標 D；</text>
+<text x="1264" y="1389" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">l、c 已在分母，不列入候選</text>
+<polyline points="530,1322 530,1414" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1322 1250,1414" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1414" width="1880" height="92" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1448" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">[α] 比純品小一點</text>
+<text x="74" y="1481" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">（例：只剩 95%）</text>
+<text x="544" y="1448" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">混入鏡像異構物｜混入不旋光雜質</text>
+<text x="544" y="1481" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">（稀釋效應）｜濃度配錯</text>
+<text x="1264" y="1448" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">加權和只能解釋前者；需其他純度檢驗</text>
+<text x="1264" y="1481" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">（如層析）區分；題目若寫「混入鏡像」→ F4</text>
+<polyline points="530,1414 530,1506" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1414 1250,1506" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1506" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1540" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">讀數飄動、終點看不清</text>
+<text x="544" y="1540" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">儲液管內有氣泡｜溫度未平衡｜</text>
+<text x="544" y="1573" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">目視判讀誤差</text>
+<text x="1264" y="1540" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">檢查氣泡並重裝；恆溫 25°C 後再讀；</text>
+<text x="1264" y="1573" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">目視旋光計測 ≥ 5 次求平均</text>
+<polyline points="530,1506 530,1598" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1506 1250,1598" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1598" width="1880" height="59" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1632" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#111827" text-anchor="start">讀數整體偏移一個固定量</text>
+<text x="544" y="1632" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">未扣溶劑空白｜儀器零點偏差</text>
+<text x="1264" y="1632" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">同一管裝溶劑讀空白值並扣除（USP〈781〉）</text>
+<polyline points="530,1598 530,1657" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1598 1250,1657" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1657" width="1880" height="92" fill="#ffffff" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#c2410c" text-anchor="start">課外｜讀到 +10°</text>
+<text x="544" y="1691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">真值 +10° 或 −170°（偏極面轉 180°</text>
+<text x="544" y="1724" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">看起來一樣）</text>
+<text x="1264" y="1691" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">稀釋一半再讀：得 +5° → 真 +10°；</text>
+<text x="1264" y="1724" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">得 −85°（顯示為 +95°）→ 真 −170°</text>
+<polyline points="530,1657 530,1749" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1657 1250,1749" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<rect x="60" y="1749" width="1880" height="92" fill="#f9fafb" stroke="#d1d5db" stroke-width="2"/>
+<text x="74" y="1783" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="700" fill="#c2410c" text-anchor="start">課外｜葡萄糖讀數隨時間變</text>
+<text x="544" y="1783" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">變旋（α、β 異構物互變）未達平衡</text>
+<text x="1264" y="1783" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">依藥典以稀氨水為溶劑，使兩種異構物</text>
+<text x="1264" y="1816" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#111827" text-anchor="start">快速達平衡後再讀（USP 葡萄糖）</text>
+<polyline points="530,1749 530,1841" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<polyline points="1250,1749 1250,1841" fill="none" stroke="#d1d5db" stroke-width="2"/>
+<text x="60" y="1891" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="23" font-weight="400" fill="#4b5563" text-anchor="start">顏色：綠＝不影響；紅＝會影響或易錯；橘＝課外補充（非國考必背）；灰＝非因子或說明。</text>
+<text x="1960" y="1936" font-family="'Noto Sans CJK TC','PingFang TC','Microsoft JhengHei','Heiti TC',sans-serif" font-size="20" fill="#4b5563" text-anchor="end">依據：旋光度建構講義 v2_0｜圖組 v2_0</text>
+</svg>

@@ -1,0 +1,173 @@
+<svg width="1900" height="3770" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3770" role="img" aria-labelledby="ri3_g4_title ri3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ri3_g4_title">折光度測定法｜儀器與操作考點</title><desc id="ri3_g4_desc">折光度測定法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；綠線表示液體流路。紅虛線表示條件不符的分析者回查。示意不按比例；角度從法線量起。</desc>
+<rect x="0" y="0" width="1900" height="3770" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH33 / REFRACTOMETRY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">折光度測定法｜儀器與操作考點</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">Abbe 的兩稜鏡與 HPLC RI 的兩池分開畫；藍線＝光路，綠線＝流路，灰線＝分析資訊。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="1800" height="400" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="75" y="430" font-size="29" font-weight="600" fill="#286c68">Abbe 功能光路｜光經有效界面，讀清楚的極限邊界</text>
+<rect x="75" y="480" width="390" height="240" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="97" y="521" font-size="27" font-weight="600" fill="#326991">光源／照明</text>
+<text x="97" y="568" font-size="24" font-weight="400" fill="#24343f">指定線或合適白光</text>
+<text x="97" y="602.08" font-size="24" font-weight="400" fill="#24343f">照明稜鏡提供照明</text>
+<polyline points="465,600 510,600" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,600.0 498.6,606.2 498.6,593.8" fill="#326991"/>
+<rect x="515" y="480" width="390" height="240" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="537" y="521" font-size="27" font-weight="600" fill="#326991">測量界面</text>
+<text x="537" y="568" font-size="24" font-weight="400" fill="#24343f">檢品與測量稜鏡接觸</text>
+<text x="537" y="602.08" font-size="24" font-weight="400" fill="#24343f">N 已知且 n&lt;N</text>
+<polyline points="905,600 950,600" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,600.0 938.6,606.2 938.6,593.8" fill="#326991"/>
+<rect x="955" y="480" width="390" height="240" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="977" y="521" font-size="27" font-weight="600" fill="#326991">色散補償／成像</text>
+<text x="977" y="568" font-size="24" font-weight="400" fill="#24343f">依配置調補償與對焦</text>
+<text x="977" y="602.08" font-size="24" font-weight="400" fill="#24343f">白光不等於單色</text>
+<polyline points="1345,600 1390,600" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,600.0 1378.6,606.2 1378.6,593.8" fill="#326991"/>
+<rect x="1395" y="480" width="390" height="240" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1417" y="521" font-size="27" font-weight="600" fill="#326991">目鏡或感測／尺度</text>
+<text x="1417" y="568" font-size="24" font-weight="400" fill="#24343f">對明暗邊界讀角度→n</text>
+<text x="1417" y="602.08" font-size="24" font-weight="400" fill="#24343f">保存 T、λ 與基準</text>
+<rect x="50" y="830" width="875" height="610" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="72" y="872" font-size="28" font-weight="600" fill="#326991">正向｜檢品 → 稜鏡</text>
+<text x="72" y="920" font-size="23" font-weight="400" fill="#24343f">同一界面：n＝1.40、N＝1.60；n&lt;N。</text>
+<rect x="70" y="1110" width="835" height="175" rx="0" fill="#dceaf7" stroke="#dceaf7" stroke-width="2"/>
+<polyline points="70,1110 905,1110" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="487.5,975 487.5,1267" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="78" y="1040" font-size="24" font-weight="400" fill="#24343f">檢品 n</text>
+<text x="78" y="1265" font-size="24" font-weight="400" fill="#24343f">稜鏡 N</text>
+<text x="503.5" y="990" font-size="22" font-weight="400" fill="#61717a">法線</text>
+<circle cx="487.5" cy="1110" r="5" fill="#326991" stroke="#326991"/>
+<polyline points="135,1110 487.5,1110" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="487.5,1110.0 476.1,1116.2 476.1,1103.8" fill="#326991"/>
+<polyline points="487.5,1110 723.75,1240.7131879345004" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="723.8,1240.7 710.8,1240.6 716.8,1229.7" fill="#326991"/>
+<polyline points="487.5,1178.0 490.39710825837466,1177.9382569966235 493.2889554530735,1177.7531401099782 496.17029007435804,1177.444985506904 499.03587970301504,1177.0143527871273 501.8805205122763,1176.4620239670446 504.69904671781563,1175.7890020596026 507.4863399586617,1174.9965092528575 510.2373385919915,1174.0859846905166 512.9470468849255,1173.0590818584953 515.6105440866319,1171.9176655822353 518.2229933642659,1170.6638086402368 520.7796505865169,1169.2997879999527 523.275872938811,1167.8280806828832 525.7071273545268,1166.2513592663765 528.0689987469116,1164.5724870303075 530.3571980267488,1162.794512757445 532.5675698912193,1160.9206651969519 534.6961003698083,1158.9543472010707 536.7389241135594,1156.8991295456444 538.692331414434,1154.758744445692 540.5527749420328,1152.5370787778147 542.316876185444,1150.2381670217433 543.9814315885196,1147.8661839338397 545.5434183674399,1145.4254369658631 547.0,1142.920358442763" fill="none" stroke="#326991" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="542.5" y="1178" font-size="25" font-weight="400" fill="#326991">r_c</text>
+<text x="130" y="1088" font-size="22" font-weight="400" fill="#326991">i → 90° 的掠入射極限</text>
+<text x="74" y="1325" font-size="26" font-weight="400" fill="#24343f">n sin i＝N sin r；sin i→1</text>
+<text x="74" y="1375" font-size="25" font-weight="400" fill="#326991">n＝N sin r_c；r_c 是折射角。</text>
+<rect x="975" y="830" width="875" height="610" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="997" y="872" font-size="28" font-weight="600" fill="#326991">反向｜稜鏡 → 檢品</text>
+<text x="997" y="920" font-size="23" font-weight="400" fill="#24343f">同一界面：n＝1.40、N＝1.60；n&lt;N。</text>
+<rect x="995" y="1110" width="835" height="175" rx="0" fill="#dceaf7" stroke="#dceaf7" stroke-width="2"/>
+<polyline points="995,1110 1830,1110" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1412.5,975 1412.5,1267" fill="none" stroke="#61717a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<text x="1003" y="1040" font-size="24" font-weight="400" fill="#24343f">檢品 n</text>
+<text x="1003" y="1265" font-size="24" font-weight="400" fill="#24343f">稜鏡 N</text>
+<text x="1428.5" y="990" font-size="22" font-weight="400" fill="#61717a">法線</text>
+<circle cx="1412.5" cy="1110" r="5" fill="#326991" stroke="#326991"/>
+<polyline points="1176.25,1240.7131879345004 1412.5,1110" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1412.5,1110.0 1405.5,1121.0 1399.5,1110.1" fill="#326991"/>
+<polyline points="1412.5,1110 1780,1110" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1780.0,1110.0 1768.6,1116.2 1768.6,1103.8" fill="#326991"/>
+<polyline points="1412.5,1178.0 1409.6028917416254,1177.9382569966235 1406.7110445469266,1177.7531401099782 1403.829709925642,1177.444985506904 1400.964120296985,1177.0143527871273 1398.1194794877238,1176.4620239670446 1395.3009532821843,1175.7890020596026 1392.5136600413384,1174.9965092528575 1389.7626614080084,1174.0859846905166 1387.0529531150746,1173.0590818584953 1384.3894559133682,1171.9176655822353 1381.777006635734,1170.6638086402368 1379.220349413483,1169.2997879999527 1376.724127061189,1167.8280806828832 1374.2928726454732,1166.2513592663765 1371.9310012530884,1164.5724870303077 1369.6428019732512,1162.794512757445 1367.4324301087806,1160.9206651969519 1365.3038996301916,1158.9543472010707 1363.2610758864407,1156.8991295456444 1361.307668585566,1154.758744445692 1359.4472250579672,1152.5370787778147 1357.683123814556,1150.2381670217433 1356.0185684114804,1147.8661839338397 1354.45658163256,1145.4254369658631 1353.0,1142.920358442763" fill="none" stroke="#326991" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<text x="1307.5" y="1185" font-size="25" font-weight="400" fill="#326991">θ_c</text>
+<text x="1457.5" y="1085" font-size="22" font-weight="400" fill="#326991">臨界折射角 φ＝90°</text>
+<text x="999" y="1325" font-size="26" font-weight="400" fill="#24343f">N sin θ_c＝n sin 90°＝n</text>
+<text x="999" y="1375" font-size="25" font-weight="400" fill="#326991">θ_c＝r_c；θ&gt;θ_c 才全反射。</text>
+<rect x="50" y="1490" width="1800" height="250" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1531" font-size="27" font-weight="600" fill="#685185">實際操作｜讓被測界面符合母式</text>
+<text x="72" y="1578" font-size="24" font-weight="400" fill="#24343f">標準及清潔 → 設定 T、λ → 液體覆蓋／固體相容接觸 → 樣品與稜鏡平衡</text>
+<text x="72" y="1612.08" font-size="24" font-weight="400" fill="#24343f">→ 必要補償與對焦 → 對清楚邊界讀數 → 題本至少三次 → 檢查離散、報 n_D^T。</text>
+<text x="72" y="1646.16" font-size="24" font-weight="400" fill="#24343f">接觸液填空隙，不作黏膠；角度沒有吸收光程 b，仍不能忽略氣泡、殘留與覆蓋。</text>
+<rect x="50" y="1810" width="1800" height="1120" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="75" y="1860" font-size="29" font-weight="600" fill="#b72d4a">差動 RI 功能流路｜參考池不是固定相，也不是每個峰的下一個池</text>
+<rect x="75" y="1920" width="390" height="240" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="97" y="1961" font-size="27" font-weight="600" fill="#356844">移動相／泵</text>
+<text x="97" y="2008" font-size="24" font-weight="400" fill="#24343f">固定組成、穩定溫度</text>
+<polyline points="465,2040 510,2040" fill="none" stroke="#356844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,2040.0 498.6,2046.2 498.6,2033.8" fill="#356844"/>
+<rect x="515" y="1920" width="390" height="240" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="537" y="1961" font-size="27" font-weight="600" fill="#356844">管柱</text>
+<text x="537" y="2008" font-size="24" font-weight="400" fill="#24343f">固定相在管柱內</text>
+<polyline points="905,2040 950,2040" fill="none" stroke="#356844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,2040.0 938.6,2046.2 938.6,2033.8" fill="#356844"/>
+<rect x="955" y="1920" width="390" height="240" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="977" y="1961" font-size="27" font-weight="600" fill="#356844">樣品池</text>
+<text x="977" y="2008" font-size="24" font-weight="400" fill="#24343f">管柱流出液</text>
+<text x="977" y="2042.08" font-size="24" font-weight="400" fill="#24343f">移動相＋分析物</text>
+<polyline points="1345,2040 1390,2040" fill="none" stroke="#356844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,2040.0 1378.6,2046.2 1378.6,2033.8" fill="#356844"/>
+<rect x="1395" y="1920" width="390" height="240" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1417" y="1961" font-size="27" font-weight="600" fill="#356844">廢液</text>
+<text x="1417" y="2008" font-size="24" font-weight="400" fill="#24343f">分析流路出口</text>
+<rect x="75" y="2240" width="390" height="220" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="97" y="2281" font-size="27" font-weight="600" fill="#356844">移動相填充／沖洗</text>
+<text x="97" y="2328" font-size="24" font-weight="400" fill="#24343f">依原廠程序建立參考</text>
+<text x="97" y="2362.08" font-size="24" font-weight="400" fill="#24343f">不是分析物純品</text>
+<rect x="550" y="2240" width="470" height="220" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="572" y="2281" font-size="27" font-weight="600" fill="#356844">參考池</text>
+<text x="572" y="2328" font-size="24" font-weight="400" fill="#24343f">分析時保持所需參考</text>
+<text x="572" y="2362.08" font-size="24" font-weight="400" fill="#24343f">內容＝移動相</text>
+<polyline points="465,2350 545,2350" fill="none" stroke="#356844" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="545.0,2350.0 533.6,2356.2 533.6,2343.8" fill="#356844"/>
+<rect x="1110" y="2240" width="690" height="220" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1132" y="2281" font-size="27" font-weight="600" fill="#326991">光學比較（功能示意）</text>
+<text x="1132" y="2328" font-size="24" font-weight="400" fill="#24343f">光比較兩池 n，差異造成偏折／差動讀出。</text>
+<text x="1132" y="2362.08" font-size="24" font-weight="400" fill="#24343f">實際光源、雙程或光電配置依型號。</text>
+<polyline points="1230,2160 1230,2234" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1230.0,2234.0 1223.8,2222.6 1236.2,2222.6" fill="#61717a"/>
+<polyline points="1020,2350 1104,2350" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1104.0,2350.0 1092.6,2356.2 1092.6,2343.8" fill="#61717a"/>
+<text x="975" y="2210" font-size="22" font-weight="400" fill="#61717a">樣品池 n</text>
+<text x="1037" y="2308" font-size="21" font-weight="400" fill="#61717a">參考 n</text>
+<polyline points="1455,2460 1455,2550" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1455.0,2550.0 1448.8,2538.6 1461.2,2538.6" fill="#61717a"/>
+<rect x="1110" y="2550" width="690" height="255" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1132" y="2591" font-size="27" font-weight="600" fill="#61717a">M03｜差動訊號→時間紀錄</text>
+<text x="1132" y="2638" font-size="24" font-weight="400" fill="#24343f">Δn＝n_sample−n_reference，可正可負。</text>
+<text x="1132" y="2672.08" font-size="24" font-weight="400" fill="#24343f">實際儀器訊號單位與極性另記。</text>
+<text x="1132" y="2706.16" font-size="24" font-weight="400" fill="#24343f">M04：校正、範圍與背景合格才報含量。</text>
+<rect x="75" y="2550" width="945" height="255" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="97" y="2591" font-size="27" font-weight="600" fill="#b72d4a">L9｜固定組成與穩定溫度</text>
+<text x="97" y="2638" font-size="24" font-weight="400" fill="#24343f">等度：移動相背景較穩定。</text>
+<text x="97" y="2672.08" font-size="24" font-weight="400" fill="#24343f">梯度：溶劑自身 n 改變，可造成大基線漂移。</text>
+<text x="97" y="2706.16" font-size="24" font-weight="400" fill="#24343f">常規 RI 不宜溶劑組成梯度；通用不等於必夠靈敏。</text>
+<text x="75" y="2880" font-size="22" font-weight="400" fill="#61717a">本圖保留兩池的功能與內容；未畫成特定儀器的精確雙程光學，也未把分析流路串入參考池。</text>
+<text x="50" y="3000" font-size="29" font-weight="600" fill="#b72d4a">異常先回哪一站？｜紅虛線是分析者的修正動作</text>
+<rect x="50" y="3050" width="570" height="265" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="3091" font-size="27" font-weight="600" fill="#b72d4a">彩色／模糊邊界</text>
+<text x="72" y="3138" font-size="24" font-weight="400" fill="#24343f">查補償、T、接觸與清潔</text>
+<polyline points="335,3315 335,3360" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="335.0,3360.0 328.8,3348.6 341.2,3348.6" fill="#b72d4a"/>
+<rect x="50" y="3360" width="570" height="160" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="3401" font-size="27" font-weight="600" fill="#b72d4a">M02／L4–L6</text>
+<text x="72" y="3448" font-size="24" font-weight="400" fill="#24343f">按原因修正，需新資料才重測。</text>
+<rect x="670" y="3050" width="570" height="265" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="692" y="3091" font-size="27" font-weight="600" fill="#b72d4a">RI 大幅基線漂移</text>
+<text x="692" y="3138" font-size="24" font-weight="400" fill="#24343f">查移動相組成、參考池、T</text>
+<polyline points="955,3315 955,3360" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="955.0,3360.0 948.8,3348.6 961.2,3348.6" fill="#b72d4a"/>
+<rect x="670" y="3360" width="570" height="160" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="692" y="3401" font-size="27" font-weight="600" fill="#b72d4a">M02／L9</text>
+<text x="692" y="3448" font-size="24" font-weight="400" fill="#24343f">按原因修正，需新資料才重測。</text>
+<rect x="1290" y="3050" width="570" height="265" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="3091" font-size="27" font-weight="600" fill="#b72d4a">很穩但偏標準</text>
+<text x="1312" y="3138" font-size="24" font-weight="400" fill="#24343f">查校正與共同偏差</text>
+<polyline points="1575,3315 1575,3360" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1575.0,3360.0 1568.8,3348.6 1581.2,3348.6" fill="#b72d4a"/>
+<rect x="1290" y="3360" width="570" height="160" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="3401" font-size="27" font-weight="600" fill="#b72d4a">M04／L7</text>
+<text x="1312" y="3448" font-size="24" font-weight="400" fill="#24343f">按原因修正，需新資料才重測。</text>
+<text x="50" y="3702" font-size="20" font-weight="400" fill="#61717a">N 與 n 採同基準、同 T、λ；角度從法線量。光路子圖為極限條件，示意不按空間比例。</text>
+<text x="50" y="3738" font-size="20" font-weight="400" fill="#61717a">原題：ch33 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例；角度從法線量起。</text>
+</svg>

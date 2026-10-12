@@ -1,0 +1,184 @@
+<svg width="1900" height="3580" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3580" role="img" aria-labelledby="ir3_g2_title ir3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ir3_g2_title">紅外光譜｜小循環掛載點圖</title><desc id="ir3_g2_desc">紅外光譜教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路，紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3580" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH28 / IR / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">紅外光譜｜小循環掛載點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">每條 L 都從指定站取得輸入，經短鏈後，把結果交回指定站；平行模組沒有硬接先後。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="570" height="1350" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="413" font-size="27" font-weight="600" fill="#9e771c">A｜先讀對圖</text>
+<text x="72" y="456" font-size="23" font-weight="400" fill="#24343f">先看量與單位，再選候選基團。</text>
+<rect x="68" y="520" width="534" height="365" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="85" y="552" font-size="25" font-weight="600" fill="#9e771c">L05｜波數、波長與縱軸</text>
+<text x="85" y="592" font-size="22" font-weight="400" fill="#24343f">入口 M03｜座標名稱、單位、T 或 A</text>
+<text x="85" y="670" font-size="23" font-weight="400" fill="#24343f">先辨 %T 或 A → 換成同一讀法 → 讀峰位與吸收</text>
+<text x="85" y="702.66" font-size="23" font-weight="400" fill="#24343f">方向</text>
+<text x="85" y="772" font-size="22" font-weight="400" fill="#9e771c">出口 M04｜正確位置與大小，供 M04 判讀</text>
+<text x="85" y="837" font-size="21" font-weight="400" fill="#61717a">條件：T 用小數；A 不是吸收光分率；每次確認實際橫</text>
+<text x="85" y="866.82" font-size="21" font-weight="400" fill="#61717a">軸。</text>
+<rect x="68" y="910" width="534" height="365" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="85" y="942" font-size="25" font-weight="600" fill="#9e771c">L06｜官能基與振動模式</text>
+<text x="85" y="982" font-size="22" font-weight="400" fill="#24343f">入口 M03｜峰位＋帶形＋題給候選</text>
+<text x="85" y="1060" font-size="23" font-weight="400" fill="#24343f">看位置與帶形 → 找基團候選 → 用結構與其他峰</text>
+<text x="85" y="1092.66" font-size="23" font-weight="400" fill="#24343f">核對</text>
+<text x="85" y="1162" font-size="22" font-weight="400" fill="#9e771c">出口 M04｜基團候選，交回結構判讀</text>
+<text x="85" y="1227" font-size="21" font-weight="400" fill="#61717a">條件：3300 附近也可能有 N–H 或末端 ≡C–H；單峰</text>
+<text x="85" y="1256.82" font-size="21" font-weight="400" fill="#61717a">不唯一。</text>
+<rect x="68" y="1300" width="534" height="365" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="85" y="1337" font-size="25" font-weight="600" fill="#9e771c">把這組立即用一次</text>
+<text x="85" y="1389" font-size="24" font-weight="400" fill="#24343f">先讀 3200–3500 cm⁻¹，再看候選 H–O、C=O</text>
+<text x="85" y="1423.08" font-size="24" font-weight="400" fill="#24343f">、C=C、C≡N。</text>
+<text x="85" y="1457.16" font-size="24" font-weight="400" fill="#24343f">這題選 H–O；若新增 N–H 候選，還需帶形與結</text>
+<text x="85" y="1491.24" font-size="24" font-weight="400" fill="#24343f">構。</text>
+<text x="85" y="1617" font-size="22" font-weight="400" fill="#61717a">回正文對應 L，或複習同號 R。</text>
+<rect x="670" y="370" width="570" height="1350" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="692" y="413" font-size="27" font-weight="600" fill="#286c68">B｜峰為何出現與移位</text>
+<text x="692" y="456" font-size="23" font-weight="400" fill="#24343f">先看模式能否吸收，再比較峰位。</text>
+<rect x="688" y="520" width="534" height="365" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="705" y="552" font-size="25" font-weight="600" fill="#286c68">L01｜吸收的入口</text>
+<text x="705" y="592" font-size="22" font-weight="400" fill="#24343f">入口 M02｜振動模式＋入射能量</text>
+<text x="705" y="670" font-size="23" font-weight="400" fill="#24343f">能量吻合＋偶極矩會變 → 允許吸收 → 該波數透</text>
+<text x="705" y="702.66" font-size="23" font-weight="400" fill="#24343f">射光減少</text>
+<text x="705" y="772" font-size="22" font-weight="400" fill="#286c68">出口 M03｜哪些模式有 IR 吸收</text>
+<text x="705" y="837" font-size="21" font-weight="400" fill="#61717a">條件：逐個模式判斷；不能把全部對稱分子判成不可</text>
+<text x="705" y="866.82" font-size="21" font-weight="400" fill="#61717a">測。</text>
+<rect x="688" y="910" width="534" height="365" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="705" y="942" font-size="25" font-weight="600" fill="#286c68">L02｜力常數與質量</text>
+<text x="705" y="982" font-size="22" font-weight="400" fill="#24343f">入口 M02｜同類模式的 k、折合質量 μᵣ</text>
+<text x="705" y="1060" font-size="23" font-weight="400" fill="#24343f">質量變重、k 近似不變 → 振動變慢 → 波數下降</text>
+<text x="705" y="1162" font-size="22" font-weight="400" fill="#286c68">出口 M03｜相對峰位與位移方向</text>
+<text x="705" y="1227" font-size="21" font-weight="400" fill="#61717a">條件：局部諧振子近似；多原子耦合與環境可改變實</text>
+<text x="705" y="1256.82" font-size="21" font-weight="400" fill="#61717a">測。</text>
+<rect x="688" y="1300" width="534" height="365" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="705" y="1332" font-size="25" font-weight="600" fill="#286c68">L03｜羰基環境與位移</text>
+<text x="705" y="1372" font-size="22" font-weight="400" fill="#24343f">入口 M02｜羰基種類＋共軛／環張力</text>
+<text x="705" y="1450" font-size="23" font-weight="400" fill="#24343f">同類羰基增加共軛 → 有效 k 通常下降 → 波數通</text>
+<text x="705" y="1482.66" font-size="23" font-weight="400" fill="#24343f">常下降</text>
+<text x="705" y="1552" font-size="22" font-weight="400" fill="#286c68">出口 M03｜可用於比對的羰基位置</text>
+<text x="705" y="1617" font-size="21" font-weight="400" fill="#61717a">條件：1700 不是硬邊界；箭頭 2 不是末端 acetate 的</text>
+<text x="705" y="1646.82" font-size="21" font-weight="400" fill="#61717a">酯羰基。</text>
+<rect x="1290" y="370" width="570" height="1350" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1312" y="413" font-size="27" font-weight="600" fill="#356844">C｜強弱與寬窄</text>
+<text x="1312" y="456" font-size="23" font-weight="400" fill="#24343f">強度與帶寬分開，不反推唯一原因。</text>
+<rect x="1308" y="520" width="534" height="365" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1325" y="552" font-size="25" font-weight="600" fill="#356844">L04｜峰強與量的影響</text>
+<text x="1325" y="592" font-size="22" font-weight="400" fill="#24343f">入口 M02｜偶極矩變化、濃度、光徑</text>
+<text x="1325" y="670" font-size="23" font-weight="400" fill="#24343f">振動造成的偶極矩變化較大 → 躍遷較容易 → 內</text>
+<text x="1325" y="702.66" font-size="23" font-weight="400" fill="#24343f">在吸收帶較強</text>
+<text x="1325" y="772" font-size="22" font-weight="400" fill="#356844">出口 M03｜內在強度與實測峰高分開</text>
+<text x="1325" y="837" font-size="21" font-weight="400" fill="#61717a">條件：題本極性排序是局部捷徑；鍵級不能直接排序</text>
+<text x="1325" y="866.82" font-size="21" font-weight="400" fill="#61717a">峰強。</text>
+<rect x="1308" y="910" width="534" height="365" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1325" y="942" font-size="25" font-weight="600" fill="#356844">L07｜氫鍵與帶寬</text>
+<text x="1325" y="982" font-size="22" font-weight="400" fill="#24343f">入口 M02｜基團、相態與氫鍵環境</text>
+<text x="1325" y="1060" font-size="23" font-weight="400" fill="#24343f">氫鍵環境增強／多樣 → O–H 常降低波數且變寬 </text>
+<text x="1325" y="1092.66" font-size="23" font-weight="400" fill="#24343f">→ 比較位置與帶形</text>
+<text x="1325" y="1162" font-size="22" font-weight="400" fill="#356844">出口 M03｜可解釋的位移與帶寬</text>
+<text x="1325" y="1227" font-size="21" font-weight="400" fill="#61717a">條件：游離 O–H 可尖；酸 O–H 不能用單一 3500 峰定</text>
+<text x="1325" y="1256.82" font-size="21" font-weight="400" fill="#61717a">位。</text>
+<rect x="1308" y="1300" width="534" height="365" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1325" y="1337" font-size="25" font-weight="600" fill="#356844">把這組立即用一次</text>
+<text x="1325" y="1389" font-size="24" font-weight="400" fill="#24343f">吸收帶的內在強度、濃度、光徑與接觸都可能</text>
+<text x="1325" y="1423.08" font-size="24" font-weight="400" fill="#24343f">影響峰高。</text>
+<text x="1325" y="1457.16" font-size="24" font-weight="400" fill="#24343f">看到峰低，先列候選原因，再用條件區分。</text>
+<text x="1325" y="1617" font-size="22" font-weight="400" fill="#61717a">回正文對應 L，或複習同號 R。</text>
+<rect x="50" y="1760" width="570" height="1350" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="1803" font-size="27" font-weight="600" fill="#685185">D｜製樣與晶形</text>
+<text x="72" y="1846" font-size="23" font-weight="400" fill="#24343f">先取得可量訊號，並保留要比較的狀態。</text>
+<rect x="68" y="1910" width="534" height="365" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="85" y="1942" font-size="25" font-weight="600" fill="#685185">L09｜穿透製樣與飽和</text>
+<text x="85" y="1982" font-size="22" font-weight="400" fill="#24343f">入口 M02｜厚度、介質、顆粒與含水量</text>
+<text x="85" y="2060" font-size="23" font-weight="400" fill="#24343f">控制厚度／稀釋與粒徑 → 得到可用透射光 → 減</text>
+<text x="85" y="2092.66" font-size="23" font-weight="400" fill="#24343f">少飽和與散射</text>
+<text x="85" y="2162" font-size="22" font-weight="400" fill="#685185">出口 M03｜可讀的穿透訊號</text>
+<text x="85" y="2227" font-size="21" font-weight="400" fill="#61717a">條件：鹽窗怕水；mg 與 0.1–0.2 mm 是題本量級，非</text>
+<text x="85" y="2256.82" font-size="21" font-weight="400" fill="#61717a">通用附件規格。</text>
+<rect x="68" y="2300" width="534" height="365" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="85" y="2332" font-size="25" font-weight="600" fill="#685185">L10｜晶形與製樣效應</text>
+<text x="85" y="2372" font-size="22" font-weight="400" fill="#24343f">入口 M02｜原固態＋研磨／壓力／溶劑歷程</text>
+<text x="85" y="2450" font-size="23" font-weight="400" fill="#24343f">製樣可能改晶形 → 光譜代表製樣後狀態 → 判斷</text>
+<text x="85" y="2482.66" font-size="23" font-weight="400" fill="#24343f">能否回推原樣</text>
+<text x="85" y="2552" font-size="22" font-weight="400" fill="#685185">出口 M04｜可比的固態差異與晶形結論</text>
+<text x="85" y="2617" font-size="21" font-weight="400" fill="#61717a">條件：ATR 常需接觸壓力；溶解通常失去原晶格資訊</text>
+<text x="85" y="2646.82" font-size="21" font-weight="400" fill="#61717a">。</text>
+<rect x="68" y="2690" width="534" height="365" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="85" y="2727" font-size="25" font-weight="600" fill="#685185">把這組立即用一次</text>
+<text x="85" y="2779" font-size="24" font-weight="400" fill="#24343f">同化學物不代表同晶形；相同溶液譜也不能回</text>
+<text x="85" y="2813.08" font-size="24" font-weight="400" fill="#24343f">推原粉末晶形相同。</text>
+<text x="85" y="3007" font-size="22" font-weight="400" fill="#61717a">回正文對應 L，或複習同號 R。</text>
+<rect x="670" y="1760" width="570" height="1350" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="692" y="1803" font-size="27" font-weight="600" fill="#326991">E｜光路與取樣配置</text>
+<text x="692" y="1846" font-size="23" font-weight="400" fill="#24343f">取樣附件與光譜取得方式分層。</text>
+<rect x="688" y="1910" width="534" height="365" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="705" y="1942" font-size="25" font-weight="600" fill="#326991">L11｜ATR／DRIFT 取樣</text>
+<text x="705" y="1982" font-size="22" font-weight="400" fill="#24343f">入口 M02｜晶體接觸或粉末散射條件</text>
+<text x="705" y="2060" font-size="23" font-weight="400" fill="#24343f">選附件 → 倏逝場吸收／漫反射 → 得到附件對應</text>
+<text x="705" y="2092.66" font-size="23" font-weight="400" fill="#24343f">訊號</text>
+<text x="705" y="2162" font-size="22" font-weight="400" fill="#326991">出口 M03｜ATR 光譜或 R∞、F(R∞)</text>
+<text x="705" y="2227" font-size="21" font-weight="400" fill="#61717a">條件：ATR 查接觸；DRIFT 查粒徑、填裝、S；F 不是 </text>
+<text x="705" y="2256.82" font-size="21" font-weight="400" fill="#61717a">A。</text>
+<rect x="688" y="2300" width="534" height="365" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="705" y="2332" font-size="25" font-weight="600" fill="#326991">L12｜FT-IR 光譜取得</text>
+<text x="705" y="2372" font-size="22" font-weight="400" fill="#24343f">入口 M02｜兩臂光程差＋偵測器訊號</text>
+<text x="705" y="2450" font-size="23" font-weight="400" fill="#24343f">分光與重組 → 記錄干涉圖 → FT 得波數光譜 → </text>
+<text x="705" y="2482.66" font-size="23" font-weight="400" fill="#24343f">樣品／背景比值</text>
+<text x="705" y="2552" font-size="22" font-weight="400" fill="#326991">出口 M03｜T 或 A 的波數光譜</text>
+<text x="705" y="2617" font-size="21" font-weight="400" fill="#61717a">條件：背景與樣品各自 FT 後相除；不是干涉圖直接逐</text>
+<text x="705" y="2646.82" font-size="21" font-weight="400" fill="#61717a">點相除。</text>
+<rect x="688" y="2690" width="534" height="365" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="705" y="2727" font-size="25" font-weight="600" fill="#326991">把這組立即用一次</text>
+<text x="705" y="2779" font-size="24" font-weight="400" fill="#24343f">FT-IR 取得光譜，ATR 取樣表層；兩者可組合，</text>
+<text x="705" y="2813.08" font-size="24" font-weight="400" fill="#24343f">不是二選一。</text>
+<text x="705" y="3007" font-size="22" font-weight="400" fill="#61717a">回正文對應 L，或複習同號 R。</text>
+<rect x="1290" y="1760" width="570" height="1350" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1312" y="1803" font-size="27" font-weight="600" fill="#b72d4a">F｜身分、模型與品質</text>
+<text x="1312" y="1846" font-size="23" font-weight="400" fill="#24343f">把證據交回目的，條件合格才下結論。</text>
+<rect x="1308" y="1910" width="534" height="365" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1325" y="1942" font-size="25" font-weight="600" fill="#b72d4a">L08｜完整比對與證據</text>
+<text x="1325" y="1982" font-size="22" font-weight="400" fill="#24343f">入口 M03｜檢品／標準的完整可用光譜</text>
+<text x="1325" y="2060" font-size="23" font-weight="400" fill="#24343f">先控制方法與晶形 → 比較基團及指紋 → 判斷證</text>
+<text x="1325" y="2092.66" font-size="23" font-weight="400" fill="#24343f">據是否支持身分</text>
+<text x="1325" y="2162" font-size="22" font-weight="400" fill="#b72d4a">出口 M04｜身分支持與結論界線</text>
+<text x="1325" y="2227" font-size="21" font-weight="400" fill="#61717a">條件：普通非手性 IR 不能普遍分辨對映異構物；匹配</text>
+<text x="1325" y="2256.82" font-size="21" font-weight="400" fill="#61717a">不等於含量合格。</text>
+<rect x="1308" y="2300" width="534" height="365" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1325" y="2332" font-size="25" font-weight="600" fill="#b72d4a">L13｜NIR 模型與驗證</text>
+<text x="1325" y="2372" font-size="22" font-weight="400" fill="#24343f">入口 M03｜近紅外訊號＋校正資料及參考值</text>
+<text x="1325" y="2450" font-size="23" font-weight="400" fill="#24343f">弱倍頻／組合帶與重疊 → 建立校正模型 → 獨立</text>
+<text x="1325" y="2482.66" font-size="23" font-weight="400" fill="#24343f">驗證 → 在範圍內預測</text>
+<text x="1325" y="2552" font-size="22" font-weight="400" fill="#b72d4a">出口 M04｜附適用範圍的模型結果</text>
+<text x="1325" y="2617" font-size="21" font-weight="400" fill="#61717a">條件：蛋白質含量不等於生物活性；價格題與限制題</text>
+<text x="1325" y="2646.82" font-size="21" font-weight="400" fill="#61717a">按題本條件。</text>
+<rect x="1308" y="2690" width="534" height="365" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1325" y="2722" font-size="25" font-weight="600" fill="#b72d4a">L14｜品質與條件回查</text>
+<text x="1325" y="2762" font-size="22" font-weight="400" fill="#24343f">入口 M04｜初步結論＋接受標準＋原始資料</text>
+<text x="1325" y="2840" font-size="23" font-weight="400" fill="#24343f">找不符症狀 → 回查實際出錯站 → 修正再測／再</text>
+<text x="1325" y="2872.66" font-size="23" font-weight="400" fill="#24343f">讀 → 核對結論</text>
+<text x="1325" y="2942" font-size="22" font-weight="400" fill="#b72d4a">出口 M04｜合格結論，或指定回查站</text>
+<text x="1325" y="3007" font-size="21" font-weight="400" fill="#61717a">條件：紅回線是分析者回查；條件合格便正常交出結</text>
+<text x="1325" y="3036.82" font-size="21" font-weight="400" fill="#61717a">論。</text>
+<rect x="50" y="3200" width="1800" height="235" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="3241" font-size="27" font-weight="600" fill="#9e771c">一條完整示範路線</text>
+<text x="72" y="3288" font-size="24" font-weight="400" fill="#24343f">M01 問官能基 → M02 相容製樣與取得訊號 → M03 讀 3200–3500 cm⁻¹</text>
+<text x="72" y="3322.08" font-size="24" font-weight="400" fill="#24343f">→ L05 確認波數軸 → L06 依候選與經驗範圍 → M04 選 H–O（Q04）。</text>
+<text x="72" y="3356.16" font-size="24" font-weight="400" fill="#24343f">若結論不夠：指認缺少的帶形／結構證據，回實際需要補資料的站。</text>
+<text x="50" y="3512" font-size="20" font-weight="400" fill="#61717a">全部 14 條 L 各有一個主要位置；顏色和兩份講義的六組存檔點一致。k＝力常數；μᵣ＝折合質量。</text>
+<text x="50" y="3548" font-size="20" font-weight="400" fill="#61717a">原題：ch28 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

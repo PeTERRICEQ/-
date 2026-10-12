@@ -1,0 +1,239 @@
+<svg width="1900" height="5380" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 5380" role="img" aria-labelledby="gc3_g3_title gc3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="gc3_g3_title">GC｜全章方法分類與大小循環對照</title><desc id="gc3_g3_desc">氣相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4氣體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="5380" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH21 / GC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">GC｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">分離機制、前處理與偵測器是不同軸；同一頂空GC–MS方法可以同時屬多個條目。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<text x="50" y="418" font-size="29" font-weight="600" fill="#24343f">P01｜氣液分離 GLC〔分離機制〕</text>
+<rect x="50" y="455" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="496" font-size="27" font-weight="600" fill="#286c68">P1 對象／目的（M01）</text>
+<text x="72" y="544.34" font-size="24" font-weight="400" fill="#24343f">可氣化混合物＋液態固定相</text>
+<polyline points="470,635 505,635" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,635.0 493.6,641.2 493.6,628.8" fill="#61717a"/>
+<rect x="510" y="455" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="496" font-size="27" font-weight="600" fill="#286c68">P2 原理／條件（M02）</text>
+<text x="532" y="544.34" font-size="24" font-weight="400" fill="#24343f">選液膜、製樣、進樣與柱溫；氣相</text>
+<text x="532" y="578.42" font-size="24" font-weight="400" fill="#24343f">／液相反覆分配</text>
+<polyline points="930,635 965,635" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,635.0 953.6,641.2 953.6,628.8" fill="#61717a"/>
+<rect x="970" y="455" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="992" y="496" font-size="27" font-weight="600" fill="#286c68">P3 裝置／讀數（M03）</text>
+<text x="992" y="544.34" font-size="24" font-weight="400" fill="#24343f">tR、峰寬、面積；時間min、面積</text>
+<text x="992" y="578.42" font-size="24" font-weight="400" fill="#24343f">儀器單位</text>
+<polyline points="1390,635 1425,635" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,635.0 1413.6,641.2 1413.6,628.8" fill="#61717a"/>
+<rect x="1430" y="455" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1452" y="496" font-size="27" font-weight="600" fill="#286c68">P4 判定／限制（M04）</text>
+<text x="1452" y="544.34" font-size="24" font-weight="400" fill="#24343f">看相對保留與Rs，含量另經校正</text>
+<text x="1452" y="578.42" font-size="24" font-weight="400" fill="#24343f">限制｜不能把每支液相柱的次序當</text>
+<text x="1452" y="612.5" font-size="24" font-weight="400" fill="#24343f">相同</text>
+<text x="50" y="873" font-size="23" font-weight="400" fill="#61717a">掛載｜L01, L02, L04, L07；液膜決定相對作用；峰面積不是直接質量</text>
+<text x="50" y="933" font-size="29" font-weight="600" fill="#24343f">P02｜氣固分離 GSC〔分離機制〕</text>
+<rect x="50" y="970" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="1011" font-size="27" font-weight="600" fill="#286c68">P1 對象／目的（M01）</text>
+<text x="72" y="1059.34" font-size="24" font-weight="400" fill="#24343f">氣態／可氣化分析物＋固體表面</text>
+<polyline points="470,1150 505,1150" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,1150.0 493.6,1156.2 493.6,1143.8" fill="#61717a"/>
+<rect x="510" y="970" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="1011" font-size="27" font-weight="600" fill="#286c68">P2 原理／條件（M02）</text>
+<text x="532" y="1059.34" font-size="24" font-weight="400" fill="#24343f">選吸附材料與溫度；以吸附／脫附</text>
+<text x="532" y="1093.42" font-size="24" font-weight="400" fill="#24343f">造成保留差</text>
+<polyline points="930,1150 965,1150" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,1150.0 953.6,1156.2 953.6,1143.8" fill="#61717a"/>
+<rect x="970" y="970" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="992" y="1011" font-size="27" font-weight="600" fill="#286c68">P3 裝置／讀數（M03）</text>
+<text x="992" y="1059.34" font-size="24" font-weight="400" fill="#24343f">tR、峰寬、面積</text>
+<polyline points="1390,1150 1425,1150" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,1150.0 1413.6,1156.2 1413.6,1143.8" fill="#61717a"/>
+<rect x="1430" y="970" width="420" height="385" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1452" y="1011" font-size="27" font-weight="600" fill="#286c68">P4 判定／限制（M04）</text>
+<text x="1452" y="1059.34" font-size="24" font-weight="400" fill="#24343f">檢查選擇性、活性點與回收；校正</text>
+<text x="1452" y="1093.42" font-size="24" font-weight="400" fill="#24343f">所需成分</text>
+<text x="1452" y="1127.5" font-size="24" font-weight="400" fill="#24343f">限制｜PLOT是固體層；SCOT支持層</text>
+<text x="1452" y="1161.58" font-size="24" font-weight="400" fill="#24343f">載液相，不是同一分類</text>
+<text x="50" y="1388" font-size="23" font-weight="400" fill="#61717a">掛載｜L02, L09；表面親和與傳質差異決定停留</text>
+<text x="50" y="1448" font-size="29" font-weight="600" fill="#24343f">P03｜GC–MS〔偵測器搭配〕</text>
+<rect x="50" y="1485" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1526" font-size="27" font-weight="600" fill="#326991">P1 對象／目的（M01）</text>
+<text x="72" y="1574.34" font-size="24" font-weight="400" fill="#24343f">可GC且需鑑別／特定定量的成分</text>
+<polyline points="470,1665 505,1665" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,1665.0 493.6,1671.2 493.6,1658.8" fill="#61717a"/>
+<rect x="510" y="1485" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="532" y="1526" font-size="27" font-weight="600" fill="#326991">P2 原理／條件（M02）</text>
+<text x="532" y="1574.34" font-size="24" font-weight="400" fill="#24343f">適當GC分離→MS離子化→質量分</text>
+<text x="532" y="1608.42" font-size="24" font-weight="400" fill="#24343f">析</text>
+<polyline points="930,1665 965,1665" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,1665.0 953.6,1671.2 953.6,1658.8" fill="#61717a"/>
+<rect x="970" y="1485" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="1526" font-size="27" font-weight="600" fill="#326991">P3 裝置／讀數（M03）</text>
+<text x="992" y="1574.34" font-size="24" font-weight="400" fill="#24343f">tR＋m/z與相對強度；定量需指定離</text>
+<text x="992" y="1608.42" font-size="24" font-weight="400" fill="#24343f">子或訊號</text>
+<polyline points="1390,1665 1425,1665" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,1665.0 1413.6,1671.2 1413.6,1658.8" fill="#61717a"/>
+<rect x="1430" y="1485" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1452" y="1526" font-size="27" font-weight="600" fill="#326991">P4 判定／限制（M04）</text>
+<text x="1452" y="1574.34" font-size="24" font-weight="400" fill="#24343f">譜庫／標準／保留證據一起判斷，</text>
+<text x="1452" y="1608.42" font-size="24" font-weight="400" fill="#24343f">核對基質與校正</text>
+<text x="1452" y="1642.5" font-size="24" font-weight="400" fill="#24343f">限制｜MS不使完整蛋白自動可</text>
+<text x="1452" y="1676.58" font-size="24" font-weight="400" fill="#24343f">GC；不同m/z訊號不能直接互比含</text>
+<text x="1452" y="1710.66" font-size="24" font-weight="400" fill="#24343f">量</text>
+<text x="50" y="1903" font-size="23" font-weight="400" fill="#61717a">掛載｜L01, L23, L24；更多碎片資訊有助鑑別，但不是自動證明身分</text>
+<text x="50" y="1963" font-size="29" font-weight="600" fill="#24343f">P04｜GC–FTIR〔偵測器搭配〕</text>
+<rect x="50" y="2000" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2041" font-size="27" font-weight="600" fill="#326991">P1 對象／目的（M01）</text>
+<text x="72" y="2089.34" font-size="24" font-weight="400" fill="#24343f">可GC且需官能基／結構線索的成分</text>
+<polyline points="470,2180 505,2180" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,2180.0 493.6,2186.2 493.6,2173.8" fill="#61717a"/>
+<rect x="510" y="2000" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="532" y="2041" font-size="27" font-weight="600" fill="#326991">P2 原理／條件（M02）</text>
+<text x="532" y="2089.34" font-size="24" font-weight="400" fill="#24343f">GC分離→合適接口收集IR吸收</text>
+<polyline points="930,2180 965,2180" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,2180.0 953.6,2186.2 953.6,2173.8" fill="#61717a"/>
+<rect x="970" y="2000" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="2041" font-size="27" font-weight="600" fill="#326991">P3 裝置／讀數（M03）</text>
+<text x="992" y="2089.34" font-size="24" font-weight="400" fill="#24343f">tR＋波數cm⁻¹／吸收強度</text>
+<polyline points="1390,2180 1425,2180" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,2180.0 1413.6,2186.2 1413.6,2173.8" fill="#61717a"/>
+<rect x="1430" y="2000" width="420" height="385" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1452" y="2041" font-size="27" font-weight="600" fill="#326991">P4 判定／限制（M04）</text>
+<text x="1452" y="2089.34" font-size="24" font-weight="400" fill="#24343f">由紅外特徵與其他證據判讀，核對</text>
+<text x="1452" y="2123.42" font-size="24" font-weight="400" fill="#24343f">接口與低量限制</text>
+<text x="1452" y="2157.5" font-size="24" font-weight="400" fill="#24343f">限制｜不能把FTIR解析度直接當GC</text>
+<text x="1452" y="2191.58" font-size="24" font-weight="400" fill="#24343f">柱的Rs</text>
+<text x="50" y="2418" font-size="23" font-weight="400" fill="#61717a">掛載｜L23；IR吸收反映振動／官能基，與只量面積不同</text>
+<text x="50" y="2478" font-size="29" font-weight="600" fill="#24343f">P05｜Static headspace–GC〔前處理搭配〕</text>
+<rect x="50" y="2515" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="2556" font-size="27" font-weight="600" fill="#685185">P1 對象／目的（M01）</text>
+<text x="72" y="2604.34" font-size="24" font-weight="400" fill="#24343f">揮發性成分＋不易揮發基質</text>
+<polyline points="470,2695 505,2695" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,2695.0 493.6,2701.2 493.6,2688.8" fill="#61717a"/>
+<rect x="510" y="2515" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="532" y="2556" font-size="27" font-weight="600" fill="#685185">P2 原理／條件（M02）</text>
+<text x="532" y="2604.34" font-size="24" font-weight="400" fill="#24343f">密封瓶控溫至穩定分配→取上方氣</text>
+<text x="532" y="2638.42" font-size="24" font-weight="400" fill="#24343f">體→GC</text>
+<polyline points="930,2695 965,2695" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,2695.0 953.6,2701.2 953.6,2688.8" fill="#61717a"/>
+<rect x="970" y="2515" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="2556" font-size="27" font-weight="600" fill="#685185">P3 裝置／讀數（M03）</text>
+<text x="992" y="2604.34" font-size="24" font-weight="400" fill="#24343f">頂空tR與面積，非直接原液濃度</text>
+<polyline points="1390,2695 1425,2695" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,2695.0 1413.6,2701.2 1413.6,2688.8" fill="#61717a"/>
+<rect x="1430" y="2515" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1452" y="2556" font-size="27" font-weight="600" fill="#685185">P4 判定／限制（M04）</text>
+<text x="1452" y="2604.34" font-size="24" font-weight="400" fill="#24343f">匹配溫度、基質、相比與標準，回</text>
+<text x="1452" y="2638.42" font-size="24" font-weight="400" fill="#24343f">算原樣定義的含量</text>
+<text x="1452" y="2672.5" font-size="24" font-weight="400" fill="#24343f">限制｜「平衡」不等於任何溫度都</text>
+<text x="1452" y="2706.58" font-size="24" font-weight="400" fill="#24343f">能；head不是柱頭</text>
+<text x="50" y="2933" font-size="23" font-weight="400" fill="#61717a">掛載｜L01, L14, L24；取揮發部分，避免多數非揮發基質進柱</text>
+<text x="50" y="2993" font-size="29" font-weight="600" fill="#24343f">P06｜SPME–GC〔前處理搭配〕</text>
+<rect x="50" y="3030" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="3071" font-size="27" font-weight="600" fill="#685185">P1 對象／目的（M01）</text>
+<text x="72" y="3119.34" font-size="24" font-weight="400" fill="#24343f">可被塗層萃取且可脫附的成分</text>
+<polyline points="470,3210 505,3210" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,3210.0 493.6,3216.2 493.6,3203.8" fill="#61717a"/>
+<rect x="510" y="3030" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="532" y="3071" font-size="27" font-weight="600" fill="#685185">P2 原理／條件（M02）</text>
+<text x="532" y="3119.34" font-size="24" font-weight="400" fill="#24343f">選HS或DI模式、纖維、時間→熱脫</text>
+<text x="532" y="3153.42" font-size="24" font-weight="400" fill="#24343f">附→GC</text>
+<polyline points="930,3210 965,3210" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,3210.0 953.6,3216.2 953.6,3203.8" fill="#61717a"/>
+<rect x="970" y="3030" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="3071" font-size="27" font-weight="600" fill="#685185">P3 裝置／讀數（M03）</text>
+<text x="992" y="3119.34" font-size="24" font-weight="400" fill="#24343f">富集後面積／峰形</text>
+<polyline points="1390,3210 1425,3210" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,3210.0 1413.6,3216.2 1413.6,3203.8" fill="#61717a"/>
+<rect x="1430" y="3030" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1452" y="3071" font-size="27" font-weight="600" fill="#685185">P4 判定／限制（M04）</text>
+<text x="1452" y="3119.34" font-size="24" font-weight="400" fill="#24343f">依萃取與脫附條件校正，檢查競爭</text>
+<text x="1452" y="3153.42" font-size="24" font-weight="400" fill="#24343f">／回收</text>
+<text x="1452" y="3187.5" font-size="24" font-weight="400" fill="#24343f">限制｜HS-SPME與直接浸入</text>
+<text x="1452" y="3221.58" font-size="24" font-weight="400" fill="#24343f">DI-SPME不同；不用溶劑仍需校正</text>
+<text x="50" y="3448" font-size="23" font-weight="400" fill="#61717a">掛載｜L15, L24, L27；塗層分配或吸附可增加送入量，並非偵測器改名</text>
+<text x="50" y="3508" font-size="29" font-weight="600" fill="#24343f">P07｜Purge-and-trap–GC〔前處理搭配〕</text>
+<rect x="50" y="3545" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="3586" font-size="27" font-weight="600" fill="#685185">P1 對象／目的（M01）</text>
+<text x="72" y="3634.34" font-size="24" font-weight="400" fill="#24343f">水中低量揮發物等適用樣品</text>
+<polyline points="470,3725 505,3725" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,3725.0 493.6,3731.2 493.6,3718.8" fill="#61717a"/>
+<rect x="510" y="3545" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="532" y="3586" font-size="27" font-weight="600" fill="#685185">P2 原理／條件（M02）</text>
+<text x="532" y="3634.34" font-size="24" font-weight="400" fill="#24343f">氣流吹出→捕捉阱富集→熱脫附→</text>
+<text x="532" y="3668.42" font-size="24" font-weight="400" fill="#24343f">GC</text>
+<polyline points="930,3725 965,3725" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,3725.0 953.6,3731.2 953.6,3718.8" fill="#61717a"/>
+<rect x="970" y="3545" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="3586" font-size="27" font-weight="600" fill="#685185">P3 裝置／讀數（M03）</text>
+<text x="992" y="3634.34" font-size="24" font-weight="400" fill="#24343f">脫附後面積、回收與空白</text>
+<polyline points="1390,3725 1425,3725" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,3725.0 1413.6,3731.2 1413.6,3718.8" fill="#61717a"/>
+<rect x="1430" y="3545" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1452" y="3586" font-size="27" font-weight="600" fill="#685185">P4 判定／限制（M04）</text>
+<text x="1452" y="3634.34" font-size="24" font-weight="400" fill="#24343f">校正富集流程，查突破、含水與污</text>
+<text x="1452" y="3668.42" font-size="24" font-weight="400" fill="#24343f">染</text>
+<text x="1452" y="3702.5" font-size="24" font-weight="400" fill="#24343f">限制｜不是SPME纖維；吹得久不保</text>
+<text x="1452" y="3736.58" font-size="24" font-weight="400" fill="#24343f">證捕捉完全</text>
+<text x="50" y="3963" font-size="23" font-weight="400" fill="#61717a">掛載｜L15, L24, L27；先把少量成分集中，增加進柱量</text>
+<text x="50" y="4023" font-size="29" font-weight="600" fill="#24343f">P08｜Derivatization–GC〔化學前處理搭配〕</text>
+<rect x="50" y="4060" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="4101" font-size="27" font-weight="600" fill="#685185">P1 對象／目的（M01）</text>
+<text x="72" y="4149.34" font-size="24" font-weight="400" fill="#24343f">直接GC困難或需加偵測特徵的分析</text>
+<text x="72" y="4183.42" font-size="24" font-weight="400" fill="#24343f">物</text>
+<polyline points="470,4240 505,4240" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="505.0,4240.0 493.6,4246.2 493.6,4233.8" fill="#61717a"/>
+<rect x="510" y="4060" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="532" y="4101" font-size="27" font-weight="600" fill="#685185">P2 原理／條件（M02）</text>
+<text x="532" y="4149.34" font-size="24" font-weight="400" fill="#24343f">選可驗證反應→產物→GC分離／偵</text>
+<text x="532" y="4183.42" font-size="24" font-weight="400" fill="#24343f">測</text>
+<polyline points="930,4240 965,4240" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="965.0,4240.0 953.6,4246.2 953.6,4233.8" fill="#61717a"/>
+<rect x="970" y="4060" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="992" y="4101" font-size="27" font-weight="600" fill="#685185">P3 裝置／讀數（M03）</text>
+<text x="992" y="4149.34" font-size="24" font-weight="400" fill="#24343f">衍生物tR、面積、可能多個產物</text>
+<polyline points="1390,4240 1425,4240" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1425.0,4240.0 1413.6,4246.2 1413.6,4233.8" fill="#61717a"/>
+<rect x="1430" y="4060" width="420" height="385" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1452" y="4101" font-size="27" font-weight="600" fill="#685185">P4 判定／限制（M04）</text>
+<text x="1452" y="4149.34" font-size="24" font-weight="400" fill="#24343f">核對反應率、穩定性、空白；回算</text>
+<text x="1452" y="4183.42" font-size="24" font-weight="400" fill="#24343f">原分析物</text>
+<text x="1452" y="4217.5" font-size="24" font-weight="400" fill="#24343f">限制｜反應產物與所加試劑不同；</text>
+<text x="1452" y="4251.58" font-size="24" font-weight="400" fill="#24343f">不能漏掉反應校正</text>
+<text x="50" y="4478" font-size="23" font-weight="400" fill="#61717a">掛載｜L17, L18, L24；改活性氫／官能基或加標記，改變揮發與反應</text>
+<rect x="50" y="4540" width="870" height="370" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="4581" font-size="27" font-weight="600" fill="#356844">結構軸｜固定相位置／管材</text>
+<text x="72" y="4629.34" font-size="24" font-weight="400" fill="#24343f">Packed｜顆粒床，液膜分配或固相吸附</text>
+<text x="72" y="4663.42" font-size="24" font-weight="400" fill="#24343f">WCOT｜內壁液膜；SCOT｜內壁支持層＋液相</text>
+<text x="72" y="4697.5" font-size="24" font-weight="400" fill="#24343f">PLOT｜內壁多孔固層〔補充〕</text>
+<text x="72" y="4731.58" font-size="24" font-weight="400" fill="#24343f">FSOT｜熔融石英材質，可同時是WCOT</text>
+<text x="72" y="4765.66" font-size="24" font-weight="400" fill="#24343f">不銹鋼毛細管存在，不能說毛細管只用玻璃。</text>
+<rect x="970" y="4540" width="880" height="370" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="4581" font-size="27" font-weight="600" fill="#326991">操作軸｜溫度模式、進樣與偵測</text>
+<text x="992" y="4629.34" font-size="24" font-weight="400" fill="#24343f">柱爐｜等溫／程式升溫；PTV另控制進樣口</text>
+<text x="992" y="4663.42" font-size="24" font-weight="400" fill="#24343f">進樣｜split、splitless、PTV、cold on-column〔補充〕</text>
+<text x="992" y="4697.5" font-size="24" font-weight="400" fill="#24343f">前處理｜HS、SPME、吹氣捕捉、衍生化等</text>
+<text x="992" y="4731.58" font-size="24" font-weight="400" fill="#24343f">偵測｜FID／ECD／TCD／NPD／MSD／FTIR／放射／AED</text>
+<text x="992" y="4765.66" font-size="24" font-weight="400" fill="#24343f">選項配對依問題，不用「有MS永遠選MS」。</text>
+<rect x="50" y="4960" width="1800" height="240" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="5001" font-size="27" font-weight="600" fill="#b72d4a">分類如何回到判讀</text>
+<text x="72" y="5049.34" font-size="24" font-weight="400" fill="#24343f">例｜錠劑殘留溶劑：M01選揮發雜質 → P05頂空製樣＋P01氣液柱分離＋P03 MS偵測 → M03訊號 → M04校正與原樣含量。</text>
+<text x="72" y="5083.42" font-size="24" font-weight="400" fill="#24343f">目的不清回M01；取樣失衡回M02；響應／單位不清回M03。這些回查是分析者的判斷。</text>
+<text x="50" y="5312" font-size="20" font-weight="400" fill="#61717a">八條P是可組合的方法／配置；四站使用同一組M01–04定義。題本只提供部分方法細節，補充均已標示。</text>
+<text x="50" y="5348" font-size="20" font-weight="400" fill="#61717a">原題：CH21 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

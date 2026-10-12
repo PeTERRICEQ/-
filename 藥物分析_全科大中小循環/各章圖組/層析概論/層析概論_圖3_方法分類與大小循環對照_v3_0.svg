@@ -1,0 +1,145 @@
+<svg width="1900" height="3000" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3000" role="img" aria-labelledby="chr3_g3_title chr3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="chr3_g3_title">層析概論｜全章方法分類與大小循環對照</title><desc id="chr3_g3_desc">層析概論教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線為液體流路、綠線為樣品／離子路徑。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3000" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH18 / CHROMATOGRAPHY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">層析概論｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">同一方法可同時有物態、形式、機制與模式；分類用群組，測量流程才用箭頭。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="370" width="576" height="375" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="412" font-size="27" font-weight="600" fill="#9e771c">動相物態</text>
+<text x="72" y="464.34" font-size="23" font-weight="400" fill="#24343f">LC液體；GC氣體；SFC超臨界流體。</text>
+<text x="72" y="497" font-size="23" font-weight="400" fill="#24343f">固定相可為固體，或由載體保持的液體。</text>
+<text x="72" y="529.66" font-size="23" font-weight="400" fill="#24343f">相關L01；Q30修正「動相均液體」。</text>
+<rect x="662" y="370" width="576" height="375" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="684" y="412" font-size="27" font-weight="600" fill="#9e771c">裝置形式</text>
+<text x="684" y="464.34" font-size="23" font-weight="400" fill="#24343f">管柱：HPLC、GC等。</text>
+<text x="684" y="497" font-size="23" font-weight="400" fill="#24343f">平面：TLC、紙層析。</text>
+<text x="684" y="529.66" font-size="23" font-weight="400" fill="#24343f">時間峰與斑點遷移是不同讀數。</text>
+<rect x="1274" y="370" width="576" height="375" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1296" y="412" font-size="27" font-weight="600" fill="#9e771c">主要作用機制</text>
+<text x="1296" y="464.34" font-size="23" font-weight="400" fill="#24343f">吸附：表面作用。</text>
+<text x="1296" y="497" font-size="23" font-weight="400" fill="#24343f">分配：兩相濃度比。</text>
+<text x="1296" y="529.66" font-size="23" font-weight="400" fill="#24343f">離子交換：交換／帶電作用。</text>
+<text x="1296" y="562.32" font-size="23" font-weight="400" fill="#24343f">SEC尺寸排斥：可進入孔隙不同。</text>
+<rect x="50" y="800" width="880" height="225" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="842" font-size="27" font-weight="600" fill="#286c68">正相／逆相｜是模式差異</text>
+<text x="72" y="894.34" font-size="23" font-weight="400" fill="#24343f">正相常用極性固定相；逆相常用疏水固定相，如C18／ODS（Octadecylsilyl）。</text>
+<text x="72" y="927" font-size="23" font-weight="400" fill="#24343f">不能無條件背「較極性一定晚」；需查游離狀態與其他作用。</text>
+<rect x="970" y="800" width="880" height="225" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="992" y="842" font-size="27" font-weight="600" fill="#b72d4a">分析目的｜決定M03要讀什麼</text>
+<text x="992" y="894.34" font-size="23" font-weight="400" fill="#24343f">保留看tR與基準；兩峰分離看Rs；柱品質看H或N/L。</text>
+<text x="992" y="927" font-size="23" font-weight="400" fill="#24343f">定量看有效校正；身分確認看參考與互補證據。</text>
+<rect x="50" y="1085" width="420" height="120" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="1127" font-size="27" font-weight="600" fill="#61717a">P1｜M01對象與目的</text>
+<text x="72" y="1179.34" font-size="22" font-weight="400" fill="#24343f">本方法的差異放在這一站</text>
+<rect x="510" y="1085" width="420" height="120" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="532" y="1127" font-size="27" font-weight="600" fill="#61717a">P2｜M02原理與條件</text>
+<text x="532" y="1179.34" font-size="22" font-weight="400" fill="#24343f">本方法的差異放在這一站</text>
+<rect x="970" y="1085" width="420" height="120" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="992" y="1127" font-size="27" font-weight="600" fill="#61717a">P3｜M03裝置與讀數</text>
+<text x="992" y="1179.34" font-size="22" font-weight="400" fill="#24343f">本方法的差異放在這一站</text>
+<rect x="1430" y="1085" width="420" height="120" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1452" y="1127" font-size="27" font-weight="600" fill="#61717a">P4｜M04判定與限制</text>
+<text x="1452" y="1179.34" font-size="22" font-weight="400" fill="#24343f">本方法的差異放在這一站</text>
+<rect x="50" y="1235" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="1277" font-size="27" font-weight="600" fill="#61717a">HPLC｜目的</text>
+<text x="72" y="1329.34" font-size="23" font-weight="400" fill="#24343f">High-performance liquid</text>
+<text x="72" y="1362" font-size="23" font-weight="400" fill="#24343f">chromatography</text>
+<text x="72" y="1394.66" font-size="23" font-weight="400" fill="#24343f">相容溶液進樣，分離藥物／不純物；</text>
+<text x="72" y="1427.32" font-size="23" font-weight="400" fill="#24343f">如 Acetaminophen 的不純物或</text>
+<text x="72" y="1459.98" font-size="23" font-weight="400" fill="#24343f">Ketoprofen。定量還需選擇性與校</text>
+<text x="72" y="1492.64" font-size="23" font-weight="400" fill="#24343f">正。</text>
+<rect x="510" y="1235" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="532" y="1277" font-size="27" font-weight="600" fill="#61717a">HPLC｜作用</text>
+<text x="532" y="1329.34" font-size="23" font-weight="400" fill="#24343f">液體動相經柱分離；可採不同固定相</text>
+<text x="532" y="1362" font-size="23" font-weight="400" fill="#24343f">／機制。等度示例用 t₀、k′、α、</text>
+<text x="532" y="1394.66" font-size="23" font-weight="400" fill="#24343f">Rs、N、H；相組成、溫度、流量須</text>
+<text x="532" y="1427.32" font-size="23" font-weight="400" fill="#24343f">受控。</text>
+<rect x="970" y="1235" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="992" y="1277" font-size="27" font-weight="600" fill="#61717a">HPLC｜讀出</text>
+<text x="992" y="1329.34" font-size="23" font-weight="400" fill="#24343f">溶劑供應、泵、進樣器、管柱、相容</text>
+<text x="992" y="1362" font-size="23" font-weight="400" fill="#24343f">偵測器與資料系統；tR、W用min，</text>
+<text x="992" y="1394.66" font-size="23" font-weight="400" fill="#24343f">流量F用mL/min，面積用儀器面積單</text>
+<text x="992" y="1427.32" font-size="23" font-weight="400" fill="#24343f">位。</text>
+<rect x="1430" y="1235" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1452" y="1277" font-size="27" font-weight="600" fill="#61717a">HPLC｜證據</text>
+<text x="1452" y="1329.34" font-size="23" font-weight="400" fill="#24343f">按參考、校正及系統適用性判讀；共</text>
+<text x="1452" y="1362" font-size="23" font-weight="400" fill="#24343f">流出、管外展寬、過載、樣品溶劑及</text>
+<text x="1452" y="1394.66" font-size="23" font-weight="400" fill="#24343f">柱狀態可影響結果。tR相同不單獨證</text>
+<text x="1452" y="1427.32" font-size="23" font-weight="400" fill="#24343f">明身分。</text>
+<rect x="50" y="1670" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="1712" font-size="27" font-weight="600" fill="#61717a">GC｜目的</text>
+<text x="72" y="1764.34" font-size="23" font-weight="400" fill="#24343f">Gas chromatography</text>
+<text x="72" y="1797" font-size="23" font-weight="400" fill="#24343f">適合可揮發且熱穩定，或經相容衍生</text>
+<text x="72" y="1829.66" font-size="23" font-weight="400" fill="#24343f">化的成分；可用於適合的摻偽分析。</text>
+<text x="72" y="1862.32" font-size="23" font-weight="400" fill="#24343f">不是每種藥物都能直接進樣。</text>
+<rect x="510" y="1670" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="532" y="1712" font-size="27" font-weight="600" fill="#61717a">GC｜作用</text>
+<text x="532" y="1764.34" font-size="23" font-weight="400" fill="#24343f">氣體動相帶分析物經固定相；保留與</text>
+<text x="532" y="1797" font-size="23" font-weight="400" fill="#24343f">展寬也受溫度、載氣與柱配置影響。</text>
+<text x="532" y="1829.66" font-size="23" font-weight="400" fill="#24343f">本章定流量LC的體積式不能不修正就</text>
+<text x="532" y="1862.32" font-size="23" font-weight="400" fill="#24343f">搬到可壓縮氣體。</text>
+<rect x="970" y="1670" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="992" y="1712" font-size="27" font-weight="600" fill="#61717a">GC｜讀出</text>
+<text x="992" y="1764.34" font-size="23" font-weight="400" fill="#24343f">載氣、進樣口、柱／烘箱、相容偵測</text>
+<text x="992" y="1797" font-size="23" font-weight="400" fill="#24343f">器與資料系統；tR、W為時間，面積</text>
+<text x="992" y="1829.66" font-size="23" font-weight="400" fill="#24343f">需指定偵測與處理。</text>
+<rect x="1430" y="1670" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1452" y="1712" font-size="27" font-weight="600" fill="#61717a">GC｜證據</text>
+<text x="1452" y="1764.34" font-size="23" font-weight="400" fill="#24343f">與適當標準及偵測證據比對；熱分</text>
+<text x="1452" y="1797" font-size="23" font-weight="400" fill="#24343f">解、進樣歧視、共流出可干擾。原題</text>
+<text x="1452" y="1829.66" font-size="23" font-weight="400" fill="#24343f">列GC可作確認方法，並未證明所有檢</text>
+<text x="1452" y="1862.32" font-size="23" font-weight="400" fill="#24343f">品均適用。</text>
+<rect x="50" y="2105" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2147" font-size="27" font-weight="600" fill="#61717a">TLC｜目的</text>
+<text x="72" y="2199.34" font-size="23" font-weight="400" fill="#24343f">Thin-layer chromatography</text>
+<text x="72" y="2232" font-size="23" font-weight="400" fill="#24343f">相容檢品點樣，供分離／比對斑點、</text>
+<text x="72" y="2264.66" font-size="23" font-weight="400" fill="#24343f">摻偽或身分線索；定量另需適當掃描</text>
+<text x="72" y="2297.32" font-size="23" font-weight="400" fill="#24343f">與校正。</text>
+<rect x="510" y="2105" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="532" y="2147" font-size="27" font-weight="600" fill="#61717a">TLC｜作用</text>
+<text x="532" y="2199.34" font-size="23" font-weight="400" fill="#24343f">薄層固定相與展開溶劑形成差異遷</text>
+<text x="532" y="2232" font-size="23" font-weight="400" fill="#24343f">移；點樣、展開與前緣標記一致。斑</text>
+<text x="532" y="2264.66" font-size="23" font-weight="400" fill="#24343f">點位置不是管柱保留時間。</text>
+<rect x="970" y="2105" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="992" y="2147" font-size="27" font-weight="600" fill="#61717a">TLC｜讀出</text>
+<text x="992" y="2199.34" font-size="23" font-weight="400" fill="#24343f">薄層板、點樣器、展開槽、展開溶劑</text>
+<text x="992" y="2232" font-size="23" font-weight="400" fill="#24343f">及適當顯色／觀察。Rf=斑點中心走</text>
+<text x="992" y="2264.66" font-size="23" font-weight="400" fill="#24343f">的距離÷溶劑前緣距離，兩距離從同</text>
+<text x="992" y="2297.32" font-size="23" font-weight="400" fill="#24343f">一起點量，無單位。</text>
+<rect x="1430" y="2105" width="420" height="390" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1452" y="2147" font-size="27" font-weight="600" fill="#61717a">TLC｜證據</text>
+<text x="1452" y="2199.34" font-size="23" font-weight="400" fill="#24343f">與同條件標準並行比較位置與顯色；</text>
+<text x="1452" y="2232" font-size="23" font-weight="400" fill="#24343f">共遷移、點樣過大、槽條件不一致影</text>
+<text x="1452" y="2264.66" font-size="23" font-weight="400" fill="#24343f">響結論。單一相同Rf仍不足以唯一確</text>
+<text x="1452" y="2297.32" font-size="23" font-weight="400" fill="#24343f">認未知物。</text>
+<rect x="50" y="2590" width="880" height="255" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="2632" font-size="27" font-weight="600" fill="#b72d4a">LC-ESI-MS｜配置，不另列成一種固定相</text>
+<text x="72" y="2684.34" font-size="23" font-weight="400" fill="#24343f">M01分離並辨識 → M02以LC分離、ESI電灑游離 → M03以MS讀m/z與離子豐度 →</text>
+<text x="72" y="2717" font-size="23" font-weight="400" fill="#24343f">M04核對參考。</text>
+<text x="72" y="2749.66" font-size="23" font-weight="400" fill="#24343f">Q41：0.21 cm=2.1 mm；是題本配對，不是ESI普遍尺寸上限。</text>
+<rect x="970" y="2590" width="880" height="255" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="992" y="2632" font-size="27" font-weight="600" fill="#61717a">其他辨識位置與反例</text>
+<text x="992" y="2684.34" font-size="23" font-weight="400" fill="#24343f">紙層析、SFC：概論分類補充，不冒稱53題另有完整操作題。</text>
+<text x="992" y="2717" font-size="23" font-weight="400" fill="#24343f">AES原子放射看元素；Q26不把元素當特定有機西藥的唯一分子確認。</text>
+<text x="992" y="2749.66" font-size="23" font-weight="400" fill="#24343f">TLC補充：Rf=斑點中心距離／前緣距離，同起點、無單位。</text>
+<text x="50" y="2932" font-size="20" font-weight="400" fill="#61717a">核心方法HPLC、GC、TLC各走P1–P4；ESI是游離介面、MS是離子讀出。補充分類來源：IUPAC、USP公開導論。</text>
+<text x="50" y="2968" font-size="20" font-weight="400" fill="#61717a">原題：CH18 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

@@ -1,0 +1,211 @@
+<svg width="1900" height="4810" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4810" role="img" aria-labelledby="hplc3_g2_title hplc3_g2_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="hplc3_g2_title">HPLC｜24 個小循環的掛載點</title><desc id="hplc3_g2_desc">高效能液相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4液體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4810" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH20 / HPLC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">HPLC｜24 個小循環的掛載點</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">每個面板是一個存檔點；入口提供什麼、短鏈做什麼、出口如何用，都接回四站。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="365" width="580" height="1890" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="70" y="408" font-size="28" font-weight="600" fill="#9e771c">A｜先走儀器、讀訊號</text>
+<text x="70" y="460" font-size="23" font-weight="400" fill="#24343f">目的、流路與讀數先分清，才知道該比較哪個量。</text>
+<rect x="65" y="540" width="550" height="395" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="581" font-size="27" font-weight="600" fill="#9e771c">L01｜什麼檢品適合走液相分析？</text>
+<text x="87" y="629.34" font-size="23" font-weight="400" fill="#24343f">入 M01：檢品的溶解性、穩定性及分析目的</text>
+<text x="87" y="662" font-size="23" font-weight="400" fill="#24343f">鏈：可溶且方法條件相容 → 選液相分離與偵測 →</text>
+<text x="87" y="694.66" font-size="23" font-weight="400" fill="#24343f">留下可測的檢品</text>
+<text x="87" y="727.32" font-size="23" font-weight="400" fill="#24343f">出 M02：方法適用性與檢品處理需求</text>
+<rect x="65" y="960" width="550" height="395" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="1001" font-size="27" font-weight="600" fill="#9e771c">L02｜幫浦、進樣器與管柱各改變什麼？</text>
+<text x="87" y="1049.34" font-size="23" font-weight="400" fill="#24343f">入 M02：流路、流量及固定的進樣量</text>
+<text x="87" y="1082" font-size="23" font-weight="400" fill="#24343f">鏈：穩定送液／定量進樣 → 柱內不同保留 → 偵</text>
+<text x="87" y="1114.66" font-size="23" font-weight="400" fill="#24343f">測器隨時間記錄</text>
+<text x="87" y="1147.32" font-size="23" font-weight="400" fill="#24343f">出 M03：具有時間基準的層析圖</text>
+<rect x="65" y="1380" width="550" height="395" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="1421" font-size="27" font-weight="600" fill="#9e771c">L03｜峰的位置、面積與寬度各回答什麼？</text>
+<text x="87" y="1469.34" font-size="23" font-weight="400" fill="#24343f">入 M03：時間軸、峰訊號與相應參考</text>
+<text x="87" y="1502" font-size="23" font-weight="400" fill="#24343f">鏈：時間／面積／寬度分開讀 → 配對保留／量／</text>
+<text x="87" y="1534.66" font-size="23" font-weight="400" fill="#24343f">效率 → 得到有證據的結論</text>
+<text x="87" y="1567.32" font-size="23" font-weight="400" fill="#24343f">出 M04：所求量與可支持的判讀</text>
+<rect x="65" y="1800" width="550" height="395" rx="18" fill="#fff" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="1841" font-size="27" font-weight="600" fill="#9e771c">L04｜溶劑能混合，和能拿來萃取，有何差</text>
+<text x="87" y="1879.34" font-size="27" font-weight="600" fill="#9e771c">別？</text>
+<text x="87" y="1927.68" font-size="23" font-weight="400" fill="#24343f">入 M02：樣品基質、互溶性、目的與溶解度</text>
+<text x="87" y="1960.34" font-size="23" font-weight="400" fill="#24343f">鏈：均相作移動相／兩相作萃取 → 控制分配與回</text>
+<text x="87" y="1993" font-size="23" font-weight="400" fill="#24343f">收 → 取得可進樣溶液</text>
+<text x="87" y="2025.66" font-size="23" font-weight="400" fill="#24343f">出 M02：適合分離且回收可核對的製樣</text>
+<text x="70" y="2232" font-size="22" font-weight="400" fill="#9e771c">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="660" y="365" width="580" height="1890" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="680" y="408" font-size="28" font-weight="600" fill="#286c68">B｜分清保留與固定相</text>
+<text x="680" y="460" font-size="23" font-weight="400" fill="#24343f">先認固定相與作用，再比較分析物的可用差異。</text>
+<rect x="675" y="540" width="550" height="395" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="697" y="581" font-size="27" font-weight="600" fill="#286c68">L05｜在裸矽膠上，誰會比較晚流出？</text>
+<text x="697" y="629.34" font-size="23" font-weight="400" fill="#24343f">入 M02：極性固定相、適當低極性移動相及分析</text>
+<text x="697" y="662" font-size="23" font-weight="400" fill="#24343f">物</text>
+<text x="697" y="694.66" font-size="23" font-weight="400" fill="#24343f">鏈：矽膠作用較強 → 在表面停留較久 → tR 較長</text>
+<text x="697" y="727.32" font-size="23" font-weight="400" fill="#24343f">出 M04：正相的流出次序</text>
+<rect x="675" y="960" width="550" height="395" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="697" y="1001" font-size="27" font-weight="600" fill="#286c68">L06｜在 C18 上，誰會比較晚流出？</text>
+<text x="697" y="1049.34" font-size="23" font-weight="400" fill="#24343f">入 M02：疏水固定相、移動相與分析物在該 pH</text>
+<text x="697" y="1082" font-size="23" font-weight="400" fill="#24343f">的性質</text>
+<text x="697" y="1114.66" font-size="23" font-weight="400" fill="#24343f">鏈：較強疏水保留 → 平均遷移較慢 → tR 較長</text>
+<text x="697" y="1147.32" font-size="23" font-weight="400" fill="#24343f">出 M04：逆相的相對流出次序</text>
+<rect x="675" y="1380" width="550" height="395" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="697" y="1421" font-size="27" font-weight="600" fill="#286c68">L07｜比較官能基時，要先固定哪些條件？</text>
+<text x="697" y="1469.34" font-size="23" font-weight="400" fill="#24343f">入 M02：完整結構、骨架、解離與選定模式</text>
+<text x="697" y="1502" font-size="23" font-weight="400" fill="#24343f">鏈：先比可用結構差異 → 判與兩相作用 → 指定</text>
+<text x="697" y="1534.66" font-size="23" font-weight="400" fill="#24343f">條件下排序</text>
+<text x="697" y="1567.32" font-size="23" font-weight="400" fill="#24343f">出 M04：有理由且有限定的結構排序</text>
+<rect x="675" y="1800" width="550" height="395" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="697" y="1841" font-size="27" font-weight="600" fill="#286c68">L08｜矽膠接上 C18 後，為何仍可能拖</text>
+<text x="697" y="1879.34" font-size="27" font-weight="600" fill="#286c68">尾？</text>
+<text x="697" y="1927.68" font-size="23" font-weight="400" fill="#24343f">入 M02：鍵結基團、殘餘矽醇基、pH 與峰形</text>
+<text x="697" y="1960.34" font-size="23" font-weight="400" fill="#24343f">鏈：殘餘表面與帶電分析物作用 → 保留不均／拖</text>
+<text x="697" y="1993" font-size="23" font-weight="400" fill="#24343f">尾 → 封端或調整條件</text>
+<text x="697" y="2025.66" font-size="23" font-weight="400" fill="#24343f">出 M04：固定相選擇與拖尾候選原因</text>
+<text x="680" y="2232" font-size="22" font-weight="400" fill="#286c68">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="1270" y="365" width="580" height="1890" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1290" y="408" font-size="28" font-weight="600" fill="#356844">C｜控制配方、酸鹼與時間</text>
+<text x="1290" y="460" font-size="23" font-weight="400" fill="#24343f">解離、溶劑強度與流量改的是不同環節。</text>
+<rect x="1285" y="540" width="550" height="395" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1307" y="581" font-size="27" font-weight="600" fill="#356844">L09｜酸與鹼改 pH，保留為何常往相反方</text>
+<text x="1307" y="619.34" font-size="27" font-weight="600" fill="#356844">向？</text>
+<text x="1307" y="667.68" font-size="23" font-weight="400" fill="#24343f">入 M02：分析物為酸或鹼、pKa、移動相 pH 與</text>
+<text x="1307" y="700.34" font-size="23" font-weight="400" fill="#24343f">RP 模式</text>
+<text x="1307" y="733" font-size="23" font-weight="400" fill="#24343f">鏈：pH 改解離比例 → 疏水保留改變 → tR 方向改</text>
+<text x="1307" y="765.66" font-size="23" font-weight="400" fill="#24343f">變</text>
+<text x="1307" y="798.32" font-size="23" font-weight="400" fill="#24343f">出 M04：酸鹼題的保留方向</text>
+<rect x="1285" y="960" width="550" height="395" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1307" y="1001" font-size="27" font-weight="600" fill="#356844">L10｜pKa 附近的 pH 改變，為何特別值得</text>
+<text x="1307" y="1039.34" font-size="27" font-weight="600" fill="#356844">注意？</text>
+<text x="1307" y="1087.68" font-size="23" font-weight="400" fill="#24343f">入 M02：pH 區間、pKa 及中性／離子態保留假設</text>
+<text x="1307" y="1120.34" font-size="23" font-weight="400" fill="#24343f">鏈：比較區間與 pKa → 解離比例變化 → 判題定</text>
+<text x="1307" y="1153" font-size="23" font-weight="400" fill="#24343f">保留變化</text>
+<text x="1307" y="1185.66" font-size="23" font-weight="400" fill="#24343f">出 M04：變動大小的近似判斷</text>
+<rect x="1285" y="1380" width="550" height="395" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1307" y="1421" font-size="27" font-weight="600" fill="#356844">L11｜移動相比例，怎樣轉成沖提強度？</text>
+<text x="1307" y="1469.34" font-size="23" font-weight="400" fill="#24343f">入 M02：模式、溶劑種類及明確的比例順序</text>
+<text x="1307" y="1502" font-size="23" font-weight="400" fill="#24343f">鏈：先認強溶劑 → 換成分率 → 比保留方向</text>
+<text x="1307" y="1534.66" font-size="23" font-weight="400" fill="#24343f">出 M04：較強／較弱沖提與 tR 順序</text>
+<rect x="1285" y="1800" width="550" height="395" rx="18" fill="#fff" stroke="#356844" stroke-width="2"/>
+<text x="1307" y="1841" font-size="27" font-weight="600" fill="#356844">L12｜縮短分析時間，和改善分離，是同一</text>
+<text x="1307" y="1879.34" font-size="27" font-weight="600" fill="#356844">件事嗎？</text>
+<text x="1307" y="1927.68" font-size="23" font-weight="400" fill="#24343f">入 M02：等度／梯度、流量、柱長、溫度與 Rs</text>
+<text x="1307" y="1960.34" font-size="23" font-weight="400" fill="#24343f">鏈：改變通過時間或保留 → 讀 tR／峰寬／峰距 →</text>
+<text x="1307" y="1993" font-size="23" font-weight="400" fill="#24343f">比時間與分離品質</text>
+<text x="1307" y="2025.66" font-size="23" font-weight="400" fill="#24343f">出 M04：有品質條件的操作調整</text>
+<text x="1290" y="2232" font-size="22" font-weight="400" fill="#356844">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="50" y="2315" width="580" height="1890" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="70" y="2358" font-size="28" font-weight="600" fill="#685185">D｜換一種分離依據</text>
+<text x="70" y="2410" font-size="23" font-weight="400" fill="#24343f">電荷、離子對、孔隙與親水層，各有自己的尺。</text>
+<rect x="65" y="2490" width="550" height="395" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="87" y="2531" font-size="27" font-weight="600" fill="#685185">L13｜陽離子交換樹脂為何帶負電？</text>
+<text x="87" y="2579.34" font-size="23" font-weight="400" fill="#24343f">入 M02：固定基團電荷、分析物電荷、pH 與競爭</text>
+<text x="87" y="2612" font-size="23" font-weight="400" fill="#24343f">離子</text>
+<text x="87" y="2644.66" font-size="23" font-weight="400" fill="#24343f">鏈：相反電荷吸引 → pH／競爭鹽改作用 → 不同</text>
+<text x="87" y="2677.32" font-size="23" font-weight="400" fill="#24343f">tR</text>
+<text x="87" y="2709.98" font-size="23" font-weight="400" fill="#24343f">出 M04：IEC 的保留與沖提方向</text>
+<rect x="65" y="2910" width="550" height="395" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="87" y="2951" font-size="27" font-weight="600" fill="#685185">L14｜離子對試劑要與誰帶相反電荷？</text>
+<text x="87" y="2999.34" font-size="23" font-weight="400" fill="#24343f">入 M02：分析物在 pH 下的電荷及試劑疏水端</text>
+<text x="87" y="3032" font-size="23" font-weight="400" fill="#24343f">鏈：反號作用／表面吸附 → 增加有效疏水保留 →</text>
+<text x="87" y="3064.66" font-size="23" font-weight="400" fill="#24343f">RP 更能留住離子</text>
+<text x="87" y="3097.32" font-size="23" font-weight="400" fill="#24343f">出 M04：離子對試劑選擇與相對 tR</text>
+<rect x="65" y="3330" width="550" height="395" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="87" y="3371" font-size="27" font-weight="600" fill="#685185">L15｜分子篩的大分子，為何反而先出？</text>
+<text x="87" y="3419.34" font-size="23" font-weight="400" fill="#24343f">入 M02：水動力尺寸、孔隙大小及有效分離範圍</text>
+<text x="87" y="3452" font-size="23" font-weight="400" fill="#24343f">鏈：大者少進孔 → 可走體積較小 → 較早流出</text>
+<text x="87" y="3484.66" font-size="23" font-weight="400" fill="#24343f">出 M04：SEC 的尺寸排序</text>
+<rect x="65" y="3750" width="550" height="395" rx="18" fill="#fff" stroke="#685185" stroke-width="2"/>
+<text x="87" y="3791" font-size="27" font-weight="600" fill="#685185">L16｜HILIC 為何用高有機相，卻留住親水</text>
+<text x="87" y="3829.34" font-size="27" font-weight="600" fill="#685185">物？</text>
+<text x="87" y="3877.68" font-size="23" font-weight="400" fill="#24343f">入 M02：親水表面、高有機／少量水相及電荷條</text>
+<text x="87" y="3910.34" font-size="23" font-weight="400" fill="#24343f">件</text>
+<text x="87" y="3943" font-size="23" font-weight="400" fill="#24343f">鏈：親水層／表面作用 → 親水物較易保留 → 加</text>
+<text x="87" y="3975.66" font-size="23" font-weight="400" fill="#24343f">水常較快沖出</text>
+<text x="87" y="4008.32" font-size="23" font-weight="400" fill="#24343f">出 M04：HILIC 的模式與題圖次序</text>
+<text x="70" y="4182" font-size="22" font-weight="400" fill="#685185">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="660" y="2315" width="580" height="1890" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="680" y="2358" font-size="28" font-weight="600" fill="#326991">E｜加上立體、反應與光學線索</text>
+<text x="680" y="2410" font-size="23" font-weight="400" fill="#24343f">先給出可分離或可偵測的差異，再讀光學訊號。</text>
+<rect x="675" y="2490" width="550" height="395" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="697" y="2531" font-size="27" font-weight="600" fill="#326991">L17｜鏡像異構物，靠什麼產生保留差異？</text>
+<text x="697" y="2579.34" font-size="23" font-weight="400" fill="#24343f">入 M02：對映異構物與可作用的對掌環境</text>
+<text x="697" y="2612" font-size="23" font-weight="400" fill="#24343f">鏈：與手性環境作用不同 → 自由能／保留不同 →</text>
+<text x="697" y="2644.66" font-size="23" font-weight="400" fill="#24343f">對映峰分開</text>
+<text x="697" y="2677.32" font-size="23" font-weight="400" fill="#24343f">出 M04：對掌性方法的可用性</text>
+<rect x="675" y="2910" width="550" height="395" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="697" y="2951" font-size="27" font-weight="600" fill="#326991">L18｜衍生化，是把分析物的哪個弱點補起</text>
+<text x="697" y="2989.34" font-size="27" font-weight="600" fill="#326991">來？</text>
+<text x="697" y="3037.68" font-size="23" font-weight="400" fill="#24343f">入 M02：原分析物的偵測／分離弱點及反應產率</text>
+<text x="697" y="3070.34" font-size="23" font-weight="400" fill="#24343f">鏈：接上合適基團 → 改偵測或保留 → 可辨識的</text>
+<text x="697" y="3103" font-size="23" font-weight="400" fill="#24343f">產物訊號</text>
+<text x="697" y="3135.66" font-size="23" font-weight="400" fill="#24343f">出 M03：衍生物的分離與偵測</text>
+<rect x="675" y="3330" width="550" height="395" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="697" y="3371" font-size="27" font-weight="600" fill="#326991">L19｜UV 和 DAD 怎樣把流出物變成訊號？</text>
+<text x="697" y="3419.34" font-size="23" font-weight="400" fill="#24343f">入 M03：分析物吸收、選定波長及校正</text>
+<text x="697" y="3452" font-size="23" font-weight="400" fill="#24343f">鏈：光吸收隨流出改變 → 吸光度峰／光譜 → 定</text>
+<text x="697" y="3484.66" font-size="23" font-weight="400" fill="#24343f">量或支持比對</text>
+<text x="697" y="3517.32" font-size="23" font-weight="400" fill="#24343f">出 M04：吸光度訊號及有限的光譜證據</text>
+<rect x="675" y="3750" width="550" height="395" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="697" y="3791" font-size="27" font-weight="600" fill="#326991">L20｜螢光選擇性，為何常比單純 UV 高？</text>
+<text x="697" y="3839.34" font-size="23" font-weight="400" fill="#24343f">入 M03：激發波長、發射波長及分析物螢光特性</text>
+<text x="697" y="3872" font-size="23" font-weight="400" fill="#24343f">鏈：能被激發且放出螢光 → 選發射光 → 較少背</text>
+<text x="697" y="3904.66" font-size="23" font-weight="400" fill="#24343f">景干擾</text>
+<text x="697" y="3937.32" font-size="23" font-weight="400" fill="#24343f">出 M04：螢光訊號與適用分析物</text>
+<text x="680" y="4182" font-size="22" font-weight="400" fill="#326991">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="1270" y="2315" width="580" height="1890" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="1290" y="2358" font-size="28" font-weight="600" fill="#b72d4a">F｜補讀數與定量品質</text>
+<text x="1290" y="2410" font-size="23" font-weight="400" fill="#24343f">偵測機制與校正條件決定含量及效率結論。</text>
+<rect x="1285" y="2490" width="550" height="395" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1307" y="2531" font-size="27" font-weight="600" fill="#b72d4a">L21｜電化學、PAD 與電導，讀的是同一種</text>
+<text x="1307" y="2569.34" font-size="27" font-weight="600" fill="#b72d4a">量嗎？</text>
+<text x="1307" y="2617.68" font-size="23" font-weight="400" fill="#24343f">入 M03：可氧化還原基團、電位控制或離子導電</text>
+<text x="1307" y="2650.34" font-size="23" font-weight="400" fill="#24343f">鏈：選電位測電流／量離子導電 → 分清機制與訊</text>
+<text x="1307" y="2683" font-size="23" font-weight="400" fill="#24343f">號 → 選適用偵測</text>
+<text x="1307" y="2715.66" font-size="23" font-weight="400" fill="#24343f">出 M04：電流或電導訊號與方法配對</text>
+<rect x="1285" y="2910" width="550" height="395" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1307" y="2951" font-size="27" font-weight="600" fill="#b72d4a">L22｜沒發色基，怎麼選 RI、ELSD 或</text>
+<text x="1307" y="2989.34" font-size="27" font-weight="600" fill="#b72d4a">CAD？</text>
+<text x="1307" y="3037.68" font-size="23" font-weight="400" fill="#24343f">入 M03：分析物揮發性、移動相與是否梯度</text>
+<text x="1307" y="3070.34" font-size="23" font-weight="400" fill="#24343f">鏈：折射差／殘留微粒／粒子電荷 → 訊號 → 適</text>
+<text x="1307" y="3103" font-size="23" font-weight="400" fill="#24343f">用範圍與校正</text>
+<text x="1307" y="3135.66" font-size="23" font-weight="400" fill="#24343f">出 M04：不靠發色基的讀數選擇</text>
+<rect x="1285" y="3330" width="550" height="395" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1307" y="3371" font-size="27" font-weight="600" fill="#b72d4a">L23｜峰面積，怎麼變成可信的濃度？</text>
+<text x="1307" y="3419.34" font-size="23" font-weight="400" fill="#24343f">入 M03：校正、稀釋、樣品面積與內標加入時點</text>
+<text x="1307" y="3452" font-size="23" font-weight="400" fill="#24343f">鏈：用標準建關係 → 外標面積／內標比值 → 回</text>
+<text x="1307" y="3484.66" font-size="23" font-weight="400" fill="#24343f">算濃度及品質</text>
+<text x="1307" y="3517.32" font-size="23" font-weight="400" fill="#24343f">出 M04：濃度、單位與可補償的誤差</text>
+<rect x="1285" y="3750" width="550" height="395" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1307" y="3791" font-size="27" font-weight="600" fill="#b72d4a">L24｜小粒徑提高效率，為何同時要更高</text>
+<text x="1307" y="3829.34" font-size="27" font-weight="600" fill="#b72d4a">壓？</text>
+<text x="1307" y="3877.68" font-size="23" font-weight="400" fill="#24343f">入 M02：粒徑、柱長、內徑、F／u與板高</text>
+<text x="1307" y="3910.34" font-size="23" font-weight="400" fill="#24343f">鏈：細粒減少路徑／質傳展寬 → H下降 → 同L時N</text>
+<text x="1307" y="3943" font-size="23" font-weight="400" fill="#24343f">增，但阻力增</text>
+<text x="1307" y="3975.66" font-size="23" font-weight="400" fill="#24343f">出 M04：效率與壓力的有條件比較</text>
+<text x="1290" y="4182" font-size="22" font-weight="400" fill="#b72d4a">依序讀本組L；卡住回同號R／建構。</text>
+<rect x="50" y="4380" width="1800" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="4421" font-size="27" font-weight="600" fill="#9e771c">完整路線示範｜弱酸 aspirin 在 C18 升 pH</text>
+<text x="72" y="4469.34" font-size="24" font-weight="400" fill="#24343f">M01 問tR變化 → M02 L06認RP、L09–10讀酸與pKa3.5 → pH3到5使A⁻增加</text>
+<text x="72" y="4503.42" font-size="24" font-weight="400" fill="#24343f">M03 預期tR縮短 → M04 Q024選C，核對普通RP與樣品／柱穩定條件。</text>
+<text x="72" y="4537.5" font-size="24" font-weight="400" fill="#24343f">這條短鏈交出方向；未提供各態保留，就不編造新tR。</text>
+<text x="50" y="4742" font-size="20" font-weight="400" fill="#61717a">全部24條L均有入口、短鏈與用途；不同L是可重用工具，不把並列概念硬接成必然因果。</text>
+<text x="50" y="4778" font-size="20" font-weight="400" fill="#61717a">原題：CH20 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

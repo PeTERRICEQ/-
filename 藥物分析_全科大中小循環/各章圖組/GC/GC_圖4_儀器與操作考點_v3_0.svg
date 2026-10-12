@@ -1,0 +1,156 @@
+<svg width="1900" height="4340" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4340" role="img" aria-labelledby="gc3_g4_title gc3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="gc3_g4_title">GC｜儀器與操作考點圖</title><desc id="gc3_g4_desc">氣相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4氣體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4340" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH21 / GC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">GC｜儀器與操作考點圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">藍線為氣體／氣化樣品流路；灰線為訊號；紅虛線為分析者回查。裝置示意不按比例。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="750" width="340" height="330" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="791" font-size="27" font-weight="600" fill="#326991">載氣瓶→淨化→EPC</text>
+<text x="72" y="839.34" font-size="24" font-weight="400" fill="#24343f">He／H₂／N₂等</text>
+<text x="72" y="873.42" font-size="24" font-weight="400" fill="#24343f">去除水／氧／污染</text>
+<text x="72" y="907.5" font-size="24" font-weight="400" fill="#24343f">控制壓力或流量</text>
+<rect x="440" y="750" width="300" height="330" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="462" y="791" font-size="27" font-weight="600" fill="#326991">進樣口／氣化管</text>
+<text x="462" y="839.34" font-size="24" font-weight="400" fill="#24343f">液體或製樣氣體輸入</text>
+<text x="462" y="873.42" font-size="24" font-weight="400" fill="#24343f">設定進樣量與轉移</text>
+<text x="462" y="907.5" font-size="24" font-weight="400" fill="#24343f">split／splitless／PTV</text>
+<rect x="790" y="750" width="330" height="330" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="812" y="791" font-size="27" font-weight="600" fill="#326991">柱爐內的分析柱</text>
+<text x="812" y="839.34" font-size="24" font-weight="400" fill="#24343f">固定相＋管柱結構</text>
+<text x="812" y="873.42" font-size="24" font-weight="400" fill="#24343f">等溫／程式升溫</text>
+<text x="812" y="907.5" font-size="24" font-weight="400" fill="#24343f">分配或吸附造成保留</text>
+<rect x="1170" y="750" width="330" height="330" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1192" y="791" font-size="27" font-weight="600" fill="#326991">選定的偵測器</text>
+<text x="1192" y="839.34" font-size="24" font-weight="400" fill="#24343f">選一種適用配置</text>
+<text x="1192" y="873.42" font-size="24" font-weight="400" fill="#24343f">不是八種必須串接</text>
+<text x="1192" y="907.5" font-size="24" font-weight="400" fill="#24343f">反應範圍與原始訊號</text>
+<rect x="1550" y="750" width="300" height="330" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1572" y="791" font-size="27" font-weight="600" fill="#326991">資料擷取／積分</text>
+<text x="1572" y="839.34" font-size="24" font-weight="400" fill="#24343f">tR、峰寬、面積</text>
+<text x="1572" y="873.42" font-size="24" font-weight="400" fill="#24343f">MS／IR等附加證據</text>
+<text x="1572" y="907.5" font-size="24" font-weight="400" fill="#24343f">校正→品質→結論</text>
+<polyline points="390,910 440,910" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="440.0,910.0 428.6,916.2 428.6,903.8" fill="#326991"/>
+<polyline points="740,910 790,910" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="790.0,910.0 778.6,916.2 778.6,903.8" fill="#326991"/>
+<polyline points="1120,910 1170,910" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1170.0,910.0 1158.6,916.2 1158.6,903.8" fill="#326991"/>
+<polyline points="1500,910 1550,910" fill="none" stroke="#61717a" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1550.0,910.0 1538.6,916.2 1538.6,903.8" fill="#61717a"/>
+<rect x="50" y="380" width="500" height="235" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="421" font-size="27" font-weight="600" fill="#685185">M01→製樣選擇</text>
+<text x="72" y="469.34" font-size="24" font-weight="400" fill="#24343f">直接適用／HS／SPME</text>
+<text x="72" y="503.42" font-size="24" font-weight="400" fill="#24343f">萃取／衍生化／FAME</text>
+<rect x="590" y="380" width="500" height="235" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="612" y="421" font-size="27" font-weight="600" fill="#685185">隔膜氣洗另一路</text>
+<text x="612" y="469.34" font-size="24" font-weight="400" fill="#24343f">小流量帶走墊片釋出物</text>
+<text x="612" y="503.42" font-size="24" font-weight="400" fill="#24343f">不是split的分流份額</text>
+<rect x="1170" y="380" width="500" height="235" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1192" y="421" font-size="27" font-weight="600" fill="#685185">FID專用燃氣另輸入</text>
+<text x="1192" y="469.34" font-size="24" font-weight="400" fill="#24343f">H₂燃氣＋air氧化氣</text>
+<text x="1192" y="503.42" font-size="24" font-weight="400" fill="#24343f">進入FID火焰，不必先過柱</text>
+<polyline points="300,615 300,670 590,670 590,750" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="590.0,750.0 583.8,738.6 596.2,738.6" fill="#326991"/>
+<polyline points="840,615 840,650 655,650 655,750" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="655.0,750.0 648.8,738.6 661.2,738.6" fill="#326991"/>
+<polyline points="1420,615 1420,750" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1420.0,750.0 1413.8,738.6 1426.2,738.6" fill="#326991"/>
+<polyline points="590,1080 590,1150 930,1150" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="930.0,1150.0 918.6,1156.2 918.6,1143.8" fill="#326991"/>
+<text x="700" y="1190" font-size="24" font-weight="400" fill="#326991">分流排氣：均勻蒸氣大份額排出</text>
+<polyline points="520,750 520,695 1010,695" fill="none" stroke="#326991" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1010.0,695.0 998.6,701.2 998.6,688.8" fill="#326991"/>
+<text x="900" y="730" font-size="23" font-weight="400" fill="#326991">隔膜氣洗排氣</text>
+<rect x="50" y="1270" width="860" height="340" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="1311" font-size="27" font-weight="600" fill="#356844">拆開分流比｜排氣:柱流量＝49:1</text>
+<text x="72" y="1359.34" font-size="24" font-weight="400" fill="#24343f">氣化後樣品 → 柱1份＋排氣49份</text>
+<text x="72" y="1393.42" font-size="24" font-weight="400" fill="#24343f">理想進柱量=cV/50；隔膜氣洗另計</text>
+<text x="72" y="1427.5" font-size="24" font-weight="400" fill="#24343f">濃樣防超載用split，痕量可考慮splitless</text>
+<text x="72" y="1461.58" font-size="24" font-weight="400" fill="#24343f">splitless轉移後再開purge；非保證100%</text>
+<text x="72" y="1495.66" font-size="24" font-weight="400" fill="#24343f">PTV控進樣口，柱爐溫程控制分離。</text>
+<rect x="970" y="1270" width="880" height="340" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="992" y="1311" font-size="27" font-weight="600" fill="#b72d4a">三個操作錯誤，三處回查</text>
+<text x="992" y="1359.34" font-size="24" font-weight="400" fill="#24343f">前伸／拖尾或超載 → M02進樣量、入口／柱條件</text>
+<text x="992" y="1393.42" font-size="24" font-weight="400" fill="#24343f">空白高溫背景 → M02溫限、漏氧、柱與入口</text>
+<text x="992" y="1427.5" font-size="24" font-weight="400" fill="#24343f">面積有卻無可信含量 → M03響應因子／校正</text>
+<text x="992" y="1461.58" font-size="24" font-weight="400" fill="#24343f">沒有證據先列候選，再以空白／標準／條件對照檢查。</text>
+<polyline points="1550,1070 1550,1210 1135,1210 1135,1080" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1135.0,1080.0 1141.2,1091.4 1128.8,1091.4" fill="#b72d4a"/>
+<text x="1195" y="1250" font-size="22" font-weight="400" fill="#b72d4a">分析者回M02：分離／柱背景不合格</text>
+<rect x="50" y="1680" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1721" font-size="27" font-weight="600" fill="#326991">D01｜FID 火焰離子化</text>
+<text x="72" y="1769.34" font-size="24" font-weight="400" fill="#24343f">對象｜多數有機碳；CO₂／SO₂／水很弱</text>
+<text x="72" y="1803.42" font-size="24" font-weight="400" fill="#24343f">作用｜H₂／air火焰→帶電物→電極收集</text>
+<text x="72" y="1837.5" font-size="24" font-weight="400" fill="#24343f">讀數｜原始電流；軟體面積=訊號×時間</text>
+<text x="72" y="1871.58" font-size="24" font-weight="400" fill="#24343f">邊界｜通常破壞；響應因子因分子不同</text>
+<text x="72" y="1905.66" font-size="24" font-weight="400" fill="#24343f">例｜有機物定量、適當條件可規整化；L19</text>
+<rect x="970" y="1680" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="1721" font-size="27" font-weight="600" fill="#326991">D02｜ECD 電子捕捉</text>
+<text x="992" y="1769.34" font-size="24" font-weight="400" fill="#24343f">對象｜電子親和物，許多鹵素／硝基；飽和烴弱</text>
+<text x="992" y="1803.42" font-size="24" font-weight="400" fill="#24343f">作用｜Ni-63等造成電子背景→捕捉→原始電流下降</text>
+<text x="992" y="1837.5" font-size="24" font-weight="400" fill="#24343f">讀數｜背景電流變化；顯示可轉為正峰</text>
+<text x="992" y="1871.58" font-size="24" font-weight="400" fill="#24343f">邊界｜常規放射源；範圍與線性需依方法</text>
+<text x="992" y="1905.66" font-size="24" font-weight="400" fill="#24343f">例｜特定含鹵化合物、PFBHA衍生物；L20</text>
+<rect x="50" y="2285" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2326" font-size="27" font-weight="600" fill="#326991">D03｜TCD 熱傳導</text>
+<text x="72" y="2374.34" font-size="24" font-weight="400" fill="#24343f">對象｜與載氣熱傳導不同的氣體／蒸氣</text>
+<text x="72" y="2408.42" font-size="24" font-weight="400" fill="#24343f">作用｜熱傳導差→熱絲溫度／電阻改變</text>
+<text x="72" y="2442.5" font-size="24" font-weight="400" fill="#24343f">讀數｜電橋電壓或電阻相關訊號→面積</text>
+<text x="72" y="2476.58" font-size="24" font-weight="400" fill="#24343f">邊界｜通常非破壞；各物不一定同響應</text>
+<text x="72" y="2510.66" font-size="24" font-weight="400" fill="#24343f">例｜適當永久氣體方法／廣泛反應；L21</text>
+<rect x="970" y="2285" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="2326" font-size="27" font-weight="600" fill="#326991">D04｜NPD 氮磷／熱離子</text>
+<text x="992" y="2374.34" font-size="24" font-weight="400" fill="#24343f">對象｜含N／P，選擇性與方法相依</text>
+<text x="992" y="2408.42" font-size="24" font-weight="400" fill="#24343f">作用｜含鹼金屬熱離子源→選擇性電訊號</text>
+<text x="992" y="2442.5" font-size="24" font-weight="400" fill="#24343f">讀數｜電訊號及面積，仍需定量校正</text>
+<text x="992" y="2476.58" font-size="24" font-weight="400" fill="#24343f">邊界｜通常破壞；不是元素含量自動等比例</text>
+<text x="992" y="2510.66" font-size="24" font-weight="400" fill="#24343f">例｜Bupivacaine低量選擇性分析；L22</text>
+<rect x="50" y="2890" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2931" font-size="27" font-weight="600" fill="#326991">D05｜MSD 質譜</text>
+<text x="72" y="2979.34" font-size="24" font-weight="400" fill="#24343f">對象｜可GC並適當離子化的成分</text>
+<text x="72" y="3013.42" font-size="24" font-weight="400" fill="#24343f">作用｜離子化→按m/z分離→記錄離子強度</text>
+<text x="72" y="3047.5" font-size="24" font-weight="400" fill="#24343f">讀數｜m/z無單位；相對強度或指定離子面積</text>
+<text x="72" y="3081.58" font-size="24" font-weight="400" fill="#24343f">邊界｜通常消耗樣品；EI譜庫是支持證據</text>
+<text x="72" y="3115.66" font-size="24" font-weight="400" fill="#24343f">例｜候選鑑別、選擇性定量；L23</text>
+<rect x="970" y="2890" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="2931" font-size="27" font-weight="600" fill="#326991">D06｜FTIR 傅立葉轉換紅外</text>
+<text x="992" y="2979.34" font-size="24" font-weight="400" fill="#24343f">對象｜有可測IR吸收的GC流出物</text>
+<text x="992" y="3013.42" font-size="24" font-weight="400" fill="#24343f">作用｜合適接口→紅外吸收→光譜</text>
+<text x="992" y="3047.5" font-size="24" font-weight="400" fill="#24343f">讀數｜波數cm⁻¹、吸收強度</text>
+<text x="992" y="3081.58" font-size="24" font-weight="400" fill="#24343f">邊界｜適當接口通常非破壞；低量能力需核對</text>
+<text x="992" y="3115.66" font-size="24" font-weight="400" fill="#24343f">例｜官能基／結構線索；L23</text>
+<rect x="50" y="3495" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="3536" font-size="27" font-weight="600" fill="#326991">D07｜Radiochemical 放射化學</text>
+<text x="72" y="3584.34" font-size="24" font-weight="400" fill="#24343f">對象｜具有放射標記的成分</text>
+<text x="72" y="3618.42" font-size="24" font-weight="400" fill="#24343f">作用｜分離→適當放射量測配置</text>
+<text x="72" y="3652.5" font-size="24" font-weight="400" fill="#24343f">讀數｜計數率如counts/s或校正活度</text>
+<text x="72" y="3686.58" font-size="24" font-weight="400" fill="#24343f">邊界｜是否破壞依接口／燃燒轉換配置</text>
+<text x="72" y="3720.66" font-size="24" font-weight="400" fill="#24343f">例｜放射標記與代謝物追蹤；L23</text>
+<rect x="970" y="3495" width="880" height="560" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="992" y="3536" font-size="27" font-weight="600" fill="#326991">D08｜AED 原子發射</text>
+<text x="992" y="3584.34" font-size="24" font-weight="400" fill="#24343f">對象｜合適GC成分所含目標元素</text>
+<text x="992" y="3618.42" font-size="24" font-weight="400" fill="#24343f">作用｜微波誘導電漿→原子激發→元素發射</text>
+<text x="992" y="3652.5" font-size="24" font-weight="400" fill="#24343f">讀數｜元素波長nm與發射強度</text>
+<text x="992" y="3686.58" font-size="24" font-weight="400" fill="#24343f">邊界｜電漿通常破壞；元素訊號需校正</text>
+<text x="992" y="3720.66" font-size="24" font-weight="400" fill="#24343f">例｜元素選擇性分析；L23</text>
+<text x="50" y="4272" font-size="20" font-weight="400" fill="#61717a">八個偵測器分列為選擇面板。FID的H₂燃氣與H₂載氣是不同角色；GC-ECD也不同於液相電化學ECD。</text>
+<text x="50" y="4308" font-size="20" font-weight="400" fill="#61717a">原題：CH21 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

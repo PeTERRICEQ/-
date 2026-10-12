@@ -1,0 +1,108 @@
+<svg width="1900" height="2860" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2860" role="img" aria-labelledby="ri3_g3_title ri3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ri3_g3_title">折光度測定法｜全章方法分類與大小循環對照</title><desc id="ri3_g3_desc">折光度測定法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；綠線表示液體流路。紅虛線表示條件不符的分析者回查。示意不按比例；角度從法線量起。</desc>
+<rect x="0" y="0" width="1900" height="2860" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH33 / REFRACTOMETRY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">折光度測定法｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先認分類層次，再按目的、作用、讀數與結論四層比較；共用 n 不表示共用相同硬體。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="1800" height="325" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="421" font-size="27" font-weight="600" fill="#61717a">分類分層｜名稱各在回答不同問題</text>
+<text x="72" y="468" font-size="24" font-weight="400" fill="#24343f">量的種類：介質 n、兩池 Δn、偏極面旋轉、電量／電流、反應滴定量。</text>
+<text x="72" y="502.08" font-size="24" font-weight="400" fill="#24343f">完整配置：Abbe refractometry／Differential RI detector；本章分別列 P1–P4。</text>
+<text x="72" y="536.16" font-size="24" font-weight="400" fill="#24343f">光學條件：鈉 D 線、指定波長與溫度；部件：測量稜鏡、Amici 補償器。</text>
+<text x="72" y="570.24" font-size="24" font-weight="400" fill="#24343f">相鄰方法：旋光、庫侖、電流、碘定、ELSD 作辨識對照，不硬排成折光子步驟。</text>
+<rect x="50" y="760" width="880" height="1210" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="74" y="807" font-size="30" font-weight="600" fill="#286c68">Abbe refractometry</text>
+<text x="74" y="852" font-size="24" font-weight="400" fill="#24343f">本章完整方法；L1–L8</text>
+<rect x="74" y="910" width="832" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="96" y="951" font-size="27" font-weight="600" fill="#286c68">P1／M01｜對象與目的</text>
+<text x="96" y="998" font-size="25" font-weight="400" fill="#24343f">代表性透明液體／合適固體；問 n、物性符合度或有條件濃度。</text>
+<polyline points="490,1130 490,1161" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1161.0 483.8,1149.6 496.2,1149.6" fill="#61717a"/>
+<rect x="74" y="1165" width="832" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="96" y="1206" font-size="27" font-weight="600" fill="#286c68">P2／M02｜作用與條件</text>
+<text x="96" y="1253" font-size="25" font-weight="400" fill="#24343f">潔淨、接觸、控 T 及 λ；n&lt;N，由界面極限角形成邊界。</text>
+<polyline points="490,1385 490,1416" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1416.0 483.8,1404.6 496.2,1404.6" fill="#61717a"/>
+<rect x="74" y="1420" width="832" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="96" y="1461" font-size="27" font-weight="600" fill="#286c68">P3／M03｜儀器與訊號</text>
+<text x="96" y="1508" font-size="25" font-weight="400" fill="#24343f">稜鏡、補償與讀數配置；讀邊界→角度→n，保存 T、λ、基準。</text>
+<polyline points="490,1640 490,1671" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="490.0,1671.0 483.8,1659.6 496.2,1659.6" fill="#61717a"/>
+<rect x="74" y="1675" width="832" height="220" rx="18" fill="#fff" stroke="#286c68" stroke-width="2"/>
+<text x="96" y="1716" font-size="27" font-weight="600" fill="#286c68">P4／M04｜結論與限制</text>
+<text x="96" y="1763" font-size="25" font-weight="400" fill="#24343f">比同條件標準或有效校正；非專一指紋，異常先排條件差異。</text>
+<rect x="970" y="760" width="880" height="1210" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="994" y="807" font-size="30" font-weight="600" fill="#b72d4a">Differential RI detector</text>
+<text x="994" y="852" font-size="24" font-weight="400" fill="#24343f">本章跨 HPLC 方法；L9</text>
+<rect x="994" y="910" width="832" height="220" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="951" font-size="27" font-weight="600" fill="#b72d4a">P1／M01｜對象與目的</text>
+<text x="1016" y="998" font-size="25" font-weight="400" fill="#24343f">管柱流出液；偵測分離後成分，常可處理弱 UV 吸收物。</text>
+<polyline points="1410,1130 1410,1161" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1161.0 1403.8,1149.6 1416.2,1149.6" fill="#61717a"/>
+<rect x="994" y="1165" width="832" height="220" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="1206" font-size="27" font-weight="600" fill="#b72d4a">P2／M02｜作用與條件</text>
+<text x="1016" y="1253" font-size="25" font-weight="400" fill="#24343f">樣品／移動相參考兩池；固定組成與溫度，避免背景漂移。</text>
+<polyline points="1410,1385 1410,1416" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1416.0 1403.8,1404.6 1416.2,1404.6" fill="#61717a"/>
+<rect x="994" y="1420" width="832" height="220" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="1461" font-size="27" font-weight="600" fill="#b72d4a">P3／M03｜儀器與訊號</text>
+<text x="1016" y="1508" font-size="25" font-weight="400" fill="#24343f">光學差動讀出→時間訊號；Δn＝n_sample−n_reference。</text>
+<polyline points="1410,1640 1410,1671" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1410.0,1671.0 1403.8,1659.6 1416.2,1659.6" fill="#61717a"/>
+<rect x="994" y="1675" width="832" height="220" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1016" y="1716" font-size="27" font-weight="600" fill="#b72d4a">P4／M04｜結論與限制</text>
+<text x="1016" y="1763" font-size="25" font-weight="400" fill="#24343f">峰需校正與適用範圍才定量；常規 RI 不宜溶劑組成梯度。</text>
+<text x="50" y="2050" font-size="29" font-weight="600" fill="#24343f">七個方法家族｜分類是對照，不表示一個接著一個運行</text>
+<rect x="50" y="2095" width="1800" height="70" rx="0" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2140" font-size="25" font-weight="600" fill="#326991">方法</text>
+<text x="510" y="2140" font-size="25" font-weight="600" fill="#326991">讀什麼／定位</text>
+<text x="1140" y="2140" font-size="25" font-weight="600" fill="#326991">辨識邊界</text>
+<rect x="50" y="2165" width="1800" height="72" rx="0" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2210" font-size="24" font-weight="400" fill="#24343f">Refractometry</text>
+<text x="510" y="2210" font-size="23" font-weight="400" fill="#24343f">n；L1–L8／M01–M04</text>
+<text x="1140" y="2210" font-size="23" font-weight="400" fill="#24343f">整體光學性質；非淨氧化還原</text>
+<rect x="50" y="2237" width="1800" height="72" rx="0" fill="#f0f3ef" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2282" font-size="24" font-weight="400" fill="#24343f">RI detector</text>
+<text x="510" y="2282" font-size="23" font-weight="400" fill="#24343f">Δn；L9：M02→M03→核對</text>
+<text x="1140" y="2282" font-size="23" font-weight="400" fill="#24343f">兩池光學比較；參考移動相</text>
+<rect x="50" y="2309" width="1800" height="72" rx="0" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2354" font-size="24" font-weight="400" fill="#24343f">Polarimetry</text>
+<text x="510" y="2354" font-size="23" font-weight="400" fill="#24343f">偏極面旋轉；F13</text>
+<text x="1140" y="2354" font-size="23" font-weight="400" fill="#24343f">Laurent half-shadow 是旋光儀</text>
+<rect x="50" y="2381" width="1800" height="72" rx="0" fill="#f0f3ef" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2426" font-size="24" font-weight="400" fill="#24343f">Coulometry</text>
+<text x="510" y="2426" font-size="23" font-weight="400" fill="#24343f">電量；104-2／F13</text>
+<text x="1140" y="2426" font-size="23" font-weight="400" fill="#24343f">本題反應／電化學對照</text>
+<rect x="50" y="2453" width="1800" height="72" rx="0" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2498" font-size="24" font-weight="400" fill="#24343f">Amperometry</text>
+<text x="510" y="2498" font-size="23" font-weight="400" fill="#24343f">電極電流；104-2／F13</text>
+<text x="1140" y="2498" font-size="23" font-weight="400" fill="#24343f">本題氧化還原相關電流</text>
+<rect x="50" y="2525" width="1800" height="72" rx="0" fill="#f0f3ef" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2570" font-size="24" font-weight="400" fill="#24343f">Iodometry</text>
+<text x="510" y="2570" font-size="23" font-weight="400" fill="#24343f">滴定量；104-2／F13</text>
+<text x="1140" y="2570" font-size="23" font-weight="400" fill="#24343f">氧化還原反應分析</text>
+<rect x="50" y="2597" width="1800" height="72" rx="0" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="72" y="2642" font-size="24" font-weight="400" fill="#24343f">ELSD</text>
+<text x="510" y="2642" font-size="23" font-weight="400" fill="#24343f">粒子散射；110-1／F12</text>
+<text x="1140" y="2642" font-size="23" font-weight="400" fill="#24343f">梯度相容仍需適當揮發性條件</text>
+<text x="50" y="2792" font-size="20" font-weight="400" fill="#61717a">Q04 選 C：已知 Ethanol／水可有條件定量。Q09 選 A：本題折光機制不依分析物淨氧化還原。</text>
+<text x="50" y="2828" font-size="20" font-weight="400" fill="#61717a">原題：ch33 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例；角度從法線量起。</text>
+</svg>

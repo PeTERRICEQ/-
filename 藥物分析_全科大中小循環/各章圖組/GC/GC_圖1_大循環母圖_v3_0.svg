@@ -1,0 +1,113 @@
+<svg width="1900" height="2810" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2810" role="img" aria-labelledby="gc3_g1_title gc3_g1_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="gc3_g1_title">GC｜分析全流程母圖</title><desc id="gc3_g1_desc">氣相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4氣體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="2810" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH21 / GC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">GC｜分析全流程母圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先問要測什麼；只有分析者的條件回查才畫紅色虛線。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="490" height="390" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="421" font-size="27" font-weight="600" fill="#9e771c">一個可走完的例子</text>
+<text x="72" y="469.34" font-size="24" font-weight="400" fill="#24343f">輸入｜Carbowax 題給薄荷成分 I 值</text>
+<text x="72" y="503.42" font-size="24" font-weight="400" fill="#24343f">M01｜問何者最晚，不是問含量</text>
+<text x="72" y="537.5" font-size="24" font-weight="400" fill="#24343f">M03｜1206、1480、1686、1578</text>
+<text x="72" y="571.58" font-size="24" font-weight="400" fill="#24343f">L08｜同條件比較相對保留</text>
+<text x="72" y="605.66" font-size="24" font-weight="400" fill="#24343f">M04｜最大1686→Menthol，Q048 C</text>
+<rect x="600" y="380" width="1250" height="320" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="622" y="421" font-size="27" font-weight="600" fill="#9e771c">M01｜目的＋檢品＋條件</text>
+<text x="622" y="469.34" font-size="24" font-weight="400" fill="#24343f">輸入｜分析物、基質、目標與所需低量範圍</text>
+<text x="622" y="503.42" font-size="24" font-weight="400" fill="#24343f">L01｜夠揮發＋耐方法溫度？直接分析、取揮發部分或先衍生化</text>
+<text x="622" y="537.5" font-size="24" font-weight="400" fill="#24343f">分清主成分、雜質、殘留溶劑；完整蛋白與蛋白製劑中的Ethanol不是同一分析物。</text>
+<polyline points="1200,700 1200,755" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1200.0,755.0 1193.8,743.6 1206.2,743.6" fill="#61717a"/>
+<polyline points="800,735 1650,735" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="800,735 800,760" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="800.0,760.0 793.8,748.6 806.2,748.6" fill="#61717a"/>
+<polyline points="1650,735 1650,760" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1650.0,760.0 1643.8,748.6 1656.2,748.6" fill="#61717a"/>
+<rect x="600" y="760" width="400" height="230" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="622" y="801" font-size="27" font-weight="600" fill="#9e771c">目的A｜鑑別</text>
+<text x="622" y="849.34" font-size="23" font-weight="400" fill="#24343f">GC–MS／GC–FTIR等適當證據</text>
+<text x="622" y="882" font-size="23" font-weight="400" fill="#24343f">保留＋光譜＋標準／其他證據</text>
+<rect x="1025" y="760" width="400" height="230" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1047" y="801" font-size="27" font-weight="600" fill="#9e771c">目的B｜含量</text>
+<text x="1047" y="849.34" font-size="23" font-weight="400" fill="#24343f">選能響應的偵測器</text>
+<text x="1047" y="882" font-size="23" font-weight="400" fill="#24343f">峰面積＋校正＋回原樣</text>
+<rect x="1450" y="760" width="400" height="230" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1472" y="801" font-size="27" font-weight="600" fill="#9e771c">目的C｜揮發雜質</text>
+<text x="1472" y="849.34" font-size="23" font-weight="400" fill="#24343f">常選頂空／SPME等製樣</text>
+<text x="1472" y="882" font-size="23" font-weight="400" fill="#24343f">定義基質、平衡、富集與回收</text>
+<polyline points="800,990 800,1040 1650,1040 1650,990" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polyline points="1200,990 1200,1090" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1200.0,1090.0 1193.8,1078.6 1206.2,1078.6" fill="#61717a"/>
+<rect x="600" y="1100" width="1250" height="430" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="622" y="1141" font-size="27" font-weight="600" fill="#286c68">M02｜準備、作用與測量</text>
+<text x="622" y="1189.34" font-size="24" font-weight="400" fill="#24343f">前處理｜L14頂空／L15富集／L16酸鹼萃取／L17衍生化／L18 FAME</text>
+<text x="622" y="1223.42" font-size="24" font-weight="400" fill="#24343f">送入｜L11分流量、L12 PTV、L13隔膜氣洗，各有不同用途</text>
+<text x="622" y="1257.5" font-size="24" font-weight="400" fill="#24343f">分離｜L02分配或吸附；L03載氣與u；L04–08柱溫、固定相、保留刻度</text>
+<text x="622" y="1291.58" font-size="24" font-weight="400" fill="#24343f">展寬｜L09柱結構、L10擴散與質傳；理想中空A≈0但仍會展寬</text>
+<text x="622" y="1325.66" font-size="24" font-weight="400" fill="#24343f">偵測｜L19–23 FID／ECD／TCD／NPD／MS與其他，依目標選擇</text>
+<polyline points="1200,1530 1200,1610" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1200.0,1610.0 1193.8,1598.6 1206.2,1598.6" fill="#61717a"/>
+<rect x="600" y="1620" width="1250" height="350" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="622" y="1661" font-size="27" font-weight="600" fill="#326991">M03｜讀出與處理物理量</text>
+<text x="622" y="1709.34" font-size="24" font-weight="400" fill="#24343f">時間｜tM、tR與峰寬W用min或s；流量與線性流速不同</text>
+<text x="622" y="1743.42" font-size="24" font-weight="400" fill="#24343f">效率｜k、N、Rs與I無單位；H是長度；峰寬定義不可混</text>
+<text x="622" y="1777.5" font-size="24" font-weight="400" fill="#24343f">量｜面積=訊號×時間，須L24內標等校正；L25先核對各物響應</text>
+<text x="622" y="1811.58" font-size="24" font-weight="400" fill="#24343f">鑑別｜m/z與相對強度、IR波數cm⁻¹；不是單靠一個tR確認身分</text>
+<polyline points="1200,1970 1200,2050" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1200.0,2050.0 1193.8,2038.6 1206.2,2038.6" fill="#61717a"/>
+<rect x="600" y="2060" width="1250" height="340" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="622" y="2101" font-size="27" font-weight="600" fill="#b72d4a">M04｜判讀、品質與停點</text>
+<text x="622" y="2149.34" font-size="24" font-weight="400" fill="#24343f">L26｜短期同條件／同實驗室變動／跨實驗室，分清精密度層次</text>
+<text x="622" y="2183.42" font-size="24" font-weight="400" fill="#24343f">L27｜訊號大小、校正斜率與檢出限分開；不是面積大就更準</text>
+<text x="622" y="2217.5" font-size="24" font-weight="400" fill="#24343f">核對｜空白、標準、共洗脫、回收、響應、校正範圍與稀釋</text>
+<text x="622" y="2251.58" font-size="24" font-weight="400" fill="#24343f">停點｜證據足以支撐所定義的身分／含量／雜質結論，才報告</text>
+<polyline points="1200,2400 1200,2460" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1200.0,2460.0 1193.8,2448.6 1206.2,2448.6" fill="#61717a"/>
+<rect x="600" y="2470" width="1250" height="190" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="622" y="2511" font-size="27" font-weight="600" fill="#356844">正常出口｜回答原問題</text>
+<text x="622" y="2559.34" font-size="24" font-weight="400" fill="#24343f">報告分析物、基準與單位、方法條件及證據限制；不把最大I當最大含量。</text>
+<rect x="50" y="840" width="490" height="300" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="881" font-size="27" font-weight="600" fill="#b72d4a">回M01｜分析物或目標不清</text>
+<text x="72" y="929.34" font-size="24" font-weight="400" fill="#24343f">要測完整蛋白？還是其中殘留溶劑？</text>
+<rect x="50" y="1150" width="490" height="300" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="1191" font-size="27" font-weight="600" fill="#b72d4a">回M02｜分離／送樣不合格</text>
+<text x="72" y="1239.34" font-size="24" font-weight="400" fill="#24343f">共洗脫→選柱／溫程；超載→稀釋／分</text>
+<text x="72" y="1273.42" font-size="24" font-weight="400" fill="#24343f">流；空白背景→查氣體、柱與進樣口。</text>
+<rect x="50" y="1620" width="490" height="300" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="1661" font-size="27" font-weight="600" fill="#b72d4a">回M03｜量與校正不相容</text>
+<text x="72" y="1709.34" font-size="24" font-weight="400" fill="#24343f">峰面積不能直接當濃度；I不等於時間或</text>
+<text x="72" y="1743.42" font-size="24" font-weight="400" fill="#24343f">Rs。</text>
+<rect x="50" y="2080" width="490" height="300" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="2121" font-size="27" font-weight="600" fill="#b72d4a">回M02／03｜品質不足</text>
+<text x="72" y="2169.34" font-size="24" font-weight="400" fill="#24343f">再製樣、匹配基質或重做校正，按查得原</text>
+<text x="72" y="2203.42" font-size="24" font-weight="400" fill="#24343f">因修正後重測。</text>
+<polyline points="600,2220 565,2220 565,530 600,530" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="600.0,530.0 588.6,536.2 588.6,523.8" fill="#b72d4a"/>
+<polyline points="600,2300 577,2300 577,1350 600,1350" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="600.0,1350.0 588.6,1356.2 588.6,1343.8" fill="#b72d4a"/>
+<polyline points="600,2340 588,2340 588,1780 600,1780" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="600.0,1780.0 588.6,1786.2 588.6,1773.8" fill="#b72d4a"/>
+<text x="65" y="2470" font-size="23" font-weight="400" fill="#61717a">灰線｜正常資訊往前</text>
+<text x="65" y="2502.66" font-size="23" font-weight="400" fill="#61717a">紅虛線｜分析者回查；不是分子回流</text>
+<text x="65" y="2535.32" font-size="23" font-weight="400" fill="#61717a">藍氣路與示意曲線見圖4／5。</text>
+<text x="50" y="2742" font-size="20" font-weight="400" fill="#61717a">主線對應 M01–04；理解 L01–27；題本 CH21 共54題。Q010／026／043原答案與科學疑義分列正文。</text>
+<text x="50" y="2778" font-size="20" font-weight="400" fill="#61717a">原題：CH21 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

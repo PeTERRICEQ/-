@@ -1,0 +1,169 @@
+<svg width="1900" height="3380" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3380" role="img" aria-labelledby="sfc3_g4_title sfc3_g4_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="sfc3_g4_title">儀器與操作｜高壓端、減壓端、訊號端</title><desc id="sfc3_g4_desc">超臨界流體層析與萃取教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4流體路線，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3380" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH22 / SFC &amp; SFE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">儀器與操作｜高壓端、減壓端、訊號端</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">藍線表示實際流體方向；灰線表示資料。示範UV主流＋可選MS或FID支流，不是唯一設備配置。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<text x="50" y="385" font-size="31" font-weight="600" fill="#24343f">M02｜先把兩路流體穩定混合：L12</text>
+<rect x="50" y="455" width="360" height="165" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="496" font-size="27" font-weight="600" fill="#286c68">液態CO₂供液</text>
+<text x="72" y="544.34" font-size="24" font-weight="400" fill="#24343f">鋼瓶／冷卻與專用幫浦</text>
+<text x="72" y="578.42" font-size="24" font-weight="400" fill="#24343f">記錄供液與壓力</text>
+<rect x="50" y="680" width="360" height="165" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="721" font-size="27" font-weight="600" fill="#286c68">改質劑供液</text>
+<text x="72" y="769.34" font-size="24" font-weight="400" fill="#24343f">Methanol等 → 脱氣／泵</text>
+<text x="72" y="803.42" font-size="24" font-weight="400" fill="#24343f">比例是指定供液基準</text>
+<rect x="520" y="560" width="310" height="170" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="542" y="601" font-size="27" font-weight="600" fill="#286c68">混合器</text>
+<text x="542" y="649.34" font-size="24" font-weight="400" fill="#24343f">CO₂＋改質劑</text>
+<text x="542" y="683.42" font-size="24" font-weight="400" fill="#24343f">組成、P、T影響相態</text>
+<rect x="930" y="560" width="300" height="170" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="952" y="601" font-size="27" font-weight="600" fill="#9e771c">進樣器</text>
+<text x="952" y="649.34" font-size="24" font-weight="400" fill="#24343f">相容溶媒、體積與量</text>
+<text x="952" y="683.42" font-size="24" font-weight="400" fill="#24343f">混合後不應析出</text>
+<rect x="1330" y="560" width="475" height="170" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1352" y="601" font-size="27" font-weight="600" fill="#685185">柱爐＋分析柱</text>
+<text x="1352" y="649.34" font-size="24" font-weight="400" fill="#24343f">T恆定；開管／填充是結構</text>
+<text x="1352" y="683.42" font-size="24" font-weight="400" fill="#24343f">表面化學另選；ΔP不等於背壓</text>
+<polyline points="410,535 460,535 460,605 520,605" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="520.0,605.0 508.6,611.2 508.6,598.8" fill="#326991"/>
+<polyline points="410,760 460,760 460,685 520,685" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="520.0,685.0 508.6,691.2 508.6,678.8" fill="#326991"/>
+<polyline points="830,645 930,645" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="930.0,645.0 918.6,651.2 918.6,638.8" fill="#326991"/>
+<polyline points="1230,645 1330,645" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1330.0,645.0 1318.6,651.2 1318.6,638.8" fill="#326991"/>
+<text x="1050" y="475" font-size="23" font-weight="400" fill="#9e771c">檢品另由進樣口進入</text>
+<polyline points="1080,486 1080,560" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1080.0,560.0 1073.8,548.6 1086.2,548.6" fill="#326991"/>
+<polyline points="1568,730 1568,885" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1568.0,885.0 1561.8,873.6 1574.2,873.6" fill="#326991"/>
+<rect x="1300" y="885" width="505" height="190" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1322" y="926" font-size="27" font-weight="600" fill="#326991">耐壓UV流通池｜L14</text>
+<text x="1322" y="974.34" font-size="24" font-weight="400" fill="#24343f">柱後、減壓前：讀吸收–時間</text>
+<text x="1322" y="1008.42" font-size="24" font-weight="400" fill="#24343f">選λ／背景；面積須標準校正</text>
+<text x="1322" y="1042.5" font-size="24" font-weight="400" fill="#24343f">UV池有相應耐壓範圍</text>
+<polyline points="1300,980 1145,980" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1145.0,980.0 1156.4,973.8 1156.4,986.2" fill="#326991"/>
+<circle cx="1130" cy="980" r="14" fill="#dceaf7" stroke="#326991"/>
+<text x="1000" y="915" font-size="25" font-weight="400" fill="#326991">可選分流接點</text>
+<polyline points="1116,980 915,980" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="915.0,980.0 926.4,973.8 926.4,986.2" fill="#326991"/>
+<rect x="550" y="895" width="365" height="185" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="572" y="936" font-size="27" font-weight="600" fill="#b72d4a">BPR主流出口｜L13</text>
+<text x="572" y="984.34" font-size="24" font-weight="400" fill="#24343f">控Pout，維持上游加壓</text>
+<text x="572" y="1018.42" font-size="24" font-weight="400" fill="#24343f">柱內P仍由入口到出口下降</text>
+<polyline points="550,980 415,980" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="415.0,980.0 426.4,973.8 426.4,986.2" fill="#326991"/>
+<rect x="50" y="895" width="365" height="185" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="936" font-size="27" font-weight="600" fill="#356844">減壓／收集出口</text>
+<text x="72" y="984.34" font-size="24" font-weight="400" fill="#24343f">CO₂氣化與溶媒／溶質分離</text>
+<text x="72" y="1018.42" font-size="24" font-weight="400" fill="#24343f">回收或廢液按實際配置</text>
+<rect x="980" y="1145" width="825" height="735" rx="18" fill="#fff" stroke="#326991" stroke-width="2"/>
+<text x="1005" y="1190" font-size="27" font-weight="600" fill="#326991">可選支流｜依實際介面選MS或FID</text>
+<polyline points="1130,994 1130,1260" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1130.0,1260.0 1123.8,1248.6 1136.2,1248.6" fill="#326991"/>
+<rect x="1020" y="1260" width="725" height="160" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1042" y="1301" font-size="27" font-weight="600" fill="#326991">限流／受控減壓＋介面</text>
+<text x="1042" y="1349.34" font-size="24" font-weight="400" fill="#24343f">從高壓端轉到適合偵測的條件；防析出與轉移損失</text>
+<text x="1042" y="1383.42" font-size="24" font-weight="400" fill="#24343f">支流大小、限制器與make-up按設備／方法設置</text>
+<polyline points="1240,1420 1240,1470" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1240.0,1470.0 1233.8,1458.6 1246.2,1458.6" fill="#326991"/>
+<polyline points="1570,1420 1570,1470" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1570.0,1470.0 1563.8,1458.6 1576.2,1458.6" fill="#326991"/>
+<rect x="1020" y="1470" width="340" height="195" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1042" y="1511" font-size="27" font-weight="600" fill="#685185">MS選項｜L15</text>
+<text x="1042" y="1559.34" font-size="23" font-weight="400" fill="#24343f">make-up→離子化</text>
+<text x="1042" y="1592" font-size="23" font-weight="400" fill="#24343f">m/z與強度→鑑別／校正</text>
+<text x="1042" y="1624.66" font-size="23" font-weight="400" fill="#24343f">不是高壓液流池</text>
+<rect x="1405" y="1470" width="340" height="195" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1427" y="1511" font-size="27" font-weight="600" fill="#9e771c">FID選項｜L16</text>
+<text x="1427" y="1559.34" font-size="23" font-weight="400" fill="#24343f">適合流量→氫火焰</text>
+<text x="1427" y="1592" font-size="23" font-weight="400" fill="#24343f">CO₂低碳背景</text>
+<text x="1427" y="1624.66" font-size="23" font-weight="400" fill="#24343f">改質劑可能有響應</text>
+<text x="1020" y="1720" font-size="23" font-weight="400" fill="#24343f">make-up：按介面加入補液；不是柱前改質劑。</text>
+<text x="1020" y="1772" font-size="23" font-weight="400" fill="#24343f">FID的H₂／空氣另供火焰；不是柱的主移動相。</text>
+<text x="1020" y="1824" font-size="23" font-weight="400" fill="#24343f">MS與FID為兩種選配路線，不表示兩者串聯。</text>
+<rect x="50" y="1170" width="815" height="230" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="1211" font-size="27" font-weight="600" fill="#326991">M03｜訊號資料另走灰線</text>
+<text x="72" y="1259.34" font-size="24" font-weight="400" fill="#24343f">UV：吸收–時間與積分面積</text>
+<text x="72" y="1293.42" font-size="24" font-weight="400" fill="#24343f">MS：m/z／離子強度；FID：電流–時間與面積</text>
+<text x="72" y="1327.5" font-size="24" font-weight="400" fill="#24343f">各方式再由標準校正；不因換偵測就改柱上α。</text>
+<text x="72" y="1361.58" font-size="24" font-weight="400" fill="#24343f">時間min，面積是訊號×min，不能直接當μg。</text>
+<polyline points="1550,1075 1550,1115 460,1115 460,1170" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,1170.0 453.8,1158.6 466.2,1158.6" fill="#61717a"/>
+<polyline points="1020,1570 925,1570 925,1440 460,1440 460,1400" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,1400.0 466.2,1411.4 453.8,1411.4" fill="#61717a"/>
+<polyline points="1550,1665 1550,1905 950,1905 950,1458 720,1458 720,1400" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="720.0,1400.0 726.2,1411.4 713.8,1411.4" fill="#61717a"/>
+<rect x="50" y="1470" width="815" height="410" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="72" y="1511" font-size="27" font-weight="600" fill="#b72d4a">BPR位置依配置，不用一條口訣包全部</text>
+<text x="72" y="1559.34" font-size="24" font-weight="400" fill="#24343f">圖示一種分流方式：UV高壓池 → 分流 → 主路BPR</text>
+<text x="72" y="1593.42" font-size="24" font-weight="400" fill="#24343f">小支路經限流減壓後接MS或FID。</text>
+<text x="72" y="1627.5" font-size="24" font-weight="400" fill="#24343f">也有設備以BPR減壓後接MS；按製造商配置。</text>
+<text x="72" y="1661.58" font-size="24" font-weight="400" fill="#24343f">不能画「UV→真空MS→FID→BPR」為同一高壓線。</text>
+<text x="72" y="1695.66" font-size="24" font-weight="400" fill="#24343f">L13：ΔP=Pin−Pout；升Pout不自動提升流速。</text>
+<text x="72" y="1729.74" font-size="24" font-weight="400" fill="#24343f">L20：tR漂移需對照P、T、比例、流量／t₀，</text>
+<text x="72" y="1763.82" font-size="24" font-weight="400" fill="#24343f">不能只憑一個症狀判BPR故障。</text>
+<text x="50" y="1980" font-size="31" font-weight="600" fill="#24343f">SFE是另一個硬體任務｜L17：從基質取出，再交分析</text>
+<rect x="50" y="2050" width="420" height="165" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="2091" font-size="27" font-weight="600" fill="#286c68">供液／加壓</text>
+<text x="72" y="2139.34" font-size="24" font-weight="400" fill="#24343f">CO₂＋相容改質</text>
+<polyline points="470,2132 510,2132" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,2132.0 498.6,2138.2 498.6,2125.8" fill="#326991"/>
+<rect x="510" y="2050" width="420" height="165" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="532" y="2091" font-size="27" font-weight="600" fill="#356844">萃取槽</text>
+<text x="532" y="2139.34" font-size="24" font-weight="400" fill="#24343f">檢品＋T與接触時間</text>
+<polyline points="930,2132 970,2132" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="970.0,2132.0 958.6,2138.2 958.6,2125.8" fill="#326991"/>
+<rect x="970" y="2050" width="420" height="165" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="992" y="2091" font-size="27" font-weight="600" fill="#b72d4a">減壓／捕集</text>
+<text x="992" y="2139.34" font-size="24" font-weight="400" fill="#24343f">BPR／限流與收集</text>
+<polyline points="1390,2132 1430,2132" fill="none" stroke="#326991" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1430.0,2132.0 1418.6,2138.2 1418.6,2125.8" fill="#326991"/>
+<rect x="1430" y="2050" width="420" height="165" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1452" y="2091" font-size="27" font-weight="600" fill="#9e771c">收集物</text>
+<text x="1452" y="2139.34" font-size="24" font-weight="400" fill="#24343f">後續SFC／LC／GC</text>
+<rect x="50" y="2280" width="1800" height="195" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="72" y="2321" font-size="27" font-weight="600" fill="#356844">從哪裡來，交到哪裡去</text>
+<text x="72" y="2369.34" font-size="24" font-weight="400" fill="#24343f">M01：基質、目標物與目的 → L17在M02做溶解／解吸、傳質與收集 → M03取得萃取物與後測c</text>
+<text x="72" y="2403.42" font-size="24" font-weight="400" fill="#24343f">L19再用V、DF與檢品質量還原含量；回收與穩定性另測 → M04才判結果是否可用。</text>
+<text x="72" y="2437.5" font-size="24" font-weight="400" fill="#24343f">萃取槽的捕集床不自動成為分析分離柱；「萃取快」不證明完全取出。</text>
+<text x="50" y="2550" font-size="31" font-weight="600" fill="#24343f">操作異常：看到結果，再用條件區分候選原因</text>
+<rect x="50" y="2615" width="855" height="305" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="72" y="2656" font-size="27" font-weight="600" fill="#326991">tR漂移｜回M02查條件</text>
+<text x="72" y="2704.34" font-size="24" font-weight="400" fill="#24343f">讀Pout與Pin：背壓設定／調節是否重現？</text>
+<text x="72" y="2738.42" font-size="24" font-weight="400" fill="#24343f">讀T、改質泵比例、供液流量與t₀：哪個同時漂移？</text>
+<text x="72" y="2772.5" font-size="24" font-weight="400" fill="#24343f">看漏液、析出、進樣與柱狀態。</text>
+<text x="72" y="2806.58" font-size="24" font-weight="400" fill="#24343f">BPR是候選之一，不能反推成唯一原因。</text>
+<rect x="955" y="2615" width="895" height="305" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="977" y="2656" font-size="27" font-weight="600" fill="#685185">面積異常｜回M03＋必要操作</text>
+<text x="977" y="2704.34" font-size="24" font-weight="400" fill="#24343f">標準也變？查供液、進樣、基線與偵測響應。</text>
+<text x="977" y="2738.42" font-size="24" font-weight="400" fill="#24343f">檢品才變？查製樣／SFE回收、基質與干擾。</text>
+<text x="977" y="2772.5" font-size="24" font-weight="400" fill="#24343f">濃度計算異常？查V、DF、原檢品質量與單位。</text>
+<text x="977" y="2806.58" font-size="24" font-weight="400" fill="#24343f">依查得原因修正，再用空白／標準與回收驗證。</text>
+<rect x="50" y="3035" width="1800" height="215" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="72" y="3076" font-size="27" font-weight="600" fill="#286c68">正常出口：條件和訊號一起保存</text>
+<text x="72" y="3124.34" font-size="24" font-weight="400" fill="#24343f">供液比例的參考條件、Pout／Pin、T、柱與表面、進樣、UV波長或MS／FID介面、空白與標準</text>
+<text x="72" y="3158.42" font-size="24" font-weight="400" fill="#24343f">→ 才能比較時間、分離與校正。異常時由分析者按紀錄查核，再回相應條件修正重測。</text>
+<text x="50" y="3312" font-size="20" font-weight="400" fill="#61717a">流路示意不按尺寸比例；圖4分流支路為可相容示例。細節依實際設備、方法與偵測器介面。</text>
+<text x="50" y="3348" font-size="20" font-weight="400" fill="#61717a">原題：CH22 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

@@ -1,0 +1,118 @@
+<svg width="1900" height="2760" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2760" role="img" aria-labelledby="ri3_g1_title ri3_g1_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ri3_g1_title">折光度測定法｜分析全流程母圖</title><desc id="ri3_g1_desc">折光度測定法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊，藍線表示光路；綠線表示液體流路。紅虛線表示條件不符的分析者回查。示意不按比例；角度從法線量起。</desc>
+<rect x="0" y="0" width="1900" height="2760" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH33 / REFRACTOMETRY / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">折光度測定法｜分析全流程母圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先走四站，再按目的比標準或換算濃度；條件合格便交出，不符才依原因回查。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="385" width="350" height="560" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="426" font-size="27" font-weight="600" fill="#9e771c">帶進來的條件</text>
+<text x="72" y="473" font-size="24" font-weight="400" fill="#24343f">目的與代表性檢品</text>
+<text x="72" y="507.08" font-size="24" font-weight="400" fill="#24343f">液體／合適固體</text>
+<text x="72" y="541.16" font-size="24" font-weight="400" fill="#24343f">參考基準及接受標準</text>
+<text x="72" y="575.24" font-size="24" font-weight="400" fill="#24343f">指定 T、λ 與方法</text>
+<text x="72" y="609.32" font-size="24" font-weight="400" fill="#24343f">檢品及接觸液相容性</text>
+<text x="72" y="643.4" font-size="24" font-weight="400" fill="#24343f">濃度模型適用區間</text>
+<polyline points="400,505 460,505" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,505.0 448.6,511.2 448.6,498.8" fill="#61717a"/>
+<polyline points="400,885 430,885 430,1180 460,1180" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="460.0,1180.0 448.6,1186.2 448.6,1173.8" fill="#61717a"/>
+<rect x="460" y="385" width="970" height="235" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="482" y="426" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="482" y="473" font-size="24" font-weight="400" fill="#24343f">問物性符合度、純度檢查，還是有條件濃度？</text>
+<text x="482" y="507.08" font-size="24" font-weight="400" fill="#24343f">選代表性檢品、方法、參考與有效校正基準。</text>
+<text x="482" y="541.16" font-size="24" font-weight="400" fill="#24343f">先辨整體 n 與層析後 Δn；不要只靠單一 n 指認成分。</text>
+<polyline points="945,620 945,660 695,660 695,700" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="695.0,700.0 688.8,688.6 701.2,688.6" fill="#61717a"/>
+<polyline points="945,660 1195,660 1195,700" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1195.0,700.0 1188.8,688.6 1201.2,688.6" fill="#61717a"/>
+<rect x="460" y="700" width="470" height="285" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="482" y="741" font-size="27" font-weight="600" fill="#286c68">Abbe｜整體 n</text>
+<text x="482" y="788" font-size="24" font-weight="400" fill="#24343f">透明液體／合適固體</text>
+<text x="482" y="822.08" font-size="24" font-weight="400" fill="#24343f">完整接觸與高 n 稜鏡</text>
+<text x="482" y="856.16" font-size="24" font-weight="400" fill="#24343f">讀邊界→角度→n</text>
+<text x="482" y="890.24" font-size="24" font-weight="400" fill="#24343f">L1–L8；不是直接量光速</text>
+<rect x="960" y="700" width="470" height="285" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="982" y="741" font-size="27" font-weight="600" fill="#b72d4a">差動 RI｜HPLC</text>
+<text x="982" y="788" font-size="24" font-weight="400" fill="#24343f">樣品池：管柱流出液</text>
+<text x="982" y="822.08" font-size="24" font-weight="400" fill="#24343f">參考池：移動相</text>
+<text x="982" y="856.16" font-size="24" font-weight="400" fill="#24343f">兩池差→時間訊號</text>
+<text x="982" y="890.24" font-size="24" font-weight="400" fill="#24343f">L9；不是固定相背景</text>
+<polyline points="695,985 695,1030 945,1030 945,1090" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="945.0,1090.0 938.8,1078.6 951.2,1078.6" fill="#61717a"/>
+<polyline points="1195,985 1195,1030 945,1030" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="460" y="1090" width="970" height="280" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="482" y="1131" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="482" y="1178" font-size="24" font-weight="400" fill="#24343f">清潔與標準查驗、覆蓋／接觸、控溫及平衡。</text>
+<text x="482" y="1212.08" font-size="24" font-weight="400" fill="#24343f">指定波長或合適補償；Abbe 保持 n&lt;N。</text>
+<text x="482" y="1246.16" font-size="24" font-weight="400" fill="#24343f">RI 兩池、背景組成與溫度穩定；光源依型號。</text>
+<text x="482" y="1280.24" font-size="24" font-weight="400" fill="#24343f">L1–L6、L9 各取作用條件，交可讀資訊給 M03。</text>
+<polyline points="945,1370 945,1450" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="945.0,1450.0 938.8,1438.6 951.2,1438.6" fill="#61717a"/>
+<rect x="460" y="1450" width="970" height="280" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="482" y="1491" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="482" y="1538" font-size="24" font-weight="400" fill="#24343f">Abbe：角從法線量，邊界位置對應 n。</text>
+<text x="482" y="1572.08" font-size="24" font-weight="400" fill="#24343f">RI：Δn＝n_sample cell−n_reference cell，保存符號。</text>
+<text x="482" y="1606.16" font-size="24" font-weight="400" fill="#24343f">n、Δn 無單位；實際電壓／訊號軸依儀器定義。</text>
+<text x="482" y="1640.24" font-size="24" font-weight="400" fill="#24343f">留下 T、λ、參考基準及重複值，交 L7、L8 核對。</text>
+<polyline points="945,1730 945,1820" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="945.0,1820.0 938.8,1808.6 951.2,1808.6" fill="#61717a"/>
+<rect x="460" y="1820" width="970" height="355" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="482" y="1861" font-size="27" font-weight="600" fill="#b72d4a">M04｜核對結論</text>
+<text x="482" y="1908" font-size="24" font-weight="400" fill="#24343f">L7：標準查共同偏差；重複值看離散，合格才報平均。</text>
+<text x="482" y="1942.08" font-size="24" font-weight="400" fill="#24343f">L8：同條件標準作物性查驗；有效校正作有條件濃度。</text>
+<text x="482" y="1976.16" font-size="24" font-weight="400" fill="#24343f">同 n 不單獨證明同物質或絕對純；偏離不指認雜質。</text>
+<text x="482" y="2010.24" font-size="24" font-weight="400" fill="#24343f">不符先說缺哪項條件，再指定回查；需新資料才重測。</text>
+<polyline points="945,2175 945,2330" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="945.0,2330.0 938.8,2318.6 951.2,2318.6" fill="#61717a"/>
+<text x="970" y="2265" font-size="24" font-weight="400" fill="#356844">條件合格</text>
+<rect x="460" y="2330" width="970" height="165" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="482" y="2371" font-size="27" font-weight="600" fill="#356844">正常出口｜交出附條件的結論</text>
+<text x="482" y="2418" font-size="24" font-weight="400" fill="#24343f">保存方法、檢品、T、λ、基準、校正與接受標準。</text>
+<text x="482" y="2452.08" font-size="24" font-weight="400" fill="#24343f">報物性比較或適用區間濃度，註明證據範圍。</text>
+<rect x="1480" y="385" width="370" height="240" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1502" y="426" font-size="27" font-weight="600" fill="#b72d4a">目的／代表性不合</text>
+<text x="1502" y="473" font-size="24" font-weight="400" fill="#24343f">重選目的、檢品或方法</text>
+<text x="1502" y="507.08" font-size="24" font-weight="400" fill="#24343f">→ M01</text>
+<polyline points="1480,505 1434,505" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1434.0,505.0 1445.4,498.8 1445.4,511.2" fill="#b72d4a"/>
+<rect x="1480" y="1090" width="370" height="275" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1502" y="1131" font-size="27" font-weight="600" fill="#b72d4a">接觸／光學／背景不合</text>
+<text x="1502" y="1178" font-size="24" font-weight="400" fill="#24343f">查氣泡、T、λ、補償</text>
+<text x="1502" y="1212.08" font-size="24" font-weight="400" fill="#24343f">或兩池內容 → M02</text>
+<polyline points="1480,1230 1434,1230" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1434.0,1230.0 1445.4,1223.8 1445.4,1236.2" fill="#b72d4a"/>
+<rect x="1480" y="1450" width="370" height="275" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1502" y="1491" font-size="27" font-weight="600" fill="#b72d4a">比值／角色／讀軸不合</text>
+<text x="1502" y="1538" font-size="24" font-weight="400" fill="#24343f">修正參考、角度與符號</text>
+<text x="1502" y="1572.08" font-size="24" font-weight="400" fill="#24343f">保存正確條件 → M03</text>
+<polyline points="1480,1590 1434,1590" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1434.0,1590.0 1445.4,1583.8 1445.4,1596.2" fill="#b72d4a"/>
+<rect x="1480" y="1820" width="370" height="355" rx="18" fill="#fff" stroke="#b72d4a" stroke-width="2"/>
+<text x="1502" y="1861" font-size="27" font-weight="600" fill="#b72d4a">判準／校正／推論不合</text>
+<text x="1502" y="1908" font-size="24" font-weight="400" fill="#24343f">查共同偏差與校正範圍</text>
+<text x="1502" y="1942.08" font-size="24" font-weight="400" fill="#24343f">把過度結論收回 → M04</text>
+<text x="1502" y="1976.16" font-size="24" font-weight="400" fill="#24343f">需新資料再回實際上游</text>
+<polyline points="1480,2025 1434,2025" fill="none" stroke="#b72d4a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="10 7"/>
+<polygon points="1434.0,2025.0 1445.4,2018.8 1445.4,2031.2" fill="#b72d4a"/>
+<text x="50" y="2595" font-size="25" font-weight="400" fill="#61717a">灰線＝分析資訊；紅虛線＝分析者發現條件不符後的回查。</text>
+<text x="50" y="2692" font-size="20" font-weight="400" fill="#61717a">母圖不畫成必然反覆的化學循環；兩條方法支線在共同四站中核對各自的輸入與結論。</text>
+<text x="50" y="2728" font-size="20" font-weight="400" fill="#61717a">原題：ch33 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例；角度從法線量起。</text>
+</svg>

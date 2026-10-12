@@ -1,0 +1,223 @@
+<svg width="1900" height="4400" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 4400" role="img" aria-labelledby="hplc3_g3_title hplc3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="hplc3_g3_title">HPLC｜全章方法分類與大小循環對照</title><desc id="hplc3_g3_desc">高效能液相層析教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；藍線表示圖4液體流路，灰線表示訊號／分析資訊。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="4400" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH20 / HPLC / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">HPLC｜全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">先看分類軸，再讓每種模式走同一個 M01 → M02 → M03 → M04。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="365" width="1800" height="245" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="72" y="406" font-size="27" font-weight="600" fill="#9e771c">分類軸先分開｜名稱不是同一層的互斥選項</text>
+<text x="72" y="454.34" font-size="24" font-weight="400" fill="#24343f">保留機制：吸附／分配／IEC／SEC／手性作用，可有多重作用。</text>
+<text x="72" y="488.42" font-size="24" font-weight="400" fill="#24343f">相配置：NP／RP／HILIC；加試劑／改分子：離子對／衍生化。</text>
+<text x="72" y="522.5" font-size="24" font-weight="400" fill="#24343f">程序：等度／梯度；效率硬體：HPLC／UHPLC；讀數：偵測器＋校正。</text>
+<rect x="50" y="680" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="723" font-size="29" font-weight="600" fill="#24343f">P01｜正相 NP</text>
+<rect x="70" y="753" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="794" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="842.34" font-size="23" font-weight="400" fill="#24343f">表面作用差異</text>
+<text x="92" y="875" font-size="23" font-weight="400" fill="#24343f">L05、L07、L11</text>
+<polyline points="480,879 510,879" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,879.0 498.6,885.2 498.6,872.8" fill="#61717a"/>
+<rect x="510" y="753" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="794" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="842.34" font-size="23" font-weight="400" fill="#24343f">極性固定相（如裸silica）；相對低</text>
+<text x="532" y="875" font-size="23" font-weight="400" fill="#24343f">極性移動相。</text>
+<text x="532" y="907.66" font-size="23" font-weight="400" fill="#24343f">吸附／極性表面作用；較強表面作</text>
+<text x="532" y="940.32" font-size="23" font-weight="400" fill="#24343f">用者常晚。</text>
+<polyline points="920,879 950,879" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,879.0 938.6,885.2 938.6,872.8" fill="#61717a"/>
+<rect x="950" y="753" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="794" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="842.34" font-size="23" font-weight="400" fill="#24343f">tR與峰面積，先給軸及校正。</text>
+<text x="972" y="875" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,879 1390,879" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,879.0 1378.6,885.2 1378.6,872.8" fill="#61717a"/>
+<rect x="1390" y="753" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="794" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="842.34" font-size="23" font-weight="400" fill="#24343f">低極性者常先出；增加合適強溶劑</text>
+<text x="1412" y="875" font-size="23" font-weight="400" fill="#24343f">常縮短保留。</text>
+<rect x="50" y="1075" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="1118" font-size="29" font-weight="600" fill="#24343f">P02｜逆相 RP</text>
+<rect x="70" y="1148" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="1189" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="1237.34" font-size="23" font-weight="400" fill="#24343f">疏水性／一般小分子</text>
+<text x="92" y="1270" font-size="23" font-weight="400" fill="#24343f">L06、L08、L09、L10、L11、L12</text>
+<polyline points="480,1274 510,1274" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,1274.0 498.6,1280.2 498.6,1267.8" fill="#61717a"/>
+<rect x="510" y="1148" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="1189" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="1237.34" font-size="23" font-weight="400" fill="#24343f">C18/C8/phenyl等疏水相；常水＋有</text>
+<text x="532" y="1270" font-size="23" font-weight="400" fill="#24343f">機相。</text>
+<text x="532" y="1302.66" font-size="23" font-weight="400" fill="#24343f">疏水保留為主，可兼有表面次級作</text>
+<text x="532" y="1335.32" font-size="23" font-weight="400" fill="#24343f">用。</text>
+<polyline points="920,1274 950,1274" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,1274.0 938.6,1280.2 938.6,1267.8" fill="#61717a"/>
+<rect x="950" y="1148" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="1189" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="1237.34" font-size="23" font-weight="400" fill="#24343f">tR、k′；定量讀校正面積。</text>
+<text x="972" y="1270" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,1274 1390,1274" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,1274.0 1378.6,1280.2 1378.6,1267.8" fill="#61717a"/>
+<rect x="1390" y="1148" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="1189" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="1237.34" font-size="23" font-weight="400" fill="#24343f">中性疏水者常晚；有機相增加常較</text>
+<text x="1412" y="1270" font-size="23" font-weight="400" fill="#24343f">快，酸鹼另判。</text>
+<rect x="50" y="1470" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="1513" font-size="29" font-weight="600" fill="#24343f">P03｜離子交換 IEC／IC</text>
+<rect x="70" y="1543" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="1584" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="1632.34" font-size="23" font-weight="400" fill="#24343f">帶電物與無機離子</text>
+<text x="92" y="1665" font-size="23" font-weight="400" fill="#24343f">L13、L21</text>
+<polyline points="480,1669 510,1669" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,1669.0 498.6,1675.2 498.6,1662.8" fill="#61717a"/>
+<rect x="510" y="1543" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="1584" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="1632.34" font-size="23" font-weight="400" fill="#24343f">帶電交換相；控制pH與競爭鹽。</text>
+<text x="532" y="1665" font-size="23" font-weight="400" fill="#24343f">反號電荷作用；鹽與解離改保留。</text>
+<polyline points="920,1669 950,1669" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,1669.0 938.6,1675.2 938.6,1662.8" fill="#61717a"/>
+<rect x="950" y="1543" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="1584" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="1632.34" font-size="23" font-weight="400" fill="#24343f">tR；電導／電流或其他相容偵測。</text>
+<text x="972" y="1665" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,1669 1390,1669" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,1669.0 1378.6,1675.2 1378.6,1662.8" fill="#61717a"/>
+<rect x="1390" y="1543" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="1584" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="1632.34" font-size="23" font-weight="400" fill="#24343f">依被交換離子命名；競爭鹽常促沖</text>
+<text x="1412" y="1665" font-size="23" font-weight="400" fill="#24343f">提。</text>
+<rect x="50" y="1865" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="1908" font-size="29" font-weight="600" fill="#24343f">P04｜離子對 RP</text>
+<rect x="70" y="1938" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="1979" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="2027.34" font-size="23" font-weight="400" fill="#24343f">改善離子物RP保留</text>
+<text x="92" y="2060" font-size="23" font-weight="400" fill="#24343f">L14</text>
+<polyline points="480,2064 510,2064" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,2064.0 498.6,2070.2 498.6,2057.8" fill="#61717a"/>
+<rect x="510" y="1938" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="1979" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="2027.34" font-size="23" font-weight="400" fill="#24343f">RP相＋反號、具疏水端的試劑。</text>
+<text x="532" y="2060" font-size="23" font-weight="400" fill="#24343f">對離子與表面動態作用，可增加離</text>
+<text x="532" y="2092.66" font-size="23" font-weight="400" fill="#24343f">子物保留。</text>
+<polyline points="920,2064 950,2064" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,2064.0 938.6,2070.2 938.6,2057.8" fill="#61717a"/>
+<rect x="950" y="1938" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="1979" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="2027.34" font-size="23" font-weight="400" fill="#24343f">相對tR、分離與校正響應。</text>
+<text x="972" y="2060" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,2064 1390,2064" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,2064.0 1378.6,2070.2 1378.6,2057.8" fill="#61717a"/>
+<rect x="1390" y="1938" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="1979" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="2027.34" font-size="23" font-weight="400" fill="#24343f">先看分析物電荷，再選反號；同族</text>
+<text x="1412" y="2060" font-size="23" font-weight="400" fill="#24343f">較長尾常更留。</text>
+<rect x="50" y="2260" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="2303" font-size="29" font-weight="600" fill="#24343f">P05｜尺寸排斥 SEC</text>
+<rect x="70" y="2333" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="2374" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="2422.34" font-size="23" font-weight="400" fill="#24343f">高分子尺寸與分布</text>
+<text x="92" y="2455" font-size="23" font-weight="400" fill="#24343f">L15</text>
+<polyline points="480,2459 510,2459" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,2459.0 498.6,2465.2 498.6,2452.8" fill="#61717a"/>
+<rect x="510" y="2333" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="2374" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="2422.34" font-size="23" font-weight="400" fill="#24343f">孔徑適當、抑制次級吸附；水相或</text>
+<text x="532" y="2455" font-size="23" font-weight="400" fill="#24343f">有機相依方法。</text>
+<text x="532" y="2487.66" font-size="23" font-weight="400" fill="#24343f">水動力尺寸決定可進孔的體積。</text>
+<polyline points="920,2459 950,2459" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,2459.0 938.6,2465.2 938.6,2452.8" fill="#61717a"/>
+<rect x="950" y="2333" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="2374" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="2422.34" font-size="23" font-weight="400" fill="#24343f">流出時間／體積、尺寸校正。</text>
+<text x="972" y="2455" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,2459 1390,2459" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,2459.0 1378.6,2465.2 1378.6,2452.8" fill="#61717a"/>
+<rect x="1390" y="2333" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="2374" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="2422.34" font-size="23" font-weight="400" fill="#24343f">大者少進孔先出；超出孔徑範圍者</text>
+<text x="1412" y="2455" font-size="23" font-weight="400" fill="#24343f">難分。</text>
+<rect x="50" y="2655" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="2698" font-size="29" font-weight="600" fill="#24343f">P06｜親水作用 HILIC</text>
+<rect x="70" y="2728" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="2769" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="2817.34" font-size="23" font-weight="400" fill="#24343f">保留親水分析物</text>
+<text x="92" y="2850" font-size="23" font-weight="400" fill="#24343f">L16</text>
+<polyline points="480,2854 510,2854" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,2854.0 498.6,2860.2 498.6,2847.8" fill="#61717a"/>
+<rect x="510" y="2728" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="2769" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="2817.34" font-size="23" font-weight="400" fill="#24343f">親水相＋富有機、含水移動相。</text>
+<text x="532" y="2850" font-size="23" font-weight="400" fill="#24343f">富水層分配＋吸附／可能IEC。</text>
+<polyline points="920,2854 950,2854" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,2854.0 938.6,2860.2 938.6,2847.8" fill="#61717a"/>
+<rect x="950" y="2728" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="2769" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="2817.34" font-size="23" font-weight="400" fill="#24343f">tR；pH、含水與鹽需紀錄。</text>
+<text x="972" y="2850" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,2854 1390,2854" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,2854.0 1378.6,2860.2 1378.6,2847.8" fill="#61717a"/>
+<rect x="1390" y="2728" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="2769" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="2817.34" font-size="23" font-weight="400" fill="#24343f">親水者常更留，水增加常強沖提；</text>
+<text x="1412" y="2850" font-size="23" font-weight="400" fill="#24343f">不是普通RP。</text>
+<rect x="50" y="3050" width="1800" height="365" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="70" y="3093" font-size="29" font-weight="600" fill="#24343f">P07｜對掌性分離</text>
+<rect x="70" y="3123" width="410" height="270" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="92" y="3164" font-size="27" font-weight="600" fill="#9e771c">M01｜先定問題</text>
+<text x="92" y="3212.34" font-size="23" font-weight="400" fill="#24343f">分離對映異構物</text>
+<text x="92" y="3245" font-size="23" font-weight="400" fill="#24343f">L17、L18</text>
+<polyline points="480,3249 510,3249" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="510.0,3249.0 498.6,3255.2 498.6,3242.8" fill="#61717a"/>
+<rect x="510" y="3123" width="410" height="270" rx="18" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="532" y="3164" font-size="27" font-weight="600" fill="#286c68">M02｜準備與測量</text>
+<text x="532" y="3212.34" font-size="23" font-weight="400" fill="#24343f">手性固定相／添加物，或手性衍生</text>
+<text x="532" y="3245" font-size="23" font-weight="400" fill="#24343f">化。</text>
+<text x="532" y="3277.66" font-size="23" font-weight="400" fill="#24343f">不等的手性作用造成保留差。</text>
+<polyline points="920,3249 950,3249" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="950.0,3249.0 938.6,3255.2 938.6,3242.8" fill="#61717a"/>
+<rect x="950" y="3123" width="410" height="270" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="972" y="3164" font-size="27" font-weight="600" fill="#326991">M03｜讀訊號</text>
+<text x="972" y="3212.34" font-size="23" font-weight="400" fill="#24343f">對映峰的tR、Rs和各自面積。</text>
+<text x="972" y="3245" font-size="23" font-weight="400" fill="#24343f">時間min；積分面積依偵測器。</text>
+<polyline points="1360,3249 1390,3249" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1390.0,3249.0 1378.6,3255.2 1378.6,3242.8" fill="#61717a"/>
+<rect x="1390" y="3123" width="410" height="270" rx="18" fill="#dcecdc" stroke="#356844" stroke-width="2"/>
+<text x="1412" y="3164" font-size="27" font-weight="600" fill="#356844">M04｜核對結論</text>
+<text x="1412" y="3212.34" font-size="23" font-weight="400" fill="#24343f">非手性C18不自動分；冠醚需具有手</text>
+<text x="1412" y="3245" font-size="23" font-weight="400" fill="#24343f">性辨識。</text>
+<rect x="50" y="3540" width="875" height="650" rx="18" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="72" y="3581" font-size="27" font-weight="600" fill="#685185">不是新模式｜操作、硬體與反應</text>
+<text x="72" y="3629.34" font-size="24" font-weight="400" fill="#24343f">等度：組成固定；梯度：隨時間改。RP增有機常強沖提，HILIC加水常強沖</text>
+<text x="72" y="3663.42" font-size="24" font-weight="400" fill="#24343f">提。</text>
+<text x="72" y="3697.5" font-size="24" font-weight="400" fill="#24343f">衍生化：改分析物，使分離／偵測更適合；核對產率與空白。</text>
+<text x="72" y="3731.58" font-size="24" font-weight="400" fill="#24343f">UHPLC：細粒與相容高壓／低展寬系統；粒徑不決定NP或RP。</text>
+<text x="72" y="3765.66" font-size="24" font-weight="400" fill="#24343f">外標／內標：校正面積或比值，並不提供新的固定相。</text>
+<text x="72" y="3799.74" font-size="24" font-weight="400" fill="#24343f">L12、L18、L23–24</text>
+<rect x="975" y="3540" width="875" height="650" rx="18" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="997" y="3581" font-size="27" font-weight="600" fill="#326991">辨識對照｜偵測與選項限制</text>
+<text x="997" y="3629.34" font-size="24" font-weight="400" fill="#24343f">UV／DAD：吸收；FL：有效螢光。</text>
+<text x="997" y="3663.42" font-size="24" font-weight="400" fill="#24343f">EC／PAD：電流；電導：離子導電。</text>
+<text x="997" y="3697.5" font-size="24" font-weight="400" fill="#24343f">RI：折射差，通常等度。ELSD／CAD：非揮發粒子，需可蒸發移動相。</text>
+<text x="997" y="3731.58" font-size="24" font-weight="400" fill="#24343f">LC-MS可量部分無發色基物；GC-FID/TCD/electron capture是選項對照，不當</text>
+<text x="997" y="3765.66" font-size="24" font-weight="400" fill="#24343f">本章核心LC偵測。</text>
+<text x="997" y="3799.74" font-size="24" font-weight="400" fill="#24343f">L19–22；圖4詳讀物理量。</text>
+<text x="50" y="4332" font-size="20" font-weight="400" fill="#61717a">P1檢品與目的；P2原理與條件；P3裝置與讀數；P4判讀與限制。每個核心模式都保留這四個面向。</text>
+<text x="50" y="4368" font-size="20" font-weight="400" fill="#61717a">原題：CH20 PDF；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

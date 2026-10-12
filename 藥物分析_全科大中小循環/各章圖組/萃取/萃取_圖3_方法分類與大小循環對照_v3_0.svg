@@ -1,0 +1,255 @@
+<svg width="1900" height="3243" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 3243" role="img" aria-labelledby="ext3_g3_title ext3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ext3_g3_title">萃取法｜全章方法分類與大小循環對照圖</title><desc id="ext3_g3_desc">萃取法教學向量圖，v3.0。四站角色固定：先定問題、準備與測量、讀訊號、核對結論。灰線表示分析資訊；圖4藍線表示流體，灰箭頭的個體擴散另依標籤辨識。座標曲線依各子圖標示。紅虛線表示條件不符的分析者回查。示意不按比例。</desc>
+<rect x="0" y="0" width="1900" height="3243" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH23 / EXTRACTION / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">萃取法｜全章方法分類與大小循環對照圖</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">方法條目不是互斥分類；P1–P4是每個條目的四面向，P01–13是登記號。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#fff" stroke="#61717a" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="65" y="365" width="573" height="205" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="87" y="406" font-size="27" font-weight="600" fill="#9e771c">介質／介面軸</text>
+<text x="87" y="454.34" font-size="24" font-weight="400" fill="#24343f">兩液相、填料、加壓流體、半透膜灌流、纖維塗</text>
+<text x="87" y="488.42" font-size="24" font-weight="400" fill="#24343f">層。</text>
+<rect x="664" y="365" width="573" height="205" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="686" y="406" font-size="27" font-weight="600" fill="#9e771c">SPE作用與收集軸</text>
+<text x="686" y="454.34" font-size="24" font-weight="400" fill="#24343f">逆相、正相、交換、親和／RAM；留藥沖提與留</text>
+<text x="686" y="488.42" font-size="24" font-weight="400" fill="#24343f">基質流穿。</text>
+<rect x="1263" y="365" width="573" height="205" rx="18" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1285" y="406" font-size="27" font-weight="600" fill="#9e771c">輔助手段／模式軸</text>
+<text x="1285" y="454.34" font-size="24" font-weight="400" fill="#24343f">離子配對或衍生化可串接；SPME的HS／DI亦是取</text>
+<text x="1285" y="488.42" font-size="24" font-weight="400" fill="#24343f">樣模式。</text>
+<rect x="65" y="590" width="234" height="87" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="82" y="621" font-size="23" font-weight="600" fill="#326991">條目／分類軸</text>
+<rect x="305" y="590" width="334" height="87" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="322" y="621" font-size="23" font-weight="600" fill="#326991">P1／M01</text>
+<text x="322" y="651" font-size="23" font-weight="600" fill="#326991">對象與目的</text>
+<rect x="645" y="590" width="404" height="87" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="662" y="621" font-size="23" font-weight="600" fill="#326991">P2／M02</text>
+<text x="662" y="651" font-size="23" font-weight="600" fill="#326991">原理與條件</text>
+<rect x="1055" y="590" width="384" height="87" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1072" y="621" font-size="23" font-weight="600" fill="#326991">P3／M02 → M03</text>
+<text x="1072" y="651" font-size="23" font-weight="600" fill="#326991">裝置與讀數</text>
+<rect x="1445" y="590" width="384" height="87" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1462" y="621" font-size="23" font-weight="600" fill="#326991">P4／M04</text>
+<text x="1462" y="651" font-size="23" font-weight="600" fill="#326991">判定與限制</text>
+<rect x="65" y="694" width="234" height="169" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="82" y="727" font-size="23" font-weight="400" fill="#9e771c">P01 LLE與酸鹼切換</text>
+<text x="82" y="759.66" font-size="23" font-weight="400" fill="#9e771c">兩液相轉移</text>
+<text x="82" y="792.32" font-size="23" font-weight="400" fill="#9e771c">L02、04、05、06、</text>
+<text x="82" y="824.98" font-size="23" font-weight="400" fill="#9e771c">07、24</text>
+<rect x="305" y="694" width="334" height="169" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="322" y="727" font-size="23" font-weight="400" fill="#9e771c">製劑或水樣去基質、取目標</text>
+<rect x="645" y="694" width="404" height="169" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="662" y="727" font-size="23" font-weight="400" fill="#9e771c">可分離兩相、D與pH、分層；反萃取</text>
+<text x="662" y="759.66" font-size="23" font-weight="400" fill="#9e771c">與同pH多次萃取分開</text>
+<rect x="1055" y="694" width="384" height="169" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1072" y="727" font-size="23" font-weight="400" fill="#9e771c">分液漏斗、相容容器；各相體積</text>
+<text x="1072" y="759.66" font-size="23" font-weight="400" fill="#9e771c">mL、後測c／m</text>
+<rect x="1445" y="694" width="384" height="169" rx="12" fill="#fff1c8" stroke="#9e771c" stroke-width="2"/>
+<text x="1462" y="727" font-size="23" font-weight="400" fill="#9e771c">辨相；乳化、共萃、損失與穩定性</text>
+<rect x="65" y="875" width="234" height="169" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="82" y="908" font-size="23" font-weight="400" fill="#286c68">P02 逆相SPE</text>
+<text x="82" y="940.66" font-size="23" font-weight="400" fill="#286c68">SPE保留機制</text>
+<text x="82" y="973.32" font-size="23" font-weight="400" fill="#286c68">L08、09、10、11、</text>
+<text x="82" y="1005.98" font-size="23" font-weight="400" fill="#286c68">12</text>
+<rect x="305" y="875" width="334" height="169" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="322" y="908" font-size="23" font-weight="400" fill="#286c68">水性檢品中的較疏水目標／濃</text>
+<text x="322" y="940.66" font-size="23" font-weight="400" fill="#286c68">縮</text>
+<rect x="645" y="875" width="404" height="169" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="662" y="908" font-size="23" font-weight="400" fill="#286c68">低極性表面；pH與有機比例控制保留</text>
+<text x="662" y="940.66" font-size="23" font-weight="400" fill="#286c68">／釋放</text>
+<rect x="1055" y="875" width="384" height="169" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1072" y="908" font-size="23" font-weight="400" fill="#286c68">小管柱／篩板、真空或正壓；分段c</text>
+<text x="1072" y="940.66" font-size="23" font-weight="400" fill="#286c68">與m</text>
+<rect x="1445" y="875" width="384" height="169" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1462" y="908" font-size="23" font-weight="400" fill="#286c68">耐受、穿透、洗失、沖不足；不是</text>
+<text x="1462" y="940.66" font-size="23" font-weight="400" fill="#286c68">只抓中性</text>
+<rect x="65" y="1056" width="234" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="82" y="1089" font-size="23" font-weight="400" fill="#286c68">P03 正相SPE</text>
+<text x="82" y="1121.66" font-size="23" font-weight="400" fill="#286c68">SPE保留機制</text>
+<text x="82" y="1154.32" font-size="23" font-weight="400" fill="#286c68">L08、09、16</text>
+<rect x="305" y="1056" width="334" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="322" y="1089" font-size="23" font-weight="400" fill="#286c68">非極性介質中的較極性目標</text>
+<rect x="645" y="1056" width="404" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="662" y="1089" font-size="23" font-weight="400" fill="#286c68">極性表面氫鍵／偶極等，溶媒強度調</text>
+<text x="662" y="1121.66" font-size="23" font-weight="400" fill="#286c68">整</text>
+<rect x="1055" y="1056" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1072" y="1089" font-size="23" font-weight="400" fill="#286c68">裸矽膠／Alumina／Diol等填料；</text>
+<text x="1072" y="1121.66" font-size="23" font-weight="400" fill="#286c68">分段後測</text>
+<rect x="1445" y="1056" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1462" y="1089" font-size="23" font-weight="400" fill="#286c68">上樣介質與水分需相容；極性藥也</text>
+<text x="1462" y="1121.66" font-size="23" font-weight="400" fill="#286c68">可用其他機制</text>
+<rect x="65" y="1223" width="234" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="82" y="1256" font-size="23" font-weight="400" fill="#286c68">P04 陽離子交換SPE</text>
+<text x="82" y="1288.66" font-size="23" font-weight="400" fill="#286c68">SPE保留機制</text>
+<text x="82" y="1321.32" font-size="23" font-weight="400" fill="#286c68">L13、14、15</text>
+<rect x="305" y="1223" width="334" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="322" y="1256" font-size="23" font-weight="400" fill="#286c68">正電／可質子化藥，例如</text>
+<text x="322" y="1288.66" font-size="23" font-weight="400" fill="#286c68">Adrenaline</text>
+<rect x="645" y="1223" width="404" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="662" y="1256" font-size="23" font-weight="400" fill="#286c68">固定負電；弱鹼酸性上樣；競爭或改</text>
+<text x="662" y="1288.66" font-size="23" font-weight="400" fill="#286c68">電荷沖提</text>
+<rect x="1055" y="1223" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1072" y="1256" font-size="23" font-weight="400" fill="#286c68">相容交換床、Na⁺等對離子；後測</text>
+<text x="1072" y="1288.66" font-size="23" font-weight="400" fill="#286c68">c與m</text>
+<rect x="1445" y="1223" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1462" y="1256" font-size="23" font-weight="400" fill="#286c68">弱交換基自身pH、鹽與基材耐受</text>
+<rect x="65" y="1390" width="234" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="82" y="1423" font-size="23" font-weight="400" fill="#286c68">P05 陰離子交換SPE</text>
+<text x="82" y="1455.66" font-size="23" font-weight="400" fill="#286c68">SPE保留機制</text>
+<text x="82" y="1488.32" font-size="23" font-weight="400" fill="#286c68">L13、14、15</text>
+<rect x="305" y="1390" width="334" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="322" y="1423" font-size="23" font-weight="400" fill="#286c68">負電／可解離酸，例如</text>
+<text x="322" y="1455.66" font-size="23" font-weight="400" fill="#286c68">Methicillin</text>
+<rect x="645" y="1390" width="404" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="662" y="1423" font-size="23" font-weight="400" fill="#286c68">固定正電；弱酸較高pH上樣；鹽或低</text>
+<text x="662" y="1455.66" font-size="23" font-weight="400" fill="#286c68">pH等沖提</text>
+<rect x="1055" y="1390" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1072" y="1423" font-size="23" font-weight="400" fill="#286c68">相容交換床、指定對離子；後測c與</text>
+<text x="1072" y="1455.66" font-size="23" font-weight="400" fill="#286c68">m</text>
+<rect x="1445" y="1390" width="384" height="155" rx="12" fill="#d9eeea" stroke="#286c68" stroke-width="2"/>
+<text x="1462" y="1423" font-size="23" font-weight="400" fill="#286c68">pH方向不可照搬逆相；表面與分析</text>
+<text x="1462" y="1455.66" font-size="23" font-weight="400" fill="#286c68">物電荷分開</text>
+<rect x="65" y="1557" width="234" height="202" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="1590" font-size="23" font-weight="400" fill="#685185">P06 硼酸親和／</text>
+<text x="82" y="1622.66" font-size="23" font-weight="400" fill="#685185">Borate gel</text>
+<text x="82" y="1655.32" font-size="23" font-weight="400" fill="#685185">SPE／層析的親和作</text>
+<text x="82" y="1687.98" font-size="23" font-weight="400" fill="#685185">用</text>
+<text x="82" y="1720.64" font-size="23" font-weight="400" fill="#685185">L17</text>
+<rect x="305" y="1557" width="334" height="202" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="322" y="1590" font-size="23" font-weight="400" fill="#685185">可接近二醇／Catechol；糖化</text>
+<text x="322" y="1622.66" font-size="23" font-weight="400" fill="#685185">血紅蛋白相關分析</text>
+<rect x="645" y="1557" width="404" height="202" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="662" y="1590" font-size="23" font-weight="400" fill="#685185">適當pH／幾何的可逆硼酸親和</text>
+<rect x="1055" y="1557" width="384" height="202" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1072" y="1590" font-size="23" font-weight="400" fill="#685185">親和床、沖提與後續訊號；按方法</text>
+<text x="1072" y="1622.66" font-size="23" font-weight="400" fill="#685185">校正</text>
+<rect x="1445" y="1557" width="384" height="202" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1462" y="1590" font-size="23" font-weight="400" fill="#685185">不是任意兩OH或只認HbA1c；此題</text>
+<text x="1462" y="1622.66" font-size="23" font-weight="400" fill="#685185">HbA1c是層析固定相例</text>
+<rect x="65" y="1771" width="234" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="1804" font-size="23" font-weight="400" fill="#685185">P07 免疫親和</text>
+<text x="82" y="1836.66" font-size="23" font-weight="400" fill="#685185">特定配體辨識</text>
+<text x="82" y="1869.32" font-size="23" font-weight="400" fill="#685185">L18</text>
+<rect x="305" y="1771" width="334" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="322" y="1804" font-size="23" font-weight="400" fill="#685185">有匹配抗體的目標藥、胜肽或</text>
+<text x="322" y="1836.66" font-size="23" font-weight="400" fill="#685185">蛋白</text>
+<rect x="645" y="1771" width="404" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="662" y="1804" font-size="23" font-weight="400" fill="#685185">固定抗體／配體與匹配目標辨識</text>
+<rect x="1055" y="1771" width="384" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1072" y="1804" font-size="23" font-weight="400" fill="#685185">親和床、洗滌與釋放；後測</text>
+<rect x="1445" y="1771" width="384" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1462" y="1804" font-size="23" font-weight="400" fill="#685185">需實際匹配；可包括小分子，非只</text>
+<text x="1462" y="1836.66" font-size="23" font-weight="400" fill="#685185">大分子</text>
+<rect x="65" y="1938" width="234" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="1971" font-size="23" font-weight="400" fill="#685185">P08 RAM</text>
+<text x="82" y="2003.66" font-size="23" font-weight="400" fill="#685185">限進材料與線上淨</text>
+<text x="82" y="2036.32" font-size="23" font-weight="400" fill="#685185">化</text>
+<text x="82" y="2068.98" font-size="23" font-weight="400" fill="#685185">L18</text>
+<rect x="305" y="1938" width="334" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="322" y="1971" font-size="23" font-weight="400" fill="#685185">相容生物檢品中的小分子</text>
+<rect x="645" y="1938" width="404" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="662" y="1971" font-size="23" font-weight="400" fill="#685185">外部限大分子與減蛋白吸附，內部表</text>
+<text x="662" y="2003.66" font-size="23" font-weight="400" fill="#685185">面留目標</text>
+<rect x="1055" y="1938" width="384" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1072" y="1971" font-size="23" font-weight="400" fill="#685185">限進前柱、切換／沖提與後測</text>
+<rect x="1445" y="1938" width="384" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1462" y="1971" font-size="23" font-weight="400" fill="#685185">尺寸與化學共同決定；不是所有小</text>
+<text x="1462" y="2003.66" font-size="23" font-weight="400" fill="#685185">分子都留下</text>
+<rect x="65" y="2119" width="234" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="2152" font-size="23" font-weight="400" fill="#685185">P09 離子配對萃取</text>
+<text x="82" y="2184.66" font-size="23" font-weight="400" fill="#685185">LLE的轉移條件</text>
+<text x="82" y="2217.32" font-size="23" font-weight="400" fill="#685185">L19</text>
+<rect x="305" y="2119" width="334" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="322" y="2152" font-size="23" font-weight="400" fill="#685185">永久／高極性離子，包含</text>
+<text x="322" y="2184.66" font-size="23" font-weight="400" fill="#685185">Cetrimide</text>
+<rect x="645" y="2119" width="404" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="662" y="2152" font-size="23" font-weight="400" fill="#685185">反電荷與疏水夥伴；可萃離子對</text>
+<rect x="1055" y="2119" width="384" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1072" y="2152" font-size="23" font-weight="400" fill="#685185">配對試劑、分液；後測吸收／滴定</text>
+<text x="1072" y="2184.66" font-size="23" font-weight="400" fill="#685185">等</text>
+<rect x="1445" y="2119" width="384" height="155" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1462" y="2152" font-size="23" font-weight="400" fill="#685185">電荷平衡不等於去質子化；需試劑</text>
+<text x="1462" y="2184.66" font-size="23" font-weight="400" fill="#685185">空白</text>
+<rect x="65" y="2286" width="234" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="82" y="2319" font-size="23" font-weight="400" fill="#685185">P10 衍生化輔助前處</text>
+<text x="82" y="2351.66" font-size="23" font-weight="400" fill="#685185">理</text>
+<text x="82" y="2384.32" font-size="23" font-weight="400" fill="#685185">化學反應手段</text>
+<text x="82" y="2416.98" font-size="23" font-weight="400" fill="#685185">L20</text>
+<rect x="305" y="2286" width="334" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="322" y="2319" font-size="23" font-weight="400" fill="#685185">原分析物萃取／揮發／偵測性</text>
+<text x="322" y="2351.66" font-size="23" font-weight="400" fill="#685185">質不足</text>
+<rect x="645" y="2286" width="404" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="662" y="2319" font-size="23" font-weight="400" fill="#685185">共價反應改性質，匹配標準與樣品</text>
+<rect x="1055" y="2286" width="384" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1072" y="2319" font-size="23" font-weight="400" fill="#685185">反應器皿、萃取／SPME及後測</text>
+<rect x="1445" y="2286" width="384" height="169" rx="12" fill="#e8e1f2" stroke="#685185" stroke-width="2"/>
+<text x="1462" y="2319" font-size="23" font-weight="400" fill="#685185">反應效率、產物穩定、校正；非獨</text>
+<text x="1462" y="2351.66" font-size="23" font-weight="400" fill="#685185">立兩相分類</text>
+<rect x="65" y="2467" width="234" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="82" y="2500" font-size="23" font-weight="400" fill="#326991">P11 SFE</text>
+<text x="82" y="2532.66" font-size="23" font-weight="400" fill="#326991">加壓流體萃取</text>
+<text x="82" y="2565.32" font-size="23" font-weight="400" fill="#326991">L21、25</text>
+<rect x="305" y="2467" width="334" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="322" y="2500" font-size="23" font-weight="400" fill="#326991">可溶且穩定的基質成分</text>
+<rect x="645" y="2467" width="404" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="662" y="2500" font-size="23" font-weight="400" fill="#326991">CO₂等流體的T、P、組成、傳質與收</text>
+<text x="662" y="2532.66" font-size="23" font-weight="400" fill="#326991">集</text>
+<rect x="1055" y="2467" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1072" y="2500" font-size="23" font-weight="400" fill="#326991">供液幫浦、萃取槽、減壓器與捕</text>
+<text x="1072" y="2532.66" font-size="23" font-weight="400" fill="#326991">集；後測</text>
+<rect x="1445" y="2467" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1462" y="2500" font-size="23" font-weight="400" fill="#326991">相態、收集與回收；不是SFC柱分</text>
+<text x="1462" y="2532.66" font-size="23" font-weight="400" fill="#326991">離</text>
+<rect x="65" y="2634" width="234" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="82" y="2667" font-size="23" font-weight="400" fill="#326991">P12 微透析</text>
+<text x="82" y="2699.66" font-size="23" font-weight="400" fill="#326991">膜擴散取樣</text>
+<text x="82" y="2732.32" font-size="23" font-weight="400" fill="#326991">L22、25</text>
+<rect x="305" y="2634" width="334" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="322" y="2667" font-size="23" font-weight="400" fill="#326991">活體／生物液體可通膜游離成</text>
+<text x="322" y="2699.66" font-size="23" font-weight="400" fill="#326991">分</text>
+<rect x="645" y="2634" width="404" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="662" y="2667" font-size="23" font-weight="400" fill="#326991">濃度梯度、膜、流速與相對回收</text>
+<rect x="1055" y="2634" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1072" y="2667" font-size="23" font-weight="400" fill="#326991">灌流幫浦、探針、分時收集；透析</text>
+<text x="1072" y="2699.66" font-size="23" font-weight="400" fill="#326991">液c</text>
+<rect x="1445" y="2634" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1462" y="2667" font-size="23" font-weight="400" fill="#326991">不是總量或零侵入；小分子干擾仍</text>
+<text x="1462" y="2699.66" font-size="23" font-weight="400" fill="#326991">可通過</text>
+<rect x="65" y="2801" width="234" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="82" y="2834" font-size="23" font-weight="400" fill="#326991">P13 SPME：HS／DI</text>
+<text x="82" y="2866.66" font-size="23" font-weight="400" fill="#326991">塗層非耗盡取樣</text>
+<text x="82" y="2899.32" font-size="23" font-weight="400" fill="#326991">L23</text>
+<rect x="305" y="2801" width="334" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="322" y="2834" font-size="23" font-weight="400" fill="#326991">相容基質中的微量成分，常接</text>
+<text x="322" y="2866.66" font-size="23" font-weight="400" fill="#326991">GC或LC</text>
+<rect x="645" y="2801" width="404" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="662" y="2834" font-size="23" font-weight="400" fill="#326991">纖維分配／吸附，固定T與時間等</text>
+<rect x="1055" y="2801" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1072" y="2834" font-size="23" font-weight="400" fill="#326991">塗層纖維、樣品瓶、熱或溶劑脫</text>
+<text x="1072" y="2866.66" font-size="23" font-weight="400" fill="#326991">附；校正訊號</text>
+<rect x="1445" y="2801" width="384" height="155" rx="12" fill="#dceaf7" stroke="#326991" stroke-width="2"/>
+<text x="1462" y="2834" font-size="23" font-weight="400" fill="#326991">HS需氣相可達性；DI污染與所有模</text>
+<text x="1462" y="2866.66" font-size="23" font-weight="400" fill="#326991">式匹配校正</text>
+<rect x="65" y="2983" width="1770" height="150" rx="18" fill="#f5dfe2" stroke="#b72d4a" stroke-width="2"/>
+<text x="87" y="3024" font-size="27" font-weight="600" fill="#b72d4a">分類的用處</text>
+<text x="87" y="3072.34" font-size="23" font-weight="400" fill="#24343f">同一檢品可以先衍生化、再LLE或SPME；同一SPE床可同時有多種作用。先定條件與收集目的，再命名主導機制。</text>
+<text x="50" y="3175" font-size="20" font-weight="400" fill="#61717a">P01–13全部來源方法／模式均有對照。HbA1c題是層析固定相的親和例，與SPE共用把柄，並非另造前處理題。</text>
+<text x="50" y="3211" font-size="20" font-weight="400" fill="#61717a">原題：CH23 PDF（內題頭CH24）；正文：建構講義 v3.0。M＝大循環站；L＝理解模組；P＝方法條目。示意不按比例。</text>
+</svg>

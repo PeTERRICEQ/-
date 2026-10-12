@@ -1,0 +1,130 @@
+<svg width="1900" height="2300" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1900 2300" role="img" aria-labelledby="ce3_g3_title ce3_g3_desc" font-family="Noto Sans CJK TC, Microsoft JhengHei, Droid Sans Fallback, sans-serif" fill="#24343f">
+<title id="ce3_g3_title">CE 全章方法分類與大小循環對照</title><desc id="ce3_g3_desc">毛細管電泳教學向量圖，v3.0。M01先定問題，M02準備與測量，M03讀訊號，M04核對結論。灰箭頭是分析流程；藍線是液流或區帶運動，金線是光路，橙線是自身電泳，紫線是聚焦運動；紅虛線僅表示分析者依品質疑點回查。所有硬體與箭頭依標籤判讀，示意不按比例；曲線依子圖標示為自編模型，非實測。</desc>
+<rect x="0" y="0" width="1900" height="2300" rx="0" fill="#f8f6ee" stroke="#f8f6ee" stroke-width="2"/>
+<text x="50" y="64" font-size="20" font-weight="400" fill="#61717a">PHARMACEUTICAL ANALYSIS / CH24 / CE / v3.0</text>
+<text x="50" y="120" font-size="38" font-weight="400" fill="#24343f">CE 全章方法分類與大小循環對照</text>
+<text x="50" y="164" font-size="24" font-weight="400" fill="#24343f">六種分離模式，加上可交叉的手性、偵測、進樣與管壁修飾軸。</text>
+<rect x="50" y="205" width="420" height="115" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="71" y="246" font-size="27" font-weight="600" fill="#24343f">M01｜先定問題</text>
+<text x="71" y="288" font-size="23" font-weight="400" fill="#24343f">目的與檢品</text>
+<polyline points="470,262 506,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="506.0,262.0 494.6,268.2 494.6,255.8" fill="#61717a"/>
+<rect x="510" y="205" width="420" height="115" rx="18" fill="#eef5ec" stroke="#497d65" stroke-width="2"/>
+<text x="531" y="246" font-size="27" font-weight="600" fill="#24343f">M02｜準備與測量</text>
+<text x="531" y="288" font-size="23" font-weight="400" fill="#24343f">製樣、作用與條件</text>
+<polyline points="930,262 966,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="966.0,262.0 954.6,268.2 954.6,255.8" fill="#61717a"/>
+<rect x="970" y="205" width="420" height="115" rx="18" fill="#fcf2e4" stroke="#90632e" stroke-width="2"/>
+<text x="991" y="246" font-size="27" font-weight="600" fill="#24343f">M03｜讀訊號</text>
+<text x="991" y="288" font-size="23" font-weight="400" fill="#24343f">量、單位與處理</text>
+<polyline points="1390,262 1426,262" fill="none" stroke="#61717a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+<polygon points="1426.0,262.0 1414.6,268.2 1414.6,255.8" fill="#61717a"/>
+<rect x="1430" y="205" width="420" height="115" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1451" y="246" font-size="27" font-weight="600" fill="#24343f">M04｜核對結論</text>
+<text x="1451" y="288" font-size="23" font-weight="400" fill="#24343f">判讀、限制與品質</text>
+<rect x="50" y="380" width="195" height="110" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="420" font-size="23" font-weight="600" fill="#765a8c">方法</text>
+<rect x="245" y="380" width="390" height="110" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="420" font-size="23" font-weight="600" fill="#765a8c">P1／M01 對象目的</text>
+<rect x="635" y="380" width="410" height="110" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="420" font-size="23" font-weight="600" fill="#765a8c">P2／M02 作用條件</text>
+<rect x="1045" y="380" width="365" height="110" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="420" font-size="23" font-weight="600" fill="#765a8c">P3／M03 裝置讀數</text>
+<rect x="1410" y="380" width="440" height="110" rx="18" fill="#f2eef8" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="420" font-size="23" font-weight="600" fill="#765a8c">P4／M04 判定限制</text>
+<rect x="50" y="530" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="570" font-size="23" font-weight="400" fill="#24343f">P01</text>
+<text x="68" y="602.66" font-size="23" font-weight="400" fill="#24343f">CZE</text>
+<rect x="245" y="530" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="570" font-size="23" font-weight="400" fill="#24343f">帶電、有效淌度有差的分析物</text>
+<rect x="635" y="530" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="570" font-size="23" font-weight="400" fill="#24343f">均一BGE；EP與EOF；L02–L12</text>
+<rect x="1045" y="530" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="570" font-size="23" font-weight="400" fill="#24343f">空管與電極；tm、μeff、面積</text>
+<rect x="1410" y="530" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="570" font-size="23" font-weight="400" fill="#24343f">中性物常共遷移；壁吸附/熱需檢查</text>
+<text x="68" y="640" font-size="20" font-weight="400" fill="#61717a">區帶電泳</text>
+<text x="55" y="675" font-size="20" font-weight="400" fill="#61717a">L01 / L02</text>
+<rect x="50" y="720" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="760" font-size="23" font-weight="400" fill="#24343f">P02</text>
+<text x="68" y="792.66" font-size="23" font-weight="400" fill="#24343f">MEKC</text>
+<rect x="245" y="720" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="760" font-size="23" font-weight="400" fill="#24343f">中性/疏水物及部分帶電物</text>
+<rect x="635" y="720" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="760" font-size="23" font-weight="400" fill="#24343f">微胞假固定相；達到實際CMC；L17</text>
+<rect x="1045" y="720" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="760" font-size="23" font-weight="400" fill="#24343f">SDS 等微胞；tEOF到tmic之間的</text>
+<text x="1063" y="792.66" font-size="23" font-weight="400" fill="#24343f">峰</text>
+<rect x="1410" y="720" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="760" font-size="23" font-weight="400" fill="#24343f">微胞要與水不同速；帶電物另加EP</text>
+<text x="68" y="830" font-size="20" font-weight="400" fill="#61717a">微胞電動層析</text>
+<text x="55" y="865" font-size="20" font-weight="400" fill="#61717a">L17 / L28</text>
+<rect x="50" y="910" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="950" font-size="23" font-weight="400" fill="#24343f">P03</text>
+<text x="68" y="982.66" font-size="23" font-weight="400" fill="#24343f">CGE</text>
+<rect x="245" y="910" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="950" font-size="23" font-weight="400" fill="#24343f">DNA/RNA、SDS變性蛋白大小</text>
+<rect x="635" y="910" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="950" font-size="23" font-weight="400" fill="#24343f">固定或可置換聚合物篩分；L19</text>
+<rect x="1045" y="910" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="950" font-size="23" font-weight="400" fill="#24343f">Polyacrylamide等；tm對應大小</text>
+<rect x="1410" y="910" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="950" font-size="23" font-weight="400" fill="#24343f">電荷/形狀仍需控制；進樣看介質</text>
+<text x="68" y="1020" font-size="20" font-weight="400" fill="#61717a">膠體電泳</text>
+<text x="55" y="1055" font-size="20" font-weight="400" fill="#61717a">L19 / L15</text>
+<rect x="50" y="1100" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="1140" font-size="23" font-weight="400" fill="#24343f">P04</text>
+<text x="68" y="1172.66" font-size="23" font-weight="400" fill="#24343f">CIEF</text>
+<rect x="245" y="1100" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="1140" font-size="23" font-weight="400" fill="#24343f">兩性物、蛋白電荷異型/pI</text>
+<rect x="635" y="1100" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="1140" font-size="23" font-weight="400" fill="#24343f">pH梯度；抑制EOF聚焦；L10/L20</text>
+<rect x="1045" y="1100" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="1140" font-size="23" font-weight="400" fill="#24343f">Ampholytes；位置/pI標定、可</text>
+<text x="1063" y="1172.66" font-size="23" font-weight="400" fill="#24343f">動化峰</text>
+<rect x="1410" y="1100" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="1140" font-size="23" font-weight="400" fill="#24343f">pI零自身EP，不代表任意流下靜止</text>
+<text x="68" y="1210" font-size="20" font-weight="400" fill="#61717a">等電聚焦</text>
+<text x="55" y="1245" font-size="20" font-weight="400" fill="#61717a">L10 / L20</text>
+<rect x="50" y="1290" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="1330" font-size="23" font-weight="400" fill="#24343f">P05</text>
+<text x="68" y="1362.66" font-size="23" font-weight="400" fill="#24343f">ITP</text>
+<rect x="245" y="1290" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="1330" font-size="23" font-weight="400" fill="#24343f">同號離子濃縮、痕量分析</text>
+<rect x="635" y="1290" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="1330" font-size="23" font-weight="400" fill="#24343f">|μLE|&gt;|μsample|&gt;|μTE|；L21</text>
+<rect x="1045" y="1290" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="1330" font-size="23" font-weight="400" fill="#24343f">LE/sample/TE三區；穩態v相同</text>
+<rect x="1410" y="1290" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="1330" font-size="23" font-weight="400" fill="#24343f">非均一；不要把淌度與速度混同</text>
+<text x="68" y="1400" font-size="20" font-weight="400" fill="#61717a">等速電泳</text>
+<text x="55" y="1435" font-size="20" font-weight="400" fill="#61717a">L21</text>
+<rect x="50" y="1480" width="195" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="68" y="1520" font-size="23" font-weight="400" fill="#24343f">P06</text>
+<text x="68" y="1552.66" font-size="23" font-weight="400" fill="#24343f">CEC</text>
+<rect x="245" y="1480" width="390" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="263" y="1520" font-size="23" font-weight="400" fill="#24343f">中性/帶電物需層析選擇性</text>
+<rect x="635" y="1480" width="410" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="653" y="1520" font-size="23" font-weight="400" fill="#24343f">真固定相分配，EOF驅動；L22</text>
+<rect x="1045" y="1480" width="365" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1063" y="1520" font-size="23" font-weight="400" fill="#24343f">填充/整體/開管固定相；tm/保</text>
+<text x="1063" y="1552.66" font-size="23" font-weight="400" fill="#24343f">留</text>
+<rect x="1410" y="1480" width="440" height="170" rx="18" fill="#fff" stroke="#765a8c" stroke-width="2"/>
+<text x="1428" y="1520" font-size="23" font-weight="400" fill="#24343f">存在轉移動力學；可有壓力輔助</text>
+<text x="68" y="1590" font-size="20" font-weight="400" fill="#61717a">電層析</text>
+<text x="55" y="1625" font-size="20" font-weight="400" fill="#61717a">L22</text>
+<rect x="50" y="1730" width="880" height="400" rx="18" fill="#edf6f6" stroke="#476c79" stroke-width="2"/>
+<text x="72" y="1771" font-size="27" font-weight="600" fill="#476c79">橫向修飾，不新增第七種分離模式</text>
+<text x="72" y="1819.34" font-size="23" font-weight="400" fill="#24343f">手性軸 L18：β-CD／Dimethyl β-CD改有效淌度與選擇性。</text>
+<text x="72" y="1852" font-size="23" font-weight="400" fill="#24343f">偵測軸 L23–L24：UV/DAD、LIF、MS、電化學；間接UV讀背景置換。</text>
+<text x="72" y="1884.66" font-size="23" font-weight="400" fill="#24343f">進樣軸 L15：壓力/虹吸或電動；基質不同可有載入偏差。</text>
+<rect x="970" y="1730" width="880" height="400" rx="18" fill="#edf3f9" stroke="#37668b" stroke-width="2"/>
+<text x="992" y="1771" font-size="27" font-weight="600" fill="#37668b">用題幹找到真正作用</text>
+<text x="992" y="1819.34" font-size="23" font-weight="400" fill="#24343f">pH／電荷／速度 → CZE工具L02–L12。</text>
+<text x="992" y="1852" font-size="23" font-weight="400" fill="#24343f">中性／log P → MEKC L17；真固定相→CEC L22。</text>
+<text x="992" y="1884.66" font-size="23" font-weight="400" fill="#24343f">DNA／大小 → CGE L19；蛋白pI→CIEF L20。</text>
+<text x="992" y="1917.32" font-size="23" font-weight="400" fill="#24343f">LE／TE／等速 → ITP L21。</text>
+<text x="992" y="1949.98" font-size="23" font-weight="400" fill="#24343f">原題濃度0.05mM SDS → F16的來源疑點，不當SOP。</text>
+<text x="50" y="2232" font-size="20" font-weight="400" fill="#61717a">分類關係用同層欄列；真固定相、微胞假固定相、篩分基質與pH梯度的角色分清。</text>
+<text x="50" y="2268" font-size="20" font-weight="400" fill="#61717a">來源：CH24題本／雙筆記。EP＝自身電泳，EOF＝電滲流，BGE＝背景電解質；M大站／L理解／P方法／C紙筆。圖文同源v3.0。</text>
+</svg>
