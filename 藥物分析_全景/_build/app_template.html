@@ -162,8 +162,14 @@ details.why p{font-size:13.5px;margin:4px 0 0}
 .q{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--surface)}
 .q+.q{margin-top:6px}
 .q-h{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:12.5px;color:var(--muted)}
-.q-stem{white-space:pre-wrap;font-size:13.5px;margin-top:4px;max-height:15em;overflow:auto}
+.q-stem{white-space:pre-wrap;font-size:13.5px;margin-top:4px}
 .q-ans{margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-size:13px}
+.exp{margin-top:8px;border-top:1px dashed var(--line);padding-top:8px;display:grid;gap:7px;font-size:13.5px}
+.ansline{display:flex;gap:10px;align-items:flex-start}
+.ansbig{flex:none;display:inline-grid;place-items:center;min-width:1.9em;height:1.9em;border-radius:7px;background:var(--good);color:#fff;font-family:var(--f-mono);font-weight:600;font-size:15px}
+.via{display:grid;gap:3px}
+.via>b{font-size:11.5px;color:var(--muted);letter-spacing:.06em}
+.viac{display:flex;gap:6px;align-items:baseline;flex-wrap:wrap}
 .parts{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px}
 @media (max-width:640px){.parts{grid-template-columns:minmax(0,1fr)}}
 .part{border:1px solid var(--line);border-radius:9px;padding:6px 8px;background:var(--surface);display:grid;gap:4px;font-size:13.5px}
@@ -343,9 +349,19 @@ function viewCh() {
 
 // ── 焦點欄 ──
 function qHTML(q) {
+  const cards = q.L.map(L => cardOf(q.ch, L)).filter(Boolean).slice(0, 2);
+  const reds = q.red.slice(0, 2).map(([ti, j]) => D.te[ti].reds[j]);
+  const coord = `${q.p.map(bd).join('')}${q.s.map(st).join('')}${q.l.slice(0, 3).map(n => { const i = D.lines.findIndex(l => l.name === n); return i < 0 ? '' : go('line', i, '', `<span class="nbr">${esc(n)}</span>`); }).join('')}`;
+  const exp = `<div class="exp" hidden>
+      <div class="ansline"><span class="ansbig">${esc(q.ans || '—')}</span><span>${T(q.why || '講義沒有附解析。')}</span></div>
+      ${cards.length ? `<div class="via"><b>回查 L</b>${cards.map(c => `<div class="viac">${go('card', c.ch, c.L, `<span class="lchip">${esc(c.ch)} ${esc(c.L)}</span>`)} <span>${T(c.chain || c.title)}</span></div>`).join('')}</div>`
+        : q.sec ? `<div class="via"><b>回查</b><div class="viac"><span class="lchip">${esc(q.ch)} ${esc(q.sec)}</span></div></div>` : ''}
+      ${reds.length ? `<div class="via"><b>全景紅字</b>${reds.map(r => `<div class="viac">${rt(r.type)}<span class="red">${T(r.t)}</span></div>`).join('')}</div>` : ''}
+      <div class="via"><b>座標</b><div class="tags">${coord}</div></div>
+    </div>`;
   return `<div class="q"><div class="q-h"><b>${esc(q.ch)}</b><span class="mono">${esc(q.id)}</span><span>${T(q.title)}</span></div>
     <div class="q-stem">${T(q.stem)}</div>
-    <div class="q-ans"><button class="small-btn" data-act="ans">看題本答案</button><span hidden class="a"><b>${esc(q.ans || '—')}</b> ${q.L.map(L => lchip(q.ch, L)).join(' ')}</span></div></div>`;
+    <div class="q-ans"><button class="small-btn" data-act="exp">看答案與解釋</button></div>${exp}</div>`;
 }
 function qList(qs, limit = 12) {
   if (!qs.length) return '<p class="empty">沒有題目點名。</p>';
@@ -533,6 +549,7 @@ document.addEventListener('click', e => {
   else if (a === 'rbtoggle') { S.rbOpen = !S.rbOpen; renderRbar(); }
   else if (a === 'chsel') { S.chSel = x; savePrefs(); render(); }
   else if (a === 'opench') { S.chSel = x; S.view = 'ch'; savePrefs(); render(); window.scrollTo(0, 0); }
+  else if (a === 'exp') { const n = b.closest('.q').querySelector('.exp'); n.hidden = !n.hidden; b.textContent = n.hidden ? '看答案與解釋' : '收起'; }
   else if (a === 'ans') { const n = b.nextElementSibling; if (n) { n.hidden = !n.hidden; b.textContent = n.hidden ? (b.closest('.q') ? '看題本答案' : '看答案') : '收起'; } }
   else if (a === 'more') { const box = document.getElementById(x); if (box) { box.insertAdjacentHTML('beforeend', (QMORE[x] || []).map(qHTML).join('')); b.remove(); } }
   else if (a === 'pick') { const r = RES[+x]; if (r) { setFocus(r.f); $('#res').hidden = true; $('#q').value = ''; RES = []; } }

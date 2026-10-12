@@ -70,9 +70,10 @@ for r in Q:
     stem = re.sub(r'^\s*\^[\w-]+\s*$|<a id="[^"]*"></a>', '', stem, flags=re.M)
     stem = re.sub(r'^.*(來源|題本原題號|PDF p|答案身分|原年梯).*$', '', stem, flags=re.M)
     stem = re.sub(r'\*\*原題[^*]*\*\*', '', stem).replace('**', '')
-    stem = re.sub(r'\n{3,}', '\n\n', stem).strip()
+    stem = re.sub(r'\n\s*\n+', '\n', stem).strip()
     Ls = sorted({norm_L(r['ch'], m.group(1)) for x in r['L'] for m in [re.search(r'l(\d{1,2})$', x, re.I)] if m})
     qs.append(dict(id=r['id'], ch=r['ch'], title=r['title'][:40], stem=stem[:700], ans=r['ans'][:12], L=Ls,
+                   why=re.sub(r'\s*[、與和]?\s*\bF\d{2}\b', '', r.get('why', '')).replace('→  →', '→'), sec=r.get('sec', ''),
                    p=r.get('prop') or [CH_PROP[r['ch']]], s=stags(t), l=ltags(t),
                    te=[i for i, rx in te_rx if any(x.search(t) for x in rx)]))
 
@@ -97,6 +98,24 @@ for i, (name, keys, props, sta, line, pos, reds) in enumerate(C.TE):
     te.append(dict(i=i, name=name, n=n, nch=len({q['ch'] for q in rows}),
                    chs=Counter(q['ch'] for q in rows).most_common(), p=list(props), s=list(sta), line=line,
                    frags=frags, reds=rd, wave=1 if n >= 40 else 2 if n >= 20 else 3))
+
+# ── 題目接回全景紅字：同一個 Te 物件、同一章、引用同一個 L ──
+def cite_Ls(ch, cite):
+    out = set()
+    for seg in re.split(r'[、，]', cite):
+        seg = seg.strip()
+        c = lead_chs(seg)
+        if (c and c[0] == ch) or (not c and ch):
+            for a, b in re.findall(r'L(\d{1,2})(?:–L?(\d{1,2}))?', seg):
+                for n in range(int(a), int(b or a) + 1): out.add(norm_L(ch, n))
+    return out
+for q in qs:
+    q['red'] = []
+    for ti in q['te']:
+        for j, rd in enumerate(te[ti]['reds']):
+            cl = cite_Ls(q['ch'], rd['cite'])
+            if q['ch'] in rd['ch'] and len(cl) <= 2 and cl & set(q['L']):
+                q['red'].append([ti, j])
 
 # ── 線 ──
 def mk_line(name, rule, known, chain, ti):

@@ -3,7 +3,7 @@ from collections import Counter, defaultdict
 from tags import OBJ, PROP, CH_PROP, STA, LINE, CALC_HINT, FORM
 q = json.load(open('questions.json', encoding='utf-8'))
 def clean(r):
-    s = r['title'] + '\n' + r['stem']
+    s = r['title'] + '\n' + r['stem'] + ('\n' + r.get('why', '') if r['ch'] in ('非水滴定', '旋光') else '')
     s = re.sub(r'\[\[[^\]]*\]\]|\^[\w-]+|<[^>]+>', ' ', s)
     s = re.sub(r'^.*(來源|PDF|題本|原年梯|任務).*$', ' ', s, flags=re.M) if r['ch'] not in ('非水滴定','旋光') else s
     return s
