@@ -1,0 +1,170 @@
+"""標記字典：考點物件、藥物性質、五站、九線＋地板、算式家族。所有比對只看題幹＋選項。"""
+import re
+def R(p): return re.compile(p)  # 區分大小寫；英文單字用 (?i:…)
+
+# ── 考點物件（Te 作戰表的列）：名稱 → (類別, regex) ──
+OBJ = {
+ # 條件
+ 'pH／pKa':            ('條件', R(r'\bpH\b|pK_?a|pK\b|解離常數|酸鹼值')),
+ '溫度':               ('條件', R(r'溫度|°C|℃|升溫|低溫|高溫|加熱')),
+ '溶劑（溶媒）':        ('條件', R(r'溶劑|溶媒|(?i:solvent)')),
+ '濃度（線性範圍）':     ('條件', R(r'濃度')),
+ '波長／波數':          ('條件', R(r'波長|波數|(?i:wavelength|wavenumber)|cm⁻¹|cm-1|cm\^\{?-1')),
+ '流速':               ('條件', R(r'流速|流量|(?i:flow rate)')),
+ '磁場強度':            ('條件', R(r'磁場|MHz|特斯拉|(?i:tesla)|B_?0|B₀')),
+ '電壓／電場':          ('條件', R(r'電壓|電場|(?i:voltage)')),
+ '壓力／密度':          ('條件', R(r'壓力|密度|(?i:pressure|density)')),
+ # 試劑與材料
+ '甲醇':               ('試劑', R(r'甲醇(?!鈉)|(?i:methanol)')),
+ '乙腈':               ('試劑', R(r'乙腈|(?i:acetonitrile)')),
+ '水／D₂O':            ('試劑', R(r'D₂O|D2O|重水|水溶液|含水|水分|\b水\b|純水')),
+ '冰醋酸／醋酸':        ('試劑', R(r'冰醋酸|醋酸(?!汞)|乙酸(?!汞)|(?i:acetic)')),
+ '過氯酸':             ('試劑', R(r'過氯酸|(?i:perchlor)|HClO')),
+ '甲醇鈉':             ('試劑', R(r'甲醇鈉|(?i:methoxide)|CH₃ONa|CH3ONa')),
+ '指示劑':             ('試劑', R(r'指示劑|(?i:crystal violet|thymol blue|azo violet)|結晶紫|百里酚藍')),
+ '一級標準（KHP 等）':   ('試劑', R(r'KHP|鄰苯二甲酸氫鉀|(?i:biphthalate|primary standard|benzoic acid)|一級標準|苯甲酸')),
+ '碘／費氏試劑':        ('試劑', R(r'碘(?!蒸氣)|(?i:iodine|Karl Fischer)|費氏|\bKF\b')),
+ '緩衝液':             ('試劑', R(r'緩衝|(?i:buffer|phosphate|borate)|磷酸鹽|硼酸')),
+ '離子對試劑':          ('試劑', R(r'離子對|(?i:ion[- ]pair)')),
+ '環糊精（β-CD）':      ('試劑', R(r'環糊精|(?i:cyclodextrin)|β-CD')),
+ 'SDS／微胞':           ('試劑', R(r'\bSDS\b|十二烷基硫酸|(?i:dodecyl|micell)|微胞|MEKC')),
+ '衍生化試劑':          ('試劑', R(r'衍生|(?i:derivati|silyl|dansyl|ninhydrin)|矽烷化|\bOPA\b|茚三酮')),
+ '呈色劑／碘蒸氣':       ('試劑', R(r'呈色|顯色|噴霧試劑|碘蒸氣|(?i:Dragendorff|spray reagent)')),
+ '氘代溶劑／TMS':        ('試劑', R(r'氘代|(?i:deuterat|tetramethylsilane)|CDCl|DMSO-d|\bTMS\b|四甲基矽烷')),
+ 'KBr／製樣':           ('試劑', R(r'KBr|溴化鉀|壓片|糊漿|(?i:mull|nujol)|\bATR\b|製樣|錠片法')),
+ 'CO₂（超臨界）':        ('試劑', R(r'CO₂|CO2|二氧化碳|超臨界|(?i:supercritical)|SFC|SFE')),
+ '載氣（He、N₂、H₂）':    ('試劑', R(r'載氣|攜行氣|(?i:carrier gas|helium)|氦|氮氣|氫氣')),
+ 'LaCl₃／釋放劑':        ('試劑', R(r'LaCl|鑭|釋放劑|保護劑|(?i:releasing)')),
+ '乙酸汞':              ('試劑', R(r'乙酸汞|醋酸汞|(?i:mercuric acetate)')),
+ # 固定相與管柱
+ 'C18／逆相':           ('固定相', R(r'C18|C-18|\bODS\b|逆相|(?i:reversed?[- ]phase)|十八烷')),
+ '矽膠／正相':           ('固定相', R(r'矽膠|(?i:silica|normal[- ]phase|silanol)|正相|矽醇')),
+ '離子交換':             ('固定相', R(r'離子交換|(?i:ion[- ]exchange)')),
+ '分子篩（SEC）':         ('固定相', R(r'分子篩|分子排阻|(?i:size[- ]exclusion)|凝膠過濾|凝膠滲透|\bGPC\b|\bSEC\b')),
+ '手性固定相':            ('固定相', R(r'手性|掌性|對掌|(?i:chiral|enantio)|鏡像|光學異構')),
+ 'HILIC':               ('固定相', R(r'HILIC|親水作用')),
+ 'GC 固定相（OV-1 等）':   ('固定相', R(r'OV-\d|BPX|DB-\d|SE-30|Carbowax|\bPEG\b|聚乙二醇|聚矽氧|固定液')),
+ 'SPE 匣柱':             ('固定相', R(r'\bSPE\b|固相萃取|(?i:solid[- ]phase extraction|cartridge)|匣')),
+ # 源
+ '光源（燈）':            ('源', R(r'光源|燈|(?i:lamp|deuterium|tungsten|xenon|globar)|氘燈|鎢|氙|Nernst')),
+ '中空陰極燈':            ('源', R(r'中空陰極|(?i:hollow cathode)')),
+ '雷射':                 ('源', R(r'雷射|(?i:laser)')),
+ '火焰／電漿／石墨爐':     ('源', R(r'(?<!離子化)火焰(?!離子)|(?i:flame(?! ioniz)|plasma|graphite)|電漿|\bICP|石墨爐')),
+ '游離法（EI、ESI…）':     ('源', R(r'游離|(?<!火焰)離子化(?!檢)|\bEI\b|\bCI\b|\bESI\b|APCI|APPI|MALDI|\bFAB\b|電灑|電子撞擊|熱噴灑|(?i:electrospray|thermospray)')),
+ '進樣（分流、頂空…）':      ('樣', R(r'進樣|注入|(?i:injection|splitless|headspace)|分流|頂空|SPME|點樣')),
+ '萃取（LLE）':           ('樣', R(r'(?<!固相)萃取|液液|(?i:liquid[- ]liquid)|分配係數|分配比')),
+ '容槽／窗片':             ('樣', R(r'容槽|吸收槽|樣品槽|(?i:cuvette|quartz)|石英|窗片|鹽板|光徑')),
+ # 選
+ '單色器／光柵／濾光片':     ('選', R(r'單色器|單光器|(?i:monochromat|grating|prism)|光柵|稜鏡|濾光')),
+ '干涉儀／FT':            ('選', R(r'干涉|(?i:interfero|fourier)|傅立葉|傅里葉|FT-|\bFT\b|自由感應')),
+ '質量分析器':            ('選', R(r'四極|(?i:quadrupole|time[- ]of[- ]flight|ion trap|orbitrap|magnetic sector)|飛行時間|飛行式|\bTOF\b|離子阱|FTICR|磁場式|扇形|雙聚焦|質量分析器')),
+ '管柱（填充、毛細）':       ('選', R(r'管柱|層析柱|毛細管柱|填充柱|開管|(?i:packed column|capillary column)')),
+ '毛細管＋EOF':           ('選', R(r'EOF|電滲|(?i:electro-?osmo)|毛細管電泳|CZE|MEKC|CGE|CIEF|\bITP\b|\bCEC\b')),
+ # 測
+ 'UV／DAD 偵測器':          ('測', R(r'DAD|PDA|二極體陣列|(?i:diode array|UV detector)|光二極體|紫外光?(偵測|檢測)器')),
+ '螢光偵測器':             ('測', R(r'螢光(偵測|檢測)器|(?i:fluorescence detector)')),
+ 'RI 偵測器':              ('測', R(r'(折射率|折光)(偵測|檢測)器|示差折|\bRI\b|(?i:refractive index detector)')),
+ 'ELSD／CAD':             ('測', R(r'ELSD|蒸發式光散射|光散射(偵測|檢測)|\bCAD\b|(?i:charged aerosol|evaporative light)')),
+ '電化學偵測器':            ('測', R(r'電化學(偵測|檢測)|(?i:electrochemical|amperometric|conductivity)|安培|電導(偵測|檢測)')),
+ 'FID':                   ('測', R(r'(?<![a-z])FID(?! 訊號)|火焰離子化|(?i:flame ioniz)')),
+ 'ECD':                   ('測', R(r'\bECD\b|電子捕[獲捉]|(?i:electron capture)')),
+ 'TCD':                   ('測', R(r'\bTCD\b|熱導|(?i:thermal conductivity)')),
+ 'NPD':                   ('測', R(r'\bNPD\b|氮磷|(?i:nitrogen[- ]phosphorus)')),
+ '光電倍增管／熱偵測器':      ('測', R(r'光電倍增|(?i:photomultiplier|thermocouple|bolometer)|\bPMT\b|熱電偶|DTGS|\bMCT\b|輻射熱|偵測器')),
+ 'MS 偵測（聯用）':          ('測', R(r'GC-MS|LC-MS|GC／MS|LC／MS|質譜(偵測|檢測)|串聯|MS/MS|MS／MS|(?i:tandem)')),
+ '終點偵測（電位、雙鉑）':     ('測', R(r'終點|(?i:end ?point|potentiometr|dead[- ]stop|biamperometr)|電位滴定|雙鉑|死停')),
+ '天平／恆重':              ('測', R(r'恆重|恒重|稱重|稱量|天平|熾灼|灼燒|灰化|乾燥減重|(?i:loss on drying)')),
+ # 算：讀數與參數
+ '吸光度 A／透光率 %T':      ('算', R(r'吸光度|吸光值|透光|透射|(?i:absorbance|transmittance)|%T')),
+ '吸光係數 ε、A(1%,1cm)':    ('算', R(r'吸光係數|吸收係數|(?i:absorptivity|molar absorp)|ε|E\s*1%|A\s*\(?1%|比吸光')),
+ 'Beer 定律':              ('算', R(r'Beer|比爾|朗伯|Lambert')),
+ 'λmax 位移（紅移、增色…）':   ('算', R(r'紅移|藍移|增色|減色|淺色|深色|(?i:bathochromic|hypsochromic|hyperchromic|hypochromic|chromophore|auxochrome)|助色|發色|共軛')),
+ '量子產率 Φ／淬熄':          ('算', R(r'量子(產率|效率)|(?i:quantum (yield|efficiency)|quench|phosphoresc)|淬熄|消光|系間|磷光')),
+ 'Stokes／Raman 位移':       ('算', R(r'Stokes|斯托克|拉曼位移|Raman shift|Rayleigh|瑞利')),
+ '化學位移 δ':              ('算', R(r'化學位移|(?i:chemical shift|shield)|δ|ppm|屏蔽')),
+ '偶合常數 J／裂分':          ('算', R(r'偶合|耦合|(?i:coupling|multiplet|doublet|triplet|quartet|singlet|multiplicity)|裂分|分裂|n\s*\+\s*1|Karplus')),
+ '積分（H 數）':             ('算', R(r'積分|(?i:integra)|面積比')),
+ 'm/z／分子離子':            ('算', R(r'm/z|m／z|質荷比|質量數|分子離子|(?i:molecular ion|base peak)|\[M|M\+|M⁺|基峰|分子量')),
+ '同位素峰（Cl、Br）':         ('算', R(r'同位素|(?i:isotop)|M\s*\+\s*2|M＋2')),
+ '碎片（McLafferty、α 斷裂）':  ('算', R(r'碎片|(?i:fragment|McLafferty)|麥克拉弗蒂|α ?斷裂|裂解')),
+ '氮規則':                  ('算', R(r'氮規則|(?i:nitrogen rule)|奇數.{0,6}氮|氮.{0,6}奇數')),
+ '保留時間 tR／死時間 t₀':      ('算', R(r'保留時間|滯留時間|(?i:retention time|dead time|void)|死時間|t₀|\bt_?0\b|\bt_?R\b')),
+ '保留因子 k′':               ('算', R(r'容量因子|保留因子|(?i:capacity factor|retention factor)|k′|k\'')),
+ '選擇性因子 α':              ('算', R(r'選擇(性)?因子|分離因子|(?i:selectivity factor)|相對保留')),
+ '理論板 N／板高 H':           ('算', R(r'理論板|板數|板高|HETP|(?i:theoretical plate|plate height)')),
+ '解析度 Rs':                ('算', R(r'解析度|分離度|(?i:resolution)|\bRs\b|R_s')),
+ 'van Deemter（A、B、C 項）':   ('算', R(r'Deemter|渦流|(?i:eddy|longitudinal|mass transfer)|縱向擴散|質傳|多路徑')),
+ '拖尾／峰形':                ('算', R(r'拖尾|(?i:tailing|fronting|asymmetr)|前伸|不對稱因子|對稱因子|峰形')),
+ 'Rf':                      ('算', R(r'R_?f\b|R_\{?f|比移值|Rf')),
+ '保留指數 I':               ('算', R(r'保留指數|Kovats|(?i:retention index)')),
+ '淌度 μ':                  ('算', R(r'淌度|遷移率|(?i:mobility|migration time)|遷移時間')),
+ '比旋光度 [α]':             ('算', R(r'比旋|旋光|(?i:optical rotation)|\[α\]|\\alpha|左旋|右旋')),
+ '折光率 n':                 ('算', R(r'折光|折射率|(?i:refractive)|Abbe|阿貝')),
+ '內標／外標':                ('算', R(r'內標|外標|(?i:internal standard|external standard|calibration)|檢量線|標準曲線|校正曲線')),
+ '標準添加':                  ('算', R(r'標準添加|(?i:standard addition)')),
+ '回收率':                   ('算', R(r'回收|(?i:recovery)')),
+ '力價／當量':                ('算', R(r'力價|滴定度|當量|(?i:equivalen)|標定|0\.1 ?N')),
+ '偵測極限 LOD／雜訊':          ('算', R(r'偵測極限|檢測極限|定量極限|\bLOD\b|\bLOQ\b|雜訊|訊噪|S/N|S／N|靈敏度|(?i:sensitivity|noise)')),
+ '干擾（化學、游離、光譜）':      ('算', R(r'干擾|(?i:interfer|matrix effect|background)|基質效應|背景|空白')),
+ '晶型／多晶':                ('算', R(r'晶型|晶形|多晶|(?i:polymorph)|結晶型')),
+}
+
+# ── 藥物性質（徽章）：11 欄 ──
+PROP = {
+ '色': ('共軛與發色基', R(r'共軛|發色|助色|chromophore|auxochrome|紅移|藍移|增色|減色|λ ?max|紫外|UV|可見光|螢光|fluoresc|吸光')),
+ '骨': ('官能基與骨架', R(r'官能基|鍵|伸縮|彎曲|stretch|bend|羰基|C=O|O–H|O-H|N–H|N-H|C–H|C-H|化學位移|偶合|裂分|δ|ppm|碎片|McLafferty|指紋|苯環|芳香|NMR|IR\b|紅外|Raman|拉曼')),
+ '量': ('分子量與大小', R(r'分子量|molecular weight|m/z|m／z|質荷|分子離子|大分子|小分子|分子篩|size|分子大小|半徑|孔徑|同位素|蛋白')),
+ '極': ('極性（logP）', R(r'極性|polar|疏水|hydrophob|親水|hydrophil|親脂|lipophil|logP|正相|逆相|C18|ODS|矽膠|silica|分配|萃取|沖提|eluti|溶劑強度|移動相')),
+ '荷': ('酸鹼與電荷（pKa）', R(r'\bpH\b|pK|酸性|鹼性|弱酸|弱鹼|解離|離子化|ioniz|陽離子|陰離子|帶電|電荷|charge|等電點|pI\b|質子|proton|EOF|電滲|淌度|離子交換|離子對|非水滴定|\[M\s*[+＋]\s*H')),
+ '揮': ('揮發性（沸點）', R(r'揮發|volatil|沸點|boiling|蒸氣|vapor|汽化|氣化|頂空|headspace|熱不安定|熱穩定|thermolabile|乾燥減重|共沸|蒸餾|GC\b|氣相|灰分|灰化|熾灼|灼燒')),
+ '手': ('掌性', R(r'掌性|手性|對掌|chiral|鏡像|enantio|旋光|optical rotation|\[α\]|左旋|右旋|消旋|racem|不對稱碳|R／S|D／L|環糊精|cyclodextrin')),
+ '晶': ('晶型（固態排列）', R(r'晶型|晶形|多晶|polymorph|結晶|crystal(?!.violet)|X-?ray|XRD|繞射|diffract|固態|solid state|非晶|amorph')),
+ '元': ('元素組成', R(r'元素|原子吸收|原子發射|AAS|AES|ICP|火焰|flame|中空陰極|hollow cathode|重金屬|(?<!甲醇)鈉(?!鹽)|鉀(?!\))|鈣|鎂|鉛|鋅|(?<![A-Za-z])(Na|Ca|Mg|Pb|Zn|Cu|Fe|Li)(?![a-z])|灰分|無機|元素')),
+ '反': ('反應性（計量）', R(r'滴定|(?i:titra|stoichi|derivati|Karl Fischer)|當量|化學計量|標定|力價|指示劑|終點|衍生|呈色|顯色|碘|費氏')),
+ '整': ('整體組成（一個數）', R(r'折光|折射率|refractive|Abbe|阿貝|RI\b|比重|密度')),
+}
+# 章的主把柄（題幹沒點名任何性質時，以此代入）
+CH_PROP = {'UV':'色','螢光':'色','光譜概論':'色','IR':'骨','Raman':'骨','NMR':'骨','MS':'量',
+           '萃取':'極','層析概論':'極','TLC':'極','HPLC':'極','SFC':'極','GC':'揮','CE':'荷',
+           '旋光':'手','原子光譜':'元','灰分':'元','非水滴定':'荷','水分':'反','折光':'整'}
+
+# ── 五站 ──
+STA = {
+ '源': R(r'光源|燈|lamp|雷射|laser|射頻|游離|離子化法|ionization|ESI|APCI|MALDI|\bEI\b|\bCI\b|離子源|載氣|幫浦|pump|移動相|mobile phase|滴定液|電壓|火焰|電漿|plasma|激發光'),
+ '樣': R(r'檢品|樣品|製樣|容槽|cell|溶媒|溶劑|KBr|壓片|衍生|萃取|前處理|進樣|注入|injection|稀釋|溶解|氘代|D₂O|D2O|霧化|原子化|石墨爐|坩堝|點樣|頂空|SPME|SPE'),
+ '選': R(r'單色|單光|光柵|稜鏡|濾光|干涉|管柱|固定相|stationary|column|四極|飛行時間|TOF|離子阱|質量分析|薄層|展開|終點|指示劑|分離|選擇性|selectiv|EOF|電滲|保留|滯留|沖提|eluti'),
+ '測': R(r'偵測器|檢測器|detector|光電倍增|PMT|二極體|DAD|FID|ECD|TCD|NPD|ELSD|CAD\b|熱電偶|電子倍增|雙鉑|電位|天平|恆重|呈色|顯色|碘蒸氣|254 ?nm|365 ?nm'),
+ '算': R(r'計算|為何|多少|求|含量|濃度|%|回收|校正|標準曲線|檢量線|內標|外標|標準添加|定量|偵測極限|LOD|精密|準確|比旋光度|吸光係數|力價|當量|Rf|解析度|理論板|ppm|m/z|分子量'),
+}
+
+# ── 九線＋地板 ──
+LINE = {
+ '酸鹼線':   R(r'\bpH\b|pK|弱酸|弱鹼|解離|離子化|ioniz|等電點|pI\b|緩衝|buffer|質子|\[M\s*[+＋]\s*H|非水|酸性|鹼性'),
+ '分配線':   R(r'分配|保留|滯留|k′|容量因子|保留因子|極性|疏水|正相|逆相|C18|ODS|Rf|萃取|沖提|溶劑強度|移動相|logP'),
+ '標準曲線線': R(r'線性|Beer|比爾|標準曲線|檢量線|校正曲線|calibration|偏離|內濾|inner filter|飽和|自吸收|外標|內標|標準添加'),
+ '空白線':   R(r'空白|背景|background|干擾|interfer|參考(槽|光束)|雜散光|stray|基質|matrix|溶媒峰|Rayleigh|瑞利|斬光|chopper|塞曼|Zeeman|氘燈校正'),
+ '歸一線':   R(r'比旋光|\[α\]|吸光係數|absorptivity|ε|E\s*1%|A\s*\(?1%|化學位移|ppm|相對保留|保留指數|Kovats|\bRf\b|力價|m/z|拉曼位移|Raman shift|淌度'),
+ '解析度線':  R(r'解析度|分離度|resolution|峰寬|理論板|板高|HETP|Deemter|拖尾|tailing|對稱|重疊|分辨|選擇性因子|分離因子|二級譜|一級譜'),
+ '溫度線':   R(r'溫度|°C|℃|升溫|低溫|高溫|加熱|冷卻|焦耳熱|Joule'),
+ '保留線':   R(r'晶型|晶形|多晶|polymorph|溶解|衍生|揮發|熱不安定|熱穩定|分解|原子化|碎片|軟游離|硬游離|灼燒|灰化|熾灼|乾燥|不破壞|非破壞|破壞'),
+ '計數線':   R(r'滴定|titra|當量|化學計量|標定|力價|莫耳比|一級標準|庫侖|coulomet|Karl Fischer|費氏|恆重|qNMR|積分比|同位素'),
+ '雜訊地板':  R(r'雜訊|noise|訊噪|S/N|S／N|偵測極限|檢測極限|定量極限|LOD|LOQ|靈敏度|sensitiv|累加|掃描次數|signal averag'),
+}
+
+# ── 算式家族（只對計算題） ──
+CALC_HINT = R(r'計算|為何\?|為何？|多少|約為|求|若.*則|等於|=|＝|\d+\.\d+|mg|mL|%')
+FORM = {
+ 'Beer：A＝εbc、A＝−log T': R(r'吸光|透光|透射|absorb|transmit|ε|吸光係數|E\s*1%|A\s*\(?1%|Beer'),
+ '比旋光度 [α]＝100a／(l·c)': R(r'旋光|\[α\]|optical rotation'),
+ '層析：k′、α、N、H、Rs、t₀': R(r'理論板|板高|HETP|解析度|resolution|容量因子|保留因子|選擇性|死時間|保留時間|滯留時間|\bRs\b|k′'),
+ 'Rf＝斑點距離／前緣距離': R(r'\bRf\b|比移值|溶劑前緣'),
+ 'MS：m/z→M、同位素比、氮規則': R(r'm/z|m／z|分子離子|同位素|M\s*\+\s*2|氮規則|分子式'),
+ 'NMR：Hz↔ppm、n＋1、積分': R(r'MHz|Hz|ppm|化學位移|裂分|積分|偶合常數'),
+ 'ṽ＝10⁷／λ、E＝hν': R(r'cm⁻¹|cm-1|波數|wavenumber|nm.*cm|能量.*波長|波長.*能量|頻率'),
+ '萃取：D、qⁿ、回收率': R(r'萃取|分配係數|分配比|回收率|萃取效率'),
+ '滴定：V×N×f→含量': R(r'滴定|當量|力價|\bN\b 過氯酸|0\.1 ?N|標定'),
+ '水分、灰分、乾燥減重 %': R(r'水分|含水|灰分|乾燥減重|恆重|熾灼|Karl|費氏'),
+ 'CE：μ、tm、E＝V／L': R(r'淌度|mobility|遷移時間|電場|電滲'),
+ '標準曲線、內標、標準添加': R(r'內標|外標|標準添加|檢量線|標準曲線|校正曲線|回歸'),
+ '折光、LOD 與其他': R(r'折光|折射|LOD|偵測極限|S/N|訊噪'),
+}
