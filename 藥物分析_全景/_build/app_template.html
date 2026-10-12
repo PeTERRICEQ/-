@@ -1,0 +1,569 @@
+<title>藥分全景</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&family=Noto+Serif+TC:wght@600;900&family=IBM+Plex+Mono:wght@400;600&display=swap">
+<style>
+/* 版面：上方固定座標列；左邊是地圖／Te／章節三種視圖，右邊是焦點欄（窄螢幕變成全螢幕抽屜）。
+   顏色：冷白紙＋深藏青墨水；遮罩用斜線網點；會＝綠、還不行＝琥珀。 */
+:root{
+  --bg:#f5f7fa; --surface:#ffffff; --sunk:#eef2f6; --ink:#17243a; --muted:#5f6c7d; --line:#d6dde6;
+  --accent:#1f4f8a; --accent-ink:#ffffff; --good:#1f7a4d; --warn:#b26a00; --red:#b3262e;
+  --hatch:#c9d3df; --shadow:0 1px 2px rgba(23,36,58,.06),0 4px 14px rgba(23,36,58,.06);
+  --f-display:'Noto Serif TC','Noto Sans TC',serif; --f-body:'Noto Sans TC','PingFang TC','Microsoft JhengHei',sans-serif;
+  --f-mono:'IBM Plex Mono',ui-monospace,Menlo,monospace;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --bg:#0e131a; --surface:#151c26; --sunk:#1b2430; --ink:#dfe6ee; --muted:#93a0b0; --line:#2a3646;
+  --accent:#8db3e8; --accent-ink:#0e131a; --good:#5cc08d; --warn:#e2a948; --red:#f08a8f; --hatch:#2c3846;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25); color-scheme:dark; } }
+:root[data-theme="dark"]{
+  --bg:#0e131a; --surface:#151c26; --sunk:#1b2430; --ink:#dfe6ee; --muted:#93a0b0; --line:#2a3646;
+  --accent:#8db3e8; --accent-ink:#0e131a; --good:#5cc08d; --warn:#e2a948; --red:#f08a8f; --hatch:#2c3846;
+  --shadow:0 1px 2px rgba(0,0,0,.3),0 4px 14px rgba(0,0,0,.25); color-scheme:dark; }
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{height:100%}
+body{background:var(--bg);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.55;margin:0}
+button{font:inherit;color:inherit;cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.mono{font-family:var(--f-mono)}
+.muted{color:var(--muted)}
+.red{color:var(--red)}
+
+/* 上方列 */
+.top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--bg);border-bottom:1px solid var(--line)}
+.top-in{display:flex;flex-wrap:wrap;align-items:center;gap:10px 14px;padding:10px 16px}
+.brand{font-family:var(--f-display);font-weight:900;font-size:20px;letter-spacing:.02em;margin-right:4px;white-space:nowrap}
+.brand small{font-family:var(--f-mono);font-weight:400;font-size:11px;color:var(--muted);margin-left:6px}
+.seg{display:inline-flex;background:var(--sunk);border-radius:9px;padding:3px;gap:2px}
+.seg button{border:0;background:transparent;padding:5px 12px;border-radius:7px;font-size:14px;white-space:nowrap}
+.seg button[aria-pressed="true"]{background:var(--surface);box-shadow:var(--shadow);font-weight:700}
+.seg.mode button[aria-pressed="true"][data-mode="review"]{background:var(--accent);color:var(--accent-ink)}
+.search{flex:1 1 220px;min-width:0;position:relative}
+.search input{width:100%;border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:9px;padding:7px 10px;font:inherit;font-size:14px}
+.results{position:absolute;left:0;right:0;top:calc(100% + 4px);background:var(--surface);border:1px solid var(--line);border-radius:10px;box-shadow:var(--shadow);max-height:60vh;overflow:auto;z-index:30}
+.results button{display:flex;gap:8px;width:100%;text-align:left;border:0;background:transparent;padding:8px 12px;border-bottom:1px solid var(--line)}
+.results button:hover,.results button.sel{background:var(--sunk)}
+.results .kind{font-size:11px;color:var(--muted);min-width:3.2em}
+
+/* 複習列 */
+.rbar{border-top:1px dashed var(--line);padding:8px 16px 10px;display:grid;gap:8px}
+.rbar-row{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center}
+.ledger{display:flex;flex-wrap:wrap;gap:5px;align-items:center}
+.ledger>b{font-size:12px;color:var(--muted);font-weight:500;margin-right:2px}
+.chip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:3px 10px;font-size:13px;display:inline-flex;align-items:center;gap:6px;white-space:nowrap}
+.chip[aria-pressed="true"]{background:var(--ink);color:var(--bg);border-color:var(--ink)}
+.chip .bar{width:28px;height:4px;border-radius:2px;background:var(--hatch);overflow:hidden;display:inline-block}
+.chip .bar i{display:block;height:100%;background:var(--good)}
+.chip[aria-pressed="true"] .bar{background:color-mix(in srgb,var(--bg) 35%,transparent)}
+.small-btn{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:3px 10px;font-size:13px}
+.toggle{display:inline-flex;gap:6px;align-items:center;font-size:13px}
+.keys{font-size:12px;color:var(--muted)}
+kbd{font-family:var(--f-mono);font-size:11px;border:1px solid var(--line);border-bottom-width:2px;border-radius:4px;padding:0 4px;background:var(--surface)}
+
+/* 主版面 */
+.wrap{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,440px);gap:18px;padding-block:16px 40px;padding-inline:16px;max-width:1440px;margin:0 auto}
+@media (max-width:960px){.wrap{grid-template-columns:minmax(0,1fr)}}
+.main{min-width:0;display:grid;grid-template-columns:minmax(0,1fr);gap:18px;align-content:start}
+.side{min-width:0}
+.side-in{position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px);max-height:calc(100vh - 90px);overflow:auto;background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px 18px;box-shadow:var(--shadow)}
+@media (max-width:960px){
+  .side{display:none}
+  .side.open{display:block;position:fixed;inset:0;z-index:40;background:var(--bg);padding:calc(env(safe-area-inset-top,0px) + 8px) 12px calc(env(safe-area-inset-bottom,0px) + 12px);overflow:auto}
+  .side.open .side-in{position:static;max-height:none}
+}
+h2.sec{font-family:var(--f-display);font-weight:900;font-size:19px;margin:0;display:flex;align-items:baseline;gap:10px;text-wrap:balance}
+h2.sec small{font-family:var(--f-body);font-weight:400;font-size:13px;color:var(--muted)}
+.panel{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:14px 16px}
+.lead{margin:4px 0 0;color:var(--muted);font-size:14px}
+
+/* 徽章與站 */
+.bd{display:inline-grid;place-items:center;width:1.55em;height:1.55em;border-radius:5px;color:#fff;font-weight:700;font-size:13px;flex:none}
+.st{display:inline-grid;place-items:center;width:1.6em;height:1.6em;border-radius:50%;border:1.5px solid var(--ink);font-weight:700;font-size:12px;flex:none}
+.tags{display:flex;flex-wrap:wrap;gap:4px;align-items:center}
+.link{border:0;background:transparent;padding:0;text-align:left}
+.link:hover .ul,.ul:hover{text-decoration:underline;text-underline-offset:3px}
+.lchip{font-family:var(--f-mono);font-size:12px;border:1px solid var(--line);background:var(--sunk);border-radius:5px;padding:0 6px;white-space:nowrap}
+
+/* 地圖格 */
+.gridwrap{overflow-x:auto}
+table.grid{border-collapse:separate;border-spacing:4px;width:100%;min-width:520px}
+table.grid th{font-weight:500;font-size:13px;text-align:left;white-space:nowrap}
+table.grid thead th{text-align:center}
+table.grid th .link{display:inline-flex;align-items:center;gap:6px}
+.cellbtn{width:100%;height:40px;border:1px solid var(--line);border-radius:8px;font-family:var(--f-mono);font-size:13px;background:var(--surface)}
+.cellbtn.sel{outline:2px solid var(--ink);outline-offset:1px}
+.legend{display:flex;gap:10px;align-items:center;font-size:12px;color:var(--muted);margin-top:6px;flex-wrap:wrap}
+.legend .sw{width:60px;height:8px;border-radius:4px;background:linear-gradient(90deg,var(--surface),var(--accent));border:1px solid var(--line)}
+.lines{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:8px}
+.linebtn{border:1px solid var(--line);background:var(--surface);border-radius:10px;padding:8px 10px;text-align:left;display:grid;gap:2px}
+.linebtn b{font-size:14px}.linebtn span{font-size:12px;color:var(--muted)}
+.ledgers{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:8px}
+.ledgerbox{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--surface)}
+.ledgerbox h4{margin:0 0 4px;font-size:14px}
+.ledgerbox .tags{gap:5px}
+
+/* 遮罩單元 */
+.u{position:relative;border-radius:8px}
+.u-cover{width:100%;display:flex;flex-wrap:wrap;gap:4px 8px;align-items:center;border:1px dashed var(--muted);border-radius:8px;padding:6px 10px;text-align:left;
+  background:repeating-linear-gradient(135deg,var(--sunk) 0 6px,var(--hatch) 6px 8px);min-height:36px}
+.u-cover .coord{font-size:12.5px;font-weight:700;background:var(--surface);border-radius:4px;padding:0 6px;white-space:nowrap}
+.u-cover .hint{margin-left:auto;font-size:12px;color:var(--muted);background:var(--surface);border-radius:4px;padding:0 6px;white-space:nowrap}
+.u.flash{animation:flash .9s ease-out}
+@keyframes flash{from{box-shadow:0 0 0 3px var(--accent)}to{box-shadow:0 0 0 0 transparent}}
+@media (prefers-reduced-motion:reduce){.u.flash{animation:none}}
+.marks{display:flex;flex-wrap:wrap;gap:6px;margin-top:6px}
+.marks button{border:1px solid var(--line);background:var(--surface);border-radius:7px;padding:2px 10px;font-size:13px}
+.marks button.on.k1{background:var(--good);border-color:var(--good);color:#fff}
+.marks button.on.k0{background:var(--warn);border-color:var(--warn);color:#fff}
+.u.known>.u-body{box-shadow:inset 3px 0 0 var(--good);padding-left:8px}
+.u.notyet>.u-body{box-shadow:inset 3px 0 0 var(--warn);padding-left:8px}
+
+/* Te 列 */
+.wave h3{font-size:15px;margin:6px 0 8px}
+.terow{border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:10px 12px;display:grid;gap:8px}
+.terow+.terow{margin-top:8px}
+.terow-h{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
+.terow-h .name{font-weight:700;font-size:15.5px}
+.terow-h .n{font-family:var(--f-mono);font-size:13px;color:var(--muted)}
+.frags{display:grid;gap:4px}
+.frag{font-size:14px}
+.reds{display:grid;gap:4px}
+.rt{display:inline-block;font-size:11.5px;font-weight:700;color:#fff;border-radius:4px;padding:0 6px;margin-right:4px;white-space:nowrap}
+.rt-a{background:#b3262e}.rt-b{background:#c2540c}.rt-c{background:#7a3415}
+.cite{font-family:var(--f-mono);font-size:12px;color:var(--muted);white-space:nowrap}
+
+/* L 卡 */
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:10px}
+.card{border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:10px 12px;display:grid;gap:6px;align-content:start}
+.card-h{display:flex;gap:8px;align-items:baseline}
+.card-h .lid{font-family:var(--f-mono);font-weight:600;font-size:13px;color:var(--accent);flex:none}
+.card-h .t{font-weight:700;font-size:15px;text-wrap:balance}
+.ask{font-size:13.5px;color:var(--muted)}
+.chain{font-weight:500;background:var(--sunk);border-radius:7px;padding:6px 9px;font-size:14.5px}
+.kv{font-size:14px}.kv b{font-size:12px;color:var(--muted);margin-right:4px;font-weight:700}
+details.why summary{font-size:12.5px;color:var(--muted);cursor:pointer}
+details.why p{font-size:13.5px;margin:4px 0 0}
+.selfq{font-size:13.5px;border-top:1px dashed var(--line);padding-top:6px}
+.selfq .a{margin-top:4px;color:var(--good)}
+
+/* 焦點欄 */
+.fhead{display:flex;align-items:center;gap:8px;margin-bottom:8px}
+.fhead .back{border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:2px 9px}
+.fhead .close{margin-left:auto;border:1px solid var(--line);background:var(--surface);border-radius:8px;padding:2px 9px}
+.ftitle{font-family:var(--f-display);font-weight:900;font-size:20px;margin:0 0 2px;text-wrap:balance}
+.fsec{margin-top:14px}
+.fsec>h4{font-size:12.5px;letter-spacing:.06em;color:var(--muted);margin:0 0 6px;font-weight:700}
+.nbrs{display:flex;flex-wrap:wrap;gap:5px}
+.nbr{border:1px solid var(--line);background:var(--sunk);border-radius:999px;padding:2px 9px;font-size:13px;display:inline-flex;gap:5px;align-items:center}
+.chain2{display:grid;gap:4px}
+.node{display:grid;grid-template-columns:auto 1fr;gap:4px 8px;align-items:start;font-size:14px}
+.node .lab{font-family:var(--f-mono);font-size:12px;color:var(--accent);white-space:nowrap;padding-top:2px}
+.ti{background:var(--sunk);border-radius:8px;padding:6px 9px;font-size:14px}
+.q{border:1px solid var(--line);border-radius:10px;padding:8px 10px;background:var(--surface)}
+.q+.q{margin-top:6px}
+.q-h{display:flex;gap:8px;flex-wrap:wrap;align-items:center;font-size:12.5px;color:var(--muted)}
+.q-stem{white-space:pre-wrap;font-size:13.5px;margin-top:4px;max-height:15em;overflow:auto}
+.q-ans{margin-top:6px;display:flex;gap:6px;align-items:center;flex-wrap:wrap;font-size:13px}
+.parts{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px}
+@media (max-width:640px){.parts{grid-template-columns:minmax(0,1fr)}}
+.part{border:1px solid var(--line);border-radius:9px;padding:6px 8px;background:var(--surface);display:grid;gap:4px;font-size:13.5px}
+.part .ph{display:flex;align-items:center;gap:6px;font-size:12px;color:var(--muted)}
+.ways{margin:0;padding-left:1.2em;font-size:14px}
+.ways li{margin:3px 0}
+.syncnote{font-size:12px;color:var(--muted)}
+.chsel{display:flex;flex-wrap:wrap;gap:6px 12px}
+.empty{color:var(--muted);font-size:14px}
+</style>
+
+<header class="top" id="top">
+  <div class="top-in">
+    <div class="brand">藥分全景<small id="ver"></small></div>
+    <div class="seg" role="group" aria-label="視圖">
+      <button id="v-map" data-view="map">地圖</button><button id="v-te" data-view="te">Te 作戰</button><button id="v-ch" data-view="ch">章節 L</button>
+    </div>
+    <div class="seg mode" role="group" aria-label="模式">
+      <button id="m-ex" data-mode="explore">探索</button><button id="m-rv" data-mode="review">複習</button>
+    </div>
+    <div class="search"><input id="q" type="search" placeholder="找考點、L、章、性質…（按 / ）" autocomplete="off" aria-label="搜尋"><div class="results" id="res" hidden></div></div>
+  </div>
+  <div class="rbar" id="rbar" hidden></div>
+</header>
+
+<div class="wrap">
+  <main class="main" id="main"></main>
+  <aside class="side" id="side"><div class="side-in" id="focus"></div></aside>
+</div>
+
+<script type="application/json" id="data">__DATA__</script>
+<script>
+(() => {
+'use strict';
+const D = JSON.parse(document.getElementById('data').textContent);
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const tex = s => String(s ?? '').replace(/\$([^$]*)\$/g, (m, x) => x.replace(/\\(?:mathrm|text|operatorname|mathbf)\{([^}]*)\}/g, '$1').replace(/\\(times)/g, '×').replace(/\\(le|leq)/g, '≤').replace(/\\(ge|geq)/g, '≥').replace(/\\[a-zA-Z]+/g, '').replace(/[{}]/g, '').replace(/\^/g, '').replace(/_/g, ''));
+const T = s => esc(tex(s));
+const CH = D.chapters.map(c => c.name);
+const CHO = Object.fromEntries(D.chapters.map(c => [c.name, c]));
+const PROP = Object.fromEntries(D.props.map(p => [p.k, p]));
+const STA = Object.fromEntries(D.stations.map(s => [s.k, s]));
+const store = {
+  get(k, d) { try { const v = localStorage.getItem('yfqj:' + k); return v == null ? d : JSON.parse(v); } catch (e) { return d; } },
+  set(k, v) { try { localStorage.setItem('yfqj:' + k, JSON.stringify(v)); } catch (e) {} }
+};
+
+// ── 狀態 ──
+const S = {
+  view: store.get('view', 'map'), mode: store.get('mode', 'explore'),
+  masked: new Set(store.get('masked', [])), hideKnown: store.get('hideKnown', true),
+  chSel: store.get('chSel', 'HPLC'), revealed: new Set(), prog: store.get('prog', {}),
+  stack: [], focus: null, last: null, sync: '本機', rbOpen: !matchMedia('(max-width:700px)').matches
+};
+const savePrefs = () => { store.set('view', S.view); store.set('mode', S.mode); store.set('masked', [...S.masked]); store.set('hideKnown', S.hideKnown); store.set('chSel', S.chSel); };
+
+// ── 可遮的單元：先把全部登記，章進度才算得準 ──
+const UNITS = new Map();
+const hash = s => { let h = 5381; for (const c of s) h = ((h << 5) + h + c.codePointAt(0)) >>> 0; return h.toString(36); };
+const reg = (cid, chs) => { if (!UNITS.has(cid)) UNITS.set(cid, { ch: chs.filter(c => CHO[c]) }); return cid; };
+const cardCid = c => reg('L|' + c.ch + '|' + c.L, [c.ch]);
+const partCid = (ch, k) => reg('P|' + ch + '|' + k, [ch]);
+const fragCid = f => reg('F|' + hash(f.t), f.ch);
+const redCid = r => reg('R|' + hash(r.t), r.ch);
+const nodeCid = n => reg('N|' + hash(n.label + n.t), n.ch ? [n.ch] : []);
+const calcCid = c => reg('C|' + c.name, c.ch);
+D.cards.forEach(cardCid);
+D.chapters.forEach(c => '源樣選測算'.split('').forEach(k => c.parts[k] && partCid(c.name, k)));
+D.te.forEach(t => { t.frags.forEach(fragCid); t.reds.forEach(redCid); });
+D.lines.forEach(l => l.nodes.forEach(nodeCid));
+D.props.forEach(p => [...p.tool, ...p.trap].forEach(fragCid));
+D.calc.forEach(calcCid);
+const eligible = cid => { const u = UNITS.get(cid); return S.mode === 'review' && !!u && u.ch.some(c => S.masked.has(c)); };
+const isMasked = cid => eligible(cid) && !S.revealed.has(cid) && !(S.hideKnown && S.prog[cid] === 1);
+const chStats = ch => { let t = 0, k = 0; for (const [cid, u] of UNITS) if (u.ch[0] === ch) { t++; if (S.prog[cid] === 1) k++; } return { t, k }; };
+
+// ── 單元渲染 ──
+const UI = new Map();
+function unit(cid, coord, body, opt = {}) {
+  UI.set(cid, { coord, body, opt });
+  return unitHTML(cid);
+}
+function unitHTML(cid) {
+  const { coord, body, opt } = UI.get(cid);
+  const p = S.prog[cid];
+  const cls = ['u', opt.cls || ''];
+  if (eligible(cid) && p === 1) cls.push('known'); else if (eligible(cid) && p === 0) cls.push('notyet');
+  if (isMasked(cid)) {
+    return `<div class="${cls.join(' ')} m" data-cid="${esc(cid)}"><button class="u-cover" data-act="reveal" data-cid="${esc(cid)}" aria-label="回復這一格：${esc(coord.replace(/<[^>]+>/g, ''))}">${coord}<span class="hint">回復</span></button></div>`;
+  }
+  const marks = eligible(cid) ? `<div class="marks"><button class="k1 ${p === 1 ? 'on k1' : ''}" data-act="mark" data-v="1" data-cid="${esc(cid)}">✓ 念得出來</button><button class="k0 ${p === 0 ? 'on k0' : ''}" data-act="mark" data-v="0" data-cid="${esc(cid)}">✗ 還不行</button></div>` : '';
+  return `<div class="${cls.join(' ')}" data-cid="${esc(cid)}"><div class="u-body">${body}</div>${marks}</div>`;
+}
+function refreshUnit(cid, flash) {
+  document.querySelectorAll(`[data-cid="${CSS.escape(cid)}"].u`).forEach(el => {
+    el.outerHTML = unitHTML(cid);
+  });
+  if (flash) { const el = document.querySelector(`.u[data-cid="${CSS.escape(cid)}"]`); el && el.classList.add('flash'); }
+}
+
+// ── 小零件 ──
+const bd = k => `<span class="bd" style="background:${PROP[k].color}" title="${esc(PROP[k].name)}">${k}</span>`;
+const st = k => `<span class="st" title="${esc(STA[k].job)}">${k}</span>`;
+const rt = t => `<span class="rt rt-${{ '把柄錯': 'a', '條件錯': 'b', '讀數錯': 'c' }[t]}">${t}</span>`;
+const go = (t, a, b, label, cls = '') => `<button class="link ${cls}" data-act="focus" data-t="${t}" data-a="${esc(a ?? '')}" data-b="${esc(b ?? '')}">${label}</button>`;
+const cardOf = (ch, L) => D.cards.find(c => c.ch === ch && c.L === L);
+const lchip = (ch, L) => cardOf(ch, L) ? go('card', ch, L, `<span class="lchip">${esc(ch)} ${esc(L)}</span>`) : `<span class="lchip">${esc(ch)} ${esc(L)}</span>`;
+const coordOf = (chs, extra) => `<span class="coord">${esc((chs || []).join('、') || '跨章')}${extra ? ' · ' + extra : ''}</span>`;
+
+function fragUnit(f) { return unit(fragCid(f), coordOf(f.ch), `<div class="frag">${T(f.t)}</div>`); }
+function redUnit(r) { return unit(redCid(r), `${rt(r.type)}${coordOf(r.ch, esc(r.cite.replace(/^\S+\s?/, '')))}`, `<div>${rt(r.type)}<span class="red">${T(r.t)}</span> <span class="cite">${esc(r.cite)}</span></div>`); }
+function nodeUnit(n) {
+  const lab = n.L && n.ch ? lchip(n.ch, n.L) : `<span class="lchip">${esc(n.label)}</span>`;
+  return unit(nodeCid(n), coordOf(n.ch ? [n.label] : [n.label]), `<div class="node">${lab}<span>${T(n.t)}</span></div>`);
+}
+function cardBody(c) {
+  return `${c.chain ? `<div class="chain">${T(c.chain)}</div>` : ''}
+    ${c.ex ? `<div class="kv"><b>例子</b>${T(c.ex)}</div>` : ''}
+    ${c.trap ? `<div class="kv red"><b>易錯</b>${T(c.trap)}</div>` : ''}
+    ${c.why ? `<details class="why"><summary>白話理由</summary><p>${T(c.why)}</p></details>` : ''}
+    ${c.q ? `<div class="selfq"><b class="muted">閉卷</b> ${T(c.q)}${c.ans ? ` <button class="small-btn" data-act="ans">看答案</button><div class="a" hidden>${T(c.ans)}</div>` : ''}</div>` : ''}`;
+}
+function cardHTML(c, full) {
+  const tags = `<span class="tags">${c.p.map(bd).join('')}${c.s.map(st).join('')}</span>`;
+  return `<article class="card">
+    <div class="card-h">${go('card', c.ch, c.L, `<span class="lid">${esc(c.L)}</span>`)}<span class="t">${T(c.title)}</span></div>
+    ${c.ask && c.ask !== c.title ? `<div class="ask">先問：${T(c.ask)}</div>` : ''}
+    ${unit(cardCid(c), `<span class="coord">${esc(c.ch)} ${esc(c.L)}</span>${tags}<span class="muted" style="font-size:12px">機轉・例子・易錯</span>`, cardBody(c))}
+  </article>`;
+}
+
+// ── 視圖：地圖 ──
+function viewMap() {
+  const max = Math.max(...Object.values(D.grid).flatMap(r => Object.values(r)));
+  const f = S.focus || {};
+  const head = '<tr><th></th>' + D.stations.map(s => `<th>${go('sta', s.k, '', `${st(s.k)} <span class="ul">${esc(s.job)}</span>`)}</th>`).join('') + '</tr>';
+  const rows = D.props.map(p => '<tr><th>' + go('prop', p.k, '', `${bd(p.k)} <span class="ul">${esc(p.name)}</span>`) + '</th>' +
+    D.stations.map(s => { const n = D.grid[p.k][s.k]; const a = Math.round(8 + 72 * Math.sqrt(n / max));
+      const sel = f.t === 'cell' && f.a === p.k && f.b === s.k ? ' sel' : '';
+      return `<td><button class="cellbtn${sel}" data-act="focus" data-t="cell" data-a="${p.k}" data-b="${s.k}" style="background:color-mix(in srgb,var(--accent) ${n ? a : 0}%,var(--surface));color:${a > 45 ? 'var(--accent-ink)' : 'var(--ink)'}" aria-label="${esc(p.name)} × ${esc(s.job)}：${n} 題">${n || '·'}</button></td>`; }).join('') + '</tr>').join('');
+  const lines = D.lines.map((l, i) => `<button class="linebtn" data-act="focus" data-t="line" data-a="${i}"><b>${esc(l.name)}</b><span>${esc(l.rule)}</span><span class="mono">${l.n} 題 · ${l.nch} 章</span></button>`).join('');
+  const ledgers = D.ledgers.map(L => `<div class="ledgerbox"><h4>${esc(L.name)} <span class="muted" style="font-weight:400;font-size:12px">${esc(L.plain)} · ${L.n} 題</span></h4><div class="tags">${L.chs.map(c => go('ch', c, '', `<span class="nbr">${esc(c)}</span>`)).join('')}</div></div>`).join('');
+  return `<section class="panel"><h2 class="sec">遠景：藥物性質 × 訊號鏈 <small>${D.meta.NQ} 題 · 點格子往下鑽</small></h2>
+    <p class="lead">每一格＝題幹同時點名這一欄性質與這一站的題數。橫看一列＝這一欄性質在儀器每一站的樣子；直看一欄＝這一站在乎哪些性質。</p>
+    <div class="gridwrap"><table class="grid"><thead>${head}</thead><tbody>${rows}</tbody></table></div>
+    <div class="legend"><span>少</span><span class="sw"></span><span>多</span><span>·＝沒有題目點名</span></div></section>
+  <section class="panel"><h2 class="sec">九條線＋雜訊地板 <small>同一條規則在不同章重演</small></h2><div class="lines" style="margin-top:8px">${lines}</div></section>
+  <section class="panel"><h2 class="sec">四本帳 <small>依座標分家；點章名看那一章</small></h2><div class="ledgers" style="margin-top:8px">${ledgers}</div>
+    <div style="margin-top:10px">${go('calc', '', '', '<span class="nbr">算式樓梯：九個計算家族</span>')}</div></section>`;
+}
+
+// ── 視圖：Te ──
+function teRow(t) {
+  return `<div class="terow"><div class="terow-h">${go('te', t.i, '', `<span class="name ul">${esc(t.name)}</span>`)}<span class="n">${t.n} 題 · ${t.nch} 章</span><span class="tags">${t.p.map(bd).join('')}${t.s.map(st).join('')}</span>${t.line && t.line !== '—' ? `<span class="nbr">${esc(t.line)}</span>` : ''}</div>
+    <div class="frags">${t.frags.map(fragUnit).join('')}</div><div class="reds">${t.reds.map(redUnit).join('')}</div></div>`;
+}
+function viewTe() {
+  const w = [[1, '第一波', '題數 ≥ 40'], [2, '第二波', '題數 20–39'], [3, '第三波', '題數 < 20']];
+  return `<section class="panel"><h2 class="sec">Te 作戰表 <small>一次只讀一波；每列說出它坐哪一站、抓哪一欄，再說出每條紅字是哪一種錯</small></h2>
+    <p class="lead">${rt('把柄錯')}方法要抓的那一欄，這顆藥沒有　${rt('條件錯')}欄位對了，條件破壞規則　${rt('讀數錯')}單位、方向或分母讀錯</p></section>` +
+    w.map(([k, n, c]) => { const rows = D.te.filter(t => t.wave === k); return `<section class="wave"><h3>${n}（${c}，${rows.length} 項）</h3>${rows.map(teRow).join('')}</section>`; }).join('');
+}
+
+// ── 視圖：章節 L ──
+function viewCh() {
+  const c = CHO[S.chSel] || D.chapters[0];
+  const sel = D.ledgers.map(L => `<div class="ledger"><b>${esc(L.name)}</b>${L.chs.map(n => `<button class="chip" aria-pressed="${n === c.name}" data-act="chsel" data-a="${esc(n)}">${esc(n)}</button>`).join('')}</div>`).join('');
+  const parts = '源樣選測算'.split('').filter(k => c.parts[k]).map(k => `<div class="part"><div class="ph">${st(k)}${esc(STA[k].job)}</div>${unit(partCid(c.name, k), `<span class="coord">${esc(c.name)} · ${k}</span>`, esc(c.parts[k]))}</div>`).join('');
+  const cards = D.cards.filter(x => x.ch === c.name);
+  return `<section class="panel"><div class="keys" style="margin-bottom:6px;font-weight:700">看哪一章：</div><div class="chsel">${sel}</div></section>
+  <section class="panel"><h2 class="sec">${esc(c.name)} <small>${esc(c.ledger)} · 主把柄 ${bd(c.main)} · ${c.n} 題 · ${cards.length} 張卡</small></h2>
+    <p class="lead">${esc(c.entry || '')}　${go('ch', c.name, '', '<span class="ul">看這一章的題目與鄰居 →</span>')}</p>
+    <div class="parts" style="margin-top:10px">${parts}</div></section>
+  <div class="cards">${cards.map(x => cardHTML(x)).join('')}</div>`;
+}
+
+// ── 焦點欄 ──
+function qHTML(q) {
+  return `<div class="q"><div class="q-h"><b>${esc(q.ch)}</b><span class="mono">${esc(q.id)}</span><span>${T(q.title)}</span></div>
+    <div class="q-stem">${T(q.stem)}</div>
+    <div class="q-ans"><button class="small-btn" data-act="ans">看題本答案</button><span hidden class="a"><b>${esc(q.ans || '—')}</b> ${q.L.map(L => lchip(q.ch, L)).join(' ')}</span></div></div>`;
+}
+function qList(qs, limit = 12) {
+  if (!qs.length) return '<p class="empty">沒有題目點名。</p>';
+  const id = 'ql' + Math.random().toString(36).slice(2, 7);
+  const first = qs.slice(0, limit).map(qHTML).join('');
+  QMORE[id] = qs.slice(limit);
+  return `<div id="${id}">${first}</div>${qs.length > limit ? `<button class="small-btn" style="margin-top:6px" data-act="more" data-a="${id}">再看 ${qs.length - limit} 題</button>` : ''}`;
+}
+const QMORE = {};
+const chCount = qs => { const m = {}; qs.forEach(q => m[q.ch] = (m[q.ch] || 0) + 1); return Object.entries(m).sort((a, b) => b[1] - a[1]); };
+const nbrCh = qs => `<div class="nbrs">${chCount(qs).map(([c, n]) => go('ch', c, '', `<span class="nbr">${esc(c)} <span class="mono">${n}</span></span>`)).join('')}</div>`;
+const nbrTe = list => `<div class="nbrs">${list.map(t => go('te', t.i, '', `<span class="nbr">${esc(t.name)} <span class="mono">${t.n}</span></span>`)).join('')}</div>`;
+const sec = (h, body) => `<div class="fsec"><h4>${h}</h4>${body}</div>`;
+const cardsBy = list => list.length ? `<div class="nbrs">${list.slice(0, 40).map(c => go('card', c.ch, c.L, `<span class="nbr"><span class="mono">${esc(c.ch)} ${esc(c.L)}</span> ${T(c.title).slice(0, 18)}</span>`)).join('')}</div>${list.length > 40 ? `<p class="empty">還有 ${list.length - 40} 張</p>` : ''}` : '<p class="empty">沒有。</p>';
+
+function renderFocus() {
+  const el = $('#focus'); const f = S.focus;
+  const nav = `<div class="fhead">${S.stack.length ? '<button class="back" data-act="back">← 上一個</button>' : ''}<button class="close" data-act="close">關閉</button></div>`;
+  let h = '';
+  if (!f) {
+    const w1 = D.te.filter(t => t.wave === 1);
+    h = `<h3 class="ftitle">從哪裡開始</h3><ol class="ways">${D.read_ways.map(x => `<li>${esc(x)}</li>`).join('')}</ol>
+      ${sec('今天的入口：Te 第一波', nbrTe(w1))}
+      ${sec('複習怎麼用', `<p style="font-size:14px;margin:0">切到「複習」，在上方點章名把那一章遮住。遮住的格子只留下座標（章、站、L）；心裡念得出來，就按一下或按 <kbd>Space</kbd> 回復，再按 <kbd>J</kbd> 念得出來、<kbd>K</kbd> 還不行。勾「念得出來的不再遮」，下次只剩還不會的格子。</p>`)}
+      <p class="syncnote" id="sync">進度存在：${esc(S.sync)}</p>`;
+  } else if (f.t === 'prop') {
+    const p = PROP[f.a]; const qs = D.qs.filter(q => q.p.includes(p.k));
+    h = `<h3 class="ftitle">${bd(p.k)} ${esc(p.name)}</h3><p class="lead">你在${esc(p.learn)}學過。讀它的方法：${esc(p.methods)}。讀數：${esc(p.read)}。</p>
+      <p class="lead mono">${p.n} 題 · ${p.nch} 章 · ${p.cross} 題出現在不以它為主把柄的章</p>
+      ${sec('在這章是工具', `<div class="frags">${p.tool.map(fragUnit).join('')}</div>`)}
+      ${sec('在別章變成陷阱', `<div class="frags red">${p.trap.map(fragUnit).join('')}</div>`)}
+      ${sec('鄰居：Te 物件', nbrTe(D.te.filter(t => t.p.includes(p.k))))}
+      ${sec('鄰居：章', nbrCh(qs))}
+      ${sec('掛這一欄的 L 卡', cardsBy(D.cards.filter(c => c.p.includes(p.k) && c.ch !== '' )))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'sta') {
+    const s = STA[f.a]; const qs = D.qs.filter(q => q.s.includes(s.k));
+    h = `<h3 class="ftitle">${st(s.k)} ${esc(s.job)}</h3><p class="lead">${esc(s.parts)}</p>
+      ${sec('這一站在每一章叫什麼零件', `<div class="chain2">${D.chapters.filter(c => c.parts[s.k]).map(c => `<div class="node"><span class="lab">${go('ch', c.name, '', esc(c.name))}</span>${unit(partCid(c.name, s.k), `<span class="coord">${esc(c.name)} · ${s.k}</span>`, esc(c.parts[s.k]))}</div>`).join('')}</div>`)}
+      ${sec('鄰居：Te 物件', nbrTe(D.te.filter(t => t.s.includes(s.k))))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'cell') {
+    const p = PROP[f.a], s = STA[f.b]; const qs = D.qs.filter(q => q.p.includes(p.k) && q.s.includes(s.k));
+    const te = D.te.filter(t => t.p.includes(p.k) && t.s.includes(s.k));
+    h = `<h3 class="ftitle">${bd(p.k)} ${esc(p.name)} × ${st(s.k)} ${esc(s.job)}</h3><p class="lead mono">${qs.length} 題</p>
+      ${sec('這一格的 Te 物件', te.length ? te.map(teRow).join('') : '<p class="empty">沒有第一層物件坐在這一格，題目多半在各章骨架。</p>')}
+      ${sec('鄰居：章', nbrCh(qs))}
+      ${sec('同時掛這兩個座標的 L 卡', cardsBy(D.cards.filter(c => c.p.includes(p.k) && c.s.includes(s.k))))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'line') {
+    const l = D.lines[+f.a]; const qs = D.qs.filter(q => q.l.includes(l.name));
+    h = `<h3 class="ftitle">${esc(l.name)}</h3><p class="lead">${esc(l.rule)}</p><p class="lead" style="color:var(--good)">你已經會的版本：${esc(l.known)}</p>
+      ${sec('沿著線走（章 L｜站名）', `<div class="chain2">${l.nodes.map(nodeUnit).join('')}</div>`)}
+      ${sec('Ti 提問', `<div class="ti">${esc(l.ti)}</div>`)}
+      ${sec('鄰居：Te 物件', nbrTe(D.te.filter(t => t.line === l.name)))}
+      ${sec('鄰居：章', nbrCh(qs))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'te') {
+    const t = D.te[+f.a]; const qs = D.qs.filter(q => q.te.includes(t.i));
+    h = `<h3 class="ftitle">${esc(t.name)}</h3><p class="lead mono">${t.n} 題 · ${t.nch} 章 · 第${'一二三'[t.wave - 1]}波</p>
+      ${teRow(t)}
+      ${sec('鄰居', `<div class="nbrs">${t.p.map(k => go('prop', k, '', `<span class="nbr">${bd(k)} ${esc(PROP[k].name)}</span>`)).join('')}${t.s.map(k => go('sta', k, '', `<span class="nbr">${st(k)} ${esc(STA[k].job)}</span>`)).join('')}${D.lines.map((l, i) => l.name === t.line ? go('line', i, '', `<span class="nbr">${esc(l.name)}</span>`) : '').join('')}</div>`)}
+      ${sec('分布在哪些章', nbrCh(qs))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'ch') {
+    const c = CHO[f.a]; const qs = D.qs.filter(q => q.ch === c.name);
+    const te = D.te.filter(t => t.chs.some(([n]) => n === c.name)).sort((a, b) => (b.chs.find(x => x[0] === c.name) || [0, 0])[1] - (a.chs.find(x => x[0] === c.name) || [0, 0])[1]);
+    const lines = D.lines.map((l, i) => [l, i]).filter(([l]) => l.nodes.some(n => n.ch === c.name));
+    h = `<h3 class="ftitle">${esc(c.name)}</h3><p class="lead">${esc(c.ledger)} · 主把柄 ${bd(c.main)} · ${c.n} 題 · ${c.ncards} 張卡</p><p class="lead">${esc(c.entry || '')}</p>
+      <div style="margin:8px 0"><button class="small-btn" data-act="opench" data-a="${esc(c.name)}">打開這一章的 L 卡 →</button></div>
+      ${sec('這一章坐在哪些線上', `<div class="nbrs">${lines.map(([l, i]) => go('line', i, '', `<span class="nbr">${esc(l.name)}</span>`)).join('') || '<span class="empty">—</span>'}</div>`)}
+      ${sec('這一章點名最多的 Te 物件', nbrTe(te.slice(0, 14)))}
+      ${sec(`歷屆題（${qs.length}）`, qList(qs, 10))}`;
+  } else if (f.t === 'card') {
+    const c = cardOf(f.a, f.b); const qs = D.qs.filter(q => q.ch === c.ch && q.L.includes(c.L));
+    const lines = D.lines.map((l, i) => [l, i]).filter(([l]) => l.nodes.some(n => n.ch === c.ch && n.L === c.L) || c.l.includes(l.name));
+    h = `<p class="lead">${go('ch', c.ch, '', `<span class="ul">${esc(c.ch)}</span>`)} · <span class="mono">${esc(c.L)}</span></p>${cardHTML(c, true)}
+      ${sec('鄰居', `<div class="nbrs">${c.p.map(k => go('prop', k, '', `<span class="nbr">${bd(k)} ${esc(PROP[k].name)}</span>`)).join('')}${c.s.map(k => go('sta', k, '', `<span class="nbr">${st(k)} ${esc(STA[k].job)}</span>`)).join('')}${lines.map(([l, i]) => go('line', i, '', `<span class="nbr">${esc(l.name)}</span>`)).join('')}</div>`)}
+      ${sec(`回查到這張卡的歷屆題（${qs.length}）`, qList(qs))}`;
+  } else if (f.t === 'calc') {
+    h = `<h3 class="ftitle">算式樓梯</h3><p class="lead">每一個家族只有一步：先問分母裡除掉了什麼，再代數字。</p>` +
+      D.calc.map(c => `<div class="fsec"><h4>${esc(c.name)}</h4>${unit(calcCid(c), `<span class="coord">${esc(c.name)}</span>`, `<div class="chain">${esc(c.f)}</div><div class="kv"><b>白話</b>${esc(c.w)}</div><div class="kv"><b>驗算</b>${esc(c.ex)}</div><div class="kv red"><b>陷阱</b>${esc(c.trap)}</div>`)}</div>`).join('');
+  }
+  el.innerHTML = nav + h;
+  $('#side').classList.toggle('open', !!f && matchMedia('(max-width:960px)').matches);
+}
+
+// ── 複習列 ──
+function renderRbar() {
+  const rb = $('#rbar'); rb.hidden = S.mode !== 'review'; if (rb.hidden) return;
+  const chips = D.ledgers.map(L => `<div class="ledger"><b>${esc(L.name)}</b>${L.chs.map(n => { const s = chStats(n); const pc = s.t ? Math.round(100 * s.k / s.t) : 0;
+    return `<button class="chip" aria-pressed="${S.masked.has(n)}" data-act="mask" data-a="${esc(n)}" title="${s.k}／${s.t} 格念得出來">${esc(n)}<span class="bar"><i style="width:${pc}%"></i></span></button>`; }).join('')}</div>`).join('');
+  const left = document.querySelectorAll('#main .u.m').length;
+  const names = [...S.masked].sort((a, b) => CH.indexOf(a) - CH.indexOf(b));
+  const summary = `<div class="rbar-row"><span class="keys"><b>遮住：</b>${names.length ? esc(names.join('、')) : '還沒選章'}</span><button class="small-btn" data-act="rbtoggle" aria-expanded="${S.rbOpen}">${S.rbOpen ? '收起 ▴' : '選章 ▾'}</button></div>`;
+  rb.innerHTML = `${summary}${S.rbOpen ? `<div class="rbar-row">${chips}</div>` : ''}<div class="rbar-row">
+    ${S.rbOpen ? '<button class="small-btn" data-act="maskall">全部遮住</button><button class="small-btn" data-act="masknone">全部打開</button>' : ''}
+    <label class="toggle"><input type="checkbox" id="hk" ${S.hideKnown ? 'checked' : ''}> 念得出來的不再遮</label>
+    <button class="small-btn" data-act="next">回復下一格 <kbd>Space</kbd></button>
+    <span class="keys">這一頁還遮著 <b class="mono">${left}</b> 格 · 本次回復 <b class="mono">${S.revealed.size}</b> 格 · <kbd>J</kbd> 念得出來 <kbd>K</kbd> 還不行</span></div>`;
+}
+
+// ── 整體渲染 ──
+function render() {
+  UI.clear();
+  $('#ver').textContent = D.meta.ver + ' · ' + D.meta.NC + ' 卡 · ' + D.meta.NQ + ' 題';
+  document.querySelectorAll('[data-view]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.view === S.view)));
+  document.querySelectorAll('[data-mode]').forEach(b => b.setAttribute('aria-pressed', String(b.dataset.mode === S.mode)));
+  $('#main').innerHTML = S.view === 'te' ? viewTe() : S.view === 'ch' ? viewCh() : viewMap();
+  renderFocus();
+  renderRbar();
+}
+function setFocus(f, push = true) {
+  if (push && S.focus) S.stack.push(S.focus);
+  S.focus = f; renderFocus(); renderRbar();
+  if (S.view === 'map') { document.querySelectorAll('.cellbtn.sel').forEach(b => b.classList.remove('sel')); if (f && f.t === 'cell') { const b = document.querySelector(`.cellbtn[data-a="${f.a}"][data-b="${f.b}"]`); b && b.classList.add('sel'); } }
+  if (!matchMedia('(max-width:960px)').matches) $('#focus').scrollTop = 0; else $('#side').scrollTop = 0;
+}
+
+// ── 進度：雲端（db，自己的私人區）＋本機備份 ──
+let DB = null, UID = null; const PENDING = new Set(); const QUEUE = {}; const TIMER = {};
+const codeOf = ch => (CHO[ch] || {}).code;
+function mark(cid, v) {
+  S.prog[cid] = v; store.set('prog', S.prog); PENDING.add(cid);
+  const u = UNITS.get(cid); const ch = u && u.ch[0];
+  refreshUnit(cid); renderRbar();
+  if (DB && UID && ch) { clearTimeout(TIMER[ch]); TIMER[ch] = setTimeout(() => flush(ch), 1200); }
+}
+function flush(ch) {
+  const code = codeOf(ch); if (!code) return;
+  const body = {}; const sent = [];
+  for (const [cid, u] of UNITS) if (u.ch[0] === ch && cid in S.prog) { body[cid] = S.prog[cid]; sent.push(cid); }
+  QUEUE[code] = (QUEUE[code] || Promise.resolve()).then(() => DB.collection('data/users/' + UID).doc(code).set({ k: body, ch }))
+    .then(() => sent.forEach(c => PENDING.delete(c)))
+    .catch(e => { S.sync = '本機（雲端暫時寫不進去）'; const s = $('#sync'); s && (s.textContent = '進度存在：' + S.sync); });
+}
+async function initStore() {
+  try {
+    if (!window.claude || !window.claude.use) return;
+    const user = await window.claude.use('user'); if (!user) return;
+    UID = await user.id(); if (!UID) return;
+    DB = await window.claude.use('db'); if (!DB) return;
+    DB.collection('data/users/' + UID).onSnapshot(snap => {
+      let changed = false;
+      snap.docs.forEach(d => { const b = d.data(); if (b && b.k) for (const [cid, v] of Object.entries(b.k)) if (!PENDING.has(cid) && S.prog[cid] !== v) { S.prog[cid] = v; changed = true; } });
+      if (changed) { store.set('prog', S.prog); render(); }
+    }, () => { S.sync = '本機'; });
+    S.sync = '你的帳號（換裝置也在）'; const s = $('#sync'); s && (s.textContent = '進度存在：' + S.sync);
+  } catch (e) { /* 留在本機 */ }
+}
+
+// ── 搜尋 ──
+let RES = [], RSEL = 0;
+function search(q) {
+  q = q.trim().toLowerCase(); const out = [];
+  if (!q) return out;
+  const hit = s => String(s).toLowerCase().includes(q);
+  D.props.forEach(p => (hit(p.name) || hit(p.k)) && out.push({ k: '性質', l: p.name, f: { t: 'prop', a: p.k } }));
+  D.lines.forEach((l, i) => hit(l.name) && out.push({ k: '線', l: l.name, f: { t: 'line', a: String(i) } }));
+  D.chapters.forEach(c => hit(c.name) && out.push({ k: '章', l: c.name, f: { t: 'ch', a: c.name } }));
+  D.te.forEach(t => (hit(t.name) || t.frags.some(f => hit(f.t))) && out.push({ k: 'Te', l: t.name, f: { t: 'te', a: String(t.i) } }));
+  D.cards.forEach(c => (hit(c.title) || hit(c.ch + ' ' + c.L) || hit(c.ch + c.L) || hit(c.chain)) && out.push({ k: c.ch + ' ' + c.L, l: c.title, f: { t: 'card', a: c.ch, b: c.L } }));
+  return out.slice(0, 30);
+}
+function renderRes() {
+  const r = $('#res'); if (!RES.length) { r.hidden = true; return; }
+  r.hidden = false; r.innerHTML = RES.map((x, i) => `<button class="${i === RSEL ? 'sel' : ''}" data-act="pick" data-a="${i}"><span class="kind">${esc(x.k)}</span><span>${T(x.l)}</span></button>`).join('');
+}
+
+// ── 事件 ──
+document.addEventListener('click', e => {
+  const b = e.target.closest('[data-act],[data-view],[data-mode]'); if (!b) { if (!e.target.closest('.search')) { $('#res').hidden = true; } return; }
+  if (b.dataset.view) { S.view = b.dataset.view; savePrefs(); render(); window.scrollTo(0, 0); return; }
+  if (b.dataset.mode) { S.mode = b.dataset.mode; if (S.mode === 'review' && !S.masked.size) S.masked.add(S.view === 'ch' ? S.chSel : 'HPLC'); savePrefs(); render(); return; }
+  const a = b.dataset.act, x = b.dataset.a, y = b.dataset.b;
+  if (a === 'focus') setFocus({ t: b.dataset.t, a: x, b: y });
+  else if (a === 'back') { S.focus = S.stack.pop() || null; setFocus(S.focus, false); }
+  else if (a === 'close') { S.focus = null; S.stack = []; setFocus(null, false); }
+  else if (a === 'reveal') { S.revealed.add(b.dataset.cid); S.last = b.dataset.cid; refreshUnit(b.dataset.cid, true); renderRbar(); }
+  else if (a === 'mark') { S.last = b.dataset.cid; mark(b.dataset.cid, +b.dataset.v); }
+  else if (a === 'mask') { S.masked.has(x) ? S.masked.delete(x) : S.masked.add(x); savePrefs(); render(); }
+  else if (a === 'maskall') { CH.forEach(c => S.masked.add(c)); savePrefs(); render(); }
+  else if (a === 'masknone') { S.masked.clear(); savePrefs(); render(); }
+  else if (a === 'next') revealNext();
+  else if (a === 'rbtoggle') { S.rbOpen = !S.rbOpen; renderRbar(); }
+  else if (a === 'chsel') { S.chSel = x; savePrefs(); render(); }
+  else if (a === 'opench') { S.chSel = x; S.view = 'ch'; savePrefs(); render(); window.scrollTo(0, 0); }
+  else if (a === 'ans') { const n = b.nextElementSibling; if (n) { n.hidden = !n.hidden; b.textContent = n.hidden ? (b.closest('.q') ? '看題本答案' : '看答案') : '收起'; } }
+  else if (a === 'more') { const box = document.getElementById(x); if (box) { box.insertAdjacentHTML('beforeend', (QMORE[x] || []).map(qHTML).join('')); b.remove(); } }
+  else if (a === 'pick') { const r = RES[+x]; if (r) { setFocus(r.f); $('#res').hidden = true; $('#q').value = ''; RES = []; } }
+});
+document.addEventListener('change', e => { if (e.target.id === 'hk') { S.hideKnown = e.target.checked; savePrefs(); render(); } });
+function revealNext() {
+  const el = document.querySelector('#main .u.m') || document.querySelector('#focus .u.m'); if (!el) return;
+  const cid = el.dataset.cid; S.revealed.add(cid); S.last = cid; refreshUnit(cid, true); renderRbar();
+  const n = document.querySelector(`.u[data-cid="${CSS.escape(cid)}"]`); n && n.scrollIntoView({ block: 'center', behavior: matchMedia('(prefers-reduced-motion: reduce)').matches ? 'auto' : 'smooth' });
+}
+const qi = $('#q');
+qi.addEventListener('input', () => { RES = search(qi.value); RSEL = 0; renderRes(); });
+qi.addEventListener('keydown', e => {
+  if (e.key === 'ArrowDown') { RSEL = Math.min(RSEL + 1, RES.length - 1); renderRes(); e.preventDefault(); }
+  else if (e.key === 'ArrowUp') { RSEL = Math.max(RSEL - 1, 0); renderRes(); e.preventDefault(); }
+  else if (e.key === 'Enter' && RES[RSEL]) { setFocus(RES[RSEL].f); $('#res').hidden = true; qi.value = ''; RES = []; qi.blur(); }
+  else if (e.key === 'Escape') { qi.value = ''; RES = []; renderRes(); qi.blur(); }
+});
+document.addEventListener('keydown', e => {
+  if (e.target.matches('input,textarea') || e.metaKey || e.ctrlKey || e.altKey) return;
+  if (e.key === '/') { qi.focus(); e.preventDefault(); }
+  else if (e.key === ' ' && S.mode === 'review') { revealNext(); e.preventDefault(); }
+  else if ((e.key === 'j' || e.key === 'J') && S.last && eligible(S.last)) mark(S.last, 1);
+  else if ((e.key === 'k' || e.key === 'K') && S.last && eligible(S.last)) mark(S.last, 0);
+  else if (e.key === 'Escape' && S.focus) { S.focus = null; S.stack = []; setFocus(null, false); }
+  else if (e.key === '1' || e.key === '2' || e.key === '3') { S.view = ['map', 'te', 'ch'][+e.key - 1]; savePrefs(); render(); }
+  else if (e.key === 'm') { S.mode = S.mode === 'review' ? 'explore' : 'review'; if (S.mode === 'review' && !S.masked.size) S.masked.add(S.chSel); savePrefs(); render(); }
+});
+addEventListener('resize', () => $('#side').classList.toggle('open', !!S.focus && matchMedia('(max-width:960px)').matches));
+
+render();
+initStore();
+})();
+</script>

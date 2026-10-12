@@ -6,3 +6,9 @@
 4. `node print.js <輸入.html> <輸出.pdf>`：用 Playwright 印成 A4 PDF。
 
 補章節或改字：改 `content.py`（文字）或 `tags.py`（字典），重跑 2–4。
+
+## 互動網頁《藥分全景》
+
+5. `python3 parse_l.py <講義資料夾> lcards.json`：抽出每個 L 小節的精華（先問、短鏈、立即用一次、易錯、閉卷自問）；非水滴定改用 NAT 必背卡。
+6. `python3 export_app.py questions_tagged.json lcards.json app_data.json`：把全景、L 卡、歷屆題整理成網頁資料。
+7. `python3 build_app.py app_template.html app_data.json ../app/藥分全景.html`：產生可發布的單一網頁；`node test_app.js ../app/藥分全景.html <截圖資料夾>` 跑一次互動測試。
