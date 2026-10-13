@@ -26,7 +26,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(HERE, "../../.."))
 OUT = os.path.join(REPO, "藥物分析_精華圖")
 FONTS = os.environ.get("YF_FONTS", "/home/user/fonts")
-VER = "v1_0"
+VER = "v1_1"  # v1.1：依 100–115 年 1280 題的生成規則改版
 sys.path.insert(0, os.path.join(HERE, "specs"))
 
 # 四本帳的顏色（和全科圖、網頁一致）
@@ -232,10 +232,10 @@ def build(key):
     idx = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/index.json"), encoding="utf-8"))
     chs = {c["key"]: c for c in idx["chapters"]}
     keys = S.get("keys", [key])
-    c0 = chs[keys[0]]
-    acc, tint, ledger = LEDGER[c0["field"]]
+    c0 = chs.get(keys[0], {})  # 傳統分析多數章不在 index.json：spec 自己給 field、name
+    acc, tint, ledger = LEDGER[S.get("field") or c0["field"]]
     pages = [S[k] for k in ("p1", "p2", "p3") if k in S]
-    ch = dict(name=S.get("name", c0["name"]), npages=len(pages))
+    ch = dict(name=S.get("name") or c0["name"], npages=len(pages))
     body = "".join(page(ch, i + 1, p, acc, tint, ledger) for i, p in enumerate(pages))
     doc = (f'<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">{font_css()}<style>{CSS}</style></head>'
            f"<body>{body}</body></html>")

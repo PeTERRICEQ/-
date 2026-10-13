@@ -1,4 +1,4 @@
-"""覆蓋檢核：正解選項的關鍵詞有沒有出現在精華頁文字裡（字面比對，仿藥理藥化的做法）。
+"""覆蓋檢核（以每題主章 ch[0] 歸屬）：正解選項的關鍵詞有沒有出現在精華頁文字裡（字面比對，仿藥理藥化的做法）。
 英文取 3 個字母以上的詞；沒有英文就取正解選項裡連續 3 個以上的中文字段。只有圖的題目列為「需看圖」。
 用法：python3 essence/cover.py hplc"""
 import json, os, re, sys
@@ -14,7 +14,8 @@ def load_spec(key):
     return m.SPEC
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(HERE, "../../.."))
-Q = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/q.json"), encoding="utf-8"))
+# 題庫：100–115 年官方題本 1280 題（含章 ch、五軸 ax、生成規則 k）
+Q = json.load(open(os.path.join(REPO, "藥物分析_全景/_build/k16/藥分_100-115_1280題.json"), encoding="utf-8"))
 STOP = {"the", "and", "with", "for", "from", "are", "not", "has", "its", "this", "that", "which", "used", "was"}
 def norm(s): return re.sub(r"[\s，、；：（）()＋+／/\-–—·・。,.:;]", "", s).lower()
 ABBR = {"evaporative light scattering": "ELSD", "refractive index": "RI", "diode array": "DAD", "fluorescence detector": "螢光",
@@ -28,8 +29,8 @@ def check(key, chs=None):
     chs = chs or [key]
     rows = []
     for q in Q:
-        if not set(q["ch"]) & set(chs): continue
-        ans = " ".join(q["o"].get(a, "") for a in q["a"]) or q["t"]
+        if q["ch"][0] not in chs: continue
+        ans = " ".join(q["o"].get(a, "") for a in (q["a"] or "")) or q.get("t", "")
         en = [w for w in re.findall(r"[A-Za-z][A-Za-z0-9\-]{2,}", ans) if w.lower() not in STOP]
         if en: hit = any(w.lower() in T for w in en); key_ = en
         else:
@@ -37,11 +38,11 @@ def check(key, chs=None):
             grams = {z[i:i + 3] for z in zh for i in range(len(z) - 2)}
             hit = bool(grams) and sum(g in Tn for g in grams) >= max(1, len(grams) // 3); key_ = zh
         img = "［圖］" in q["s"] and not ans.strip()
-        rows.append((q["id"], hit, img, key_[:4], q["s"][:60], ans[:60]))
+        rows.append((q["id"], hit, img, key_[:4], q["s"][:60], ans[:60], q.get("k", "")))
     n = len(rows); h = sum(r[1] for r in rows)
     print(f"{key}：{h}/{n}（{h / n:.0%}）字面命中")
     for r in rows:
-        if not r[1]: print("  ✗", r[0], "|", r[4], "=>", r[5], "| 詞", r[3])
+        if not r[1]: print("  ✗", r[0], r[6], "|", r[4], "=>", r[5], "| 詞", r[3])
     return rows
 if __name__ == "__main__":
     import importlib
