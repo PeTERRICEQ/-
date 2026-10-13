@@ -1,0 +1,250 @@
+"""藥分精華圖產生器：每章一份 spec（essence/specs/<章>.py 的 SPEC）→ HTML → PDF（1–3 頁，A4 橫式）。
+
+格式仿藥理藥化精華圖（pharmacy-handbook 全景網頁/build/essence_lib.py），五軸改成藥分的峰方程式：
+  ① 適配　② 位置　③ 寬度　④ 換量　⑤ 條件
+  精華① 翻譯座標（①②）　精華② 驗證座標（③④⑤）　精華③ 考點補完（熱門章）
+
+字型：Noto Sans TC／Noto Serif TC／IBM Plex Mono（npm 的 @fontsource 套件），放在 $YF_FONTS（預設 /home/user/fonts）：
+  cd $YF_FONTS && for p in @fontsource/noto-sans-tc @fontsource/noto-serif-tc @fontsource/ibm-plex-mono; do npm pack $p; done
+  再把每個 .tgz 解到同名資料夾。
+
+用法：python3 essence/lib.py [章 key …]（不給就全部）
+"""
+import html, importlib, json, os, re, subprocess, sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+REPO = os.path.abspath(os.path.join(HERE, "../../.."))
+OUT = os.path.join(REPO, "藥物分析_精華圖")
+FONTS = os.environ.get("YF_FONTS", "/home/user/fonts")
+VER = "v1_0"
+sys.path.insert(0, os.path.join(HERE, "specs"))
+
+# 四本帳的顏色（和全科圖、網頁一致）
+LEDGER = {"nrg": ("#326991", "#dceaf7", "能量帳"), "time": ("#356844", "#dcecdc", "時間帳"),
+          "mz": ("#685185", "#e8e1f2", "質荷帳"), "cnt": ("#9e771c", "#fff1c8", "點數帳")}
+TONE = {  # 方塊色：框線、底色
+    "key": ("#5b6b78", "#eef1f4"), "red": ("#b72d4a", "#f8e5e8"), "grn": ("#356844", "#e3f0e3"),
+    "blu": ("#326991", "#e2edf8"), "pur": ("#685185", "#ece6f4"), "org": ("#b0621a", "#fbeadb"),
+    "yel": ("#9e771c", "#fdf3d6"), "line": ("#61717a", "#ffffff"),
+}
+AXES = ["① 適配", "② 位置", "③ 寬度", "④ 換量", "⑤ 條件"]
+
+
+def esc(s):
+    return html.escape(str(s), quote=False)
+
+
+def rich(s):
+    """**粗體**、{紅字}、[[藍字]]；其餘照字面。"""
+    s = esc(s)
+    s = re.sub(r"\*\*(.+?)\*\*", r"<b>\1</b>", s)
+    s = re.sub(r"\{\{(.+?)\}\}", r'<span class="r">\1</span>', s)
+    s = re.sub(r"\[\[(.+?)\]\]", r'<span class="g">\1</span>', s)
+    return s
+
+
+def cell(c):
+    if isinstance(c, (list, tuple)):
+        t, tone = c[0], c[1]
+        w = c[2] if len(c) > 2 else 400
+        col = {"red": "#b72d4a", "grn": "#356844", "blu": "#326991", "ink": "#1f2a31", "pur": "#685185", "org": "#b0621a"}.get(tone, tone)
+        return f'<span style="color:{col};font-weight:{w}">{rich(t)}</span>'
+    return rich(c)
+
+
+# ───────── 方塊 ─────────
+def b_flow(b, acc):
+    out = [f'<div class="blk flow"><div class="bt" style="color:{acc}">{rich(b["title"])}</div>']
+    for i, st in enumerate(b["steps"]):
+        parts = "".join(f'<span class="chip"><b>{esc(k)}</b>{rich(v)}</span>' for k, v in st.get("parts", []))
+        lines = "".join(f"<li>{rich(x)}</li>" for x in st.get("lines", []))
+        tags = "".join(f'<div class="tag" style="--tb:{TONE[t][0]};--tf:{TONE[t][1]}"><b>{rich(k)}</b> {rich(v)}</div>'
+                       for k, v, t in st.get("tags", []))
+        out.append(f'<div class="st"><div class="sh"><span class="code" style="background:{acc}">{esc(st["code"])}</span>'
+                   f'<b>{rich(st["name"])}</b></div>{("<div class=parts>" + parts + "</div>") if parts else ""}'
+                   f'{("<ul>" + lines + "</ul>") if lines else ""}{tags}</div>')
+        if i < len(b["steps"]) - 1:
+            out.append('<div class="arr">▼</div>')
+    out.append("</div>")
+    return "".join(out)
+
+
+def b_table(b, acc):
+    cols = b["cols"]
+    tw = sum(w for _, w in cols)
+    head = "".join(f'<th style="width:{w / tw * 100:.1f}%">{rich(n)}</th>' for n, w in cols)
+    rows = "".join("<tr>" + "".join(f"<td>{cell(c)}</td>" for c in r) + "</tr>" for r in b["rows"])
+    note = f'<span class="note">{rich(b["note"])}</span>' if b.get("note") else ""
+    return (f'<div class="blk tbl"><div class="bt" style="color:{acc}">{rich(b["title"])}{note}</div>'
+            f'<table><thead><tr>{head}</tr></thead><tbody>{rows}</tbody></table></div>')
+
+
+def b_box(b, acc):
+    bd, bg = TONE[b.get("tone", "line")]
+    items = b["lines"]
+    body = "".join(f"<li>{rich(x)}</li>" for x in items) if b.get("list", True) else "".join(f"<p>{rich(x)}</p>" for x in items)
+    tag = "ul" if b.get("list", True) else "div"
+    return (f'<div class="blk box" style="--bd:{bd};--bg:{bg}"><div class="bt" style="color:{bd}">{rich(b["title"])}</div>'
+            f"<{tag}>{body}</{tag}></div>")
+
+
+def b_eqs(b, acc):
+    rows = []
+    for t, f, ex in b["items"]:
+        rows.append(f'<div class="eq"><div class="et">{rich(t)}</div><div class="ef">{rich(f)}</div>'
+                    f'{("<div class=ex>" + rich(ex) + "</div>") if ex else ""}</div>')
+    return f'<div class="blk eqs"><div class="bt" style="color:{acc}">{rich(b["title"])}</div>{"".join(rows)}</div>'
+
+
+def b_pairs(b, acc):
+    rows = "".join(f'<tr><td class="pa">{rich(a)}</td><td class="vs">↔</td><td class="pa">{rich(c)}</td><td>{rich(d)}</td></tr>'
+                   for a, c, d in b["items"])
+    return (f'<div class="blk pairs"><div class="bt" style="color:{acc}">{rich(b["title"])}</div>'
+            f"<table><tbody>{rows}</tbody></table></div>")
+
+
+def b_groups(b, acc):
+    gs = []
+    for t, lines, *tone in b["items"]:
+        bd, bg = TONE[tone[0] if tone else "line"]
+        gs.append(f'<div class="grp" style="--bd:{bd};--bg:{bg}"><div class="gt" style="color:{bd}">{rich(t)}</div>'
+                  f'<ul>{"".join(f"<li>{rich(x)}</li>" for x in lines)}</ul></div>')
+    return f'<div class="blk groups" style="--gc:{b.get("cols", 3)}">{"".join(gs)}</div>'
+
+
+BLK = {"flow": b_flow, "table": b_table, "box": b_box, "eqs": b_eqs, "pairs": b_pairs, "groups": b_groups}
+
+
+def render_blocks(bs, acc):
+    return "".join(BLK[b["type"]](b, acc) for b in bs)
+
+
+def page(ch, n, p, acc, tint, ledger):
+    label = {1: "精華① 翻譯座標", 2: "精華② 驗證座標", 3: "精華③ 考點補完"}[n]
+    cols = p.get("cols", [0.46, 0.54])
+    body = ""
+    if p.get("full"):
+        body += f'<div class="full">{render_blocks(p["full"], acc)}</div>'
+    if p.get("left") or p.get("right"):
+        body += (f'<div class="cols" style="grid-template-columns:{cols[0]}fr {cols[1]}fr">'
+                 f'<div class="col">{render_blocks(p.get("left", []), acc)}</div>'
+                 f'<div class="col">{render_blocks(p.get("right", []), acc)}</div></div>')
+    if p.get("bottom"):
+        body += f'<div class="full">{render_blocks(p["bottom"], acc)}</div>'
+    foot = ""
+    if p.get("one") or p.get("axes"):
+        foot = (f'<div class="foot"><div class="one">{rich(p.get("one", ""))}</div>'
+                f'<div class="axes">{rich(p.get("axes", ""))}</div></div>')
+    return (f'<section class="page" style="--acc:{acc};--tint:{tint}"><header>'
+            f'<div class="kick">{esc(ledger)}｜{esc(ch["name"])}｜{label}</div>'
+            f'<h1><span class="cn">{esc(ch["name"])}</span>｜{label}：{rich(p["sub"])}</h1>'
+            f'<div class="read">{rich(p.get("read", ""))}</div></header>'
+            f'<main>{body}</main>{foot}'
+            f'<div class="pno">藥物分析全景｜精華圖 {VER.replace("_", ".")}　{n}／{ch["npages"]}</div></section>')
+
+
+CSS = r"""
+@page{size:1600px 1131px;margin:0}
+*{box-sizing:border-box}
+html,body{margin:0;background:#fff}
+body{font-family:"Noto Sans TC",sans-serif;color:#1f2a31;-webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:1600px;height:1131px;padding:26px 34px 22px;display:flex;flex-direction:column;gap:10px;overflow:hidden;page-break-after:always;
+  font-size:var(--fs,15px);line-height:1.5;position:relative}
+header{border-bottom:3px solid var(--acc);padding-bottom:6px}
+.kick{font-size:.8em;letter-spacing:.08em;color:#61717a}
+h1{font-family:"Noto Serif TC",serif;font-weight:700;font-size:1.75em;margin:2px 0 2px;line-height:1.3}
+h1 .cn{color:var(--acc)}
+.read{font-size:.86em;color:#46525a}
+main{flex:1;display:flex;flex-direction:column;gap:10px;min-height:0}
+.cols{display:grid;gap:14px;align-items:start}
+.col,.full{display:flex;flex-direction:column;gap:10px;min-width:0}
+.blk{min-width:0}
+.bt{font-weight:700;font-size:1.02em;margin-bottom:4px;display:flex;gap:10px;align-items:baseline;flex-wrap:wrap}
+.bt .note{font-weight:400;font-size:.8em;color:#61717a}
+b{font-weight:700}
+.r{color:#b72d4a;font-weight:700}
+.g{color:#326991;font-weight:700}
+.mono{font-family:"IBM Plex Mono","Noto Sans TC",monospace}
+.ef{font-variant-numeric:tabular-nums}
+/* 流程 */
+.flow .st{border:1.5px solid var(--acc);border-radius:10px;padding:6px 10px 7px;background:#fff}
+.flow .sh{display:flex;gap:8px;align-items:center;font-size:1.02em}
+.flow .code{color:#fff;font:600 .82em "IBM Plex Mono",monospace;padding:1px 7px;border-radius:5px}
+.flow ul{margin:3px 0 0;padding-left:1.15em}
+.flow li{margin:1px 0}
+.flow .parts{display:flex;flex-wrap:wrap;gap:4px;margin-top:4px}
+.chip{font-size:.86em;border:1px solid #c9d2d6;border-radius:6px;padding:0 6px;background:var(--tint)}
+.chip b{color:var(--acc);margin-right:4px}
+.tag{margin-top:4px;border:1.2px solid var(--tb);background:var(--tf);border-radius:7px;padding:2px 8px;font-size:.92em}
+.tag b{color:var(--tb)}
+.arr{text-align:center;color:var(--acc);font-size:.8em;line-height:1;margin:2px 0}
+/* 表 */
+table{width:100%;border-collapse:collapse;table-layout:fixed;font-size:.9em}
+th{background:var(--tint);color:#1f2a31;text-align:left;font-weight:700;padding:3px 6px;border:1px solid #b9c3c8}
+td{padding:3px 6px;border:1px solid #c9d2d6;vertical-align:top;overflow-wrap:anywhere}
+tbody tr:nth-child(even) td{background:#fafbf8}
+/* 方塊 */
+.box{border:1.5px solid var(--bd);background:var(--bg);border-radius:10px;padding:6px 10px 7px}
+.box ul{margin:0;padding-left:1.15em}.box li{margin:1px 0}.box p{margin:2px 0}
+.eqs{border:1.5px solid var(--acc);border-radius:10px;padding:6px 10px 8px;background:var(--tint)}
+.eq{display:grid;grid-template-columns:10.5em 1fr;column-gap:10px;padding:3px 0;border-top:1px dotted #9aa6ab}
+.eq:first-of-type{border-top:0}
+.et{font-weight:700}
+.ef{font-weight:600}
+.ex{grid-column:2;font-size:.9em;color:#46525a}
+.pairs table{font-size:.9em}.pairs td{border:0;border-bottom:1px dotted #b9c3c8;padding:2px 4px}
+.pairs td.pa{font-weight:700;width:17%}.pairs td.vs{width:3%;color:var(--acc);text-align:center}
+.groups{display:grid;grid-template-columns:repeat(var(--gc),minmax(0,1fr));gap:10px;align-items:start}
+.grp{border:1.5px solid var(--bd);background:var(--bg);border-radius:10px;padding:6px 10px 7px}
+.gt{font-weight:700;margin-bottom:2px}
+.grp ul{margin:0;padding-left:1.15em}.grp li{margin:1px 0}
+/* 頁尾 */
+.foot{border:2px solid #9e771c;background:#fdf3d6;border-radius:10px;padding:7px 14px}
+.one{font-weight:700;font-size:1.08em}
+.axes{font-size:.86em;color:#46525a;margin-top:2px}
+.pno{position:absolute;right:34px;bottom:6px;font-size:.7em;color:#8a969c}
+"""
+
+
+def font_css():
+    pk = {"sans": "fontsource-noto-sans-tc-5.3.1", "serif": "fontsource-noto-serif-tc-5.3.1", "mono": "fontsource-ibm-plex-mono-5.3.0"}
+    links = []
+    for k, w in [("sans", 400), ("sans", 500), ("sans", 700), ("serif", 700), ("mono", 400), ("mono", 600)]:
+        p = os.path.join(FONTS, pk[k], "package", f"{w}.css")
+        if not os.path.exists(p):
+            sys.exit(f"缺字型：{p}（見檔頭說明）")
+        links.append(f'<link rel="stylesheet" href="file://{p}">')
+    return "".join(links)
+
+
+def build(key):
+    spec = importlib.import_module(key)
+    importlib.reload(spec)
+    S = spec.SPEC
+    idx = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/index.json"), encoding="utf-8"))
+    chs = {c["key"]: c for c in idx["chapters"]}
+    keys = S.get("keys", [key])
+    c0 = chs[keys[0]]
+    acc, tint, ledger = LEDGER[c0["field"]]
+    pages = [S[k] for k in ("p1", "p2", "p3") if k in S]
+    ch = dict(name=S.get("name", c0["name"]), npages=len(pages))
+    body = "".join(page(ch, i + 1, p, acc, tint, ledger) for i, p in enumerate(pages))
+    doc = (f'<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">{font_css()}<style>{CSS}</style></head>'
+           f"<body>{body}</body></html>")
+    os.makedirs(OUT, exist_ok=True)
+    hp = os.path.join(HERE, "out", f"{key}.html")
+    os.makedirs(os.path.dirname(hp), exist_ok=True)
+    open(hp, "w", encoding="utf-8").write(doc)
+    pdf = os.path.join(OUT, f'{S["file"]}_精華圖_{VER}.pdf')
+    r = subprocess.run(["node", os.path.join(HERE, "print.js"), hp, pdf], capture_output=True, text=True)
+    print(r.stdout.strip() or r.stderr.strip())
+    # 純文字（覆蓋檢核用）
+    txt = re.sub(r"<[^>]+>", " ", body)
+    open(os.path.join(HERE, "out", f"{key}.txt"), "w", encoding="utf-8").write(html.unescape(txt))
+    return pdf
+
+
+if __name__ == "__main__":
+    ks = sys.argv[1:] or sorted(f[:-3] for f in os.listdir(os.path.join(HERE, "specs")) if f.endswith(".py") and not f.startswith("_"))
+    for k in ks:
+        build(k)
