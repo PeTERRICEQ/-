@@ -12,6 +12,16 @@
 """
 import html, importlib, json, os, re, subprocess, sys
 
+
+def load_spec(key):
+    """用檔案路徑載入 specs/<key>.py（避免 gc 這類名字撞到內建模組）。"""
+    import importlib.util
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "specs", f"{key}.py")
+    sp = importlib.util.spec_from_file_location(f"yf_spec_{key}", path)
+    m = importlib.util.module_from_spec(sp)
+    sp.loader.exec_module(m)
+    return m.SPEC
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(HERE, "../../.."))
 OUT = os.path.join(REPO, "藥物分析_精華圖")
@@ -218,9 +228,7 @@ def font_css():
 
 
 def build(key):
-    spec = importlib.import_module(key)
-    importlib.reload(spec)
-    S = spec.SPEC
+    S = load_spec(key)
     idx = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/index.json"), encoding="utf-8"))
     chs = {c["key"]: c for c in idx["chapters"]}
     keys = S.get("keys", [key])

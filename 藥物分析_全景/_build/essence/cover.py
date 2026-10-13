@@ -2,6 +2,16 @@
 英文取 3 個字母以上的詞；沒有英文就取正解選項裡連續 3 個以上的中文字段。只有圖的題目列為「需看圖」。
 用法：python3 essence/cover.py hplc"""
 import json, os, re, sys
+
+
+def load_spec(key):
+    """用檔案路徑載入 specs/<key>.py（避免 gc 這類名字撞到內建模組）。"""
+    import importlib.util
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "specs", f"{key}.py")
+    sp = importlib.util.spec_from_file_location(f"yf_spec_{key}", path)
+    m = importlib.util.module_from_spec(sp)
+    sp.loader.exec_module(m)
+    return m.SPEC
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.abspath(os.path.join(HERE, "../../.."))
 Q = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/q.json"), encoding="utf-8"))
@@ -37,5 +47,5 @@ if __name__ == "__main__":
     import importlib
     sys.path.insert(0, os.path.join(HERE, "specs"))
     for k in sys.argv[1:]:
-        S = importlib.import_module(k).SPEC
+        S = load_spec(k)
         check(k, S.get("keys"))

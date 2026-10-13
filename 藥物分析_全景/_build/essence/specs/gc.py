@@ -36,12 +36,12 @@ SPEC = dict(
         ],
         right=[
             dict(type="table", title="固定相這把尺：極性越大，能氫鍵、含氧的分子越晚出", note="McReynolds 階梯（舊筆記）",
-                 cols=[("固定相", 17), ("極性", 7), ("誰晚出（題本順序）", 46), ("該選它的題", 30)],
+                 cols=[("固定相", 18), ("極性", 10), ("誰晚出（題本順序）", 44), ("該選它的題", 28)],
                  rows=[
                      [("Squalane（烴）", "ink", 700), "0", "只比揮發性：沸點高、碳鏈長者晚", "{{squalene 是另一個化合物}}"],
                      [("OV-1（methylsilicone）", "ink", 700), "222", "局麻藥 I **最小＝benzocaine**（最短、最易揮發）；butacaine、procaine、proxymetacaine 較大", "非極性、依揮發性排"],
-                     [("BPX-5／SE-54", "ink", 700), "337", "晚 → 早：**menthyl acetate > menthol（1192）> menthone（1170）** > limonene > β-pinene；脂肪酸 **20:0 > 18:1 > 17:0 > 16:1**（碳鏈長者晚）", "比 menthol I 大的＝menthyl acetate；最久＝arachidic acid"],
-                     [("OV-17／OV-225", "ink", 700), "886／1813", "phenyl、cyano 增加偶極作用", "中間極性"],
+                     [("BPX-5（低極性）", "ink", 700), "低", "晚 → 早：**menthyl acetate > menthol（1192）> menthone（1170）** > limonene > β-pinene；脂肪酸 **20:0 > 18:1 > 17:0 > 16:1**（碳鏈長者晚）", "比 menthol I 大的＝menthyl acetate；最久＝arachidic acid"],
+                     [("SE-54／OV-17／OV-225", "ink", 700), "337／886／1813", "OV-17＝50% phenyl：極性居中", "中間極性"],
                      [("Carbowax（PEG）", "ink", 700), "2318", "PEG 的氧接受 OH 的氫鍵：晚 → 早 **menthol 1686 > menthyl acetate 1578 > menthone 1480 > limonene 1206**；{{和 BPX-5 前兩名對調}}",
                       "**醇類**、薄荷油五成分、**同碳數飽和／不飽和脂肪酸**、拉大 menthone／menthol 的 I 差 → 都選 **Carbowax**"],
                  ]),
@@ -49,7 +49,7 @@ SPEC = dict(
                 "正烷烴 CₙH₂ₙ₊₂ 定為 **100n**（C8＝800、C9＝900、C10＝1000），**無單位**；同柱、同溫度模式才能比",
                 "**I 大＝晚出**（Carbowax 上 menthol 1686 最晚）；{{I 大不等於量多}}；換柱 I 就變（menthol：BPX-5 1192、Carbowax 1686）",
             ]),
-            dict(type="table", title="偵測器 × 分子要有的把柄", note="鑑別力：MS > FT-IR > FID、TCD",
+            dict(type="table", title="偵測器 × 分子要有的把柄", note="鑑別題：MSD、FT-IR 給結構資訊；FID、TCD 只給時間與面積",
                  cols=[("偵測器", 12), ("怎麼產生訊號", 27), ("分子要有", 22), ("陷阱、代表題", 39)],
                  rows=[
                      [("FID", "ink", 700), "**H₂／air 火焰**把分析物燒成離子，兩電極收電流", "含碳的**有機物**", "**破壞性**但仍可定量；{{無機物、CO₂、SO₂ 不行}}；{{水會影響}}"],
