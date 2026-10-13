@@ -1,6 +1,6 @@
 """從 20 章講義抽出每個 L 小節的精華：標題、先問、短鏈（機轉）、立即用一次（例子）、易錯、閉卷自問與答案。"""
 import re, glob, os, json, sys
-from parse_q import CH  # 章名對照
+from parse_q import CH, chof  # 章名對照
 SRC, OUT = sys.argv[1], sys.argv[2]
 HEAD = re.compile(r'^(#{2,4}) *(L\d{1,2})(?:·[^｜|]*)?[｜|：: ]\s*(.+)$', re.M)
 IMG = re.compile(r'!\[[^\]]*\]\(data:[^)]*\)|<img[^>]*>')
@@ -18,7 +18,7 @@ def field(block, names):
     return ''
 out = []
 for f in sorted(glob.glob(os.path.join(SRC, '*.md'))):
-    ch = CH[os.path.basename(f)[:8]]
+    ch = chof(f)
     t = open(f, encoding='utf-8').read()
     hs = [h for h in HEAD.finditer(t)]
     seen = set()
@@ -55,7 +55,7 @@ for f in sorted(glob.glob(os.path.join(SRC, '*.md'))):
         out.append(dict(ch=ch, L=lid, title=clean(h.group(3))[:60], ask=ask[:160], chain=chain[:260],
                         why=why[:420], ex=ex[:320], trap=trap[:240], q=q[:200], ans=ans))
 # 非水滴定沒有 L 小節：改用 NAT 必背卡
-for f in glob.glob(os.path.join(SRC, '3469a43c-*.md')):
+for f in glob.glob(os.path.join(SRC, '3469a43c-*.md')) + glob.glob(os.path.join(SRC, '*_非水滴定_*.md')):
     t = open(f, encoding='utf-8').read()
     for m in re.finditer(r'^> \[!note\][^\n]*?(NAT\d+)｜([^\n]+)\n((?:>.*\n?)+)', t, re.M):
         body = re.sub(r'^> ?', '', m.group(3), flags=re.M)

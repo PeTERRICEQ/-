@@ -4,6 +4,13 @@ CH = {'1be15b6f':'CE','2bbd080b':'光譜概論','2cf1fd9f':'UV','3469a43c':'非�
       '46c9d32d':'HPLC','52cd3266':'灰分','57b57513':'原子光譜','7170a493':'IR','76c9fdd4':'萃取',
       '946ce2d2':'Raman','a24b26a4':'層析概論','a5fee3b8':'SFC','af08da8a':'折光','b178dc9f':'MS',
       'be86ea18':'TLC','c77f3c0b':'螢光','d9f42c87':'GC','eb4f5773':'水分','fd7d45ef':'NMR'}
+
+def chof(f):
+    """上傳原檔（<8 位雜湊>-…）或 藥物分析_講義/NN_<章>_建構講義_vX.md 都認得"""
+    b = os.path.basename(f)
+    m = re.match(r'\d\d_(.+?)_建構講義', b)
+    return m.group(1) if m else CH[b[:8]]
+
 WHY_KEYS = ['最短完整解題鏈', '最短完整鏈', '最短解題鏈', '最短完整判法', '最短判法', '它問什麼／最短推理', '最短推理',
             '最短回查', '解題', '逐項判讀與答案邊界']
 def _clean(s):
@@ -39,7 +46,7 @@ if __name__ == '__main__':
     IMG = re.compile(r'!\[[^\]]*\]\(data:[^)]*\)|<img[^>]*>|data:image/[a-z]+;base64,[A-Za-z0-9+/=]+')
     STOP = ['<details', '**題幹觸發', '**逐項判讀', '題本印刷答案', '**題本答案', '**真正問什麼']
     for f in sorted(glob.glob(os.path.join(SRC, '*.md'))):
-        ch = CH[os.path.basename(f)[:8]]
+        ch = chof(f)
         t = open(f, encoding='utf-8').read()
         heads = list(HEAD.finditer(t))
         if heads:
