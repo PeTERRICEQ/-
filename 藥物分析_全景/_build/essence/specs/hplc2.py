@@ -110,7 +110,7 @@ SPEC = dict(
                  proj=[("性", "–SO₃⁻ 強陽、–COO⁻ 弱陽、四級銨強陰；陽交換升 pH → lysine 最後"),
                        ("治", "serine 酸性走陽交換、鹼性走陰交換；IC 測 Cl⁻ 用電導（E2）")],
                  iso=["styrene–DVB 樹脂，DVB 定交聯"]),
-            dict(type="vcard", name="RI", sub="refractive index", verbs=[], exam="16 題",
+            dict(type="vcard", name="RI", sub="refractive index", verbs=["折射"], exam="16 題",
                  vec="讀整杯液體的折射率 → 分子看得到，流動相組成變了也看得到（E2）",
                  proj=[("價", "選擇性最低；梯度 → **基線漂移**")]),
             dict(type="vcard", name="EC／PAD", sub="electrochemical", verbs=["轉電子"], exam="14 題",
