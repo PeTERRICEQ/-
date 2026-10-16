@@ -125,12 +125,75 @@ def b_groups(b, acc):
 BLK = {"flow": b_flow, "table": b_table, "box": b_box, "eqs": b_eqs, "pairs": b_pairs, "groups": b_groups}
 
 
+# ───────── pick up 版（v2）：本體 → 投影 ─────────
+# 封閉動詞（全書 14 個）：每個本體開頭標一個
+VERBS = [
+    ("分配", "grn", "在兩相間按相似度分到兩邊"), ("解離", "org", "得失質子而帶電或不帶電"),
+    ("吸收", "blu", "能量對上能階差就被吃掉"), ("放光", "yel", "激發態回基態時放出光子"),
+    ("散射", "key", "光撞到分子或顆粒改方向"), ("遮蔽", "pur", "電子雲擋住外場或改變能階"),
+    ("耦合", "pur", "鄰近自旋或振動互相傳話"), ("游離", "red", "中性分子被弄成離子"),
+    ("遷移", "blu", "帶電粒子在電場或磁場中移動"), ("擴散", "key", "分子群自己散開"),
+    ("計量", "grn", "照反應式定比例反應"), ("沉澱", "yel", "溶度積夠小就析出，軟配軟最牢"),
+    ("轉電子", "red", "電子從低 E° 流向高 E°"), ("燒失", "org", "加熱讓東西揮發或分解"),
+]
+VTONE = {v: t for v, t, _ in VERBS}
+PILL = {"治": ("#356844", "#e3f0e3", "治"), "價": ("#b72d4a", "#f8e5e8", "價"), "性": ("#5b6b78", "#eef1f4", "性")}
+
+
+def verb_chip(v):
+    bd, bg = TONE[VTONE.get(v, "line")]
+    return f'<span class="vb" style="--bd:{bd};--bg:{bg}">{esc(v)}</span>'
+
+
+def proj_rows(proj):
+    out = []
+    for pr in proj:
+        k, txt = pr[0], pr[1]
+        ref = pr[2] if len(pr) > 2 else ""
+        bd, bg, lab = PILL[k]
+        out.append(f'<div class="pj"><span class="pill" style="--bd:{bd};--bg:{bg}">{lab}</span>'
+                   f'<span class="pt">{rich(txt)}</span>{("<span class=pref>" + rich(ref) + "</span>") if ref else ""}</div>')
+    return "".join(out)
+
+
+def b_engine(b, acc):
+    """一個本體：引擎號＋動詞＋名稱 → 綠底推導鏈（本體）→ 投影（治價性同組，用顏色分）→ 手寫類比線。"""
+    verbs = "".join(verb_chip(v) for v in b.get("verbs", []))
+    n = f'<span class="en">16 年 {b["n"]} 題</span>' if b.get("n") is not None else ""
+    head = (f'<div class="eh"><span class="el">{esc(b["L"])}</span>{verbs}<b class="enm">{rich(b["name"])}</b>{n}</div>')
+    vec = f'<div class="vec">{rich(b["vec"])}</div>'
+    hooks = "".join(f'<div class="hook"><b>{"機轉橋" if h[0] == "橋" else "記憶鉤"}</b>{rich(h[1])}</div>' for h in b.get("hooks", []))
+    lines = '<div class="hw"></div>' * b.get("lines", 0)
+    return f'<div class="blk eng">{head}{vec}<div class="pjs">{proj_rows(b.get("proj", []))}</div>{hooks}{lines}</div>'
+
+
+def b_vcard(b, acc):
+    """零件向量卡：本體一句 → 投影 → 孤點。"""
+    verbs = "".join(verb_chip(v) for v in b.get("verbs", []))
+    sub = f'<span class="vsub">{rich(b["sub"])}</span>' if b.get("sub") else ""
+    ex = f'<span class="en">{rich(b["exam"])}</span>' if b.get("exam") else ""
+    iso = ("<div class=iso><b>孤點</b>" + "；".join(rich(x) for x in b["iso"]) + "</div>") if b.get("iso") else ""
+    return (f'<div class="blk vcard"><div class="eh">{verbs}<b class="enm">{rich(b["name"])}</b>{sub}{ex}</div>'
+            f'<div class="vec">{rich(b["vec"])}</div><div class="pjs">{proj_rows(b.get("proj", []))}</div>{iso}</div>')
+
+
+def b_legend(b, acc):
+    vs = "".join(f'<span class="lg">{verb_chip(v)}<span class="lgm">{esc(m)}</span></span>' for v, _, m in VERBS)
+    pills = "".join(f'<span class="pill" style="--bd:{bd};--bg:{bg}">{lab}</span>{esc(t)}　'
+                    for (bd, bg, lab), t in [(PILL["治"], "能做什麼"), (PILL["價"], "做不到、會被騙"), (PILL["性"], "條件與性質")])
+    return (f'<div class="blk legend"><div class="bt" style="color:{acc}">{rich(b.get("title", "讀法"))}</div>'
+            f'<div class="lgp">{rich(b.get("text", ""))}</div><div class="lgv">{vs}</div><div class="lgp">{pills}</div></div>')
+
+
+BLK.update({"engine": b_engine, "vcard": b_vcard, "legend": b_legend})
+
+
 def render_blocks(bs, acc):
     return "".join(BLK[b["type"]](b, acc) for b in bs)
 
 
 def page(ch, n, p, acc, tint, ledger):
-    label = {1: "精華① 翻譯座標", 2: "精華② 驗證座標", 3: "精華③ 考點補完"}[n]
+    label = p.get("label") or {1: "精華① 翻譯座標", 2: "精華② 驗證座標", 3: "精華③ 考點補完"}[n]
     cols = p.get("cols", [0.46, 0.54])
     body = ""
     if p.get("full"):
@@ -150,7 +213,7 @@ def page(ch, n, p, acc, tint, ledger):
             f'<h1><span class="cn">{esc(ch["name"])}</span>｜{label}：{rich(p["sub"])}</h1>'
             f'<div class="read">{rich(p.get("read", ""))}</div></header>'
             f'<main>{body}</main>{foot}'
-            f'<div class="pno">藥物分析全景｜精華圖 {VER.replace("_", ".")}　{n}／{ch["npages"]}</div></section>')
+            f'<div class="pno">藥物分析全景｜精華圖 {ch.get("ver", VER).replace("_", ".")}　{n}／{ch["npages"]}</div></section>')
 
 
 CSS = r"""
@@ -208,6 +271,29 @@ tbody tr:nth-child(even) td{background:#fafbf8}
 .grp{border:1.5px solid var(--bd);background:var(--bg);border-radius:10px;padding:6px 10px 7px}
 .gt{font-weight:700;margin-bottom:2px}
 .grp ul{margin:0;padding-left:1.15em}.grp li{margin:1px 0}
+/* pick up 版 */
+.eng,.vcard{border:1.5px solid #9aa6ab;border-radius:10px;padding:6px 10px 7px;background:#fff}
+.eh{display:flex;gap:6px;align-items:center;flex-wrap:wrap;margin-bottom:4px}
+.el{background:#1f2a31;color:#fff;font:600 .85em "IBM Plex Mono",monospace;padding:1px 8px;border-radius:5px}
+.enm{font-size:1.04em}
+.en{margin-left:auto;font-size:.8em;color:#61717a}
+.vsub{font-size:.82em;color:#61717a}
+.vb{border:1.5px solid var(--bd);background:var(--bg);color:var(--bd);font-weight:700;font-size:.82em;padding:0 6px;border-radius:12px;white-space:nowrap}
+.vec{background:#e3f0e3;border:1.5px solid #356844;border-radius:8px;padding:4px 9px;margin-bottom:4px}
+.pjs{display:flex;flex-direction:column;gap:2px}
+.pj{display:grid;grid-template-columns:2em 1fr auto;gap:6px;align-items:baseline;padding:1px 0;border-bottom:1px dotted #d3d9dc}
+.pill{display:inline-block;border:1.3px solid var(--bd);background:var(--bg);color:var(--bd);font-weight:700;font-size:.8em;
+  border-radius:10px;padding:0 6px;text-align:center;line-height:1.5}
+.pref{font-size:.76em;color:#8a969c;white-space:nowrap}
+.iso{margin-top:4px;border-left:4px solid #685185;background:#ece6f4;padding:2px 8px;font-size:.92em}
+.iso b{color:#685185;margin-right:6px}
+.hook{font-size:.88em;color:#46525a;margin-top:3px}
+.hook b{border:1px solid #9aa6ab;border-radius:4px;padding:0 4px;margin-right:6px;font-size:.85em}
+.hw{height:1.7em;border-bottom:1.6px dashed #c4c8be}
+.legend{border:1.5px solid #9aa6ab;border-radius:10px;padding:6px 10px;background:#fafbf8}
+.lgv{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:3px 8px;margin:4px 0;font-size:.86em}
+.lg{display:flex;gap:4px;align-items:baseline}.lgm{color:#46525a;font-size:.88em}
+.lgp{font-size:.88em}
 /* 頁尾 */
 .foot{border:2px solid #9e771c;background:#fdf3d6;border-radius:10px;padding:7px 14px}
 .one{font-weight:700;font-size:1.08em}
@@ -234,8 +320,8 @@ def build(key):
     keys = S.get("keys", [key])
     c0 = chs.get(keys[0], {})  # 傳統分析多數章不在 index.json：spec 自己給 field、name
     acc, tint, ledger = LEDGER[S.get("field") or c0["field"]]
-    pages = [S[k] for k in ("p1", "p2", "p3") if k in S]
-    ch = dict(name=S.get("name") or c0["name"], npages=len(pages))
+    pages = [S[k] for k in ("p1", "p2", "p3", "p4", "p5") if k in S]
+    ch = dict(name=S.get("name") or c0["name"], npages=len(pages), ver=S.get("ver", VER))
     body = "".join(page(ch, i + 1, p, acc, tint, ledger) for i, p in enumerate(pages))
     doc = (f'<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">{font_css()}<style>{CSS}</style></head>'
            f"<body>{body}</body></html>")
@@ -243,9 +329,16 @@ def build(key):
     hp = os.path.join(HERE, "out", f"{key}.html")
     os.makedirs(os.path.dirname(hp), exist_ok=True)
     open(hp, "w", encoding="utf-8").write(doc)
-    pdf = os.path.join(OUT, f'{S["file"]}_精華圖_{VER}.pdf')
+    ver = S.get("ver", VER)
+    pdf = os.path.join(OUT, f'{S["file"]}_精華圖_{ver}.pdf')
     r = subprocess.run(["node", os.path.join(HERE, "print.js"), hp, pdf], capture_output=True, text=True)
     print(r.stdout.strip() or r.stderr.strip())
+    if S.get("append"):  # pick up 版後面接上 v1.1 精華頁（對答案用）
+        old = os.path.join(OUT, f'{S["append"]}_精華圖_{VER}.pdf')
+        tmp = pdf + ".tmp.pdf"
+        subprocess.run(["pdfunite", pdf, old, tmp], check=True)
+        os.replace(tmp, pdf)
+        print("  接上", os.path.basename(old))
     # 純文字（覆蓋檢核用）
     txt = re.sub(r"<[^>]+>", " ", body)
     open(os.path.join(HERE, "out", f"{key}.txt"), "w", encoding="utf-8").write(html.unescape(txt))
