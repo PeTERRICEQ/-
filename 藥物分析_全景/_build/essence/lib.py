@@ -188,6 +188,36 @@ def b_legend(b, acc):
 BLK.update({"engine": b_engine, "vcard": b_vcard, "legend": b_legend})
 
 
+# ───────── 題型練習（STJ 式：一個題型一張卡；題目頁留手寫空白，詳解另頁）─────────
+def b_drill(b, acc):
+    """題目卡：題型編號＋名稱＋本體＋考次 → 母題題幹與選項 → 手寫區（先寫本體，再推一次）。"""
+    eng = f'<span class="dq-e">{rich(b["E"])}</span>' if b.get("E") else ""
+    n = f'<span class="en">16 年 {b["n"]} 題</span>' if b.get("n") is not None else ""
+    opts = "".join(f'<div class="dq-o"><b>{esc(k)}</b> {rich(v)}</div>' for k, v in b.get("opts", {}).items())
+    src = f'<div class="dq-src">母題 {esc(b["src"])}</div>' if b.get("src") else ""
+    lines = b.get("lines", 5)
+    hw = ('<div class="dq-hw"><div class="dq-p">① 這題考哪個本體？</div><div class="hw"></div>'
+          '<div class="dq-p">② 從本體推一次：</div>' + '<div class="hw"></div>' * max(lines - 1, 1) + "</div>")
+    return (f'<div class="blk drill"><div class="eh"><span class="el">{esc(b["no"])}</span><b class="enm">{rich(b["name"])}</b>{eng}{n}</div>'
+            f'<div class="dq-s">{rich(b["stem"])}</div><div class="dq-os">{opts}</div>{src}{hw}</div>')
+
+
+def b_sol(b, acc):
+    """詳解卡：答案 → 推導鏈（從本體出發）→ 其餘選項錯在哪 → 歷年變形 → 陷阱。"""
+    chain = "".join(f"<li>{rich(x)}</li>" for x in b.get("chain", []))
+    wn = "".join(f"<li>{rich(x)}</li>" for x in b.get("why_not", []))
+    var = "".join(f'<li><b class="mono">{esc(i)}</b> {rich(t)}</li>' for i, t in b.get("var", []))
+    trap = f'<div class="ds-trap"><b>陷阱</b>{rich(b["trap"])}</div>' if b.get("trap") else ""
+    return (f'<div class="blk sol"><div class="eh"><span class="el">{esc(b["no"])}</span><b class="enm">{rich(b["name"])}</b>'
+            f'<span class="ds-a">答 {esc(b["ans"])}</span></div>'
+            f'<div class="vec"><ol class="ds-c">{chain}</ol></div>'
+            f'{("<ul class=ds-w>" + wn + "</ul>") if wn else ""}'
+            f'{("<div class=ds-vt>歷年變形</div><ul class=ds-v>" + var + "</ul>") if var else ""}{trap}</div>')
+
+
+BLK.update({"drill": b_drill, "sol": b_sol})
+
+
 def render_blocks(bs, acc):
     return "".join(BLK[b["type"]](b, acc) for b in bs)
 
@@ -294,6 +324,22 @@ tbody tr:nth-child(even) td{background:#fafbf8}
 .lgv{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:3px 8px;margin:4px 0;font-size:.86em}
 .lg{display:flex;gap:4px;align-items:baseline}.lgm{color:#46525a;font-size:.88em}
 .lgp{font-size:.88em}
+/* 題型練習 */
+.drill,.sol{border:1.5px solid #9aa6ab;border-radius:10px;padding:6px 10px 7px;background:#fff}
+.dq-e{border:1.3px solid #356844;background:#e3f0e3;color:#356844;font-weight:700;font-size:.8em;border-radius:10px;padding:0 6px}
+.dq-s{font-weight:500;margin:2px 0 3px}
+.dq-os{display:grid;grid-template-columns:1fr 1fr;gap:1px 14px;font-size:.94em}
+.dq-o b{color:#326991;margin-right:3px}
+.dq-src{font-size:.76em;color:#8a969c;text-align:right}
+.dq-hw{margin-top:2px}
+.dq-p{font-size:.82em;color:#61717a;margin-top:3px}
+.ds-a{margin-left:auto;background:#b72d4a;color:#fff;font-weight:700;border-radius:6px;padding:0 9px}
+.ds-c{margin:0;padding-left:1.3em}.ds-c li{margin:1px 0}
+.ds-w{margin:4px 0 0;padding-left:1.15em;font-size:.92em}.ds-w li{margin:1px 0}
+.ds-vt{font-weight:700;font-size:.84em;color:#326991;margin-top:4px}
+.ds-v{margin:0;padding-left:1.15em;font-size:.88em}.ds-v li{margin:0}
+.ds-trap{margin-top:4px;border-left:4px solid #b72d4a;background:#f8e5e8;padding:2px 8px;font-size:.9em}
+.ds-trap b{color:#b72d4a;margin-right:6px}
 /* 頁尾 */
 .foot{border:2px solid #9e771c;background:#fdf3d6;border-radius:10px;padding:7px 14px}
 .one{font-weight:700;font-size:1.08em}
@@ -321,6 +367,8 @@ def build(key):
     c0 = chs.get(keys[0], {})  # 傳統分析多數章不在 index.json：spec 自己給 field、name
     acc, tint, ledger = LEDGER[S.get("field") or c0["field"]]
     pages = [S[k] for k in ("p1", "p2", "p3", "p4", "p5") if k in S]
+    for qk in S.get("drills", []):  # 題型練習頁：specs/q_<章>.py 的 PAGES，接在 pick up 頁後面
+        pages += load_spec(qk)["PAGES"]  # q_<章>.py 裡寫 SPEC = dict(PAGES=[...])
     ch = dict(name=S.get("name") or c0["name"], npages=len(pages), ver=S.get("ver", VER))
     body = "".join(page(ch, i + 1, p, acc, tint, ledger) for i, p in enumerate(pages))
     doc = (f'<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8">{font_css()}<style>{CSS}</style></head>'
