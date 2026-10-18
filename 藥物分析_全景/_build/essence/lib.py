@@ -196,8 +196,9 @@ def b_drill(b, acc):
     opts = "".join(f'<div class="dq-o"><b>{esc(k)}</b> {rich(v)}</div>' for k, v in b.get("opts", {}).items())
     src = f'<div class="dq-src">母題 {esc(b["src"])}</div>' if b.get("src") else ""
     lines = b.get("lines", 5)
-    hw = ('<div class="dq-hw"><div class="dq-p">① 這題考哪個本體？</div><div class="hw"></div>'
-          '<div class="dq-p">② 從本體推一次：</div>' + '<div class="hw"></div>' * max(lines - 1, 1) + "</div>")
+    # 手寫區：橫線用背景畫，區塊會長到填滿卡片剩下的高度（卡片又會撐滿頁面）
+    hw = ('<div class="dq-hw"><div class="dq-p">① 這題考哪個本體？</div><div class="dq-r" style="min-height:1.7em"></div>'
+          f'<div class="dq-p">② 從本體推一次：</div><div class="dq-r dq-grow" style="min-height:{max(lines - 1, 1) * 1.7}em"></div></div>')
     return (f'<div class="blk drill"><div class="eh"><span class="el">{esc(b["no"])}</span><b class="enm">{rich(b["name"])}</b>{eng}{n}</div>'
             f'<div class="dq-s">{rich(b["stem"])}</div><div class="dq-os">{opts}</div>{src}{hw}</div>')
 
@@ -331,7 +332,12 @@ tbody tr:nth-child(even) td{background:#fafbf8}
 .dq-os{display:grid;grid-template-columns:1fr 1fr;gap:1px 14px;font-size:.94em}
 .dq-o b{color:#326991;margin-right:3px}
 .dq-src{font-size:.76em;color:#8a969c;text-align:right}
-.dq-hw{margin-top:2px}
+.dq-hw{margin-top:2px;flex:1;display:flex;flex-direction:column}
+.dq-r{background-image:repeating-linear-gradient(to bottom,transparent 0,transparent calc(1.7em - 1.6px),#c4c8be calc(1.7em - 1.6px),#c4c8be 1.7em)}
+.dq-grow{flex:1}
+.cols:has(.drill){flex:1;align-items:stretch}
+.cols:has(.drill)>.col{min-height:0}
+.col>.drill{flex:1;display:flex;flex-direction:column}
 .dq-p{font-size:.82em;color:#61717a;margin-top:3px}
 .ds-a{margin-left:auto;background:#b72d4a;color:#fff;font-weight:700;border-radius:6px;padding:0 9px}
 .ds-c{margin:0;padding-left:1.3em}.ds-c li{margin:1px 0}

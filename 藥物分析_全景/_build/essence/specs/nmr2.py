@@ -1,6 +1,7 @@
 """NMR pick up 版（v2.0）：本體 → 投影。逐題遮住測試見 _build/k16/pickup/nmr_mask.json（產生程式 nmr_mask_src.py）。"""
 SPEC = dict(
     file="06_NMR", ver="v2_0", append="06_NMR", keys=["nmr"], name="NMR",
+    drills=["q_nmr"],
     # ───────── p1 本體推導版 ─────────
     p1=dict(
         label="① 本體推導版",
