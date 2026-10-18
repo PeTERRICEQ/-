@@ -1,6 +1,7 @@
 """UV pick up 版（v2.0）：本體 → 投影。遮住測試見 _build/k16/pickup/uv_mask.json（來源 uv_mask_src.py）。"""
 SPEC = dict(
     file="02_UV", ver="v2_0", append="02_UV", keys=["uv"], name="UV",
+    drills=["q_uv"],
     p1=dict(
         label="① 本體推導版",
         sub="三個本體：峰在哪多強、有多少、光從哪來",

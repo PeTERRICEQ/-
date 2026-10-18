@@ -1,6 +1,7 @@
 """CE pick up 版（v2.0）：本體 → 投影。遮住測試見 _build/k16/pickup/ce_mask.json（產生程式 ce_mask_src.py）。"""
 SPEC = dict(
     file="16_CE", ver="v2_0", append="16_CE", keys=["ce"], name="CE",
+    drills=["q_ce"],
     # ───────── p1 本體推導版 ─────────
     p1=dict(
         label="① 本體推導版",
