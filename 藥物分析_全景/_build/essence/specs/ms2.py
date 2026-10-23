@@ -1,6 +1,7 @@
 """MS pick up 版（v2.0）：本體 → 投影。遮住測試見 _build/k16/pickup/ms_mask.json（由 ms_mask_src.py 產生）。"""
 SPEC = dict(
     file="17_MS", ver="v2_0", append="17_MS", keys=["ms"], name="MS",
+    drills=["q_ms"],
     # ───────── p1 本體推導版 ─────────
     p1=dict(
         label="① 本體推導版",

@@ -1,5 +1,6 @@
 """SFC pick up 版（v2.0）：本體 → 投影。遮住測試見 _build/k16/pickup/sfc_mask.json（由 sfc_mask_src.py 產生）。題少，只做 2 頁。"""
 SPEC = dict(
+    drills=["q_sfc"],
     file="15_SFC", ver="v2_0", append="15_SFC", keys=["sfc"], name="SFC",
     # ───────── p1 本體推導版 ─────────
     p1=dict(

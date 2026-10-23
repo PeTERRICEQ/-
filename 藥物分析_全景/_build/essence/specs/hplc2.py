@@ -1,5 +1,6 @@
 """HPLC pick up 版（v2.0）：本體 → 投影。遮住測試見 _build/k16/pickup/hplc_mask.json。"""
 SPEC = dict(
+    drills=["q_hplc"],
     file="13_HPLC", ver="v2_0", append="13_HPLC", keys=["hplc"], name="HPLC",
     p1=dict(
         label="① 本體推導版",
