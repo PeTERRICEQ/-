@@ -86,7 +86,7 @@ def nbadge(n):
 # ───────── 頁框 ─────────
 def section(sid, title, sub, read, body, big=False, tone="grn"):
     bd = TONE[tone][0]
-    cls = {True: "page big", False: "page", "tall": "page tall"}[big]
+    cls = {True: "page big", False: "page", "tall": "page tall", "wide": "page wide nogrow"}[big]
     return (f'<section id="{sid}" class="{cls}"><header><a class="toc" href="#toc">← 目錄</a>'
             f'<h1 style="--hc:{bd}">{esc(title)}<span class="h1s">{lib.rich(sub)}</span></h1>'
             f'<div class="read">{lib.rich(read)}</div></header><main>{body}</main></section>')
@@ -204,7 +204,8 @@ def lane(ln, ctx):
     proj = "".join(f'<div class="pj"><span class="pill" style="--bd:{PILL[k][0]};--bg:{PILL[k][1]}">{k}</span>'
                    f'<span class="pt">{ctx.rich(t)}</span></div>' for k, t in ln.get("proj", []))
     return (f'<div class="lane" id="{ctx.Ls[ln["L"]]}"><div class="eh"><span class="el">{esc(ln["L"])}</span>{verbs}'
-            f'<b class="enm">{ctx.rich(ln["name"])}</b></div><div class="vec">{ctx.rich(ln["vec"])}</div><div class="pjs">{proj}</div></div>')
+            f'<b class="enm">{ctx.rich(ln["name"])}</b></div><div class="vec">{ctx.rich(ln["vec"])}</div><div class="pjs">{proj}</div>'
+            f'<div class="note"></div></div>')
 
 
 def p_loop(S, ctx, page_gates, idx, total):
@@ -232,7 +233,7 @@ def p_loop(S, ctx, page_gates, idx, total):
     body = (f'<div class="loopw">{cond}<div class="loopm">{snake}</div></div>{cost}')
     sub = "每條 L 先讀綠底推導鏈（本體）→ 再看投影（治＝能做什麼、價＝做不到或被騙、性＝條件）；藥丸點了跳到零件卡"
     title = "① 大循環推導版" + (f"（{idx + 1}／{total}）" if total > 1 else "")
-    return section(f"loop{idx}" if idx else "loop", title, "源 → 樣 → 選 → 測 → 算", sub, body, big="tall")
+    return section(f"loop{idx}" if idx else "loop", title, "源 → 樣 → 選 → 測 → 算", sub, body, big="wide")
 
 
 # ───────── ② 向量卡 ─────────
@@ -332,6 +333,8 @@ CSS2 = r"""
 section.big{width:2400px;height:1697px;page:big}
 @page tall{size:2000px 2828px;margin:0}
 section.tall{width:2000px;height:2828px;page:tall}
+@page wide{size:2828px 2000px;margin:0}
+section.wide{width:2828px;height:2000px;page:wide}
 a{color:inherit;text-decoration:none}
 .toc{position:absolute;right:34px;top:8px;font-size:.72em;color:#326991;font-weight:700}
 header h1{color:var(--hc)}
@@ -395,16 +398,17 @@ header h1{color:var(--hc)}
 .mnone{border:1.3px dashed #9aa6ab;border-radius:6px;padding:0 5px;color:#61717a;font-size:.88em}
 .mfoot{font-size:.84em;color:#46525a;margin-top:6px}
 /* ① */
-.loopw{display:flex;gap:14px}
-.cond{width:15em;flex:none;border:2px solid #685185;border-radius:10px;padding:6px 9px;background:#ece6f4;align-self:flex-start}
+.loopw{display:flex;gap:14px;flex:1;min-height:0}
+.cond{width:16em;flex:none;border:2px solid #685185;border-radius:10px;padding:6px 9px;background:#ece6f4;align-self:flex-start}
 .cd{border-top:1px dotted #9aa6ab;padding:3px 0;font-size:.9em;display:flex;flex-direction:column}.cd b{color:#685185}
-.loopm{flex:1;min-width:0}
-.snake{display:grid;grid-template-columns:repeat(var(--gc),minmax(0,1fr));gap:12px;align-items:start}
-.gate{border:2.5px solid var(--bd);border-radius:12px;padding:6px 8px;background:#fff}
+.loopm{flex:1;min-width:0;display:flex;flex-direction:column}
+.snake{display:grid;grid-template-columns:repeat(var(--gc),minmax(0,1fr));column-gap:46px;row-gap:22px;align-items:stretch;flex:1;min-height:0}
+.gate{border:2.5px solid var(--bd);border-radius:12px;padding:6px 8px;background:#fff;display:flex;flex-direction:column}
 .arr2{float:right;color:var(--bd);font-size:1.2em}
 .gh{background:var(--bg);border-radius:8px;padding:3px 8px;margin-bottom:5px;display:flex;flex-direction:column}.gh b{color:var(--bd);font-size:1.12em}.gh span{font-size:.86em}
-.lanes{display:flex;flex-direction:column;gap:6px}
-.lane{border:1.3px solid #c9d2d6;border-radius:8px;padding:4px 7px}
+.lanes{display:flex;flex-direction:column;gap:6px;flex:1}
+.lane{border:1.3px solid #c9d2d6;border-radius:8px;padding:4px 7px;flex:1;display:flex;flex-direction:column}
+.note{flex:1;min-height:3.6em;margin-top:2px;background-image:repeating-linear-gradient(to right,transparent 0 3px,#fff 3px 9px),repeating-linear-gradient(to bottom,transparent 0 calc(1.8em - 1.8px),#b9beb2 calc(1.8em - 1.8px) 1.8em)}
 .pjs{display:flex;flex-direction:column;gap:1px}
 .pj{display:grid;grid-template-columns:2em 1fr;gap:6px;align-items:baseline;border-bottom:1px dotted #d3d9dc;padding:1px 0}
 .cost{border:2.5px solid #b72d4a;border-radius:10px;padding:5px 10px;background:#f8e5e8;margin-top:10px}
