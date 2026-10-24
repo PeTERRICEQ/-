@@ -314,7 +314,7 @@ def legacy_pages(spec_key, pages, prefix, main=None, tag=""):
     keys = M.get("keys", [spec_key])
     c0 = chs.get(keys[0], {})
     acc, tint, ledger = LEDGER[M.get("field") or c0.get("field", "cnt")]
-    ch = dict(name=M.get("name") or c0.get("name", spec_key), npages=len(pages), ver=M.get("ver", lib.VER))
+    ch = dict(name=M.get("name") or c0.get("name", spec_key), npages=len(pages), ver=lib.VER if tag else "v2_0")  # 題型練習頁屬 v2.0；v1.1 頁維持原版號
     out = []
     for i, p in enumerate(pages):
         p = dict(p)
