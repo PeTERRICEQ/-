@@ -107,8 +107,8 @@ def p_toc(S, ctx, parts):
             f'<div class="lgp">{pills}　<span class="pp on">綠色藥丸</span>有卡、點了會跳　<span class="pp">灰色</span>本章沒卡　'
             f'{nbadge(3)}16 年被點名 ≥ 3 次</div></div></div>')
     return (f'<section id="toc" class="page"><header><h1 style="--hc:{TONE["grn"][0]}">{esc(S["name"])}｜精華 v2.0'
-            f'<span class="h1s">理解交給 ①，記憶交給 ⓪；記不起來就點 ➔ L 回去重推</span></h1>'
-            f'<div class="read">本精華依 essence-handout 方法製作：⓪ 門派＝① 的閘門（源、樣、選、測、算）；考 n 由 100–115 年 1280 題自動比對。{esc(S.get("note", ""))}</div></header>'
+            f'<span class="h1s">理解交給 ①，記憶交給 ⓪，記不起來就點 ➔ L 回去重推</span></h1>'
+            f'<div class="read">本精華依 essence-handout 方法製作：⓪ 門派＝① 的閘門（源、樣、選、測、算），考 n 由 100–115 年 1280 題自動比對。{esc(S.get("note", ""))}</div></header>'
             f"<main>{body}</main></section>")
 
 
@@ -161,7 +161,7 @@ def p_radial(S, ctx):
             f'<div class="rad-c"><div class="circle"><b>{esc(R["center"])}</b><span>{lib.rich(R["sub"])}</span></div>'
             f'<a class="tomap" href="#map">➔ 看各門派在 ① 大循環的哪個位置（位置對照）</a></div>'
             f'<div class="rad-r">{"".join(sc_html(s, ctx, "R") for s in right)}</div><svg class="wires"></svg></div>'
-            f'<div class="rfoot"><div>{legend}　分工：⓪ 記憶（看到、摸到、Δ）　① 理解（推導鏈）　② 單一零件細節　｜　組成只寫 Δ；考 n＝16 年題幹或正解點名次數，≥ 3 實心</div>'
+            f'<div class="rfoot"><div>{legend}　分工：⓪ 記憶（看到、摸到、Δ）　① 理解（推導鏈）　② 單一零件細節　｜　組成只寫 Δ　｜　考 n＝16 年題幹或正解點名次數，≥ 3 實心</div>'
             f'<div class="cav">⚠ 比喻失效提醒：{lib.rich(R.get("caveat", ""))}</div></div>')
     return section("radial", f"⓪ 門派擴散記憶圖：{S['name']}", R["center"], "由內而外：中心比喻 → 門派（＝① 的閘門）→ 分支（➔ L 點回 ① 重推）→ 每類一列：外觀（看到＋摸到）與組成 Δ",
                    body, big=True)
@@ -194,7 +194,7 @@ def p_map(S, ctx):
             rows.append(f'<div class="mrow"><div class="ml">{left}</div><div class="mr">{right}</div></div>')
         gates.append(f'<div class="mgate" id="map-{g["id"]}" style="--bd:{bd};--bg:{bg}"><div class="mgh">{esc(g["name"])}</div>{"".join(rows)}</div>')
     body = (f'<div class="mlegend" id="map">門派（點了回 ⓪）：{legend}</div><div class="mgrid">{"".join(gates)}</div>'
-            f'<div class="mfoot">讀法：左邊 ➔ L 點了去 ① 看推導鏈；右邊門派色塊點了回 ⓪ 看外觀與 Δ。閘門順序和 ① 一樣：源 → 樣 → 選 → 測 → 算。</div>')
+            f'<div class="mfoot">讀法：左邊 ➔ L 點了去 ① 看推導鏈，右邊門派色塊點了回 ⓪ 看外觀與 Δ。閘門順序和 ① 一樣：源 → 樣 → 選 → 測 → 算。</div>')
     return section("map-page", "⓪→① 位置對照", "門派各在 ① 大循環的哪一格", "① 的縮小版：每條 L 一列，標出它屬於哪個門派、哪個分支、掛了哪些類別", body)
 
 
@@ -231,7 +231,7 @@ def p_loop(S, ctx, page_gates, idx, total):
                 "".join(f'<div class="cs"><b>{ctx.rich(a)}</b><span>{ctx.rich(b)}</span></div>' for a, b in S["cost"]) + "</div></div>")
     snake = f'<div class="snake" style="--gc:{min(cols, len(page_gates))}">{"".join(gates)}</div>'
     body = (f'<div class="loopw">{cond}<div class="loopm">{snake}</div></div>{cost}')
-    sub = "每條 L 先讀綠底推導鏈（本體）→ 再看投影（治＝能做什麼、價＝做不到或被騙、性＝條件）；藥丸點了跳到零件卡"
+    sub = "每條 L 先讀綠底推導鏈（本體）→ 再看投影（治＝能做什麼、價＝做不到或被騙、性＝條件）→ 藥丸點了跳到零件卡"
     title = "① 大循環推導版" + (f"（{idx + 1}／{total}）" if total > 1 else "")
     return section(f"loop{idx}" if idx else "loop", title, "源 → 樣 → 選 → 測 → 算", sub, body, big="wide")
 
@@ -247,7 +247,7 @@ def card(c, ctx):
     Ls = " ".join(ctx.rich(f"➔ {L}") for L in c.get("L", []))
     proj = "".join(f'<div class="pj3"><span class="grp">{esc(g)}</span><span class="pill" style="--bd:{PILL[k][0]};--bg:{PILL[k][1]}">{k}</span>'
                    f'<span class="pt">{ctx.rich(t)}</span></div>' for g, k, t in c.get("proj", []))
-    iso = ("<div class=iso><b>孤點</b>" + "；".join(ctx.rich(x) for x in c["iso"]) + "</div>") if c.get("iso") else ""
+    iso = ("<div class=iso><b>孤點</b>" + "｜".join(ctx.rich(x) for x in c["iso"]) + "</div>") if c.get("iso") else ""
     tags = "".join(f'<a class="tag" href="#tag-{slug(t)}">#{esc(t)}</a>' for t in c.get("tags", []))
     return (f'<div class="vc" id="{cid}"><div class="vcl"><div class="vcn">{esc(c["name"])}</div>'
             f'<div class="vcs">{lib.rich(c.get("sub", ""))}</div>{left}{code}'
@@ -264,7 +264,7 @@ def p_cards(S, ctx):
         grp = cs[i:i + per]
         body = f'<div class="vcg">{"".join(card(c, ctx) for c in grp)}</div>'
         pages.append(section("cards" if i == 0 else f"cards{i}", f"② 零件向量卡（{i // per + 1}／{(len(cs) + per - 1) // per}）",
-                             "每個零件一個本體，投影從本體長出來", "右欄：本體 → 投影（分組｜治價性）→ 孤點 → #共用本體；左欄：性質、名稱、國考紀錄（16 年題幹或正解點名）", body))
+                             "每個零件一個本體，投影從本體長出來", "右欄：本體 → 投影（分組｜治價性）→ 孤點 → #共用本體　｜　左欄：性質、名稱、國考紀錄（16 年題幹或正解點名）", body))
     return pages
 
 
@@ -284,7 +284,7 @@ def p_names(S, ctx):
     rows = "".join(f'<tr><td class="th">{lib.rich(a)}</td><td>{lib.rich(b)}</td><td>{ctx.rich(c)}</td></tr>' for a, b, c in S["names"])
     body = (f'<div class="blk tbl"><table><thead><tr><th style="width:22%">代號／縮寫／詞根</th><th style="width:40%">拆開來看</th>'
             f'<th style="width:38%">本章成員</th></tr></thead><tbody>{rows}</tbody></table></div>')
-    return section("names", "④ 名稱與代號", "名字裡的固定詞根與代號", "藥理用 INN 字根；藥分的「看到」是縮寫、USP 代號與詞尾。拆開來，名字就在說它做什麼", body)
+    return section("names", "④ 名稱與代號", "名字裡的固定詞根與代號", "藥理用 INN 字根，藥分的「看到」是縮寫、USP 代號與詞尾。拆開來，名字就在說它做什麼", body)
 
 
 # ───────── ⑤ #共用本體反查 ─────────
@@ -301,7 +301,7 @@ def p_tags(S, ctx):
         rows.append(f'<div class="tg" id="tag-{slug(t)}"><div class="tgh">#{esc(t)}</div><div class="vec">{esc(ENGINE_TAGS.get(t, ""))}</div>'
                     f'<div class="row"><b>本章</b>{mine}</div><div class="row"><b>全書落地</b><span>{esc(other)}</span></div></div>')
     body = f'<div class="tgs">{"".join(rows)}</div>'
-    return section("tags", "⑤ #共用本體反查", "同一個本體，在別章再撞見一次", "每個 #標籤＝全書 6 個共用本體之一；本章零件點了跳卡，全書落地列出各章題數（見 00 共用本體與全書總覽）", body)
+    return section("tags", "⑤ #共用本體反查", "同一個本體，在別章再撞見一次", "每個 #標籤＝全書 6 個共用本體之一。本章零件點了跳卡，全書落地列出各章題數（見 00 共用本體與全書總覽）", body)
 
 
 # ───────── 舊頁（題型練習、v1.1）：用 lib 的排版，加上錨點與「← 目錄」 ─────────
