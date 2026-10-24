@@ -304,16 +304,22 @@ def p_tags(S, ctx):
 
 
 # ───────── 舊頁（題型練習、v1.1）：用 lib 的排版，加上錨點與「← 目錄」 ─────────
-def legacy_pages(spec_key, pages, prefix, label_override=None):
+def legacy_pages(spec_key, pages, prefix, main=None, tag=""):
+    """舊版頁（題型練習、v1.1）接進 v2.0：換成主章名與帳別，去掉和 v2.0 ②–⑤ 撞號的圈號。"""
     S = load_spec(spec_key)
+    M = main or S
     idx = json.load(open(os.path.join(REPO, "藥物分析_全景/app/data/index.json"), encoding="utf-8"))
     chs = {c["key"]: c for c in idx["chapters"]}
-    keys = S.get("keys", [spec_key])
+    keys = M.get("keys", [spec_key])
     c0 = chs.get(keys[0], {})
-    acc, tint, ledger = LEDGER[S.get("field") or c0.get("field", "cnt")]
-    ch = dict(name=S.get("name") or c0.get("name", spec_key), npages=len(pages), ver=S.get("ver", lib.VER))
+    acc, tint, ledger = LEDGER[M.get("field") or c0.get("field", "cnt")]
+    ch = dict(name=M.get("name") or c0.get("name", spec_key), npages=len(pages), ver=M.get("ver", lib.VER))
     out = []
     for i, p in enumerate(pages):
+        p = dict(p)
+        lab = p.get("label") or {1: "精華① 翻譯座標", 2: "精華② 驗證座標", 3: "精華③ 考點補完"}.get(i + 1, "精華")
+        lab = re.sub(r"^[①②③④⑤⑥⑦⑧⑨⓪]\s*", "", lab)
+        p["label"] = tag + lab
         h = lib.page(ch, i + 1, p, acc, tint, ledger)
         h = h.replace('<section class="page"', f'<section id="{prefix}{i}" class="page legacy"', 1)
         h = h.replace("<header>", '<header><a class="toc" href="#toc">← 目錄</a>', 1)
@@ -483,9 +489,9 @@ def build(key):
     pages += [p_loop(S, ctx, pg, i, len(loop_pages)) for i, pg in enumerate(loop_pages)]
     pages += cards_pages + [p_terrain(S, ctx), p_names(S, ctx), p_tags(S, ctx)]
     if drills:
-        pages += legacy_pages(S["drills"], drills, "drill")
+        pages += legacy_pages(S["drills"], drills, "drill", S)
     if v11:
-        pages += legacy_pages(S["v11"], v11, "v11")
+        pages += legacy_pages(S["v11"], v11, "v11", S, "v1.1 ")
     body = "".join(pages)
     doc = (f'<!doctype html><html lang="zh-Hant"><head><meta charset="utf-8"><title>{esc(S["name"])}｜精華 v2.0</title>'
            f'{lib.font_css()}<style>{lib.CSS}{CSS2}</style></head><body>{body}{WIRES_JS}</body></html>')

@@ -18,6 +18,14 @@ const {chromium} = require(process.env.PW || '/opt/node22/lib/node_modules/playw
       };
       pg.style.setProperty('--fs', fs + 'px');
       while (over() && fs > 9) { fs -= 0.25; pg.style.setProperty('--fs', fs + 'px'); }
+      // 內容少的頁往上放大（題型練習頁不放大，留手寫空間）
+      if (fs === 15 && !pg.classList.contains('legacy')) {
+        while (fs < 20) {
+          pg.style.setProperty('--fs', (fs + 0.5) + 'px');
+          if (over()) { pg.style.setProperty('--fs', fs + 'px'); break; }
+          fs += 0.5;
+        }
+      }
       res.push(fs);
     }
     if (window.drawWires) window.drawWires();
