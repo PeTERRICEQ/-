@@ -8,37 +8,33 @@ const {chromium} = require(process.env.PW || '/opt/node22/lib/node_modules/playw
   await p.goto('file://' + inp, {waitUntil: 'networkidle'});
   await p.evaluate(() => document.fonts.ready);
   const fit = await p.evaluate(() => {
-    // ① 大循環（.wide）照藥理藥化做法：字級固定，頁面往下長到放得下，剩下的空間給每條 L 的手寫線
-    const css = [];
-    document.querySelectorAll('section.wide').forEach((pg, i) => {
-      pg.style.setProperty('--fs', '17px');
-      const sn = pg.querySelector('.snake'), lw = pg.querySelector('.loopw');
-      const need = Math.max(sn ? sn.scrollHeight - sn.clientHeight : 0, lw ? lw.scrollHeight - lw.clientHeight : 0);
-      const h = Math.max(2000, Math.ceil(pg.clientHeight + need + 120));
-      const nm = 'wide' + i;
-      css.push(`@page ${nm}{size:2828px ${h}px;margin:0}`);
-      pg.style.height = h + 'px'; pg.style.page = nm;
-    });
-    const st = document.createElement('style'); st.textContent = css.join('\n'); document.head.appendChild(st);
+    // 每頁字級：版面不動，二分搜尋「放得下的最大字級」。
+    // ① 大循環（.wide）固定 A 系直式比例 2828×4000，每條 L 至少留兩行手寫線（.note 的 min-height）。
+    const st = document.createElement('style');
+    st.textContent = '@page wide{size:2828px 4000px;margin:0} section.wide{height:4000px}';
+    document.head.appendChild(st);
+    const MAX = 34, MIN = 9;
     const res = [];
     for (const pg of document.querySelectorAll('section.page')) {
-      let fs = pg.classList.contains('wide') ? 17 : 15;
-      const over = () => {
-        const m = pg.querySelector('main');
-        return (m && m.scrollHeight > m.clientHeight + 1) || pg.scrollHeight > pg.clientHeight + 1 ||
-          [...pg.querySelectorAll('.col,.full,.blk,.kl,.scb,.brb,.lane')].some(e => e.scrollWidth > e.clientWidth + 2) ||
-          [...pg.querySelectorAll('.snake,.loopw')].some(e => e.scrollHeight > e.clientHeight + 1);
-      };
-      pg.style.setProperty('--fs', fs + 'px');
-      while (over() && fs > 9) { fs -= 0.25; pg.style.setProperty('--fs', fs + 'px'); }
-      // 內容少的頁往上放大（題型練習頁不放大，留手寫空間）
-      if (fs === 15 && !pg.classList.contains('legacy') && !pg.classList.contains('nogrow')) {
-        while (fs < 20) {
-          pg.style.setProperty('--fs', (fs + 0.5) + 'px');
-          if (over()) { pg.style.setProperty('--fs', fs + 'px'); break; }
-          fs += 0.5;
-        }
+      const m = pg.querySelector('main');
+      const drill = pg.querySelectorAll('.dq-grow');
+      // 會裁切內容的盒子（overflow 不是 visible、或在 flex 裡被壓扁）：內容超出也算放不下
+      const clip = [...pg.querySelectorAll('main *')].filter(e => getComputedStyle(e).overflow !== 'visible');
+      const over = () => (m && m.scrollHeight > m.clientHeight + 1) || pg.scrollHeight > pg.clientHeight + 1 ||
+        [...pg.querySelectorAll('.col,.full,.blk,.kl,.scb,.brb,.lane')].some(e => e.scrollWidth > e.clientWidth + 2) ||
+        [...pg.querySelectorAll('.snake,.loopw,.vcg,.rad')].some(e => e.scrollHeight > e.clientHeight + 1) ||
+        clip.some(e => e.scrollHeight > e.clientHeight + 1 || e.scrollWidth > e.clientWidth + 2) ||
+        // 題型練習：每題「從本體推一次」至少留 5 行手寫線
+        [...drill].some(e => e.clientHeight < 5 * 1.7 * parseFloat(getComputedStyle(e).fontSize) - 1);
+      const set = v => pg.style.setProperty('--fs', v + 'px');
+      let lo = MIN, hi = MAX;
+      set(lo);
+      if (!over()) {
+        while (hi - lo > 0.25) { const mid = (lo + hi) / 2; set(mid); if (over()) hi = mid; else lo = mid; }
       }
+      let fs = Math.floor(lo * 4) / 4;
+      set(fs);
+      while (over() && fs > MIN) { fs -= 0.25; set(fs); }
       res.push(fs);
     }
     if (window.drawWires) window.drawWires();

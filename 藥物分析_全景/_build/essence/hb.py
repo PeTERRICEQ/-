@@ -333,8 +333,8 @@ CSS2 = r"""
 section.big{width:2400px;height:1697px;page:big}
 @page tall{size:2000px 2828px;margin:0}
 section.tall{width:2000px;height:2828px;page:tall}
-@page wide{size:2828px 2000px;margin:0}
-section.wide{width:2828px;height:2000px;page:wide}
+@page wide{size:2828px 4000px;margin:0}
+section.wide{width:2828px;height:4000px;page:wide}
 a{color:inherit;text-decoration:none}
 .toc{position:absolute;right:34px;top:8px;font-size:.72em;color:#326991;font-weight:700}
 header h1{color:var(--hc)}
