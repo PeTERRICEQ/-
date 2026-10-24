@@ -40,6 +40,7 @@ const {chromium} = require(process.env.PW || '/opt/node22/lib/node_modules/playw
     if (window.drawWires) window.drawWires();
     return res;
   });
+  await p.evaluate(require('./rules.js'));
   await p.pdf({path: out, printBackground: true, preferCSSPageSize: true, outline: true, tagged: true});
   console.log(out.split('/').pop(), '頁數', fit.length, '最小字級', Math.min(...fit) + 'px', '字級', fit.map(x => x).join(' '));
   await b.close();

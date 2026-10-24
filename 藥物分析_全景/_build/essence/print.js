@@ -22,6 +22,7 @@ const {chromium} = require(process.env.PW || '/opt/node22/lib/node_modules/playw
     }
     return res;
   });
+  await p.evaluate(require('./rules.js'));
   await p.pdf({path: out, width: '1600px', height: '1131px', printBackground: true, preferCSSPageSize: true});
   console.log(out.split('/').pop(), '字級', fit.map(x => x + 'px').join(' '));
   await b.close();
