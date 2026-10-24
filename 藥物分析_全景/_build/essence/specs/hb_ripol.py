@@ -2,6 +2,7 @@
 本體沿用 pick up 版（ripol2.py）：E1 折光（光被電子雲拖慢幾倍）、E2 旋光（左右圓偏光拖慢得不一樣）、E3 換量（轉角一路加總）、共用把柄（RI 偵測器）。"""
 SPEC = dict(
     key="ripol", file="08_折光與旋光", name="折光與旋光", keys=["ri", "pol"], drills="q_ripol", v11="ripol",
+    alias={"Nicol prism": ["Nicol", "半影", "起偏鏡", "檢偏鏡", "half-shadow"]},
     note="折光的 L 沿用講義 L1–L9（寫成 L01–L09），旋光講義 L1–L10 寫成 P01–P10。",
     one=("**折光與旋光＝光的減速帶。**光推動電子雲振盪再放回，一來一回有延遲，光在物質裡變慢。"
          "折光讀慢了幾倍（n），旋光讀掌性分子把左右圓偏光拖慢得差多少（轉角 a）。"
@@ -160,7 +161,7 @@ SPEC = dict(
                 dict(name="做出平面偏光", hint="起偏、檢偏", L=["P01"], kl=[
                     dict(name="起偏與檢偏", see=["Nicol prism", "polarizer"], touch="two cemented calcite prisms",
                          axis="同一種稜鏡，差在放前面還是後面",
-                         items=[("Nicol prism 與半影稜鏡", "起偏、檢偏結構相同"), ("~＋／−", "順時針右旋、逆時針左旋")]),
+                         items=[("Nicol prism", "起偏、檢偏結構相同"), ("~＋／−", "順時針右旋、逆時針左旋")]),
                 ]),
             ]),
             dict(name="樣派｜轉得動、條件穩", slogan="溫度、溶劑改的是物質本身", gate="樣", side="L", br=[
@@ -270,7 +271,7 @@ SPEC = dict(
                    ("陷阱", "價", "「檢測固定相背景」錯"),
                    ("限制", "價", "怕溫度、不能梯度")],
              tags=["把柄"], code="RID", prop=[("讀什麼", "Δn"), ("梯度", "不可")]),
-        dict(name="Nicol prism 與半影稜鏡", sub="起偏鏡、檢偏鏡、half-shadow", alias=["Nicol", "半影", "起偏鏡", "檢偏鏡", "half-shadow"], verbs=["折射"], L=["P01", "P02"],
+        dict(name="Nicol prism 與半影稜鏡", sub="起偏鏡、檢偏鏡、half-shadow", alias=["Nicol prism", "Nicol", "半影", "起偏鏡", "檢偏鏡", "half-shadow"], verbs=["折射"], L=["P01", "P02"],
              vec="起偏鏡做出平面偏光 → 檢偏鏡讀它轉了幾度 → 半影把找最暗改成比兩半一樣亮",
              proj=[("構造", "性", "起偏、檢偏都是兩個三稜鏡黏合，結構相同"),
                    ("位置", "性", "半影在起偏鏡之後，易調終點"),

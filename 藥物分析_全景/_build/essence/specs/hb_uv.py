@@ -178,22 +178,17 @@ SPEC = dict(
             ]),
             dict(name="樣派｜讓對的物種進槽", slogan="空白、溶媒、pH 先定好", gate="樣", side="R", br=[
                 dict(name="pH 開關", hint="孤對電子接上或剪掉", L=["L01", "L11"], kl=[
-                    dict(name="酸鹼極端", see=["0.1 M HCl", "0.1 M NaOH"], touch="fully ionized vs un-ionized form",
-                         axis="獨門一支，不用比 Δ",
-                         items=[("0.1 M HCl／NaOH", "鹼：酚 → O⁻ 紅移增色｜酸：芳香 NH₂ → NH₃⁺ 藍移減色")]),
-                    dict(name="pH 敏感的藥", see=["phenol", "aniline"], touch="ionizable group on the ring",
+                    dict(name="pH 敏感的藥", see=["0.1 M HCl", "0.1 M NaOH"], touch="ionizable group on the ring",
                          axis="同一個苯環，差在可解離基接不接在環上",
-                         items=[("phenylephrine", "環上酚 OH → 鹼中紅移增色"), ("procaine", "環上 NH₂ → 酸中藍移減色"),
+                         items=[("0.1 M HCl／NaOH", "鹼推出 O⁻｜酸佔走 NH₂ 的孤對"), ("phenylephrine", "環上酚 OH → 鹼中紅移增色"), ("procaine", "環上 NH₂ → 酸中藍移減色"),
                                 ("aniline", "環上 NH₂ → HCl 中藍移"), ("ephedrine", "!側鏈 OH、NH → pH 不改譜")]),
                 ]),
                 dict(name="能答什麼", hint="只讀溶液裡吸了多少", L=["L19"], risk="red", kl=[
                     dict(name="UV 的能力範圍", see=["含量", "溶離", "pKa"], touch="solution absorbance only",
                          axis="同一個溶液吸光，差在問題要不要它沒有的資訊",
                          items=[("~含量、溶解度、溶離、pKa", "答得了"), ("~晶型、結構、官能基、含水量", "!答不了"),
-                                ("~複方、複雜賦形劑", "!A 相加分不開 → 先 HPLC")]),
-                    dict(name="比色", see=["Fe²⁺", "stilbazo"], touch="complex creates a new chromophore",
-                         axis="同一個錯合生新能隙，差在配誰",
-                         items=[("~Fe²⁺", "adrenaline 540 nm"), ("~stilbazo", "鋁 510 nm")]),
+                                ("~複方、複雜賦形劑", "!A 相加分不開 → 先 HPLC"),
+                                ("~比色", "錯合生新能隙｜Fe²⁺ 540、stilbazo 510 nm")]),
                 ]),
             ]),
             dict(name="選派｜哪種躍遷", slogan="電子拴越鬆，能隙越小", gate="選1", side="L", br=[
