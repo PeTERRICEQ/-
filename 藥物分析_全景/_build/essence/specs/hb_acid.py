@@ -319,7 +319,7 @@ SPEC = dict(
              prop=[("處理", "過量酸煮沸"), ("產物", "HCHO、硫酸銨"), ("n", "4")]),
         dict(name="凱氏定氮", sub="Kjeldahl method", alias=["Kjeldahl", "凱氏"], verbs=["燒失", "解離"], L=["N09"],
              vec="把有機 N 消化成 NH₄⁺ → 再蒸出 NH₃ 讓酸來滴（解離＋計量）",
-             proj=[("用途", "治", "蛋白質、胺基酸（phenylalanine、lysine）"), ("計算", "治", "lysine 2 個 N → 19.17%"),
+             proj=[("用途", "治", "蛋白質、胺基酸（phenylalanine、lysine）"), ("計算", "治", "lysine 2 個 N → 19.16%"),
                    ("限制", "價", "硝酸鹽要先還原"), ("辨認", "價", "neostigmine 蒸胺沒有消化，不是凱氏")],
              iso=["粗蛋白＝N × 6.25（含 N 16%）", "K₂SO₄ 升沸點、CuSO₄ 催化"], tags=["解離", "計量"],
              prop=[("消化", "濃 H₂SO₄"), ("接收", "硼酸"), ("滴定液", "標準酸")]),
